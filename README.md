@@ -1,1 +1,1 @@
-<img src="/github-metrics.svg?dev=0" alt="Metrics">
+<img src="/github-metrics.svg?dev=0" alt="Metrics" width="100%">
