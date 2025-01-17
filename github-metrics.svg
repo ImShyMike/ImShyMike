@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -219,12 +219,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="237.14364326517776" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="237.14364326517776" y="0" width="108.48229727402726" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="345.62594053920503" y="0" width="60.95300485898463" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="406.57894539818966" y="0" width="38.636976199210885" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="445.21592159740055" y="0" width="13.037127434171614" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="458.2530490315722" y="0" width="1.7469509684278302" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="239.90905410726072" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="239.90905410726072" y="0" width="107.13614711052699" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="347.0452012177877" y="0" width="60.196642765642416" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="407.2418439834301" y="0" width="38.15753233477701" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="445.3993763182071" y="0" width="12.875350520628267" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="458.2747268388353" y="0" width="1.725273161164625" height="8" fill="#6E4C13"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -427,7 +427,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 4.69m out of 153m users</span>
+                                    <span class="gh">ranked 4.69m out of 149m users</span>
                                 </div>
                                 <div class="text">Published 15 public repositories</div>
                             </div>
