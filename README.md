@@ -6,5 +6,7 @@
         <img alt="Hackatime activity heatmap." src="https://heatmap.shymike.dev?id=263&theme=light">
     </picture>
 </a>
+
+<sub>^^ get yours <a href="https://github.com/ImShyMike/hackatime-heatmap">here</a></sub>
 <h2></h2>
 <a href="https://u8views.com/github/ImShyMike"><img src="https://u8views.com/api/v1/github/profiles/122023566/views/day-week-month-total-count.svg"></a>
