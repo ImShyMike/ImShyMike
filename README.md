@@ -4,8 +4,8 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(today)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(1 day ago)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 day ago)**
 - [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(2 days ago)**
 - [`advent-of-code`](https://github.com/ImShyMike/advent-of-code) - __ **(3 days ago)**
 - [`aces-backend-1`](https://github.com/ImShyMike/aces-backend-1) - _acing the deck_ **(1 week ago)**
@@ -16,15 +16,10 @@ A student who likes coding and gaming!
 #### 📦 My most popular repos
 
 - [`waka-relay`](https://github.com/ImShyMike/waka-relay) - _📊 A self-hosted app that relays WakaTime heartbeats to multiple instances_ **(30⭐)**
-
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(18⭐)**
-
 - [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(15⭐)**
-
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(9⭐)**
-
 - [`Eryx`](https://github.com/ImShyMike/Eryx) - _A decently fast and simple dynamically typed programming language similar to javascript/python._ **(5⭐)**
-
 
 #### 🔨 My recent pull requests
 
@@ -35,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python           6h 52m 51s   ███████████████████░░░░░░  73.29%
-Svelte           38m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.78%
-Smarty           30m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.33%
-HTML             21m 59s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.90%
-Text             14m 53s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.64%
+Python           6h 52m 51s   ███████████████████░░░░░░  72.28%
+Svelte           38m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.68%
+Smarty           32m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.71%
+HTML             21m 59s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.85%
+Text             14m 53s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.61%
 
 💼 Projects:
-aces-backend     5h 27m 7s    ████████████████░░░░░░░░░  62.06%
-advent-of-code   1h 36m 50s   █████░░░░░░░░░░░░░░░░░░░░  18.37%
-rustytime-dev    50m 54s      ███░░░░░░░░░░░░░░░░░░░░░░  9.66%
-ImShyMike        30m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.79%
-Documents        18m 33s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.52%
+aces-backend     5h 27m 7s    ████████████████░░░░░░░░░  61.35%
+advent-of-code   1h 36m 50s   █████░░░░░░░░░░░░░░░░░░░░  18.16%
+rustytime-dev    50m 54s      ███░░░░░░░░░░░░░░░░░░░░░░  9.55%
+ImShyMike        36m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.85%
+Documents        18m 33s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.48%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&standalone=true" title="Click to view detailed data for each day!">
