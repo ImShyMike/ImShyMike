@@ -9,7 +9,7 @@ A student who likes coding and gaming!
 
 #### 📦 My most popular repos
 {{range popularRepos "ImShyMike" 5 | chunk 5 | first}}
-- [`{{.Name}}`]({{.URL}}) - _{{.Description}}_ **({{.Stargazers}} ⭐)**
+- [`{{.Name}}`]({{.URL}}) - _{{.Description}}_ **({{.Stargazers}}⭐)**
 {{end}}
 
 #### 🔨 My recent pull requests
