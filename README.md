@@ -4,10 +4,10 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(today)**
-- [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(1 day ago)**
-- [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(2 days ago)**
-- [`advent-of-code`](https://github.com/ImShyMike/advent-of-code) - __ **(3 days ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 day ago)**
+- [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(2 days ago)**
+- [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(3 days ago)**
+- [`advent-of-code`](https://github.com/ImShyMike/advent-of-code) - __ **(4 days ago)**
 - [`aces-backend-1`](https://github.com/ImShyMike/aces-backend-1) - _acing the deck_ **(1 week ago)**
 - [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(2 weeks ago)**
 - [`aces-backend`](https://github.com/thesleepyniko/aces-backend) - __ **(2 weeks ago)**
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Add ratelimiting**](https://github.com/hackclub/aces-backend/pull/37) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(3 days ago)**
-- [**Delete old otp**](https://github.com/hackclub/aces-backend/pull/34) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(3 days ago)**
-- [**Use airtable for OTPs**](https://github.com/hackclub/aces-backend/pull/33) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(3 days ago)**
+- [**Add ratelimiting**](https://github.com/hackclub/aces-backend/pull/37) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(4 days ago)**
+- [**Delete old otp**](https://github.com/hackclub/aces-backend/pull/34) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(4 days ago)**
+- [**Use airtable for OTPs**](https://github.com/hackclub/aces-backend/pull/33) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(4 days ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python           6h 52m 51s   ███████████████████░░░░░░  72.23%
-Svelte           38m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.68%
-Smarty           32m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.71%
-HTML             21m 59s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.85%
-Text             14m 53s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.61%
+Python           6h 16m 37s   ██████████████████░░░░░░░  71.62%
+Svelte           38m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.26%
+Smarty           32m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.20%
+HTML             21m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.18%
+Rust             12m 17s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.34%
 
 💼 Projects:
-aces-backend     5h 27m 7s    ████████████████░░░░░░░░░  61.31%
-advent-of-code   1h 36m 50s   █████░░░░░░░░░░░░░░░░░░░░  18.15%
-rustytime-dev    51m 14s      ███░░░░░░░░░░░░░░░░░░░░░░  9.60%
-ImShyMike        36m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.85%
-Documents        18m 33s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.48%
+aces-backend     5h 26m 51s   █████████████████░░░░░░░░  65.78%
+advent-of-code   1h 0m 44s    ████░░░░░░░░░░░░░░░░░░░░░  12.22%
+rustytime-dev    50m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  10.26%
+ImShyMike        36m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.35%
+Documents        18m 33s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.74%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&standalone=true" title="Click to view detailed data for each day!">
