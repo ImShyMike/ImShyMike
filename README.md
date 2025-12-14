@@ -4,8 +4,8 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
+- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(today)**
 - [`haxmas`](https://github.com/hackclub/haxmas) - _holidaying it_ **(1 day ago)**
-- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(2 days ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(3 days ago)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(4 days ago)**
 - [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(5 days ago)**
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python           3h 34m 52s   █████████████░░░░░░░░░░░░  50.53%
-Svelte           50m 0s       ███░░░░░░░░░░░░░░░░░░░░░░  11.76%
-Smarty           32m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.67%
-Markdown         20m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.94%
-TypeScript       17m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.08%
+Python           3h 34m 52s   █████████████░░░░░░░░░░░░  49.28%
+Svelte           50m 0s       ███░░░░░░░░░░░░░░░░░░░░░░  11.47%
+Smarty           32m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.48%
+Astro            21m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.98%
+Markdown         20m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.81%
 
 💼 Projects:
-aces-backend     3h 2m 34s    ████████████░░░░░░░░░░░░░  45.44%
-haxmas           56m 29s      ████░░░░░░░░░░░░░░░░░░░░░  14.06%
-homepage-v2      53m 52s      ████░░░░░░░░░░░░░░░░░░░░░  13.41%
-ImShyMike        36m 32s      ███░░░░░░░░░░░░░░░░░░░░░░  9.09%
-advent-of-code   24m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.10%
+aces-backend     3h 2m 34s    ████████████░░░░░░░░░░░░░  44.05%
+homepage-v2      1h 6m 34s    █████░░░░░░░░░░░░░░░░░░░░  16.06%
+haxmas           56m 29s      ████░░░░░░░░░░░░░░░░░░░░░  13.63%
+ImShyMike        36m 32s      ███░░░░░░░░░░░░░░░░░░░░░░  8.82%
+advent-of-code   24m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.91%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&standalone=true" title="Click to view detailed data for each day!">
