@@ -4,12 +4,12 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(today)**
-- [`haxmas`](https://github.com/hackclub/haxmas) - _holidaying it_ **(1 day ago)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(3 days ago)**
-- [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(4 days ago)**
-- [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(5 days ago)**
-- [`advent-of-code`](https://github.com/ImShyMike/advent-of-code) - _my advent of code solutions_ **(6 days ago)**
+- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 day ago)**
+- [`haxmas`](https://github.com/hackclub/haxmas) - _holidaying it_ **(2 days ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(4 days ago)**
+- [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(5 days ago)**
+- [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(6 days ago)**
+- [`advent-of-code`](https://github.com/ImShyMike/advent-of-code) - _my advent of code solutions_ **(1 week ago)**
 - [`aces-backend-1`](https://github.com/ImShyMike/aces-backend-1) - _acing the deck_ **(2 weeks ago)**
 - [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(2 weeks ago)**
 
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Fmt + Check + Better day handling**](https://github.com/hackclub/haxmas/pull/1) on [`haxmas`](https://github.com/hackclub/haxmas) **(1 day ago)**
-- [**Add ratelimiting**](https://github.com/hackclub/aces-backend/pull/37) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(6 days ago)**
-- [**Delete old otp**](https://github.com/hackclub/aces-backend/pull/34) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(6 days ago)**
+- [**Fmt + Check + Better day handling**](https://github.com/hackclub/haxmas/pull/1) on [`haxmas`](https://github.com/hackclub/haxmas) **(2 days ago)**
+- [**Add ratelimiting**](https://github.com/hackclub/aces-backend/pull/37) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(1 week ago)**
+- [**Delete old otp**](https://github.com/hackclub/aces-backend/pull/34) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(1 week ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python           3h 34m 52s   ████████████░░░░░░░░░░░░░  45.52%
-Svelte           50m 0s       ███░░░░░░░░░░░░░░░░░░░░░░  10.59%
-Astro            46m 0s       ███░░░░░░░░░░░░░░░░░░░░░░  9.75%
-Smarty           32m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.91%
-Markdown         25m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.32%
+Python           1h 52m 28s   ████████░░░░░░░░░░░░░░░░░  28.53%
+Astro            1h 14m 44s   █████░░░░░░░░░░░░░░░░░░░░  18.96%
+Svelte           44m 14s      ███░░░░░░░░░░░░░░░░░░░░░░  11.22%
+Smarty           32m 37s      ███░░░░░░░░░░░░░░░░░░░░░░  8.28%
+Markdown         25m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.37%
 
 💼 Projects:
-aces-backend     3h 2m 34s    ██████████░░░░░░░░░░░░░░░  39.99%
-homepage-v2      1h 48m 39s   ██████░░░░░░░░░░░░░░░░░░░  23.80%
-haxmas           56m 29s      ████░░░░░░░░░░░░░░░░░░░░░  12.37%
-ImShyMike        36m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  8.00%
-advent-of-code   24m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.37%
+homepage-v2      2h 18m 57s   ██████████░░░░░░░░░░░░░░░  37.06%
+aces-backend     1h 20m 9s    ██████░░░░░░░░░░░░░░░░░░░  21.38%
+haxmas           56m 29s      ████░░░░░░░░░░░░░░░░░░░░░  15.07%
+ImShyMike        36m 32s      ███░░░░░░░░░░░░░░░░░░░░░░  9.74%
+advent-of-code   24m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.53%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&standalone=true" title="Click to view detailed data for each day!">
