@@ -4,10 +4,10 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(today)**
-- [`haxmas`](https://github.com/hackclub/haxmas) - _holidaying it_ **(3 days ago)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(5 days ago)**
-- [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(6 days ago)**
+- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 day ago)**
+- [`haxmas`](https://github.com/hackclub/haxmas) - _holidaying it_ **(4 days ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(6 days ago)**
+- [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(1 week ago)**
 - [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(1 week ago)**
 - [`advent-of-code`](https://github.com/ImShyMike/advent-of-code) - _my advent of code solutions_ **(1 week ago)**
 - [`aces-backend-1`](https://github.com/ImShyMike/aces-backend-1) - _acing the deck_ **(2 weeks ago)**
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Fmt + Check + Better day handling**](https://github.com/hackclub/haxmas/pull/1) on [`haxmas`](https://github.com/hackclub/haxmas) **(3 days ago)**
+- [**Fmt + Check + Better day handling**](https://github.com/hackclub/haxmas/pull/1) on [`haxmas`](https://github.com/hackclub/haxmas) **(4 days ago)**
 - [**Add ratelimiting**](https://github.com/hackclub/aces-backend/pull/37) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(1 week ago)**
 - [**Delete old otp**](https://github.com/hackclub/aces-backend/pull/34) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(1 week ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Astro          4h 10m 58s   ███████████░░░░░░░░░░░░░░  43.58%
-Python         47m 47s      ███░░░░░░░░░░░░░░░░░░░░░░  8.30%
-Svelte         44m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.71%
-TypeScript     36m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.42%
-CSS            36m 21s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.31%
+Astro           4h 10m 58s   ████████████░░░░░░░░░░░░░  45.65%
+Svelte          44m 24s      ███░░░░░░░░░░░░░░░░░░░░░░  8.08%
+TypeScript      36m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.73%
+CSS             36m 21s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.61%
+Smarty          32m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.94%
 
 💼 Projects:
-homepage-v2    6h 34m 10s   ██████████████████░░░░░░░  70.45%
-haxmas         56m 29s      ███░░░░░░░░░░░░░░░░░░░░░░  10.10%
-ImShyMike      36m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.53%
-aces-backend   35m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.41%
-Documents      18m 33s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.32%
+homepage-v2     6h 34m 10s   ███████████████████░░░░░░  73.91%
+haxmas          56m 29s      ███░░░░░░░░░░░░░░░░░░░░░░  10.59%
+ImShyMike       36m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.85%
+Documents       18m 33s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.48%
+rustytime-dev   12m 39s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.37%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&standalone=true" title="Click to view detailed data for each day!">
