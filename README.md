@@ -17,8 +17,8 @@ A student who likes coding and gaming!
 
 - [`waka-relay`](https://github.com/ImShyMike/waka-relay) - _📊 A self-hosted app that relays WakaTime heartbeats to multiple instances_ **(30⭐)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(18⭐)**
-- [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(15⭐)**
-- [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(10⭐)**
+- [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(16⭐)**
+- [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(11⭐)**
 - [`Eryx`](https://github.com/ImShyMike/Eryx) - _A decently fast and simple dynamically typed programming language similar to javascript/python._ **(5⭐)**
 
 #### 🔨 My recent pull requests
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Astro          4h 10m 58s   ██████████░░░░░░░░░░░░░░░  39.26%
-Python         1h 13m 11s   ███░░░░░░░░░░░░░░░░░░░░░░  11.45%
-Markdown       59m 26s      ███░░░░░░░░░░░░░░░░░░░░░░  9.30%
-Svelte         44m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.95%
-TypeScript     36m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.78%
+Astro          4h 34m 18s   ██████████░░░░░░░░░░░░░░░  39.56%
+Markdown       1h 26m 10s   ████░░░░░░░░░░░░░░░░░░░░░  12.43%
+Python         1h 13m 11s   ███░░░░░░░░░░░░░░░░░░░░░░  10.56%
+Svelte         44m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.41%
+TypeScript     40m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.78%
 
 💼 Projects:
-homepage-v2    6h 34m 10s   ████████████████░░░░░░░░░  63.45%
-aces-backend   1h 24m 18s   ████░░░░░░░░░░░░░░░░░░░░░  13.57%
-haxmas         56m 29s      ███░░░░░░░░░░░░░░░░░░░░░░  9.09%
-ImShyMike      36m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.88%
-haxmas-day-8   28m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.62%
+homepage-v2    6h 38m 9s    ███████████████░░░░░░░░░░  59.26%
+aces-backend   1h 24m 18s   ████░░░░░░░░░░░░░░░░░░░░░  12.55%
+haxmas-day-8   1h 15m 26s   ███░░░░░░░░░░░░░░░░░░░░░░  11.23%
+haxmas         56m 29s      ███░░░░░░░░░░░░░░░░░░░░░░  8.41%
+ImShyMike      36m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.44%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&standalone=true" title="Click to view detailed data for each day!">
