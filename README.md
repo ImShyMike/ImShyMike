@@ -4,11 +4,11 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
+- [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(today)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(2 days ago)**
 - [`haxmas`](https://github.com/hackclub/haxmas) - _holidaying it_ **(5 days ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 week ago)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(1 week ago)**
-- [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(1 week ago)**
 - [`advent-of-code`](https://github.com/ImShyMike/advent-of-code) - _my advent of code solutions_ **(1 week ago)**
 - [`aces-backend-1`](https://github.com/ImShyMike/aces-backend-1) - _acing the deck_ **(2 weeks ago)**
 - [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(3 weeks ago)**
@@ -30,16 +30,16 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Astro           4h 10m 58s   ███████████░░░░░░░░░░░░░░  41.13%
-Python          1h 12m 13s   ███░░░░░░░░░░░░░░░░░░░░░░  11.84%
-Svelte          44m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.28%
+Astro           4h 10m 58s   ███████████░░░░░░░░░░░░░░  41.10%
+Python          1h 12m 13s   ███░░░░░░░░░░░░░░░░░░░░░░  11.83%
+Svelte          44m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.27%
 TypeScript      36m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.06%
 CSS             36m 21s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.96%
 
 💼 Projects:
-homepage-v2     6h 34m 10s   █████████████████░░░░░░░░  66.67%
-aces-backend    1h 23m 19s   ████░░░░░░░░░░░░░░░░░░░░░  14.09%
-haxmas          56m 29s      ███░░░░░░░░░░░░░░░░░░░░░░  9.56%
+homepage-v2     6h 34m 10s   █████████████████░░░░░░░░  66.64%
+aces-backend    1h 23m 21s   ████░░░░░░░░░░░░░░░░░░░░░  14.09%
+haxmas          56m 29s      ███░░░░░░░░░░░░░░░░░░░░░░  9.55%
 ImShyMike       36m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.18%
 rustytime-dev   16m 20s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.76%
 ```
