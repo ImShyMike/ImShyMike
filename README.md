@@ -4,13 +4,13 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(1 day ago)**
-- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(3 days ago)**
-- [`haxmas`](https://github.com/hackclub/haxmas) - _holidaying it_ **(6 days ago)**
+- [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(2 days ago)**
+- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(4 days ago)**
+- [`haxmas`](https://github.com/hackclub/haxmas) - _holidaying it_ **(1 week ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 week ago)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(1 week ago)**
 - [`advent-of-code`](https://github.com/ImShyMike/advent-of-code) - _my advent of code solutions_ **(1 week ago)**
-- [`aces-backend-1`](https://github.com/ImShyMike/aces-backend-1) - _acing the deck_ **(2 weeks ago)**
+- [`aces-backend-1`](https://github.com/ImShyMike/aces-backend-1) - _acing the deck_ **(3 weeks ago)**
 - [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(3 weeks ago)**
 
 #### 📦 My most popular repos
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**fix CORS**](https://github.com/hackclub/aces-backend/pull/45) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(1 day ago)**
-- [**A bunch of stuff (part 2)**](https://github.com/hackclub/aces-backend/pull/42) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(2 days ago)**
-- [**Fmt + Check + Better day handling**](https://github.com/hackclub/haxmas/pull/1) on [`haxmas`](https://github.com/hackclub/haxmas) **(6 days ago)**
+- [**fix CORS**](https://github.com/hackclub/aces-backend/pull/45) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(2 days ago)**
+- [**A bunch of stuff (part 2)**](https://github.com/hackclub/aces-backend/pull/42) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(3 days ago)**
+- [**Fmt + Check + Better day handling**](https://github.com/hackclub/haxmas/pull/1) on [`haxmas`](https://github.com/hackclub/haxmas) **(1 week ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Astro           4h 48m 5s    ███████████░░░░░░░░░░░░░░  41.02%
-Markdown        1h 38m 42s   ████░░░░░░░░░░░░░░░░░░░░░  14.05%
-Python          1h 29m 39s   ████░░░░░░░░░░░░░░░░░░░░░  12.76%
-Svelte          44m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.32%
-TypeScript      40m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.71%
+Astro           4h 35m 28s   ███████████░░░░░░░░░░░░░░  40.51%
+Markdown        1h 33m 58s   ████░░░░░░░░░░░░░░░░░░░░░  13.82%
+Python          1h 29m 39s   ████░░░░░░░░░░░░░░░░░░░░░  13.18%
+Svelte          44m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.53%
+TypeScript      36m 30s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.37%
 
 💼 Projects:
-homepage-v2     6h 39m 34s   ███████████████░░░░░░░░░░  58.17%
-aces-backend    1h 47m 16s   ████░░░░░░░░░░░░░░░░░░░░░  15.62%
-haxmas-day-8    1h 44m 5s    ████░░░░░░░░░░░░░░░░░░░░░  15.15%
-haxmas          56m 29s      ███░░░░░░░░░░░░░░░░░░░░░░  8.22%
-rustytime-dev   14m 52s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.16%
+homepage-v2     6h 16m 17s   ███████████████░░░░░░░░░░  56.70%
+aces-backend    1h 47m 16s   █████░░░░░░░░░░░░░░░░░░░░  16.16%
+haxmas-day-8    1h 44m 5s    ████░░░░░░░░░░░░░░░░░░░░░  15.68%
+haxmas          56m 29s      ███░░░░░░░░░░░░░░░░░░░░░░  8.51%
+rustytime-dev   14m 52s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.24%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&standalone=true" title="Click to view detailed data for each day!">
