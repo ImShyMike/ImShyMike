@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
+- [**auth fixes + cors + sanitize sql**](https://github.com/hackclub/aces-backend/pull/61) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(today)**
 - [**auth fixes + cors + sanitize sql**](https://github.com/hackclub/aces-backend/pull/54) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(2 days ago)**
 - [**fix CORS**](https://github.com/hackclub/aces-backend/pull/45) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(4 days ago)**
-- [**A bunch of stuff (part 2)**](https://github.com/hackclub/aces-backend/pull/42) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(5 days ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Astro           3h 59m 24s   ███████████░░░░░░░░░░░░░░  41.54%
-Python          1h 45m 42s   █████░░░░░░░░░░░░░░░░░░░░  18.34%
-Markdown        1h 43m 2s    █████░░░░░░░░░░░░░░░░░░░░  17.88%
-CSS             33m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.82%
-TypeScript      22m 25s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.89%
+Astro           3h 59m 24s   ███████████░░░░░░░░░░░░░░  40.16%
+Python          1h 59m 15s   ██████░░░░░░░░░░░░░░░░░░░  20.01%
+Markdown        1h 43m 2s    █████░░░░░░░░░░░░░░░░░░░░  17.29%
+CSS             33m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.63%
+TypeScript      22m 25s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.76%
 
 💼 Projects:
-homepage-v2     4h 53m 21s   ██████████████░░░░░░░░░░░  52.95%
-aces-backend    2h 3m 57s    ██████░░░░░░░░░░░░░░░░░░░  22.37%
-haxmas-day-8    1h 59m 12s   ██████░░░░░░░░░░░░░░░░░░░  21.52%
-rustytime-dev   14m 52s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.68%
-Documents       2m 38s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.48%
+homepage-v2     4h 53m 21s   █████████████░░░░░░░░░░░░  51.26%
+aces-backend    2h 22m 12s   ███████░░░░░░░░░░░░░░░░░░  24.85%
+haxmas-day-8    1h 59m 12s   ██████░░░░░░░░░░░░░░░░░░░  20.83%
+rustytime-dev   14m 52s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.60%
+Documents       2m 38s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.46%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&standalone=true" title="Click to view detailed data for each day!">
