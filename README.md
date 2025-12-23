@@ -4,8 +4,8 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(today)**
-- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(6 days ago)**
+- [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(1 day ago)**
+- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 week ago)**
 - [`haxmas`](https://github.com/hackclub/haxmas) - _holidaying it_ **(1 week ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 week ago)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(1 week ago)**
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Lint the full codebase**](https://github.com/hackclub/aces-backend/pull/62) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(today)**
-- [**auth fixes + cors + sanitize sql**](https://github.com/hackclub/aces-backend/pull/61) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(today)**
-- [**auth fixes + cors + sanitize sql**](https://github.com/hackclub/aces-backend/pull/54) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(2 days ago)**
+- [**Lint the full codebase**](https://github.com/hackclub/aces-backend/pull/62) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(1 day ago)**
+- [**auth fixes + cors + sanitize sql**](https://github.com/hackclub/aces-backend/pull/61) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(1 day ago)**
+- [**auth fixes + cors + sanitize sql**](https://github.com/hackclub/aces-backend/pull/54) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(3 days ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Astro           4h 8m 3s     █████████░░░░░░░░░░░░░░░░  35.73%
-Python          2h 56m 43s   ███████░░░░░░░░░░░░░░░░░░  25.46%
-Markdown        1h 50m 33s   ████░░░░░░░░░░░░░░░░░░░░░  15.93%
-CSS             55m 43s      ███░░░░░░░░░░░░░░░░░░░░░░  8.03%
-TypeScript      22m 25s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.23%
+Python          2h 56m 43s   ███████████░░░░░░░░░░░░░░  40.25%
+Markdown        1h 43m 32s   ██████░░░░░░░░░░░░░░░░░░░  23.58%
+Astro           1h 9m 48s    ████░░░░░░░░░░░░░░░░░░░░░  15.90%
+CSS             30m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.90%
+Toml            10m 32s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.40%
 
 💼 Projects:
-homepage-v2     4h 53m 21s   ███████████░░░░░░░░░░░░░░  44.00%
-aces-backend    3h 20m 2s    ████████░░░░░░░░░░░░░░░░░  30.00%
-haxmas-day-8    2h 33m 43s   ██████░░░░░░░░░░░░░░░░░░░  23.05%
-rustytime-dev   14m 52s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.23%
-Documents       2m 38s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.40%
+aces-backend    3h 20m 2s    ████████████░░░░░░░░░░░░░  47.93%
+haxmas-day-8    2h 33m 43s   ██████████░░░░░░░░░░░░░░░  36.83%
+homepage-v2     43m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  10.53%
+rustytime-dev   14m 52s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.56%
+Documents       2m 38s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.63%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&standalone=true" title="Click to view detailed data for each day!">
