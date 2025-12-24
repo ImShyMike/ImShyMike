@@ -4,12 +4,12 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`haxmas-day-11`](https://github.com/ImShyMike/haxmas-day-11) - __ **(today)**
-- [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(1 day ago)**
+- [`haxmas-day-11`](https://github.com/ImShyMike/haxmas-day-11) - _Let's make a blog with Astro and Markdown!_ **(today)**
+- [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(2 days ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 week ago)**
 - [`haxmas`](https://github.com/hackclub/haxmas) - _holidaying it_ **(1 week ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 week ago)**
-- [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(1 week ago)**
+- [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(2 weeks ago)**
 - [`advent-of-code`](https://github.com/ImShyMike/advent-of-code) - _my advent of code solutions_ **(2 weeks ago)**
 - [`aces-backend-1`](https://github.com/ImShyMike/aces-backend-1) - _acing the deck_ **(3 weeks ago)**
 
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Lint the full codebase**](https://github.com/hackclub/aces-backend/pull/62) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(1 day ago)**
-- [**auth fixes + cors + sanitize sql**](https://github.com/hackclub/aces-backend/pull/61) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(1 day ago)**
-- [**auth fixes + cors + sanitize sql**](https://github.com/hackclub/aces-backend/pull/54) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(3 days ago)**
+- [**Lint the full codebase**](https://github.com/hackclub/aces-backend/pull/62) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(2 days ago)**
+- [**auth fixes + cors + sanitize sql**](https://github.com/hackclub/aces-backend/pull/61) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(2 days ago)**
+- [**auth fixes + cors + sanitize sql**](https://github.com/hackclub/aces-backend/pull/54) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(4 days ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python          2h 56m 43s   █████████░░░░░░░░░░░░░░░░  34.78%
-Markdown        2h 36m 29s   ████████░░░░░░░░░░░░░░░░░  30.80%
-Astro           1h 22m 35s   █████░░░░░░░░░░░░░░░░░░░░  16.25%
-CSS             32m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.41%
-Toml            10m 32s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.08%
+Python                        2h 55m 23s   ██████████░░░░░░░░░░░░░░░  36.47%
+Markdown                      2h 36m 37s   █████████░░░░░░░░░░░░░░░░  32.57%
+Astro                         1h 2m 8s     ████░░░░░░░░░░░░░░░░░░░░░  12.92%
+CSS                           26m 30s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.51%
+Toml                          10m 32s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.19%
 
 💼 Projects:
-haxmas-day-8    3h 35m 33s   ████████████░░░░░░░░░░░░░  44.98%
-aces-backend    3h 20m 2s    ███████████░░░░░░░░░░░░░░  41.74%
-homepage-v2     43m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  9.17%
-rustytime-dev   14m 52s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.10%
-Documents       2m 38s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.55%
+haxmas-day-8                  3h 37m 31s   █████████████░░░░░░░░░░░░  48.28%
+aces-backend                  3h 15m 55s   ███████████░░░░░░░░░░░░░░  43.48%
+rustytime-dev                 14m 52s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.30%
+homepage-v2                   12m 36s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.80%
+Haxmas-Day-11-Astro-md-Blog   4m 50s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.07%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&standalone=true" title="Click to view detailed data for each day!">
