@@ -5,8 +5,8 @@ A student who likes coding and gaming!
 #### 🏗️ What I've been working on
 
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(today)**
-- [`haxmas-day-11`](https://github.com/ImShyMike/haxmas-day-11) - _Let's make a blog with Astro and Markdown!_ **(3 days ago)**
 - [`haxmas`](https://github.com/hackclub/haxmas) - _holidaying it_ **(3 days ago)**
+- [`haxmas-day-11`](https://github.com/ImShyMike/haxmas-day-11) - _Let's make a blog with Astro and Markdown!_ **(3 days ago)**
 - [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(5 days ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(2 weeks ago)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(2 weeks ago)**
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Astro                         1h 52m 3s    ████████░░░░░░░░░░░░░░░░░  30.15%
-Python                        1h 28m 42s   ██████░░░░░░░░░░░░░░░░░░░  23.87%
-Markdown                      1h 24m 58s   ██████░░░░░░░░░░░░░░░░░░░  22.86%
-CSS                           26m 30s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.13%
-JSON                          16m 23s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.41%
+Astro                         1h 55m 31s   ████████░░░░░░░░░░░░░░░░░  30.52%
+Python                        1h 28m 42s   ██████░░░░░░░░░░░░░░░░░░░  23.43%
+Markdown                      1h 24m 58s   ██████░░░░░░░░░░░░░░░░░░░  22.45%
+CSS                           26m 30s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.00%
+TypeScript                    17m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.67%
 
 💼 Projects:
-homepage-v2                   1h 59m 44s   █████████░░░░░░░░░░░░░░░░  34.70%
-haxmas-day-8                  1h 57m 23s   █████████░░░░░░░░░░░░░░░░  34.02%
-aces-backend                  1h 36m 14s   ███████░░░░░░░░░░░░░░░░░░  27.89%
-Haxmas-Day-11-Astro-md-Blog   4m 50s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.40%
-haxmas                        2m 40s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.78%
+homepage-v2                   2h 6m 37s    █████████░░░░░░░░░░░░░░░░  35.98%
+haxmas-day-8                  1h 57m 23s   █████████░░░░░░░░░░░░░░░░  33.35%
+aces-backend                  1h 36m 14s   ███████░░░░░░░░░░░░░░░░░░  27.35%
+Haxmas-Day-11-Astro-md-Blog   4m 50s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.37%
+haxmas                        2m 40s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.76%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&standalone=true" title="Click to view detailed data for each day!">
