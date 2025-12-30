@@ -4,9 +4,9 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(today)**
-- [`haxmas`](https://github.com/hackclub/haxmas) - _holidaying it_ **(5 days ago)**
-- [`haxmas-day-11`](https://github.com/ImShyMike/haxmas-day-11) - _Let's make a blog with Astro and Markdown!_ **(5 days ago)**
+- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 day ago)**
+- [`haxmas-day-11`](https://github.com/ImShyMike/haxmas-day-11) - _Let's make a blog with Astro and Markdown!_ **(6 days ago)**
+- [`haxmas`](https://github.com/hackclub/haxmas) - _holidaying it_ **(6 days ago)**
 - [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(1 week ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(2 weeks ago)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(2 weeks ago)**
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Fix submit for day 11 and 12**](https://github.com/hackclub/haxmas/pull/12) on [`haxmas`](https://github.com/hackclub/haxmas) **(5 days ago)**
+- [**Fix submit for day 11 and 12**](https://github.com/hackclub/haxmas/pull/12) on [`haxmas`](https://github.com/hackclub/haxmas) **(6 days ago)**
 - [**Lint the full codebase**](https://github.com/hackclub/aces-backend/pull/62) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(1 week ago)**
 - [**auth fixes + cors + sanitize sql**](https://github.com/hackclub/aces-backend/pull/61) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(1 week ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Astro          4h 52m 59s   ██████████░░░░░░░░░░░░░░░  36.54%
-JavaScript     1h 43m 18s   ████░░░░░░░░░░░░░░░░░░░░░  12.88%
-Markdown       1h 37m 43s   ████░░░░░░░░░░░░░░░░░░░░░  12.19%
-CSS            1h 16m 58s   ███░░░░░░░░░░░░░░░░░░░░░░  9.60%
-Python         1h 16m 23s   ███░░░░░░░░░░░░░░░░░░░░░░  9.53%
+Astro                         4h 43m 28s   ███████████░░░░░░░░░░░░░░  42.16%
+JavaScript                    1h 43m 18s   ████░░░░░░░░░░░░░░░░░░░░░  15.36%
+Markdown                      1h 30m 6s    ████░░░░░░░░░░░░░░░░░░░░░  13.40%
+Svelte                        1h 4m 47s    ███░░░░░░░░░░░░░░░░░░░░░░  9.64%
+CSS                           54m 46s      ███░░░░░░░░░░░░░░░░░░░░░░  8.15%
 
 💼 Projects:
-homepage-v2    9h 12m 45s   ██████████████████░░░░░░░  71.83%
-haxmas-day-8   1h 42m 15s   ████░░░░░░░░░░░░░░░░░░░░░  13.29%
-aces-backend   1h 22m 45s   ███░░░░░░░░░░░░░░░░░░░░░░  10.75%
-skydotenv      13m 14s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.72%
-hackatime      6m 52s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.89%
+homepage-v2                   9h 13m 21s   ██████████████████████░░░  85.41%
+haxmas-day-8                  1h 6m 56s    ███░░░░░░░░░░░░░░░░░░░░░░  10.33%
+skydotenv                     13m 14s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.04%
+hackatime                     6m 52s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.06%
+Haxmas-Day-11-Astro-md-Blog   4m 50s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.75%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&standalone=true" title="Click to view detailed data for each day!">
