@@ -4,11 +4,11 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(2 days ago)**
+- [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(1 day ago)**
+- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(3 days ago)**
 - [`haxmas-day-11`](https://github.com/ImShyMike/haxmas-day-11) - _Let's make a blog with Astro and Markdown!_ **(1 week ago)**
 - [`haxmas`](https://github.com/hackclub/haxmas) - _holidaying it_ **(1 week ago)**
-- [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(1 week ago)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(2 weeks ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(3 weeks ago)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(3 weeks ago)**
 - [`advent-of-code`](https://github.com/ImShyMike/advent-of-code) - _my advent of code solutions_ **(3 weeks ago)**
 - [`aces-backend-1`](https://github.com/ImShyMike/aces-backend-1) - _acing the deck_ **(1 month ago)**
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Astro          4h 31m 32s   ████████░░░░░░░░░░░░░░░░░  30.89%
-Ruby           2h 35m 54s   █████░░░░░░░░░░░░░░░░░░░░  17.74%
-JavaScript     1h 43m 57s   ███░░░░░░░░░░░░░░░░░░░░░░  11.83%
-Svelte         1h 4m 47s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.37%
-YAML           55m 23s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.30%
+Astro          4h 15m 28s   ████████░░░░░░░░░░░░░░░░░  30.01%
+Ruby           2h 35m 54s   █████░░░░░░░░░░░░░░░░░░░░  18.31%
+JavaScript     1h 42m 14s   ████░░░░░░░░░░░░░░░░░░░░░  12.01%
+Svelte         1h 4m 6s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.53%
+YAML           55m 23s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.51%
 
 💼 Projects:
-homepage-v2    9h 13m 21s   █████████████████░░░░░░░░  64.36%
-ruby-idk       4h 25m 15s   ████████░░░░░░░░░░░░░░░░░  30.85%
-skydotenv      13m 14s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.54%
-hackatime      6m 52s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.80%
-aces-backend   5m 53s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.68%
+homepage-v2    8h 52m 25s   █████████████████░░░░░░░░  64.47%
+ruby-idk       4h 25m 15s   █████████░░░░░░░░░░░░░░░░  32.12%
+skydotenv      13m 14s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.60%
+hackatime      6m 52s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.83%
+aces-backend   5m 53s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.71%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&standalone=true" title="Click to view detailed data for each day!">
