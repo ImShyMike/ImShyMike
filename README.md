@@ -4,9 +4,9 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 day ago)**
-- [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(3 days ago)**
-- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(5 days ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(2 days ago)**
+- [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(4 days ago)**
+- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(6 days ago)**
 - [`haxmas-day-11`](https://github.com/ImShyMike/haxmas-day-11) - _Let's make a blog with Astro and Markdown!_ **(1 week ago)**
 - [`haxmas`](https://github.com/hackclub/haxmas) - _holidaying it_ **(1 week ago)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(3 weeks ago)**
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Astro           3h 59m 57s   ███████░░░░░░░░░░░░░░░░░░  26.98%
-Ruby            2h 35m 54s   █████░░░░░░░░░░░░░░░░░░░░  17.53%
-JavaScript      1h 42m 57s   ███░░░░░░░░░░░░░░░░░░░░░░  11.57%
-Svelte          1h 4m 6s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.21%
-YAML            55m 23s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.23%
+Astro           2h 37m 43s   ██████░░░░░░░░░░░░░░░░░░░  21.49%
+Ruby            2h 35m 54s   ██████░░░░░░░░░░░░░░░░░░░  21.25%
+JavaScript      1h 12m 11s   ███░░░░░░░░░░░░░░░░░░░░░░  9.84%
+Svelte          1h 4m 0s     ███░░░░░░░░░░░░░░░░░░░░░░  8.72%
+YAML            55m 23s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.55%
 
 💼 Projects:
-homepage-v2     8h 35m 55s   ████████████████░░░░░░░░░  60.06%
-ruby-idk        4h 25m 20s   ████████░░░░░░░░░░░░░░░░░  30.89%
-rustytime-dev   49m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.78%
-skydotenv       13m 14s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.54%
-hackatime       6m 52s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.80%
+homepage-v2     5h 58m 14s   █████████████░░░░░░░░░░░░  51.08%
+ruby-idk        4h 25m 20s   ██████████░░░░░░░░░░░░░░░  37.83%
+rustytime-dev   49m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.08%
+skydotenv       13m 14s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.89%
+hackatime       6m 52s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.98%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&standalone=true" title="Click to view detailed data for each day!">
