@@ -4,8 +4,8 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(today)**
-- [`heartatime`](https://github.com/ImShyMike/heartatime) - _A hackatime extension for your heart! (that also happens to check if you're alive or not)_ **(1 day ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 day ago)**
+- [`heartatime`](https://github.com/ImShyMike/heartatime) - _A hackatime extension for your heart! (that also happens to check if you're alive or not)_ **(2 days ago)**
 - [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(1 week ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 week ago)**
 - [`haxmas-day-11`](https://github.com/ImShyMike/haxmas-day-11) - _Let's make a blog with Astro and Markdown!_ **(2 weeks ago)**
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python          2h 45m 29s   █████████░░░░░░░░░░░░░░░░  34.46%
-Svelte          56m 39s      ███░░░░░░░░░░░░░░░░░░░░░░  11.80%
-JavaScript      47m 0s       ███░░░░░░░░░░░░░░░░░░░░░░  9.79%
-Ruby            39m 23s      ███░░░░░░░░░░░░░░░░░░░░░░  8.20%
-Rust            37m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.89%
+Python          2h 51m 13s   ██████████░░░░░░░░░░░░░░░  39.21%
+JavaScript      1h 25m 6s    █████░░░░░░░░░░░░░░░░░░░░  19.49%
+Svelte          56m 39s      ████░░░░░░░░░░░░░░░░░░░░░  12.98%
+Rust            37m 53s      ███░░░░░░░░░░░░░░░░░░░░░░  8.68%
+Markdown        23m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.49%
 
 💼 Projects:
-midnight-p1     3h 49m 55s   █████████████░░░░░░░░░░░░  49.19%
-ruby-idk        1h 37m 2s    ██████░░░░░░░░░░░░░░░░░░░  20.76%
-rustytime-dev   49m 39s      ███░░░░░░░░░░░░░░░░░░░░░░  10.62%
-SCleaner        36m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.75%
-fraud-mafia     31m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.70%
+midnight-p1     3h 49m 55s   ██████████████░░░░░░░░░░░  54.58%
+SCleaner        1h 31m 0s    ██████░░░░░░░░░░░░░░░░░░░  21.61%
+rustytime-dev   49m 39s      ███░░░░░░░░░░░░░░░░░░░░░░  11.79%
+fraud-mafia     31m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.43%
+Documents       9m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.19%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&standalone=true" title="Click to view detailed data for each day!">
