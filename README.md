@@ -4,14 +4,14 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`ADallower`](https://github.com/ImShyMike/ADallower) - _turn all your images into amazing ads!_ **(today)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 day ago)**
-- [`heartatime`](https://github.com/ImShyMike/heartatime) - _A hackatime extension for your heart! (that also happens to check if you're alive or not)_ **(2 days ago)**
+- [`ADallower`](https://github.com/ImShyMike/ADallower) - _turn all your images into amazing ads!_ **(1 day ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(2 days ago)**
+- [`heartatime`](https://github.com/ImShyMike/heartatime) - _A hackatime extension for your heart! (that also happens to check if you're alive or not)_ **(3 days ago)**
 - [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(1 week ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 week ago)**
 - [`haxmas-day-11`](https://github.com/ImShyMike/haxmas-day-11) - _Let's make a blog with Astro and Markdown!_ **(2 weeks ago)**
 - [`haxmas`](https://github.com/hackclub/haxmas) - _holidaying it_ **(2 weeks ago)**
-- [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(4 weeks ago)**
+- [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(1 month ago)**
 
 #### 📦 My most popular repos
 
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python          2h 54m 1s    ██████████░░░░░░░░░░░░░░░  39.34%
-JavaScript      1h 25m 40s   █████░░░░░░░░░░░░░░░░░░░░  19.37%
-Svelte          56m 39s      ████░░░░░░░░░░░░░░░░░░░░░  12.81%
-Rust            37m 53s      ███░░░░░░░░░░░░░░░░░░░░░░  8.57%
-Markdown        26m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.92%
+Python          2h 54m 1s    ███████████░░░░░░░░░░░░░░  43.15%
+JavaScript      1h 25m 40s   ██████░░░░░░░░░░░░░░░░░░░  21.24%
+Svelte          56m 39s      ████░░░░░░░░░░░░░░░░░░░░░  14.05%
+Markdown        26m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.49%
+TypeScript      23m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.82%
 
 💼 Projects:
-midnight-p1     3h 49m 55s   ██████████████░░░░░░░░░░░  53.39%
-SCleaner        1h 40m 22s   ██████░░░░░░░░░░░░░░░░░░░  23.31%
-rustytime-dev   49m 39s      ███░░░░░░░░░░░░░░░░░░░░░░  11.53%
-fraud-mafia     31m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.27%
-Documents       9m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.14%
+midnight-p1     3h 49m 55s   ███████████████░░░░░░░░░░  58.15%
+SCleaner        1h 40m 22s   ███████░░░░░░░░░░░░░░░░░░  25.39%
+fraud-mafia     31m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.92%
+rustytime-dev   16m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.18%
+Documents       9m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.33%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&standalone=true" title="Click to view detailed data for each day!">
