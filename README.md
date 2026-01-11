@@ -19,7 +19,7 @@ A student who likes coding and gaming!
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(19⭐)**
 - [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(18⭐)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(11⭐)**
-- [`Eryx`](https://github.com/ImShyMike/Eryx) - _A decently fast and simple dynamically typed programming language similar to javascript/python._ **(5⭐)**
+- [`spaces`](https://github.com/hackclub/spaces) - __ **(5⭐)**
 
 #### 🔨 My recent pull requests
 
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python        2h 54m 1s    ███████░░░░░░░░░░░░░░░░░░  27.56%
-Astro         1h 55m 22s   █████░░░░░░░░░░░░░░░░░░░░  18.28%
-JavaScript    1h 48m 48s   █████░░░░░░░░░░░░░░░░░░░░  17.23%
-Svelte        1h 17m 44s   ████░░░░░░░░░░░░░░░░░░░░░  12.31%
-TypeScript    1h 9m 12s    ███░░░░░░░░░░░░░░░░░░░░░░  10.96%
+Python        2h 54m 1s    ███████░░░░░░░░░░░░░░░░░░  27.47%
+Astro         1h 57m 17s   █████░░░░░░░░░░░░░░░░░░░░  18.51%
+JavaScript    1h 48m 48s   █████░░░░░░░░░░░░░░░░░░░░  17.17%
+Svelte        1h 17m 44s   ████░░░░░░░░░░░░░░░░░░░░░  12.27%
+TypeScript    1h 9m 29s    ███░░░░░░░░░░░░░░░░░░░░░░  10.97%
 
 💼 Projects:
-midnight-p1   3h 49m 55s   ██████████░░░░░░░░░░░░░░░  36.95%
-homepage-v2   3h 41m 44s   █████████░░░░░░░░░░░░░░░░  35.63%
-SCleaner      2h 0m 1s     █████░░░░░░░░░░░░░░░░░░░░  19.29%
-fraud-mafia   31m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.03%
-Documents     9m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.48%
+midnight-p1   3h 49m 55s   ██████████░░░░░░░░░░░░░░░  36.68%
+homepage-v2   3h 46m 17s   ██████████░░░░░░░░░░░░░░░  36.10%
+SCleaner      2h 0m 1s     █████░░░░░░░░░░░░░░░░░░░░  19.15%
+fraud-mafia   31m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.00%
+Documents     9m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.47%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&standalone=true" title="Click to view detailed data for each day!">
