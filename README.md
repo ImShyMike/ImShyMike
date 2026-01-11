@@ -4,9 +4,9 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(today)**
-- [`ADallower`](https://github.com/ImShyMike/ADallower) - _turn website ads into amazing works of art!_ **(today)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(today)**
+- [`ADallower`](https://github.com/ImShyMike/ADallower) - _turn website ads into amazing works of art!_ **(today)**
+- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(today)**
 - [`heartatime`](https://github.com/ImShyMike/heartatime) - _A hackatime extension for your heart! (that also happens to check if you're alive or not)_ **(5 days ago)**
 - [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(1 week ago)**
 - [`haxmas`](https://github.com/hackclub/haxmas) - _holidaying it_ **(2 weeks ago)**
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python        2h 54m 1s    ████████░░░░░░░░░░░░░░░░░  30.30%
-JavaScript    1h 48m 48s   █████░░░░░░░░░░░░░░░░░░░░  18.94%
-Astro         1h 27m 44s   ████░░░░░░░░░░░░░░░░░░░░░  15.28%
-Svelte        1h 8m 10s    ███░░░░░░░░░░░░░░░░░░░░░░  11.87%
-TypeScript    54m 56s      ███░░░░░░░░░░░░░░░░░░░░░░  9.57%
+Python        2h 54m 1s    ████████░░░░░░░░░░░░░░░░░  28.64%
+JavaScript    1h 48m 48s   █████░░░░░░░░░░░░░░░░░░░░  17.91%
+Astro         1h 44m 31s   █████░░░░░░░░░░░░░░░░░░░░  17.20%
+Svelte        1h 11m 1s    ███░░░░░░░░░░░░░░░░░░░░░░  11.69%
+TypeScript    1h 6m 17s    ███░░░░░░░░░░░░░░░░░░░░░░  10.91%
 
 💼 Projects:
-midnight-p1   3h 49m 55s   ███████████░░░░░░░░░░░░░░  40.32%
-homepage-v2   2h 49m 43s   ████████░░░░░░░░░░░░░░░░░  29.76%
-SCleaner      2h 0m 1s     ██████░░░░░░░░░░░░░░░░░░░  21.05%
-fraud-mafia   31m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.49%
-Documents     9m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.62%
+midnight-p1   3h 49m 55s   ██████████░░░░░░░░░░░░░░░  38.35%
+homepage-v2   3h 19m 2s    █████████░░░░░░░░░░░░░░░░  33.20%
+SCleaner      2h 0m 1s     ██████░░░░░░░░░░░░░░░░░░░  20.02%
+fraud-mafia   31m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.22%
+Documents     9m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.54%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&standalone=true" title="Click to view detailed data for each day!">
