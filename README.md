@@ -4,14 +4,14 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
+- [`aces`](https://github.com/hackclub/aces) - _Design your own virtual board or card game, receive a grant to get it physically, and an invite to an in-person hackathon in DC!_ **(today)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 day ago)**
 - [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(1 day ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 day ago)**
 - [`ADallower`](https://github.com/ImShyMike/ADallower) - _turn website ads into amazing works of art!_ **(3 days ago)**
 - [`heartatime`](https://github.com/ImShyMike/heartatime) - _A hackatime extension for your heart! (that also happens to check if you're alive or not)_ **(1 week ago)**
-- [`haxmas`](https://github.com/hackclub/haxmas) - _holidaying it_ **(3 weeks ago)**
 - [`haxmas-day-11`](https://github.com/ImShyMike/haxmas-day-11) - _Let's make a blog with Astro and Markdown!_ **(3 weeks ago)**
-- [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(1 month ago)**
+- [`haxmas`](https://github.com/hackclub/haxmas) - _holidaying it_ **(3 weeks ago)**
 
 #### 📦 My most popular repos
 
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
+- [**revert Dockerfile change**](https://github.com/hackclub/aces/pull/31) on [`aces`](https://github.com/hackclub/aces) **(today)**
 - [**Fix submit for day 11 and 12**](https://github.com/hackclub/haxmas/pull/12) on [`haxmas`](https://github.com/hackclub/haxmas) **(3 weeks ago)**
 - [**Lint the full codebase**](https://github.com/hackclub/aces-backend/pull/62) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(3 weeks ago)**
-- [**auth fixes + cors + sanitize sql**](https://github.com/hackclub/aces-backend/pull/61) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(3 weeks ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Astro           2h 21m 22s   ████████░░░░░░░░░░░░░░░░░  28.98%
-JavaScript      1h 28m 29s   █████░░░░░░░░░░░░░░░░░░░░  18.14%
-TypeScript      1h 7m 57s    ████░░░░░░░░░░░░░░░░░░░░░  13.93%
-Svelte          44m 43s      ███░░░░░░░░░░░░░░░░░░░░░░  9.17%
-Markdown        35m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.27%
+Astro           2h 21m 22s   ████████░░░░░░░░░░░░░░░░░  28.86%
+JavaScript      1h 28m 29s   █████░░░░░░░░░░░░░░░░░░░░  18.06%
+TypeScript      1h 7m 57s    ████░░░░░░░░░░░░░░░░░░░░░  13.87%
+Svelte          44m 43s      ███░░░░░░░░░░░░░░░░░░░░░░  9.13%
+Markdown        35m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.24%
 
 💼 Projects:
-homepage-v2     4h 35m 25s   ███████████████░░░░░░░░░░  58.10%
-SCleaner        2h 0m 1s     ███████░░░░░░░░░░░░░░░░░░  25.32%
-rustytime-dev   31m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.70%
-fraud-mafia     31m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.61%
-Documents       9m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.94%
+homepage-v2     4h 35m 25s   ███████████████░░░░░░░░░░  57.85%
+SCleaner        2h 0m 1s     ███████░░░░░░░░░░░░░░░░░░  25.21%
+rustytime-dev   31m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.67%
+fraud-mafia     31m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.58%
+Documents       9m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.93%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&standalone=true" title="Click to view detailed data for each day!">
