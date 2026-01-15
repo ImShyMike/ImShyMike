@@ -19,7 +19,7 @@ A student who likes coding and gaming!
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(19⭐)**
 - [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(18⭐)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(11⭐)**
-- [`spaces`](https://github.com/hackclub/spaces) - __ **(5⭐)**
+- [`spaces`](https://github.com/hackclub/spaces) - __ **(6⭐)**
 
 #### 🔨 My recent pull requests
 
