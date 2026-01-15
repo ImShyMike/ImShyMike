@@ -4,14 +4,14 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
+- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(today)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(today)**
 - [`aces`](https://github.com/hackclub/aces) - _Design your own virtual board or card game, receive a grant to get it physically, and an invite to an in-person hackathon in DC!_ **(1 day ago)**
-- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(2 days ago)**
 - [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(2 days ago)**
 - [`ADallower`](https://github.com/ImShyMike/ADallower) - _turn website ads into amazing works of art!_ **(4 days ago)**
 - [`heartatime`](https://github.com/ImShyMike/heartatime) - _A hackatime extension for your heart! (that also happens to check if you're alive or not)_ **(1 week ago)**
-- [`haxmas`](https://github.com/hackclub/haxmas) - _holidaying it_ **(3 weeks ago)**
 - [`haxmas-day-11`](https://github.com/ImShyMike/haxmas-day-11) - _Let's make a blog with Astro and Markdown!_ **(3 weeks ago)**
+- [`haxmas`](https://github.com/hackclub/haxmas) - _holidaying it_ **(3 weeks ago)**
 
 #### 📦 My most popular repos
 
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Astro                   2h 21m 22s   ████████░░░░░░░░░░░░░░░░░  31.36%
-Rust                    57m 25s      ████░░░░░░░░░░░░░░░░░░░░░  12.74%
-JavaScript              53m 51s      ███░░░░░░░░░░░░░░░░░░░░░░  11.95%
-TypeScript              48m 7s       ███░░░░░░░░░░░░░░░░░░░░░░  10.68%
-Markdown                36m 10s      ███░░░░░░░░░░░░░░░░░░░░░░  8.02%
+Astro                   2h 21m 22s   ████████░░░░░░░░░░░░░░░░░  29.89%
+JavaScript              1h 2m 26s    ████░░░░░░░░░░░░░░░░░░░░░  13.20%
+TypeScript              58m 5s       ████░░░░░░░░░░░░░░░░░░░░░  12.28%
+Rust                    57m 25s      ████░░░░░░░░░░░░░░░░░░░░░  12.14%
+Markdown                36m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.65%
 
 💼 Projects:
-homepage-v2             4h 35m 25s   ████████████████░░░░░░░░░  62.58%
-SCleaner                1h 10m 35s   █████░░░░░░░░░░░░░░░░░░░░  16.04%
-very-awesome-emulator   54m 13s      ████░░░░░░░░░░░░░░░░░░░░░  12.32%
-rustytime-dev           31m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.21%
-aces                    4m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.94%
+homepage-v2             4h 54m 50s   ████████████████░░░░░░░░░  63.61%
+SCleaner                1h 10m 35s   ████░░░░░░░░░░░░░░░░░░░░░  15.23%
+very-awesome-emulator   54m 13s      ███░░░░░░░░░░░░░░░░░░░░░░  11.70%
+rustytime-dev           35m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.70%
+aces                    4m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.90%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&standalone=true" title="Click to view detailed data for each day!">
