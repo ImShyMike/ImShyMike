@@ -15,7 +15,7 @@ A student who likes coding and gaming!
 
 #### 📦 My most popular repos
 
-- [`waka-relay`](https://github.com/ImShyMike/waka-relay) - _📊 A self-hosted app that relays WakaTime heartbeats to multiple instances_ **(31⭐)**
+- [`waka-relay`](https://github.com/ImShyMike/waka-relay) - _📊 A self-hosted app that relays WakaTime heartbeats to multiple instances_ **(32⭐)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(19⭐)**
 - [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(18⭐)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(11⭐)**
@@ -30,17 +30,17 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Astro                   2h 23m 8s    ████████░░░░░░░░░░░░░░░░░  29.61%
-Rust                    1h 18m 9s    █████░░░░░░░░░░░░░░░░░░░░  16.17%
-Svelte                  59m 28s      ████░░░░░░░░░░░░░░░░░░░░░  12.30%
-TypeScript              58m 17s      ████░░░░░░░░░░░░░░░░░░░░░  12.06%
-JavaScript              34m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.09%
+Astro                   2h 23m 8s    ████████░░░░░░░░░░░░░░░░░  29.47%
+Rust                    1h 20m 24s   █████░░░░░░░░░░░░░░░░░░░░  16.56%
+Svelte                  59m 28s      ████░░░░░░░░░░░░░░░░░░░░░  12.25%
+TypeScript              58m 17s      ███░░░░░░░░░░░░░░░░░░░░░░  12.00%
+JavaScript              34m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.06%
 
 💼 Projects:
-homepage-v2             4h 56m 36s   ████████████████░░░░░░░░░  62.41%
-rustytime-dev           1h 29m 19s   █████░░░░░░░░░░░░░░░░░░░░  18.80%
-very-awesome-emulator   54m 13s      ███░░░░░░░░░░░░░░░░░░░░░░  11.41%
-SCleaner                21m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.52%
+homepage-v2             4h 56m 36s   ████████████████░░░░░░░░░  62.12%
+rustytime-dev           1h 31m 33s   █████░░░░░░░░░░░░░░░░░░░░  19.18%
+very-awesome-emulator   54m 13s      ███░░░░░░░░░░░░░░░░░░░░░░  11.36%
+SCleaner                21m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.50%
 YSWS-Catalog            5m 25s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.14%
 ```
 #### 💻 My coding activity
