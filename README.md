@@ -4,11 +4,11 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(today)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 day ago)**
-- [`aces`](https://github.com/hackclub/aces) - _Design your own virtual board or card game, receive a grant to get it physically, and an invite to an in-person hackathon in DC!_ **(3 days ago)**
-- [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(4 days ago)**
-- [`ADallower`](https://github.com/ImShyMike/ADallower) - _turn website ads into amazing works of art!_ **(6 days ago)**
+- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 day ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(2 days ago)**
+- [`aces`](https://github.com/hackclub/aces) - _Design your own virtual board or card game, receive a grant to get it physically, and an invite to an in-person hackathon in DC!_ **(4 days ago)**
+- [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(5 days ago)**
+- [`ADallower`](https://github.com/ImShyMike/ADallower) - _turn website ads into amazing works of art!_ **(1 week ago)**
 - [`heartatime`](https://github.com/ImShyMike/heartatime) - _A hackatime extension for your heart! (that also happens to check if you're alive or not)_ **(1 week ago)**
 - [`haxmas-day-11`](https://github.com/ImShyMike/haxmas-day-11) - _Let's make a blog with Astro and Markdown!_ **(3 weeks ago)**
 - [`haxmas`](https://github.com/hackclub/haxmas) - _holidaying it_ **(3 weeks ago)**
@@ -23,7 +23,7 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**revert Dockerfile change**](https://github.com/hackclub/aces/pull/31) on [`aces`](https://github.com/hackclub/aces) **(3 days ago)**
+- [**revert Dockerfile change**](https://github.com/hackclub/aces/pull/31) on [`aces`](https://github.com/hackclub/aces) **(4 days ago)**
 - [**Fix submit for day 11 and 12**](https://github.com/hackclub/haxmas/pull/12) on [`haxmas`](https://github.com/hackclub/haxmas) **(3 weeks ago)**
 - [**Lint the full codebase**](https://github.com/hackclub/aces-backend/pull/62) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(3 weeks ago)**
 
