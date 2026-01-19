@@ -4,10 +4,10 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(today)**
-- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 day ago)**
-- [`aces`](https://github.com/hackclub/aces) - _Design your own virtual board or card game, receive a grant to get it physically, and an invite to an in-person hackathon in DC!_ **(4 days ago)**
-- [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(5 days ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 day ago)**
+- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(2 days ago)**
+- [`aces`](https://github.com/hackclub/aces) - _Design your own virtual board or card game, receive a grant to get it physically, and an invite to an in-person hackathon in DC!_ **(5 days ago)**
+- [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(6 days ago)**
 - [`ADallower`](https://github.com/ImShyMike/ADallower) - _turn website ads into amazing works of art!_ **(1 week ago)**
 - [`heartatime`](https://github.com/ImShyMike/heartatime) - _A hackatime extension for your heart! (that also happens to check if you're alive or not)_ **(1 week ago)**
 - [`haxmas-day-11`](https://github.com/ImShyMike/haxmas-day-11) - _Let's make a blog with Astro and Markdown!_ **(3 weeks ago)**
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**revert Dockerfile change**](https://github.com/hackclub/aces/pull/31) on [`aces`](https://github.com/hackclub/aces) **(4 days ago)**
+- [**revert Dockerfile change**](https://github.com/hackclub/aces/pull/31) on [`aces`](https://github.com/hackclub/aces) **(5 days ago)**
 - [**Fix submit for day 11 and 12**](https://github.com/hackclub/haxmas/pull/12) on [`haxmas`](https://github.com/hackclub/haxmas) **(3 weeks ago)**
-- [**Lint the full codebase**](https://github.com/hackclub/aces-backend/pull/62) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(3 weeks ago)**
+- [**Lint the full codebase**](https://github.com/hackclub/aces-backend/pull/62) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(4 weeks ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Astro                   2h 46m 30s   ███████░░░░░░░░░░░░░░░░░░  27.82%
-Rust                    2h 31m 6s    ███████░░░░░░░░░░░░░░░░░░  25.25%
-Svelte                  1h 2m 20s    ███░░░░░░░░░░░░░░░░░░░░░░  10.42%
-TypeScript              58m 17s      ███░░░░░░░░░░░░░░░░░░░░░░  9.74%
-JavaScript              34m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.73%
+Rust                    2h 41m 21s   ████████████░░░░░░░░░░░░░  47.27%
+Svelte                  37m 9s       ███░░░░░░░░░░░░░░░░░░░░░░  10.88%
+Astro                   32m 4s       ███░░░░░░░░░░░░░░░░░░░░░░  9.40%
+Toml                    19m 26s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.70%
+CSS                     16m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.98%
 
 💼 Projects:
-homepage-v2             5h 27m 37s   ██████████████░░░░░░░░░░░  55.24%
-rustytime-dev           2h 56m 11s   ████████░░░░░░░░░░░░░░░░░  29.71%
-very-awesome-emulator   54m 13s      ███░░░░░░░░░░░░░░░░░░░░░░  9.14%
-SCleaner                21m 29s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.62%
-YSWS-Catalog            5m 25s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.92%
+rustytime-dev           3h 7m 55s    ███████████████░░░░░░░░░░  56.63%
+homepage-v2             1h 18m 6s    ██████░░░░░░░░░░░░░░░░░░░  23.54%
+very-awesome-emulator   54m 13s      █████░░░░░░░░░░░░░░░░░░░░  16.34%
+YSWS-Catalog            5m 25s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.64%
+aces                    4m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.25%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&standalone=true" title="Click to view detailed data for each day!">
