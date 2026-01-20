@@ -4,12 +4,12 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(today)**
-- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(2 days ago)**
-- [`aces`](https://github.com/hackclub/aces) - _Design your own virtual board or card game, receive a grant to get it physically, and an invite to an in-person hackathon in DC!_ **(5 days ago)**
-- [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(6 days ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 day ago)**
+- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(3 days ago)**
+- [`aces`](https://github.com/hackclub/aces) - _Design your own virtual board or card game, receive a grant to get it physically, and an invite to an in-person hackathon in DC!_ **(6 days ago)**
+- [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(1 week ago)**
 - [`ADallower`](https://github.com/ImShyMike/ADallower) - _turn website ads into amazing works of art!_ **(1 week ago)**
-- [`heartatime`](https://github.com/ImShyMike/heartatime) - _A hackatime extension for your heart! (that also happens to check if you're alive or not)_ **(1 week ago)**
+- [`heartatime`](https://github.com/ImShyMike/heartatime) - _A hackatime extension for your heart! (that also happens to check if you're alive or not)_ **(2 weeks ago)**
 - [`haxmas-day-11`](https://github.com/ImShyMike/haxmas-day-11) - _Let's make a blog with Astro and Markdown!_ **(3 weeks ago)**
 - [`haxmas`](https://github.com/hackclub/haxmas) - _holidaying it_ **(3 weeks ago)**
 
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**revert Dockerfile change**](https://github.com/hackclub/aces/pull/31) on [`aces`](https://github.com/hackclub/aces) **(5 days ago)**
+- [**revert Dockerfile change**](https://github.com/hackclub/aces/pull/31) on [`aces`](https://github.com/hackclub/aces) **(6 days ago)**
 - [**Fix submit for day 11 and 12**](https://github.com/hackclub/haxmas/pull/12) on [`haxmas`](https://github.com/hackclub/haxmas) **(3 weeks ago)**
 - [**Lint the full codebase**](https://github.com/hackclub/aces-backend/pull/62) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(4 weeks ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Rust                    3h 24m 42s   ██████████░░░░░░░░░░░░░░░  38.58%
-Svelte                  2h 5m 7s     ██████░░░░░░░░░░░░░░░░░░░  23.58%
-Markdown                39m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.41%
-Astro                   32m 4s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.05%
-TypeScript              26m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.01%
+Rust                    3h 11m 19s   ██████████░░░░░░░░░░░░░░░  37.56%
+Svelte                  2h 0m 1s     ██████░░░░░░░░░░░░░░░░░░░  23.56%
+Markdown                46m 51s      ███░░░░░░░░░░░░░░░░░░░░░░  9.20%
+Astro                   28m 2s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.50%
+TypeScript              26m 30s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.20%
 
 💼 Projects:
-rustytime-dev           6h 21m 55s   ███████████████████░░░░░░  72.63%
-homepage-v2             1h 18m 6s    ████░░░░░░░░░░░░░░░░░░░░░  14.85%
-very-awesome-emulator   54m 13s      ███░░░░░░░░░░░░░░░░░░░░░░  10.31%
-YSWS-Catalog            5m 25s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.03%
-aces                    4m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.79%
+rustytime-dev           6h 14m 13s   ███████████████████░░░░░░  74.13%
+homepage-v2             1h 4m 48s    ████░░░░░░░░░░░░░░░░░░░░░  12.84%
+very-awesome-emulator   54m 13s      ███░░░░░░░░░░░░░░░░░░░░░░  10.74%
+YSWS-Catalog            5m 25s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.08%
+aces                    4m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.82%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&standalone=true" title="Click to view detailed data for each day!">
