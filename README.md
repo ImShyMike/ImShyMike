@@ -4,7 +4,7 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 day ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(today)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(1 day ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(5 days ago)**
 - [`aces`](https://github.com/hackclub/aces) - _Design your own virtual board or card game, receive a grant to get it physically, and an invite to an in-person hackathon in DC!_ **(1 week ago)**
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Rust                    2h 59m 53s   █████████░░░░░░░░░░░░░░░░  33.38%
-Svelte                  2h 28m 31s   ███████░░░░░░░░░░░░░░░░░░  27.56%
-TypeScript              55m 0s       ███░░░░░░░░░░░░░░░░░░░░░░  10.21%
-Markdown                46m 8s       ███░░░░░░░░░░░░░░░░░░░░░░  8.56%
-Astro                   27m 8s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.04%
+Rust                    2h 59m 53s   █████████░░░░░░░░░░░░░░░░  32.91%
+Svelte                  2h 36m 20s   ████████░░░░░░░░░░░░░░░░░  28.60%
+TypeScript              55m 0s       ███░░░░░░░░░░░░░░░░░░░░░░  10.06%
+Markdown                46m 8s       ███░░░░░░░░░░░░░░░░░░░░░░  8.44%
+Astro                   27m 8s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.96%
 
 💼 Projects:
-rustytime-dev           7h 40m 10s   ██████████████████████░░░  85.93%
-homepage-v2             54m 12s      ███░░░░░░░░░░░░░░░░░░░░░░  10.12%
-timesplit               7m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.36%
-very-awesome-emulator   6m 24s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.20%
-YSWS-Catalog            5m 25s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.01%
+rustytime-dev           7h 47m 58s   ██████████████████████░░░  86.13%
+homepage-v2             54m 12s      ███░░░░░░░░░░░░░░░░░░░░░░  9.98%
+timesplit               7m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.34%
+very-awesome-emulator   6m 24s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.18%
+YSWS-Catalog            5m 25s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.00%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&standalone=true" title="Click to view detailed data for each day!">
