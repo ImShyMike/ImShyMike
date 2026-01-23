@@ -23,24 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
+- [**Lets flash the admin api key**](https://github.com/hackclub/hackatime/pull/822) on [`hackatime`](https://github.com/hackclub/hackatime) **(today)**
 - [**revert Dockerfile change**](https://github.com/hackclub/aces/pull/31) on [`aces`](https://github.com/hackclub/aces) **(1 week ago)**
 - [**Fix submit for day 11 and 12**](https://github.com/hackclub/haxmas/pull/12) on [`haxmas`](https://github.com/hackclub/haxmas) **(1 month ago)**
-- [**Lint the full codebase**](https://github.com/hackclub/aces-backend/pull/62) on [`aces-backend`](https://github.com/hackclub/aces-backend) **(1 month ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Rust            2h 54m 7s    █████████░░░░░░░░░░░░░░░░  35.23%
-Svelte          2h 19m 7s    ████████░░░░░░░░░░░░░░░░░  28.15%
-Markdown        46m 8s       ███░░░░░░░░░░░░░░░░░░░░░░  9.34%
-TypeScript      44m 54s      ███░░░░░░░░░░░░░░░░░░░░░░  9.09%
-Toml            26m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.29%
+Rust            2h 54m 39s   █████████░░░░░░░░░░░░░░░░  35.15%
+Svelte          2h 19m 7s    ███████░░░░░░░░░░░░░░░░░░  28.00%
+Markdown        46m 8s       ███░░░░░░░░░░░░░░░░░░░░░░  9.29%
+TypeScript      44m 54s      ███░░░░░░░░░░░░░░░░░░░░░░  9.04%
+Toml            26m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.27%
 
 💼 Projects:
-rustytime-dev   7h 19m 11s   ███████████████████████░░  90.57%
-homepage-v2     33m 1s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.81%
-timesplit       7m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.51%
-YSWS-Catalog    5m 25s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.12%
+rustytime-dev   7h 19m 43s   ███████████████████████░░  90.19%
+homepage-v2     33m 1s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.77%
+timesplit       7m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.50%
+YSWS-Catalog    5m 25s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.11%
+hackatime       2m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.43%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&standalone=true" title="Click to view detailed data for each day!">
