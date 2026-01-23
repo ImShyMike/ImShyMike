@@ -5,7 +5,7 @@ A student who likes coding and gaming!
 #### 🏗️ What I've been working on
 
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(today)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 day ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(today)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(2 days ago)**
 - [`aces`](https://github.com/hackclub/aces) - _Design your own virtual board or card game, receive a grant to get it physically, and an invite to an in-person hackathon in DC!_ **(1 week ago)**
 - [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(1 week ago)**
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Rust            2h 55m 33s   █████████░░░░░░░░░░░░░░░░  35.27%
-Svelte          2h 19m 7s    ███████░░░░░░░░░░░░░░░░░░  27.95%
-Markdown        46m 8s       ███░░░░░░░░░░░░░░░░░░░░░░  9.27%
-TypeScript      44m 54s      ███░░░░░░░░░░░░░░░░░░░░░░  9.02%
-Toml            26m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.26%
+Rust            2h 59m 48s   █████████░░░░░░░░░░░░░░░░  35.65%
+Svelte          2h 21m 25s   ████████░░░░░░░░░░░░░░░░░  28.04%
+Markdown        46m 8s       ███░░░░░░░░░░░░░░░░░░░░░░  9.15%
+TypeScript      44m 54s      ███░░░░░░░░░░░░░░░░░░░░░░  8.90%
+Toml            26m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.20%
 
 💼 Projects:
-rustytime-dev   7h 20m 36s   ███████████████████████░░  90.21%
-homepage-v2     33m 1s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.76%
-timesplit       7m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.49%
-YSWS-Catalog    5m 25s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.11%
-hackatime       2m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.43%
+rustytime-dev   7h 28m 8s    ███████████████████████░░  90.35%
+homepage-v2     33m 1s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.66%
+timesplit       7m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.47%
+YSWS-Catalog    5m 25s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.09%
+hackatime       2m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.42%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&standalone=true" title="Click to view detailed data for each day!">
