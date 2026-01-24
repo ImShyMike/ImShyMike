@@ -4,9 +4,9 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(today)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(today)**
-- [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(2 days ago)**
+- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 day ago)**
+- [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(3 days ago)**
 - [`aces`](https://github.com/hackclub/aces) - _Design your own virtual board or card game, receive a grant to get it physically, and an invite to an in-person hackathon in DC!_ **(1 week ago)**
 - [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(1 week ago)**
 - [`ADallower`](https://github.com/ImShyMike/ADallower) - _turn website ads into amazing works of art!_ **(1 week ago)**
@@ -23,24 +23,23 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Lets flash the admin api key**](https://github.com/hackclub/hackatime/pull/822) on [`hackatime`](https://github.com/hackclub/hackatime) **(today)**
+- [**Lets flash the admin api key**](https://github.com/hackclub/hackatime/pull/822) on [`hackatime`](https://github.com/hackclub/hackatime) **(1 day ago)**
 - [**revert Dockerfile change**](https://github.com/hackclub/aces/pull/31) on [`aces`](https://github.com/hackclub/aces) **(1 week ago)**
 - [**Fix submit for day 11 and 12**](https://github.com/hackclub/haxmas/pull/12) on [`haxmas`](https://github.com/hackclub/haxmas) **(1 month ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Rust            2h 59m 48s   █████████░░░░░░░░░░░░░░░░  35.65%
-Svelte          2h 21m 25s   ████████░░░░░░░░░░░░░░░░░  28.04%
-Markdown        46m 8s       ███░░░░░░░░░░░░░░░░░░░░░░  9.15%
-TypeScript      44m 54s      ███░░░░░░░░░░░░░░░░░░░░░░  8.90%
-Toml            26m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.20%
+Rust            3h 19m 21s   ██████████░░░░░░░░░░░░░░░  38.89%
+Svelte          2h 15m 31s   ███████░░░░░░░░░░░░░░░░░░  26.44%
+Markdown        44m 54s      ███░░░░░░░░░░░░░░░░░░░░░░  8.76%
+TypeScript      44m 50s      ███░░░░░░░░░░░░░░░░░░░░░░  8.75%
+Toml            25m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.07%
 
 💼 Projects:
-rustytime-dev   7h 28m 8s    ███████████████████████░░  90.35%
-homepage-v2     33m 1s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.66%
+rustytime-dev   7h 35m 25s   ███████████████████████░░  91.48%
+homepage-v2     33m 1s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.63%
 timesplit       7m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.47%
-YSWS-Catalog    5m 25s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.09%
 hackatime       2m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.42%
 ```
 #### 💻 My coding activity
