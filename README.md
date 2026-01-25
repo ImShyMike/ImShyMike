@@ -16,8 +16,8 @@ A student who likes coding and gaming!
 #### 📦 My most popular repos
 
 - [`waka-relay`](https://github.com/ImShyMike/waka-relay) - _📊 A self-hosted app that relays WakaTime heartbeats to multiple instances_ **(32⭐)**
+- [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(19⭐)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(19⭐)**
-- [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(18⭐)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(11⭐)**
 - [`spaces`](https://github.com/hackclub/spaces) - __ **(8⭐)**
 
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Rust            7h 15m 21s    █████████████░░░░░░░░░░░░  51.71%
-Svelte          2h 39m 15s    █████░░░░░░░░░░░░░░░░░░░░  18.92%
-SQL             56m 55s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.76%
-Markdown        49m 13s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.85%
-TypeScript      45m 47s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.44%
+Rust            7h 16m 30s    █████████████░░░░░░░░░░░░  51.44%
+Svelte          2h 43m 14s    █████░░░░░░░░░░░░░░░░░░░░  19.24%
+SQL             58m 26s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.89%
+Markdown        49m 13s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.80%
+TypeScript      45m 47s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.40%
 
 💼 Projects:
-rustytime-dev   13h 50m 50s   █████████████████████████  98.39%
+rustytime-dev   13h 57m 47s   █████████████████████████  98.40%
 timesplit       7m 17s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.86%
-site            2m 9s         █░░░░░░░░░░░░░░░░░░░░░░░░  0.26%
+site            2m 9s         █░░░░░░░░░░░░░░░░░░░░░░░░  0.25%
 hackatime       2m 5s         █░░░░░░░░░░░░░░░░░░░░░░░░  0.25%
-homepage-v2     2m 4s         █░░░░░░░░░░░░░░░░░░░░░░░░  0.25%
+homepage-v2     2m 4s         █░░░░░░░░░░░░░░░░░░░░░░░░  0.24%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&standalone=true" title="Click to view detailed data for each day!">
