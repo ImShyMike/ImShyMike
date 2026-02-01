@@ -16,7 +16,7 @@ A student who likes coding and gaming!
 #### 📦 My most popular repos
 
 - [`waka-relay`](https://github.com/ImShyMike/waka-relay) - _📊 A self-hosted app that relays WakaTime heartbeats to multiple instances_ **(32⭐)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(23⭐)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(24⭐)**
 - [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(19⭐)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(11⭐)**
 - [`spaces`](https://github.com/hackclub/spaces) - __ **(8⭐)**
