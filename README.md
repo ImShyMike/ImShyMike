@@ -4,7 +4,7 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`hades`](https://github.com/ImShyMike/hades) - _transparent slack message anonymizer_ **(5 days ago)**
+- [`hades`](https://github.com/ImShyMike/hades) - _transparent slack message anonymizer_ **(6 days ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 week ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 week ago)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(1 week ago)**
@@ -30,16 +30,16 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python          3h 14m 51s   ███████████░░░░░░░░░░░░░░  43.74%
-Rust            1h 10m 9s    ████░░░░░░░░░░░░░░░░░░░░░  15.75%
-Svelte          41m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  9.29%
-SQL             30m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.95%
-Markdown        29m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.71%
+Python          3h 14m 51s   ██████████████████░░░░░░░  70.99%
+Markdown        25m 35s      ███░░░░░░░░░░░░░░░░░░░░░░  9.32%
+JavaScript      18m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.59%
+Toml            16m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.95%
+Unknown         7m 29s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.73%
 
 💼 Projects:
-hades           4h 0m 27s    ███████████████░░░░░░░░░░  56.38%
-rustytime-dev   3h 1m 55s    ███████████░░░░░░░░░░░░░░  42.66%
-warp-tui        4m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.96%
+hades           4h 0m 27s    █████████████████████████  97.53%
+warp-tui        4m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.66%
+rustytime-dev   2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.81%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&standalone=true" title="Click to view detailed data for each day!">
