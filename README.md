@@ -4,13 +4,13 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(today)**
-- [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(today)**
-- [`hades`](https://github.com/ImShyMike/hades) - _transparent slack message anonymizer_ **(today)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 day ago)**
+- [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(1 day ago)**
+- [`hades`](https://github.com/ImShyMike/hades) - _transparent slack message anonymizer_ **(1 day ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 week ago)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(1 week ago)**
 - [`aces`](https://github.com/hackclub/aces) - _Design your own virtual board or card game, receive a grant to get it physically, and an invite to an in-person hackathon in DC!_ **(2 weeks ago)**
-- [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(2 weeks ago)**
+- [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(3 weeks ago)**
 - [`ADallower`](https://github.com/ImShyMike/ADallower) - _turn website ads into amazing works of art!_ **(3 weeks ago)**
 
 #### 📦 My most popular repos
@@ -30,17 +30,17 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python              3h 20m 33s   ████████████░░░░░░░░░░░░░  46.17%
-Rust                1h 29m 6s    ██████░░░░░░░░░░░░░░░░░░░  20.51%
-Svelte              34m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.87%
-Toml                28m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.66%
-Markdown            25m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.89%
+Rust                1h 29m 6s   ███████████░░░░░░░░░░░░░░  41.37%
+Svelte              34m 12s     ████░░░░░░░░░░░░░░░░░░░░░  15.88%
+Python              22m 38s     ███░░░░░░░░░░░░░░░░░░░░░░  10.51%
+Toml                18m 39s     ███░░░░░░░░░░░░░░░░░░░░░░  8.66%
+JavaScript          18m 5s      ███░░░░░░░░░░░░░░░░░░░░░░  8.40%
 
 💼 Projects:
-hades               4h 6m 57s    ████████████████░░░░░░░░░  61.23%
-hackatime-heatmap   2h 3m 42s    ████████░░░░░░░░░░░░░░░░░  30.67%
-rustytime-dev       28m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.08%
-warp-tui            4m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.01%
+hackatime-heatmap   2h 3m 42s   ████████████████░░░░░░░░░  63.09%
+hades               39m 43s     ██████░░░░░░░░░░░░░░░░░░░  20.26%
+rustytime-dev       28m 34s     ████░░░░░░░░░░░░░░░░░░░░░  14.57%
+warp-tui            4m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.08%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&standalone=true" title="Click to view detailed data for each day!">
