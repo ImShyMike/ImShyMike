@@ -4,12 +4,12 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(today)**
-- [`hades`](https://github.com/ImShyMike/hades) - _transparent slack message anonymizer_ **(today)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 day ago)**
+- [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(1 day ago)**
+- [`hades`](https://github.com/ImShyMike/hades) - _transparent slack message anonymizer_ **(1 day ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(2 days ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 week ago)**
-- [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(1 week ago)**
-- [`aces`](https://github.com/hackclub/aces) - _Design your own virtual board or card game, receive a grant to get it physically, and an invite to an in-person hackathon in DC!_ **(2 weeks ago)**
+- [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(2 weeks ago)**
+- [`aces`](https://github.com/hackclub/aces) - _Design your own virtual board or card game, receive a grant to get it physically, and an invite to an in-person hackathon in DC!_ **(3 weeks ago)**
 - [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(3 weeks ago)**
 - [`ADallower`](https://github.com/ImShyMike/ADallower) - _turn website ads into amazing works of art!_ **(3 weeks ago)**
 
@@ -24,24 +24,24 @@ A student who likes coding and gaming!
 #### 🔨 My recent pull requests
 
 - [**Lets flash the admin api key**](https://github.com/hackclub/hackatime/pull/822) on [`hackatime`](https://github.com/hackclub/hackatime) **(1 week ago)**
-- [**revert Dockerfile change**](https://github.com/hackclub/aces/pull/31) on [`aces`](https://github.com/hackclub/aces) **(2 weeks ago)**
+- [**revert Dockerfile change**](https://github.com/hackclub/aces/pull/31) on [`aces`](https://github.com/hackclub/aces) **(3 weeks ago)**
 - [**Fix submit for day 11 and 12**](https://github.com/hackclub/haxmas/pull/12) on [`haxmas`](https://github.com/hackclub/haxmas) **(1 month ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Rust                2h 16m 29s   ███████████░░░░░░░░░░░░░░  41.58%
-Svelte              1h 10m 40s   ██████░░░░░░░░░░░░░░░░░░░  21.53%
-Toml                28m 7s       ███░░░░░░░░░░░░░░░░░░░░░░  8.57%
-Python              22m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.90%
-JavaScript          18m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.53%
+Rust                2h 18m 27s   ████████████░░░░░░░░░░░░░  46.91%
+Svelte              1h 10m 40s   ██████░░░░░░░░░░░░░░░░░░░  23.94%
+Toml                24m 2s       ███░░░░░░░░░░░░░░░░░░░░░░  8.15%
+Unknown             12m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.14%
+TypeScript          11m 14s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.81%
 
 💼 Projects:
-hackatime-heatmap   3h 49m 21s   ███████████████████░░░░░░  73.73%
-hades               43m 23s      ████░░░░░░░░░░░░░░░░░░░░░  13.95%
-rustytime-dev       28m 34s      ███░░░░░░░░░░░░░░░░░░░░░░  9.18%
-hackatime           5m 39s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.82%
-warp-tui            4m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.31%
+hackatime-heatmap   3h 53m 43s   █████████████████████░░░░  82.28%
+rustytime-dev       28m 34s      ███░░░░░░░░░░░░░░░░░░░░░░  10.06%
+hades               12m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.28%
+hackatime           5m 39s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.99%
+unknown             3m 55s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.38%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&standalone=true" title="Click to view detailed data for each day!">
