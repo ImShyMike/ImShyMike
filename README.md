@@ -4,9 +4,9 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
+- [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(today)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(today)**
 - [`hades`](https://github.com/ImShyMike/hades) - _transparent slack message anonymizer_ **(1 day ago)**
-- [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(1 day ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 week ago)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(2 weeks ago)**
 - [`aces`](https://github.com/hackclub/aces) - _Design your own virtual board or card game, receive a grant to get it physically, and an invite to an in-person hackathon in DC!_ **(3 weeks ago)**
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Rust                2h 23m 22s   ████████████░░░░░░░░░░░░░  47.40%
-Svelte              1h 10m 40s   ██████░░░░░░░░░░░░░░░░░░░  23.37%
-Toml                24m 8s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.98%
-Unknown             12m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.04%
-TypeScript          11m 29s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.80%
+Rust                3h 5m 40s    ██████████████░░░░░░░░░░░  53.86%
+Svelte              1h 10m 40s   ██████░░░░░░░░░░░░░░░░░░░  20.50%
+Toml                24m 8s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.00%
+Unknown             12m 13s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.54%
+TypeScript          11m 29s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.33%
 
 💼 Projects:
-hackatime-heatmap   3h 58m 7s    █████████████████████░░░░  81.63%
-rustytime-dev       31m 49s      ███░░░░░░░░░░░░░░░░░░░░░░  10.91%
-hades               12m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.17%
-hackatime           5m 39s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.94%
-unknown             3m 55s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.35%
+hackatime-heatmap   4h 40m 26s   █████████████████████░░░░  83.96%
+rustytime-dev       31m 49s      ███░░░░░░░░░░░░░░░░░░░░░░  9.53%
+hades               12m 9s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.64%
+hackatime           5m 39s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.69%
+unknown             3m 55s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.18%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&standalone=true" title="Click to view detailed data for each day!">
