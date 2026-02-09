@@ -22,10 +22,10 @@ A student who likes coding and gaming!
 {{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
 ```
 #### 💻 My coding activity
-<a href="https://heatmap.shymike.dev?id=263&standalone=true" title="Click to view detailed data for each day!">
+<a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=263&theme=dark">
-        <img alt="Hackatime activity heatmap." src="https://heatmap.shymike.dev?id=263&theme=light">
+        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=263&labels=true&theme=dark">
+        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=263&labels=true&theme=light">
     </picture>
 </a>
 
