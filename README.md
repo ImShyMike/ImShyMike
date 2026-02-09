@@ -5,8 +5,8 @@ A student who likes coding and gaming!
 #### 🏗️ What I've been working on
 
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 day ago)**
-- [`hades`](https://github.com/ImShyMike/hades) - _transparent slack message anonymizer_ **(3 days ago)**
 - [`site`](https://github.com/hackclub/site) - _🌈 The new, new Hack Club website (uses Next.js & Theme UI)._ **(3 days ago)**
+- [`hades`](https://github.com/ImShyMike/hades) - _transparent slack message anonymizer_ **(3 days ago)**
 - [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(4 days ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(4 days ago)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(2 weeks ago)**
@@ -44,10 +44,10 @@ hades               22m 19s      █░░░░░░░░░░░░░░�
 shymike.dev         18m 57s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.10%
 ```
 #### 💻 My coding activity
-<a href="https://heatmap.shymike.dev?id=263&standalone=true" title="Click to view detailed data for each day!">
+<a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=263&theme=dark">
-        <img alt="Hackatime activity heatmap." src="https://heatmap.shymike.dev?id=263&theme=light">
+        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=263&labels=true&theme=dark">
+        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=263&labels=true&theme=light">
     </picture>
 </a>
 
