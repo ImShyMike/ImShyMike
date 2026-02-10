@@ -17,7 +17,7 @@ A student who likes coding and gaming!
 
 - [`waka-relay`](https://github.com/ImShyMike/waka-relay) - _📊 A self-hosted app that relays WakaTime heartbeats to multiple instances_ **(32⭐)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(24⭐)**
-- [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(21⭐)**
+- [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(22⭐)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(12⭐)**
 - [`spaces`](https://github.com/hackclub/spaces) - __ **(8⭐)**
 
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Rust                4h 56m 36s   ██████░░░░░░░░░░░░░░░░░░░  23.78%
-Python              3h 38m 56s   █████░░░░░░░░░░░░░░░░░░░░  17.55%
-Unknown             1h 40m 57s   ███░░░░░░░░░░░░░░░░░░░░░░  8.09%
-Bash                1h 35m 47s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.68%
-YAML                1h 31m 24s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.33%
+Rust                4h 56m 36s   ██████░░░░░░░░░░░░░░░░░░░  23.70%
+Python              3h 38m 56s   █████░░░░░░░░░░░░░░░░░░░░  17.49%
+Unknown             1h 40m 57s   ███░░░░░░░░░░░░░░░░░░░░░░  8.07%
+Bash                1h 35m 47s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.65%
+YAML                1h 31m 24s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.30%
 
 💼 Projects:
-hackatime-heatmap   6h 54m 37s   ████████████░░░░░░░░░░░░░  47.26%
-slack-url-watcher   4h 1m 59s    ███████░░░░░░░░░░░░░░░░░░  27.58%
-hades               39m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.54%
-shymike.dev         34m 57s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.98%
-joe                 28m 44s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.28%
+hackatime-heatmap   6h 54m 37s   ████████████░░░░░░░░░░░░░  47.03%
+slack-url-watcher   4h 1m 59s    ███████░░░░░░░░░░░░░░░░░░  27.45%
+hades               39m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.52%
+shymike.dev         34m 57s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.96%
+joe                 28m 44s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.26%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
