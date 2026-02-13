@@ -4,13 +4,13 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(1 day ago)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 day ago)**
-- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(4 days ago)**
-- [`site`](https://github.com/hackclub/site) - _🌈 The new, new Hack Club website (uses Next.js & Theme UI)._ **(6 days ago)**
-- [`hades`](https://github.com/ImShyMike/hades) - _transparent slack message anonymizer_ **(6 days ago)**
+- [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(2 days ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(2 days ago)**
+- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(5 days ago)**
+- [`site`](https://github.com/hackclub/site) - _🌈 The new, new Hack Club website (uses Next.js & Theme UI)._ **(1 week ago)**
+- [`hades`](https://github.com/ImShyMike/hades) - _transparent slack message anonymizer_ **(1 week ago)**
 - [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(1 week ago)**
-- [`aces`](https://github.com/hackclub/aces) - _Design your own virtual board or card game, receive a grant to get it physically, and an invite to an in-person hackathon in DC!_ **(4 weeks ago)**
+- [`aces`](https://github.com/hackclub/aces) - _Design your own virtual board or card game, receive a grant to get it physically, and an invite to an in-person hackathon in DC!_ **(1 month ago)**
 - [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(1 month ago)**
 
 #### 📦 My most popular repos
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Update acknowledged.json - update self**](https://github.com/hackclub/site/pull/1841) on [`site`](https://github.com/hackclub/site) **(6 days ago)**
-- [**Lets flash the admin api key**](https://github.com/hackclub/hackatime/pull/822) on [`hackatime`](https://github.com/hackclub/hackatime) **(2 weeks ago)**
-- [**revert Dockerfile change**](https://github.com/hackclub/aces/pull/31) on [`aces`](https://github.com/hackclub/aces) **(4 weeks ago)**
+- [**Update acknowledged.json - update self**](https://github.com/hackclub/site/pull/1841) on [`site`](https://github.com/hackclub/site) **(1 week ago)**
+- [**Lets flash the admin api key**](https://github.com/hackclub/hackatime/pull/822) on [`hackatime`](https://github.com/hackclub/hackatime) **(3 weeks ago)**
+- [**revert Dockerfile change**](https://github.com/hackclub/aces/pull/31) on [`aces`](https://github.com/hackclub/aces) **(1 month ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python              12h 42m 34s   ██████████░░░░░░░░░░░░░░░  39.47%
-Svelte              3h 52m 8s     ████░░░░░░░░░░░░░░░░░░░░░  12.02%
-Rust                2h 41m 40s    ███░░░░░░░░░░░░░░░░░░░░░░  8.37%
-Bash                2h 33m 0s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.92%
-TypeScript          2h 12m 23s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.85%
+Python              13h 5m 34s   ███████████░░░░░░░░░░░░░░  41.57%
+Svelte              3h 52m 8s    ████░░░░░░░░░░░░░░░░░░░░░  12.29%
+Bash                2h 33m 0s    ███░░░░░░░░░░░░░░░░░░░░░░  8.10%
+TypeScript          2h 16m 38s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.23%
+Rust                2h 3m 39s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.54%
 
 💼 Projects:
-Fraudpheus          9h 21m 45s    ██████████░░░░░░░░░░░░░░░  38.68%
-rustytime           5h 54m 59s    ███████░░░░░░░░░░░░░░░░░░  24.45%
-slack-url-watcher   4h 11m 45s    █████░░░░░░░░░░░░░░░░░░░░  17.34%
-hackatime-heatmap   1h 17m 36s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.34%
-aces-backend        37m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.57%
+Fraudpheus          9h 21m 45s   ███████████░░░░░░░░░░░░░░  40.04%
+rustytime           5h 54m 59s   ███████░░░░░░░░░░░░░░░░░░  25.30%
+slack-url-watcher   4h 11m 45s   █████░░░░░░░░░░░░░░░░░░░░  17.94%
+refurbed-parser     42m 37s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.04%
+aces-backend        37m 17s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.66%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
