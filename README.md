@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
+- [**Add heatmap to badges page**](https://github.com/hackclub/hackatime/pull/981) on [`hackatime`](https://github.com/hackclub/hackatime) **(today)**
 - [**Update acknowledged.json - update self**](https://github.com/hackclub/site/pull/1841) on [`site`](https://github.com/hackclub/site) **(1 week ago)**
 - [**Lets flash the admin api key**](https://github.com/hackclub/hackatime/pull/822) on [`hackatime`](https://github.com/hackclub/hackatime) **(3 weeks ago)**
-- [**revert Dockerfile change**](https://github.com/hackclub/aces/pull/31) on [`aces`](https://github.com/hackclub/aces) **(1 month ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python              12h 39m 1s   █████████████░░░░░░░░░░░░  51.51%
-Svelte              2h 10m 52s   ███░░░░░░░░░░░░░░░░░░░░░░  8.88%
-Bash                1h 40m 16s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.80%
-Unknown             1h 26m 35s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.88%
-YAML                51m 41s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.51%
+Python              12h 39m 1s   █████████████░░░░░░░░░░░░  50.71%
+Svelte              2h 21m 27s   ███░░░░░░░░░░░░░░░░░░░░░░  9.45%
+Bash                1h 40m 16s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.70%
+Unknown             1h 26m 35s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.78%
+YAML                51m 41s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.45%
 
 💼 Projects:
-Fraudpheus          9h 21m 45s   █████████████░░░░░░░░░░░░  50.56%
-hackatime-scraper   3h 17m 18s   █████░░░░░░░░░░░░░░░░░░░░  17.76%
-rustytime           1h 59m 55s   ███░░░░░░░░░░░░░░░░░░░░░░  10.79%
-shymike.dev         1h 2m 21s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.61%
-refurbed-parser     55m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.00%
+Fraudpheus          9h 21m 45s   █████████████░░░░░░░░░░░░  49.75%
+hackatime-scraper   3h 17m 18s   █████░░░░░░░░░░░░░░░░░░░░  17.47%
+rustytime           1h 59m 55s   ███░░░░░░░░░░░░░░░░░░░░░░  10.62%
+shymike.dev         1h 2m 21s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.52%
+hackatime           57m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.13%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
