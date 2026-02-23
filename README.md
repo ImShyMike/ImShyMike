@@ -5,9 +5,9 @@ A student who likes coding and gaming!
 #### 🏗️ What I've been working on
 
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(today)**
-- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, Wakatime-compatible coding time tracker_ **(3 days ago)**
-- [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(3 days ago)**
-- [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(5 days ago)**
+- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, Wakatime-compatible coding time tracker_ **(4 days ago)**
+- [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(4 days ago)**
+- [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(6 days ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 week ago)**
 - [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(1 week ago)**
 - [`site`](https://github.com/hackclub/site) - _🌈 The new, new Hack Club website (uses Next.js & Theme UI)._ **(2 weeks ago)**
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Add heatmap to badges page**](https://github.com/hackclub/hackatime/pull/981) on [`hackatime`](https://github.com/hackclub/hackatime) **(4 days ago)**
+- [**Add heatmap to badges page**](https://github.com/hackclub/hackatime/pull/981) on [`hackatime`](https://github.com/hackclub/hackatime) **(5 days ago)**
 - [**Update acknowledged.json - update self**](https://github.com/hackclub/site/pull/1841) on [`site`](https://github.com/hackclub/site) **(2 weeks ago)**
 - [**Lets flash the admin api key**](https://github.com/hackclub/hackatime/pull/822) on [`hackatime`](https://github.com/hackclub/hackatime) **(1 month ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python              4h 50m 35s   ████████░░░░░░░░░░░░░░░░░  28.19%
-TypeScript          1h 47m 22s   ███░░░░░░░░░░░░░░░░░░░░░░  10.42%
-Svelte              1h 44m 59s   ███░░░░░░░░░░░░░░░░░░░░░░  10.18%
-Rust                1h 39m 9s    ███░░░░░░░░░░░░░░░░░░░░░░  9.62%
-Unknown             1h 10m 23s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.83%
+Python              4h 35m 48s   ███████░░░░░░░░░░░░░░░░░░  27.59%
+TypeScript          1h 55m 36s   ███░░░░░░░░░░░░░░░░░░░░░░  11.56%
+Svelte              1h 44m 59s   ███░░░░░░░░░░░░░░░░░░░░░░  10.50%
+Rust                1h 39m 9s    ███░░░░░░░░░░░░░░░░░░░░░░  9.92%
+Unknown             1h 4m 5s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.41%
 
 💼 Projects:
-rustytime           4h 31m 47s   █████████░░░░░░░░░░░░░░░░  35.19%
-Fraudpheus          2h 24m 59s   █████░░░░░░░░░░░░░░░░░░░░  18.77%
-hackatime-scraper   1h 56m 36s   ████░░░░░░░░░░░░░░░░░░░░░  15.10%
-firehose            1h 12m 26s   ███░░░░░░░░░░░░░░░░░░░░░░  9.38%
-hackatime           57m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.49%
+rustytime           4h 40m 0s    ██████████░░░░░░░░░░░░░░░  36.80%
+Fraudpheus          2h 24m 59s   █████░░░░░░░░░░░░░░░░░░░░  19.06%
+hackatime-scraper   1h 36m 56s   ████░░░░░░░░░░░░░░░░░░░░░  12.74%
+firehose            1h 12m 26s   ███░░░░░░░░░░░░░░░░░░░░░░  9.52%
+hackatime           57m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.61%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
