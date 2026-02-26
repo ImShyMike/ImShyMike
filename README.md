@@ -4,9 +4,9 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(2 days ago)**
-- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, Wakatime-compatible coding time tracker_ **(6 days ago)**
-- [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(6 days ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(3 days ago)**
+- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, Wakatime-compatible coding time tracker_ **(1 week ago)**
+- [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(1 week ago)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(1 week ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 week ago)**
 - [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(2 weeks ago)**
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python              3h 49m 27s   ████████░░░░░░░░░░░░░░░░░  28.49%
-TypeScript          2h 15m 12s   █████░░░░░░░░░░░░░░░░░░░░  16.79%
-Svelte              1h 33m 32s   ███░░░░░░░░░░░░░░░░░░░░░░  11.61%
-Rust                1h 13m 54s   ███░░░░░░░░░░░░░░░░░░░░░░  9.18%
-MySQL               1h 2m 49s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.80%
+Python              2h 38m 35s   ████████░░░░░░░░░░░░░░░░░  28.18%
+TypeScript          1h 58m 32s   ██████░░░░░░░░░░░░░░░░░░░  21.06%
+Rust                1h 5m 9s     ███░░░░░░░░░░░░░░░░░░░░░░  11.58%
+MySQL               1h 2m 49s    ███░░░░░░░░░░░░░░░░░░░░░░  11.16%
+SQL                 38m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.77%
 
 💼 Projects:
-rustytime           4h 24m 23s   ███████████░░░░░░░░░░░░░░  40.16%
-Fraudpheus          2h 24m 59s   ██████░░░░░░░░░░░░░░░░░░░  22.02%
-firehose            1h 12m 26s   ███░░░░░░░░░░░░░░░░░░░░░░  11.00%
-hackatime           42m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.46%
-hackatime-scraper   36m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.50%
+rustytime           3h 55m 48s   █████████████░░░░░░░░░░░░  49.02%
+Fraudpheus          1h 37m 13s   ██████░░░░░░░░░░░░░░░░░░░  20.21%
+firehose            1h 4m 15s    ████░░░░░░░░░░░░░░░░░░░░░  13.36%
+hackatime-scraper   34m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.11%
+hades               31m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.62%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
