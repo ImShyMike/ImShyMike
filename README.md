@@ -4,10 +4,10 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`beneath-the-surface`](https://github.com/ayoreis/beneath-the-surface) - __ **(today)**
-- [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(1 day ago)**
-- [`Eryx`](https://github.com/ImShyMike/Eryx) - _A decently fast and simple dynamically typed programming language similar to javascript/python._ **(1 day ago)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(2 days ago)**
+- [`beneath-the-surface`](https://github.com/ayoreis/beneath-the-surface) - __ **(1 day ago)**
+- [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(2 days ago)**
+- [`Eryx`](https://github.com/ImShyMike/Eryx) - _A decently fast and simple dynamically typed programming language similar to javascript/python._ **(2 days ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(3 days ago)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, Wakatime-compatible coding time tracker_ **(1 week ago)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(1 week ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(2 weeks ago)**
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript          1h 17m 0s    █████░░░░░░░░░░░░░░░░░░░░  18.71%
-Rust                1h 9m 24s    █████░░░░░░░░░░░░░░░░░░░░  16.86%
-MySQL               58m 37s      ████░░░░░░░░░░░░░░░░░░░░░  14.24%
-Svelte              48m 59s      ███░░░░░░░░░░░░░░░░░░░░░░  11.90%
-Python              33m 50s      ███░░░░░░░░░░░░░░░░░░░░░░  8.22%
+TypeScript          1h 17m 0s    ██████░░░░░░░░░░░░░░░░░░░  23.61%
+Rust                1h 0m 40s    █████░░░░░░░░░░░░░░░░░░░░  18.60%
+Svelte              48m 59s      ████░░░░░░░░░░░░░░░░░░░░░  15.02%
+Python              33m 50s      ███░░░░░░░░░░░░░░░░░░░░░░  10.37%
+TOML                29m 12s      ███░░░░░░░░░░░░░░░░░░░░░░  8.95%
 
 💼 Projects:
-rustytime           4h 48m 54s   █████████████████████░░░░  81.44%
-hades               31m 50s      ███░░░░░░░░░░░░░░░░░░░░░░  8.97%
-hackatime-heatmap   27m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.77%
-Eryx                4m 11s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.18%
-Fraudpheus          2m 15s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.63%
+rustytime           3h 25m 36s   ███████████████████░░░░░░  75.75%
+hades               31m 50s      ███░░░░░░░░░░░░░░░░░░░░░░  11.73%
+hackatime-heatmap   27m 34s      ███░░░░░░░░░░░░░░░░░░░░░░  10.16%
+Eryx                4m 11s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.54%
+Fraudpheus          2m 15s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.83%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
