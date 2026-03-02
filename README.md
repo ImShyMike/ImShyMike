@@ -30,11 +30,11 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python              1h 43m 33s   ████████░░░░░░░░░░░░░░░░░  29.69%
-TypeScript          42m 37s      ████░░░░░░░░░░░░░░░░░░░░░  12.22%
-TOML                40m 13s      ███░░░░░░░░░░░░░░░░░░░░░░  11.53%
-unknown             33m 24s      ███░░░░░░░░░░░░░░░░░░░░░░  9.58%
-JSON                24m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.06%
+Python              1h 43m 33s   ████████░░░░░░░░░░░░░░░░░  29.52%
+TypeScript          42m 37s      ████░░░░░░░░░░░░░░░░░░░░░  12.15%
+TOML                40m 13s      ███░░░░░░░░░░░░░░░░░░░░░░  11.46%
+unknown             35m 24s      ███░░░░░░░░░░░░░░░░░░░░░░  10.09%
+JSON                24m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.02%
 
 💼 Projects:
 Eryx                1h 40m 29s   ███████████░░░░░░░░░░░░░░  40.27%
