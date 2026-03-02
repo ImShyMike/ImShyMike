@@ -4,8 +4,8 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
+- [`Eryx`](https://github.com/ImShyMike/Eryx) - _A decently fast and simple dynamically typed programming language similar to javascript/python._ **(today)**
 - [`mushroots`](https://github.com/ayoreis/mushroots) - __ **(1 day ago)**
-- [`Eryx`](https://github.com/ImShyMike/Eryx) - _A decently fast and simple dynamically typed programming language similar to javascript/python._ **(1 day ago)**
 - [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(3 days ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(4 days ago)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, Wakatime-compatible coding time tracker_ **(1 week ago)**
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python              47m 51s      ██████░░░░░░░░░░░░░░░░░░░  22.70%
-TypeScript          42m 37s      ██████░░░░░░░░░░░░░░░░░░░  20.22%
-TOML                27m 17s      ████░░░░░░░░░░░░░░░░░░░░░  12.94%
-unknown             23m 0s       ███░░░░░░░░░░░░░░░░░░░░░░  10.91%
-Rust                17m 23s      ███░░░░░░░░░░░░░░░░░░░░░░  8.25%
+Python              53m 57s      ██████░░░░░░░░░░░░░░░░░░░  23.25%
+TypeScript          42m 37s      █████░░░░░░░░░░░░░░░░░░░░  18.37%
+TOML                34m 37s      ████░░░░░░░░░░░░░░░░░░░░░  14.92%
+unknown             25m 0s       ███░░░░░░░░░░░░░░░░░░░░░░  10.77%
+JSON                18m 2s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.77%
 
 💼 Projects:
-rustytime           1h 27m 23s   █████████████░░░░░░░░░░░░  50.54%
-hades               31m 50s      █████░░░░░░░░░░░░░░░░░░░░  18.41%
-hackatime-heatmap   27m 34s      ████░░░░░░░░░░░░░░░░░░░░░  15.94%
-Eryx                23m 52s      ████░░░░░░░░░░░░░░░░░░░░░  13.80%
-Fraudpheus          2m 15s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.30%
+rustytime           1h 27m 23s   █████████████░░░░░░░░░░░░  48.08%
+Eryx                32m 42s      █████░░░░░░░░░░░░░░░░░░░░  17.99%
+hades               31m 50s      █████░░░░░░░░░░░░░░░░░░░░  17.52%
+hackatime-heatmap   27m 34s      ████░░░░░░░░░░░░░░░░░░░░░  15.17%
+Fraudpheus          2m 15s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.24%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
