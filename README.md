@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python              55m 57s      ██████░░░░░░░░░░░░░░░░░░░  23.91%
-TypeScript          42m 37s      █████░░░░░░░░░░░░░░░░░░░░  18.21%
-TOML                34m 37s      ████░░░░░░░░░░░░░░░░░░░░░  14.79%
-unknown             25m 0s       ███░░░░░░░░░░░░░░░░░░░░░░  10.68%
-JSON                18m 2s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.70%
+Python              57m 57s      ███████░░░░░░░░░░░░░░░░░░  24.55%
+TypeScript          42m 37s      █████░░░░░░░░░░░░░░░░░░░░  18.05%
+TOML                34m 37s      ████░░░░░░░░░░░░░░░░░░░░░  14.66%
+unknown             25m 0s       ███░░░░░░░░░░░░░░░░░░░░░░  10.59%
+JSON                18m 2s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.64%
 
 💼 Projects:
-rustytime           1h 27m 23s   ████████████░░░░░░░░░░░░░  47.56%
-Eryx                34m 42s      █████░░░░░░░░░░░░░░░░░░░░  18.89%
-hades               31m 50s      █████░░░░░░░░░░░░░░░░░░░░  17.33%
-hackatime-heatmap   27m 34s      ████░░░░░░░░░░░░░░░░░░░░░  15.00%
-Fraudpheus          2m 15s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.22%
+rustytime           1h 27m 23s   ████████████░░░░░░░░░░░░░  47.05%
+Eryx                36m 42s      █████░░░░░░░░░░░░░░░░░░░░  19.76%
+hades               31m 50s      █████░░░░░░░░░░░░░░░░░░░░  17.14%
+hackatime-heatmap   27m 34s      ████░░░░░░░░░░░░░░░░░░░░░  14.84%
+Fraudpheus          2m 15s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.21%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
