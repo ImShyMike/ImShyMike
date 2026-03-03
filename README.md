@@ -8,10 +8,10 @@ A student who likes coding and gaming!
 - [`mushroots`](https://github.com/ayoreis/mushroots) - __ **(2 days ago)**
 - [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(4 days ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(5 days ago)**
+- [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) - _Bot to communicate with people and staff members on Slack_ **(1 week ago)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, Wakatime-compatible coding time tracker_ **(1 week ago)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(2 weeks ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(2 weeks ago)**
-- [`aces-backend`](https://github.com/hackclub/aces-backend) - _acing the deck_ **(3 weeks ago)**
 
 #### 📦 My most popular repos
 
@@ -23,24 +23,24 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
+- [**V2 or something**](https://github.com/BudzioT/Fraudpheus/pull/28) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(today)**
 - [**Add heatmap to badges page**](https://github.com/hackclub/hackatime/pull/981) on [`hackatime`](https://github.com/hackclub/hackatime) **(1 week ago)**
 - [**Update acknowledged.json - update self**](https://github.com/hackclub/site/pull/1841) on [`site`](https://github.com/hackclub/site) **(3 weeks ago)**
-- [**Lets flash the admin api key**](https://github.com/hackclub/hackatime/pull/822) on [`hackatime`](https://github.com/hackclub/hackatime) **(1 month ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python              1h 11m 47s   ███████░░░░░░░░░░░░░░░░░░  24.67%
-unknown             37m 24s      ████░░░░░░░░░░░░░░░░░░░░░  12.86%
-TOML                36m 13s      ████░░░░░░░░░░░░░░░░░░░░░  12.45%
-JSON                26m 37s      ███░░░░░░░░░░░░░░░░░░░░░░  9.15%
-Markdown            18m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.51%
+Python              1h 11m 47s   ███████░░░░░░░░░░░░░░░░░░  24.34%
+unknown             37m 24s      ████░░░░░░░░░░░░░░░░░░░░░  12.68%
+TOML                36m 13s      ████░░░░░░░░░░░░░░░░░░░░░  12.28%
+JSON                26m 37s      ███░░░░░░░░░░░░░░░░░░░░░░  9.02%
+Markdown            20m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.10%
 
 💼 Projects:
-Eryx                1h 42m 38s   ██████████████░░░░░░░░░░░  52.86%
-rustytime           1h 1m 43s    ████████░░░░░░░░░░░░░░░░░  31.79%
-hackatime-heatmap   27m 34s      ████░░░░░░░░░░░░░░░░░░░░░  14.20%
-Fraudpheus          2m 15s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.16%
+Eryx                1h 42m 38s   █████████████░░░░░░░░░░░░  51.79%
+rustytime           1h 1m 43s    ████████░░░░░░░░░░░░░░░░░  31.14%
+hackatime-heatmap   27m 34s      ████░░░░░░░░░░░░░░░░░░░░░  13.91%
+Fraudpheus          6m 15s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.15%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
