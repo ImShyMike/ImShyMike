@@ -4,12 +4,12 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`Eryx`](https://github.com/ImShyMike/Eryx) - _A decently fast and simple dynamically typed programming language similar to javascript/python._ **(2 days ago)**
-- [`mushroots`](https://github.com/ayoreis/mushroots) - __ **(3 days ago)**
-- [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(5 days ago)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(6 days ago)**
-- [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) - _Bot to communicate with people and staff members on Slack_ **(1 week ago)**
-- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, Wakatime-compatible coding time tracker_ **(1 week ago)**
+- [`Eryx`](https://github.com/ImShyMike/Eryx) - _A decently fast and simple dynamically typed programming language similar to javascript/python._ **(3 days ago)**
+- [`mushroots`](https://github.com/ayoreis/mushroots) - __ **(4 days ago)**
+- [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(6 days ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 week ago)**
+- [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) - _Bot to communicate with people and staff members on Slack_ **(2 weeks ago)**
+- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, Wakatime-compatible coding time tracker_ **(2 weeks ago)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(2 weeks ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(2 weeks ago)**
 
@@ -23,7 +23,7 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**V2 or something**](https://github.com/BudzioT/Fraudpheus/pull/28) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(1 day ago)**
+- [**V2 or something**](https://github.com/BudzioT/Fraudpheus/pull/28) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(2 days ago)**
 - [**Add heatmap to badges page**](https://github.com/hackclub/hackatime/pull/981) on [`hackatime`](https://github.com/hackclub/hackatime) **(2 weeks ago)**
 - [**Update acknowledged.json - update self**](https://github.com/hackclub/site/pull/1841) on [`site`](https://github.com/hackclub/site) **(3 weeks ago)**
 
