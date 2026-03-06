@@ -4,9 +4,9 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`Eryx`](https://github.com/ImShyMike/Eryx) - _A decently fast and simple dynamically typed programming language similar to javascript/python._ **(3 days ago)**
-- [`mushroots`](https://github.com/ayoreis/mushroots) - __ **(4 days ago)**
-- [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(6 days ago)**
+- [`Eryx`](https://github.com/ImShyMike/Eryx) - _A decently fast and simple dynamically typed programming language similar to javascript/python._ **(today)**
+- [`mushroots`](https://github.com/ayoreis/mushroots) - __ **(5 days ago)**
+- [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(1 week ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 week ago)**
 - [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) - _Bot to communicate with people and staff members on Slack_ **(2 weeks ago)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, Wakatime-compatible coding time tracker_ **(2 weeks ago)**
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**V2 or something**](https://github.com/BudzioT/Fraudpheus/pull/28) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(2 days ago)**
+- [**V2 or something**](https://github.com/BudzioT/Fraudpheus/pull/28) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(3 days ago)**
 - [**Add heatmap to badges page**](https://github.com/hackclub/hackatime/pull/981) on [`hackatime`](https://github.com/hackclub/hackatime) **(2 weeks ago)**
-- [**Update acknowledged.json - update self**](https://github.com/hackclub/site/pull/1841) on [`site`](https://github.com/hackclub/site) **(3 weeks ago)**
+- [**Update acknowledged.json - update self**](https://github.com/hackclub/site/pull/1841) on [`site`](https://github.com/hackclub/site) **(4 weeks ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python              1h 13m 47s   █████░░░░░░░░░░░░░░░░░░░░  18.41%
-unknown             47m 53s      ███░░░░░░░░░░░░░░░░░░░░░░  11.95%
-TOML                46m 35s      ███░░░░░░░░░░░░░░░░░░░░░░  11.63%
-Rust                37m 36s      ███░░░░░░░░░░░░░░░░░░░░░░  9.38%
-JSON                28m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.14%
+Python              1h 13m 47s   ██████░░░░░░░░░░░░░░░░░░░  23.64%
+unknown             39m 21s      ████░░░░░░░░░░░░░░░░░░░░░  12.61%
+TOML                39m 0s       ████░░░░░░░░░░░░░░░░░░░░░  12.50%
+Rust                26m 23s      ███░░░░░░░░░░░░░░░░░░░░░░  8.45%
+HTML                25m 26s      ███░░░░░░░░░░░░░░░░░░░░░░  8.15%
 
 💼 Projects:
-Eryx                1h 42m 38s   ███████████░░░░░░░░░░░░░░  40.09%
-rustytime           1h 1m 43s    ███████░░░░░░░░░░░░░░░░░░  24.10%
-traefik-middleman   55m 17s      ██████░░░░░░░░░░░░░░░░░░░  21.59%
-hackatime-heatmap   27m 34s      ███░░░░░░░░░░░░░░░░░░░░░░  10.77%
-Fraudpheus          6m 18s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.46%
+Eryx                1h 44m 38s   ██████████████░░░░░░░░░░░  52.73%
+traefik-middleman   57m 23s      ████████░░░░░░░░░░░░░░░░░  28.92%
+hackatime-heatmap   27m 34s      ████░░░░░░░░░░░░░░░░░░░░░  13.89%
+Fraudpheus          6m 18s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.18%
+dotfiles            2m 32s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.28%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
