@@ -4,7 +4,7 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`Eryx`](https://github.com/ImShyMike/Eryx) - _A decently fast and simple dynamically typed programming language similar to javascript/python._ **(2 days ago)**
+- [`Eryx`](https://github.com/ImShyMike/Eryx) - _A decently fast and simple dynamically typed programming language similar to javascript/python._ **(3 days ago)**
 - [`mushroots`](https://github.com/ayoreis/mushroots) - __ **(1 week ago)**
 - [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(1 week ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 week ago)**
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**V2 or something**](https://github.com/BudzioT/Fraudpheus/pull/28) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(5 days ago)**
+- [**V2 or something**](https://github.com/BudzioT/Fraudpheus/pull/28) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(6 days ago)**
 - [**Add heatmap to badges page**](https://github.com/hackclub/hackatime/pull/981) on [`hackatime`](https://github.com/hackclub/hackatime) **(2 weeks ago)**
 - [**Update acknowledged.json - update self**](https://github.com/hackclub/site/pull/1841) on [`site`](https://github.com/hackclub/site) **(1 month ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python              2h 20m 22s   █████████░░░░░░░░░░░░░░░░  34.15%
-unknown             44m 51s      ███░░░░░░░░░░░░░░░░░░░░░░  10.91%
-TOML                31m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.61%
-HTML                28m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.91%
-JSON                27m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.70%
+Python              2h 8m 21s    █████████░░░░░░░░░░░░░░░░  32.94%
+unknown             37m 46s      ███░░░░░░░░░░░░░░░░░░░░░░  9.69%
+TOML                29m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.44%
+HTML                28m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.29%
+JSON                27m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.07%
 
 💼 Projects:
-Eryx                1h 38m 27s   ███████████░░░░░░░░░░░░░░  41.16%
-wall                1h 12m 57s   ████████░░░░░░░░░░░░░░░░░  30.50%
-traefik-middleman   1h 3m 11s    ███████░░░░░░░░░░░░░░░░░░  26.42%
-dotfiles            2m 32s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.06%
-Fraudpheus          2m 3s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.86%
+Eryx                1h 20m 46s   ██████████░░░░░░░░░░░░░░░  36.47%
+wall                1h 12m 57s   █████████░░░░░░░░░░░░░░░░  32.94%
+traefik-middleman   1h 3m 11s    ████████░░░░░░░░░░░░░░░░░  28.53%
+dotfiles            2m 32s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.14%
+Fraudpheus          2m 3s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.93%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
