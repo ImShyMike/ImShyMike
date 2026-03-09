@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python              2h 26m 17s   █████████░░░░░░░░░░░░░░░░  34.35%
-unknown             39m 46s      ███░░░░░░░░░░░░░░░░░░░░░░  9.34%
-TOML                29m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.81%
-HTML                28m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.67%
-JSON                27m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.47%
+Python               2h 26m 17s   ████████░░░░░░░░░░░░░░░░░  30.75%
+unknown              46m 21s      ███░░░░░░░░░░░░░░░░░░░░░░  9.74%
+JSON                 38m 10s      ███░░░░░░░░░░░░░░░░░░░░░░  8.02%
+TypeScript           34m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.30%
+TOML                 29m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.10%
 
 💼 Projects:
-Eryx                1h 20m 46s   █████████░░░░░░░░░░░░░░░░  32.10%
-wall                1h 12m 59s   ████████░░░░░░░░░░░░░░░░░  29.00%
-traefik-middleman   1h 3m 11s    ███████░░░░░░░░░░░░░░░░░░  25.11%
-tui-render          15m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.32%
-slack-bulkLeave     14m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.65%
+Eryx                 1h 20m 46s   ████████░░░░░░░░░░░░░░░░░  28.51%
+wall                 1h 12m 59s   ███████░░░░░░░░░░░░░░░░░░  25.77%
+traefik-middleman    1h 3m 11s    ██████░░░░░░░░░░░░░░░░░░░  22.31%
+slack-undoc-client   31m 37s      ███░░░░░░░░░░░░░░░░░░░░░░  11.16%
+tui-render           15m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.61%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
