@@ -4,7 +4,7 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`Eryx`](https://github.com/ImShyMike/Eryx) - _A decently fast and simple dynamically typed programming language similar to javascript/python._ **(4 days ago)**
+- [`Eryx`](https://github.com/ImShyMike/Eryx) - _A decently fast and simple dynamically typed programming language similar to javascript/python._ **(5 days ago)**
 - [`mushroots`](https://github.com/ayoreis/mushroots) - __ **(1 week ago)**
 - [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(1 week ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 week ago)**
@@ -24,24 +24,24 @@ A student who likes coding and gaming!
 #### 🔨 My recent pull requests
 
 - [**V2 or something**](https://github.com/BudzioT/Fraudpheus/pull/28) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(1 week ago)**
-- [**Add heatmap to badges page**](https://github.com/hackclub/hackatime/pull/981) on [`hackatime`](https://github.com/hackclub/hackatime) **(2 weeks ago)**
+- [**Add heatmap to badges page**](https://github.com/hackclub/hackatime/pull/981) on [`hackatime`](https://github.com/hackclub/hackatime) **(3 weeks ago)**
 - [**Update acknowledged.json - update self**](https://github.com/hackclub/site/pull/1841) on [`site`](https://github.com/hackclub/site) **(1 month ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript           4h 10m 29s   ██████████░░░░░░░░░░░░░░░  38.28%
-Python               1h 28m 35s   ████░░░░░░░░░░░░░░░░░░░░░  13.54%
-JSON                 1h 20m 22s   ████░░░░░░░░░░░░░░░░░░░░░  12.28%
-unknown              51m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.93%
-JavaScript           31m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.88%
+TypeScript           4h 22m 26s   ██████████░░░░░░░░░░░░░░░  39.36%
+Python               1h 24m 30s   ████░░░░░░░░░░░░░░░░░░░░░  12.67%
+JSON                 1h 22m 30s   ████░░░░░░░░░░░░░░░░░░░░░  12.37%
+unknown              53m 55s      ███░░░░░░░░░░░░░░░░░░░░░░  8.09%
+JavaScript           34m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.14%
 
 💼 Projects:
-slack-undoc-client   4h 35m 55s   ████████████████░░░░░░░░░  61.11%
-wall                 1h 12m 59s   █████░░░░░░░░░░░░░░░░░░░░  16.16%
-traefik-middleman    1h 3m 11s    ████░░░░░░░░░░░░░░░░░░░░░  13.99%
-tui-render           15m 54s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.52%
-slack-bulkLeave      14m 13s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.15%
+slack-undoc-client   4h 49m 51s   ████████████████░░░░░░░░░  62.84%
+wall                 1h 12m 59s   ████░░░░░░░░░░░░░░░░░░░░░  15.82%
+traefik-middleman    1h 3m 11s    ████░░░░░░░░░░░░░░░░░░░░░  13.70%
+tui-render           15m 54s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.45%
+slack-bulkLeave      14m 13s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.08%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
