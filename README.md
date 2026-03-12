@@ -4,12 +4,12 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`Eryx`](https://github.com/ImShyMike/Eryx) - _A decently fast and simple dynamically typed programming language similar to javascript/python._ **(5 days ago)**
+- [`Eryx`](https://github.com/ImShyMike/Eryx) - _A decently fast and simple dynamically typed programming language similar to javascript/python._ **(6 days ago)**
 - [`mushroots`](https://github.com/ayoreis/mushroots) - __ **(1 week ago)**
 - [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(1 week ago)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 week ago)**
-- [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) - _Bot to communicate with people and staff members on Slack_ **(2 weeks ago)**
-- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, Wakatime-compatible coding time tracker_ **(2 weeks ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(2 weeks ago)**
+- [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) - _Bot to communicate with people and staff members on Slack_ **(3 weeks ago)**
+- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, Wakatime-compatible coding time tracker_ **(3 weeks ago)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(3 weeks ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(3 weeks ago)**
 
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript           5h 9m 57s    ██████████░░░░░░░░░░░░░░░  38.93%
-JSON                 1h 36m 24s   ████░░░░░░░░░░░░░░░░░░░░░  12.11%
-Python               1h 24m 30s   ███░░░░░░░░░░░░░░░░░░░░░░  10.61%
-unknown              1h 21m 5s    ███░░░░░░░░░░░░░░░░░░░░░░  10.18%
-JavaScript           59m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.53%
+TypeScript           5h 9m 57s    ██████████░░░░░░░░░░░░░░░  39.45%
+JSON                 1h 34m 24s   ████░░░░░░░░░░░░░░░░░░░░░  12.01%
+Python               1h 24m 30s   ███░░░░░░░░░░░░░░░░░░░░░░  10.75%
+unknown              1h 18m 41s   ███░░░░░░░░░░░░░░░░░░░░░░  10.01%
+JavaScript           57m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.38%
 
 💼 Projects:
-slack-undoc-client   6h 17m 11s   ██████████████████░░░░░░░  68.76%
-wall                 1h 12m 59s   ████░░░░░░░░░░░░░░░░░░░░░  13.30%
-traefik-middleman    1h 3m 11s    ███░░░░░░░░░░░░░░░░░░░░░░  11.52%
-tui-render           15m 54s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.90%
-slack-bulkLeave      14m 13s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.59%
+slack-undoc-client   6h 17m 11s   ██████████████████░░░░░░░  69.07%
+wall                 1h 12m 59s   ████░░░░░░░░░░░░░░░░░░░░░  13.37%
+traefik-middleman    1h 3m 11s    ███░░░░░░░░░░░░░░░░░░░░░░  11.57%
+tui-render           15m 54s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.91%
+slack-bulkLeave      14m 13s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.60%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
