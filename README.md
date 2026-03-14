@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript            5h 58m 19s   ███████████░░░░░░░░░░░░░░  43.45%
-Python                1h 54m 38s   ████░░░░░░░░░░░░░░░░░░░░░  13.90%
-JSON                  1h 36m 26s   ███░░░░░░░░░░░░░░░░░░░░░░  11.69%
-unknown               1h 16m 37s   ███░░░░░░░░░░░░░░░░░░░░░░  9.29%
-Shell                 52m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.39%
+TypeScript            5h 58m 19s   ███████████░░░░░░░░░░░░░░  42.55%
+Python                2h 4m 32s    ████░░░░░░░░░░░░░░░░░░░░░  14.79%
+JSON                  1h 39m 56s   ███░░░░░░░░░░░░░░░░░░░░░░  11.87%
+unknown               1h 18m 34s   ███░░░░░░░░░░░░░░░░░░░░░░  9.33%
+Shell                 52m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.26%
 
 💼 Projects:
-slack-undoc-client    7h 7m 23s    ██████████████████░░░░░░░  71.99%
-wall                  1h 12m 59s   ████░░░░░░░░░░░░░░░░░░░░░  12.29%
-cplay                 30m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.10%
-resolution-python-1   20m 40s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.48%
-tui-render            15m 54s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.68%
+slack-undoc-client    7h 7m 23s    ██████████████████░░░░░░░  70.81%
+wall                  1h 12m 59s   ████░░░░░░░░░░░░░░░░░░░░░  12.09%
+resolution-python-1   30m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.06%
+cplay                 30m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.02%
+tui-render            15m 54s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.63%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
