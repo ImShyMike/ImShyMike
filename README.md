@@ -11,7 +11,7 @@ A student who likes coding and gaming!
 - [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) - _Bot to communicate with people and staff members on Slack_ **(3 weeks ago)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, Wakatime-compatible coding time tracker_ **(3 weeks ago)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(3 weeks ago)**
-- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(3 weeks ago)**
+- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(4 weeks ago)**
 
 #### 📦 My most popular repos
 
@@ -30,11 +30,11 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript           5h 58m 19s   ████████████░░░░░░░░░░░░░  45.14%
-JSON                 1h 36m 26s   ████░░░░░░░░░░░░░░░░░░░░░  12.15%
-Python               1h 31m 58s   ███░░░░░░░░░░░░░░░░░░░░░░  11.59%
-unknown              1h 14m 37s   ███░░░░░░░░░░░░░░░░░░░░░░  9.40%
-Shell                52m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.64%
+TypeScript           5h 58m 19s   ████████████░░░░░░░░░░░░░  45.26%
+JSON                 1h 36m 26s   ████░░░░░░░░░░░░░░░░░░░░░  12.18%
+Python               1h 31m 58s   ███░░░░░░░░░░░░░░░░░░░░░░  11.62%
+unknown              1h 14m 37s   ███░░░░░░░░░░░░░░░░░░░░░░  9.42%
+Shell                52m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.66%
 
 💼 Projects:
 slack-undoc-client   7h 7m 23s    ███████████████████░░░░░░  74.59%
