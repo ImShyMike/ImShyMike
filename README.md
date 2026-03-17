@@ -4,8 +4,8 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`resolution-python-1`](https://github.com/ImShyMike/resolution-python-1) - _Tiny task manager_ **(2 days ago)**
-- [`resolution-rust-1`](https://github.com/ImShyMike/resolution-rust-1) - _Hacker news story viewer_ **(2 days ago)**
+- [`resolution-python-1`](https://github.com/ImShyMike/resolution-python-1) - _Tiny task manager_ **(3 days ago)**
+- [`resolution-rust-1`](https://github.com/ImShyMike/resolution-rust-1) - _Hacker news story viewer_ **(3 days ago)**
 - [`Eryx`](https://github.com/ImShyMike/Eryx) - _A decently fast and simple dynamically typed programming language similar to javascript/python._ **(1 week ago)**
 - [`mushroots`](https://github.com/ayoreis/mushroots) - __ **(2 weeks ago)**
 - [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(2 weeks ago)**
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**V2 or something**](https://github.com/BudzioT/Fraudpheus/pull/28) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(1 week ago)**
+- [**V2 or something**](https://github.com/BudzioT/Fraudpheus/pull/28) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(2 weeks ago)**
 - [**Add heatmap to badges page**](https://github.com/hackclub/hackatime/pull/981) on [`hackatime`](https://github.com/hackclub/hackatime) **(3 weeks ago)**
 - [**Update acknowledged.json - update self**](https://github.com/hackclub/site/pull/1841) on [`site`](https://github.com/hackclub/site) **(1 month ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript            7h 56m 42s   ██████████░░░░░░░░░░░░░░░  37.38%
-JSON                  2h 50m 10s   ████░░░░░░░░░░░░░░░░░░░░░  13.34%
-unknown               1h 44m 46s   ███░░░░░░░░░░░░░░░░░░░░░░  8.21%
-Svelte                1h 31m 43s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.19%
-Python                1h 26m 31s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.78%
+TypeScript            7h 22m 29s   █████████░░░░░░░░░░░░░░░░  35.97%
+JSON                  2h 39m 32s   ████░░░░░░░░░░░░░░░░░░░░░  12.97%
+Svelte                1h 57m 53s   ███░░░░░░░░░░░░░░░░░░░░░░  9.58%
+unknown               1h 38m 17s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.99%
+Rust                  1h 22m 52s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.74%
 
 💼 Projects:
-slack-undoc-client    7h 7m 23s    █████████████░░░░░░░░░░░░  50.06%
-blocked               3h 57m 36s   ███████░░░░░░░░░░░░░░░░░░  27.83%
-resolution-rust-1     51m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.08%
-resolution-python-1   51m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.99%
-cplay                 30m 17s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.55%
+slack-undoc-client    6h 19m 34s   ████████████░░░░░░░░░░░░░  46.49%
+blocked               4h 38m 19s   █████████░░░░░░░░░░░░░░░░  34.09%
+resolution-rust-1     51m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.36%
+resolution-python-1   51m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.26%
+cplay                 30m 17s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.71%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
