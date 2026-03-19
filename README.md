@@ -4,14 +4,14 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`resolution-python-1`](https://github.com/ImShyMike/resolution-python-1) - _Tiny task manager_ **(4 days ago)**
-- [`resolution-rust-1`](https://github.com/ImShyMike/resolution-rust-1) - _Hacker news story viewer_ **(4 days ago)**
+- [`resolution-python-1`](https://github.com/ImShyMike/resolution-python-1) - _Tiny task manager_ **(5 days ago)**
+- [`resolution-rust-1`](https://github.com/ImShyMike/resolution-rust-1) - _Hacker news story viewer_ **(5 days ago)**
 - [`Eryx`](https://github.com/ImShyMike/Eryx) - _A decently fast and simple dynamically typed programming language similar to javascript/python._ **(1 week ago)**
 - [`mushroots`](https://github.com/ayoreis/mushroots) - __ **(2 weeks ago)**
 - [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(2 weeks ago)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(2 weeks ago)**
-- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, Wakatime-compatible coding time tracker_ **(3 weeks ago)**
-- [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) - _Bot to communicate with people and staff members on Slack_ **(3 weeks ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(3 weeks ago)**
+- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, Wakatime-compatible coding time tracker_ **(4 weeks ago)**
+- [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) - _Bot to communicate with people and staff members on Slack_ **(4 weeks ago)**
 
 #### 📦 My most popular repos
 
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript            6h 12m 55s   ████████░░░░░░░░░░░░░░░░░  29.13%
-Svelte                3h 37m 41s   █████░░░░░░░░░░░░░░░░░░░░  17.01%
-JSON                  2h 24m 19s   ███░░░░░░░░░░░░░░░░░░░░░░  11.27%
-unknown               1h 41m 5s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.90%
-Rust                  1h 22m 52s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.47%
+TypeScript            5h 15m 21s   ███████░░░░░░░░░░░░░░░░░░  27.59%
+Svelte                3h 46m 17s   █████░░░░░░░░░░░░░░░░░░░░  19.80%
+JSON                  2h 8m 18s    ███░░░░░░░░░░░░░░░░░░░░░░  11.22%
+Rust                  1h 22m 52s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.25%
+unknown               1h 11m 53s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.29%
 
 💼 Projects:
-blocked               8h 24m 22s   ████████████████░░░░░░░░░  62.44%
-slack-undoc-client    2h 27m 24s   █████░░░░░░░░░░░░░░░░░░░░  18.25%
-resolution-rust-1     51m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.43%
-resolution-python-1   51m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.33%
-cplay                 30m 17s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.75%
+blocked               8h 32m 58s   ██████████████████░░░░░░░  71.53%
+resolution-rust-1     51m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.24%
+resolution-python-1   51m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.13%
+slack-undoc-client    48m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.72%
+cplay                 30m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.22%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
