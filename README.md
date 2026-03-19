@@ -23,9 +23,9 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
+- [**Bump base reminder time to 24h**](https://github.com/BudzioT/Fraudpheus/pull/30) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(today)**
 - [**V2 or something**](https://github.com/BudzioT/Fraudpheus/pull/28) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(2 weeks ago)**
 - [**Add heatmap to badges page**](https://github.com/hackclub/hackatime/pull/981) on [`hackatime`](https://github.com/hackclub/hackatime) **(4 weeks ago)**
-- [**Update acknowledged.json - update self**](https://github.com/hackclub/site/pull/1841) on [`site`](https://github.com/hackclub/site) **(1 month ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
