@@ -4,12 +4,12 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) - _Bot to communicate with people and staff members on Slack_ **(today)**
-- [`resolution-python-1`](https://github.com/ImShyMike/resolution-python-1) - _Tiny task manager_ **(5 days ago)**
-- [`resolution-rust-1`](https://github.com/ImShyMike/resolution-rust-1) - _Hacker news story viewer_ **(5 days ago)**
-- [`Eryx`](https://github.com/ImShyMike/Eryx) - _A decently fast and simple dynamically typed programming language similar to javascript/python._ **(1 week ago)**
+- [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) - _Bot to communicate with people and staff members on Slack_ **(1 day ago)**
+- [`resolution-python-1`](https://github.com/ImShyMike/resolution-python-1) - _Tiny task manager_ **(6 days ago)**
+- [`resolution-rust-1`](https://github.com/ImShyMike/resolution-rust-1) - _Hacker news story viewer_ **(6 days ago)**
+- [`Eryx`](https://github.com/ImShyMike/Eryx) - _A decently fast and simple dynamically typed programming language similar to javascript/python._ **(2 weeks ago)**
 - [`mushroots`](https://github.com/ayoreis/mushroots) - __ **(2 weeks ago)**
-- [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(2 weeks ago)**
+- [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(3 weeks ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(3 weeks ago)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, Wakatime-compatible coding time tracker_ **(4 weeks ago)**
 
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Bump base reminder time to 24h**](https://github.com/BudzioT/Fraudpheus/pull/30) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(today)**
+- [**Bump base reminder time to 24h**](https://github.com/BudzioT/Fraudpheus/pull/30) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(1 day ago)**
 - [**V2 or something**](https://github.com/BudzioT/Fraudpheus/pull/28) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(2 weeks ago)**
-- [**Add heatmap to badges page**](https://github.com/hackclub/hackatime/pull/981) on [`hackatime`](https://github.com/hackclub/hackatime) **(4 weeks ago)**
+- [**Add heatmap to badges page**](https://github.com/hackclub/hackatime/pull/981) on [`hackatime`](https://github.com/hackclub/hackatime) **(1 month ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript            5h 20m 2s    ███████░░░░░░░░░░░░░░░░░░  27.58%
-Svelte                3h 51m 2s    █████░░░░░░░░░░░░░░░░░░░░  19.91%
-JSON                  2h 8m 18s    ███░░░░░░░░░░░░░░░░░░░░░░  11.06%
-Rust                  1h 22m 52s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.14%
-unknown               1h 11m 53s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.19%
+TypeScript            4h 33m 40s   ███████░░░░░░░░░░░░░░░░░░  25.84%
+Svelte                3h 51m 2s    ██████░░░░░░░░░░░░░░░░░░░  21.81%
+JSON                  2h 6m 16s    ███░░░░░░░░░░░░░░░░░░░░░░  11.92%
+unknown               1h 7m 53s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.41%
+Markdown              1h 2m 46s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.93%
 
 💼 Projects:
-blocked               8h 48m 8s    ███████████████████░░░░░░  72.11%
-resolution-rust-1     51m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.09%
-resolution-python-1   51m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.98%
-slack-undoc-client    48m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.58%
-cplay                 30m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.14%
+blocked               8h 48m 8s    █████████████████████░░░░  81.50%
+resolution-rust-1     51m 56s      ███░░░░░░░░░░░░░░░░░░░░░░  8.01%
+resolution-python-1   51m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.89%
+todo-app              15m 38s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.41%
+advent-of-code        1m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.19%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
