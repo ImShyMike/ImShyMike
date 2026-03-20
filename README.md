@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript            4h 33m 40s   ███████░░░░░░░░░░░░░░░░░░  25.84%
-Svelte                3h 51m 2s    ██████░░░░░░░░░░░░░░░░░░░  21.81%
-JSON                  2h 6m 16s    ███░░░░░░░░░░░░░░░░░░░░░░  11.92%
-unknown               1h 7m 53s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.41%
-Markdown              1h 2m 46s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.93%
+TypeScript            4h 33m 40s   ███████░░░░░░░░░░░░░░░░░░  25.22%
+Svelte                4h 0m 23s    ██████░░░░░░░░░░░░░░░░░░░  22.15%
+JSON                  2h 6m 16s    ███░░░░░░░░░░░░░░░░░░░░░░  11.63%
+unknown               1h 9m 53s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.44%
+Markdown              1h 4m 46s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.97%
 
 💼 Projects:
-blocked               8h 48m 8s    █████████████████████░░░░  81.50%
-resolution-rust-1     51m 56s      ███░░░░░░░░░░░░░░░░░░░░░░  8.01%
-resolution-python-1   51m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.89%
-todo-app              15m 38s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.41%
-advent-of-code        1m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.19%
+blocked               8h 48m 8s    ████████████████████░░░░░  79.61%
+resolution-rust-1     51m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.83%
+resolution-python-1   51m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.70%
+todo-app              15m 38s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.36%
+joe                   15m 24s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.32%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
