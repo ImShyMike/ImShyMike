@@ -5,7 +5,7 @@ A student who likes coding and gaming!
 #### 🏗️ What I've been working on
 
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(today)**
-- [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) - _Bot to communicate with people and staff members on Slack_ **(2 days ago)**
+- [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) - _Bot to communicate with people and staff members on Slack_ **(today)**
 - [`resolution-python-1`](https://github.com/ImShyMike/resolution-python-1) - _Tiny task manager_ **(1 week ago)**
 - [`resolution-rust-1`](https://github.com/ImShyMike/resolution-rust-1) - _Hacker news story viewer_ **(1 week ago)**
 - [`Eryx`](https://github.com/ImShyMike/Eryx) - _A decently fast and simple dynamically typed programming language similar to javascript/python._ **(2 weeks ago)**
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
+- [**Add auto case tagging**](https://github.com/BudzioT/Fraudpheus/pull/31) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(today)**
 - [**Bump base reminder time to 24h**](https://github.com/BudzioT/Fraudpheus/pull/30) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(2 days ago)**
 - [**V2 or something**](https://github.com/BudzioT/Fraudpheus/pull/28) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(2 weeks ago)**
-- [**Add heatmap to badges page**](https://github.com/hackclub/hackatime/pull/981) on [`hackatime`](https://github.com/hackclub/hackatime) **(1 month ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript            4h 37m 40s   ██████░░░░░░░░░░░░░░░░░░░  21.46%
-Svelte                4h 17m 12s   █████░░░░░░░░░░░░░░░░░░░░  19.88%
-Python                2h 35m 43s   ████░░░░░░░░░░░░░░░░░░░░░  12.03%
-JSON                  2h 12m 29s   ███░░░░░░░░░░░░░░░░░░░░░░  10.24%
-TOML                  1h 31m 40s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.08%
+TypeScript            4h 37m 40s   ██████░░░░░░░░░░░░░░░░░░░  21.23%
+Svelte                4h 17m 12s   █████░░░░░░░░░░░░░░░░░░░░  19.66%
+Python                2h 43m 38s   ████░░░░░░░░░░░░░░░░░░░░░  12.51%
+JSON                  2h 12m 29s   ███░░░░░░░░░░░░░░░░░░░░░░  10.13%
+TOML                  1h 37m 44s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.47%
 
 💼 Projects:
-blocked               8h 48m 8s    █████████████████░░░░░░░░  64.09%
-Fraudpheus            1h 58m 27s   ████░░░░░░░░░░░░░░░░░░░░░  14.37%
-resolution-rust-1     51m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.30%
-resolution-python-1   51m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.20%
-rustytime             41m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.05%
+blocked               8h 48m 8s    ████████████████░░░░░░░░░  63.17%
+Fraudpheus            2h 10m 26s   ████░░░░░░░░░░░░░░░░░░░░░  15.60%
+resolution-rust-1     51m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.21%
+resolution-python-1   51m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.11%
+rustytime             41m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.98%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
