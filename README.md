@@ -4,13 +4,13 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(today)**
 - [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) - _Bot to communicate with people and staff members on Slack_ **(2 days ago)**
 - [`resolution-python-1`](https://github.com/ImShyMike/resolution-python-1) - _Tiny task manager_ **(1 week ago)**
 - [`resolution-rust-1`](https://github.com/ImShyMike/resolution-rust-1) - _Hacker news story viewer_ **(1 week ago)**
 - [`Eryx`](https://github.com/ImShyMike/Eryx) - _A decently fast and simple dynamically typed programming language similar to javascript/python._ **(2 weeks ago)**
 - [`mushroots`](https://github.com/ayoreis/mushroots) - __ **(2 weeks ago)**
 - [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(3 weeks ago)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(3 weeks ago)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, Wakatime-compatible coding time tracker_ **(1 month ago)**
 
 #### 📦 My most popular repos
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript            4h 33m 40s   ███████░░░░░░░░░░░░░░░░░░  25.04%
-Svelte                4h 0m 58s    ██████░░░░░░░░░░░░░░░░░░░  22.05%
-JSON                  2h 6m 16s    ███░░░░░░░░░░░░░░░░░░░░░░  11.55%
-unknown               1h 9m 53s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.39%
-Markdown              1h 4m 46s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.93%
+TypeScript            4h 35m 40s   ███████░░░░░░░░░░░░░░░░░░  24.42%
+Svelte                4h 4m 22s    ██████░░░░░░░░░░░░░░░░░░░  21.65%
+JSON                  2h 12m 29s   ███░░░░░░░░░░░░░░░░░░░░░░  11.74%
+unknown               1h 9m 53s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.19%
+Markdown              1h 4m 46s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.74%
 
 💼 Projects:
-blocked               8h 48m 8s    ████████████████████░░░░░  79.14%
-resolution-rust-1     51m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.78%
-resolution-python-1   51m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.66%
-joe                   15m 59s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.40%
-todo-app              15m 38s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.34%
+blocked               8h 48m 8s    ████████████████████░░░░░  76.31%
+resolution-rust-1     51m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.50%
+resolution-python-1   51m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.38%
+rustytime             24m 47s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.58%
+joe                   15m 59s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.31%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
