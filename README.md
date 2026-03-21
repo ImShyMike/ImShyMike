@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript            4h 37m 40s   ██████░░░░░░░░░░░░░░░░░░░  21.58%
-Svelte                4h 17m 12s   █████░░░░░░░░░░░░░░░░░░░░  19.99%
-Python                2h 35m 43s   ████░░░░░░░░░░░░░░░░░░░░░  12.10%
-JSON                  2h 12m 29s   ███░░░░░░░░░░░░░░░░░░░░░░  10.30%
-TOML                  1h 24m 20s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.55%
+TypeScript            4h 37m 40s   ██████░░░░░░░░░░░░░░░░░░░  21.46%
+Svelte                4h 17m 12s   █████░░░░░░░░░░░░░░░░░░░░  19.88%
+Python                2h 35m 43s   ████░░░░░░░░░░░░░░░░░░░░░  12.03%
+JSON                  2h 12m 29s   ███░░░░░░░░░░░░░░░░░░░░░░  10.24%
+TOML                  1h 31m 40s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.08%
 
 💼 Projects:
-blocked               8h 48m 8s    █████████████████░░░░░░░░  64.66%
-Fraudpheus            1h 51m 7s    ████░░░░░░░░░░░░░░░░░░░░░  13.60%
-resolution-rust-1     51m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.36%
-resolution-python-1   51m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.26%
-rustytime             41m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.10%
+blocked               8h 48m 8s    █████████████████░░░░░░░░  64.09%
+Fraudpheus            1h 58m 27s   ████░░░░░░░░░░░░░░░░░░░░░  14.37%
+resolution-rust-1     51m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.30%
+resolution-python-1   51m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.20%
+rustytime             41m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.05%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
