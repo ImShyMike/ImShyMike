@@ -4,12 +4,12 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(today)**
-- [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) - _Bot to communicate with people and staff members on Slack_ **(today)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 day ago)**
+- [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) - _Bot to communicate with people and staff members on Slack_ **(1 day ago)**
 - [`resolution-python-1`](https://github.com/ImShyMike/resolution-python-1) - _Tiny task manager_ **(1 week ago)**
 - [`resolution-rust-1`](https://github.com/ImShyMike/resolution-rust-1) - _Hacker news story viewer_ **(1 week ago)**
 - [`Eryx`](https://github.com/ImShyMike/Eryx) - _A decently fast and simple dynamically typed programming language similar to javascript/python._ **(2 weeks ago)**
-- [`mushroots`](https://github.com/ayoreis/mushroots) - __ **(2 weeks ago)**
+- [`mushroots`](https://github.com/ayoreis/mushroots) - __ **(3 weeks ago)**
 - [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(3 weeks ago)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, Wakatime-compatible coding time tracker_ **(1 month ago)**
 
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Add auto case tagging**](https://github.com/BudzioT/Fraudpheus/pull/31) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(today)**
-- [**Bump base reminder time to 24h**](https://github.com/BudzioT/Fraudpheus/pull/30) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(2 days ago)**
+- [**Add auto case tagging**](https://github.com/BudzioT/Fraudpheus/pull/31) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(1 day ago)**
+- [**Bump base reminder time to 24h**](https://github.com/BudzioT/Fraudpheus/pull/30) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(3 days ago)**
 - [**V2 or something**](https://github.com/BudzioT/Fraudpheus/pull/28) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(2 weeks ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript            4h 37m 40s   ██████░░░░░░░░░░░░░░░░░░░  21.00%
-Svelte                4h 17m 12s   █████░░░░░░░░░░░░░░░░░░░░  19.45%
-Python                2h 55m 46s   ████░░░░░░░░░░░░░░░░░░░░░  13.29%
-JSON                  2h 12m 29s   ███░░░░░░░░░░░░░░░░░░░░░░  10.02%
-TOML                  1h 37m 44s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.39%
+TypeScript   4h 37m 40s   ██████░░░░░░░░░░░░░░░░░░░  23.60%
+Svelte       4h 17m 12s   ██████░░░░░░░░░░░░░░░░░░░  21.86%
+JSON         2h 8m 59s    ███░░░░░░░░░░░░░░░░░░░░░░  10.96%
+Python       2h 8m 52s    ███░░░░░░░░░░░░░░░░░░░░░░  10.95%
+TOML         1h 9m 42s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.92%
 
 💼 Projects:
-blocked               8h 48m 8s    ████████████████░░░░░░░░░  62.56%
-Fraudpheus            2h 10m 26s   ████░░░░░░░░░░░░░░░░░░░░░  15.45%
-resolution-rust-1     51m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.15%
-resolution-python-1   51m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.05%
-rustytime             41m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.93%
+blocked      8h 48m 8s    ██████████████████░░░░░░░  71.25%
+Fraudpheus   2h 10m 26s   █████░░░░░░░░░░░░░░░░░░░░  17.60%
+rustytime    41m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.62%
+joe          15m 59s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.16%
+todo-app     15m 38s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.11%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
