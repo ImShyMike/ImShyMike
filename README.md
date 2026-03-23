@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript   4h 37m 40s   ██████░░░░░░░░░░░░░░░░░░░  23.23%
-Svelte       4h 17m 12s   ██████░░░░░░░░░░░░░░░░░░░  21.52%
-Python       2h 15m 59s   ███░░░░░░░░░░░░░░░░░░░░░░  11.38%
-JSON         2h 11m 17s   ███░░░░░░░░░░░░░░░░░░░░░░  10.98%
-TOML         1h 11m 47s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.01%
+TypeScript   4h 37m 40s   ██████░░░░░░░░░░░░░░░░░░░  23.19%
+Svelte       4h 17m 12s   ██████░░░░░░░░░░░░░░░░░░░  21.48%
+Python       2h 15m 59s   ███░░░░░░░░░░░░░░░░░░░░░░  11.36%
+JSON         2h 11m 17s   ███░░░░░░░░░░░░░░░░░░░░░░  10.97%
+TOML         1h 11m 47s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.00%
 
 💼 Projects:
-blocked      8h 48m 8s    ██████████████████░░░░░░░  69.89%
-Fraudpheus   2h 10m 26s   █████░░░░░░░░░░░░░░░░░░░░  17.26%
-rustytime    47m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.30%
-joe          15m 59s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.12%
-todo-app     15m 38s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.07%
+blocked      8h 48m 8s    ██████████████████░░░░░░░  69.71%
+Fraudpheus   2h 10m 26s   █████░░░░░░░░░░░░░░░░░░░░  17.22%
+rustytime    49m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.55%
+joe          15m 59s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.11%
+todo-app     15m 38s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.06%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
