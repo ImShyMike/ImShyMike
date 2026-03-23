@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
+- [**Bug fixes**](https://github.com/BudzioT/Fraudpheus/pull/32) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(today)**
 - [**Add auto case tagging**](https://github.com/BudzioT/Fraudpheus/pull/31) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(2 days ago)**
 - [**Bump base reminder time to 24h**](https://github.com/BudzioT/Fraudpheus/pull/30) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(4 days ago)**
-- [**V2 or something**](https://github.com/BudzioT/Fraudpheus/pull/28) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(2 weeks ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript          4h 37m 40s   ██████░░░░░░░░░░░░░░░░░░░  22.65%
-Svelte              4h 17m 12s   ██████░░░░░░░░░░░░░░░░░░░  20.98%
-Python              2h 40m 33s   ████░░░░░░░░░░░░░░░░░░░░░  13.10%
-JSON                2h 11m 17s   ███░░░░░░░░░░░░░░░░░░░░░░  10.71%
-TOML                1h 11m 47s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.86%
+TypeScript          4h 37m 40s   ██████░░░░░░░░░░░░░░░░░░░  22.26%
+Svelte              4h 17m 12s   ██████░░░░░░░░░░░░░░░░░░░  20.62%
+Python              3h 2m 14s    ████░░░░░░░░░░░░░░░░░░░░░  14.61%
+JSON                2h 11m 17s   ███░░░░░░░░░░░░░░░░░░░░░░  10.52%
+TOML                1h 11m 47s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.75%
 
 💼 Projects:
-blocked             8h 48m 8s    █████████████████░░░░░░░░  67.69%
-Fraudpheus          2h 10m 26s   █████░░░░░░░░░░░░░░░░░░░░  16.72%
-rustytime           49m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.36%
-hackatime-scraper   22m 34s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.89%
-joe                 15m 59s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.05%
+blocked             8h 48m 8s    █████████████████░░░░░░░░  65.86%
+Fraudpheus          2h 32m 7s    █████░░░░░░░░░░░░░░░░░░░░  18.97%
+rustytime           49m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.19%
+hackatime-scraper   22m 34s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.81%
+joe                 15m 59s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.99%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
