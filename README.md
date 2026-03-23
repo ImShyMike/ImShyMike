@@ -4,8 +4,8 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
+- [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) - _Bot to communicate with people and staff members on Slack_ **(today)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(today)**
-- [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) - _Bot to communicate with people and staff members on Slack_ **(2 days ago)**
 - [`resolution-python-1`](https://github.com/ImShyMike/resolution-python-1) - _Tiny task manager_ **(1 week ago)**
 - [`resolution-rust-1`](https://github.com/ImShyMike/resolution-rust-1) - _Hacker news story viewer_ **(1 week ago)**
 - [`Eryx`](https://github.com/ImShyMike/Eryx) - _A decently fast and simple dynamically typed programming language similar to javascript/python._ **(2 weeks ago)**
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript          4h 37m 40s   ██████░░░░░░░░░░░░░░░░░░░  21.90%
-Svelte              4h 17m 12s   ██████░░░░░░░░░░░░░░░░░░░  20.28%
-Python              3h 15m 40s   ████░░░░░░░░░░░░░░░░░░░░░  15.43%
-JSON                2h 11m 17s   ███░░░░░░░░░░░░░░░░░░░░░░  10.35%
-TOML                1h 14m 52s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.90%
+TypeScript          4h 37m 40s   ██████░░░░░░░░░░░░░░░░░░░  21.79%
+Svelte              4h 17m 12s   ██████░░░░░░░░░░░░░░░░░░░  20.19%
+Python              3h 17m 40s   ████░░░░░░░░░░░░░░░░░░░░░  15.52%
+JSON                2h 11m 17s   ███░░░░░░░░░░░░░░░░░░░░░░  10.30%
+TOML                1h 14m 52s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.88%
 
 💼 Projects:
-blocked             8h 48m 8s    █████████████████░░░░░░░░  64.47%
-Fraudpheus          2h 49m 25s   ██████░░░░░░░░░░░░░░░░░░░  20.68%
-rustytime           49m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.06%
-hackatime-scraper   22m 34s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.75%
-joe                 15m 59s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.95%
+blocked             8h 48m 8s    ████████████████░░░░░░░░░  64.00%
+Fraudpheus          2h 51m 25s   ██████░░░░░░░░░░░░░░░░░░░  20.77%
+rustytime           53m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.50%
+hackatime-scraper   22m 34s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.73%
+joe                 15m 59s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.94%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
