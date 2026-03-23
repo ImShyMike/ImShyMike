@@ -4,8 +4,8 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 day ago)**
-- [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) - _Bot to communicate with people and staff members on Slack_ **(1 day ago)**
+- [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) - _Bot to communicate with people and staff members on Slack_ **(2 days ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(2 days ago)**
 - [`resolution-python-1`](https://github.com/ImShyMike/resolution-python-1) - _Tiny task manager_ **(1 week ago)**
 - [`resolution-rust-1`](https://github.com/ImShyMike/resolution-rust-1) - _Hacker news story viewer_ **(1 week ago)**
 - [`Eryx`](https://github.com/ImShyMike/Eryx) - _A decently fast and simple dynamically typed programming language similar to javascript/python._ **(2 weeks ago)**
@@ -23,24 +23,24 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Add auto case tagging**](https://github.com/BudzioT/Fraudpheus/pull/31) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(1 day ago)**
-- [**Bump base reminder time to 24h**](https://github.com/BudzioT/Fraudpheus/pull/30) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(3 days ago)**
+- [**Add auto case tagging**](https://github.com/BudzioT/Fraudpheus/pull/31) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(2 days ago)**
+- [**Bump base reminder time to 24h**](https://github.com/BudzioT/Fraudpheus/pull/30) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(4 days ago)**
 - [**V2 or something**](https://github.com/BudzioT/Fraudpheus/pull/28) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(2 weeks ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript   4h 37m 40s   ██████░░░░░░░░░░░░░░░░░░░  23.13%
-Svelte       4h 17m 12s   ██████░░░░░░░░░░░░░░░░░░░  21.42%
-Python       2h 17m 59s   ███░░░░░░░░░░░░░░░░░░░░░░  11.49%
-JSON         2h 11m 17s   ███░░░░░░░░░░░░░░░░░░░░░░  10.94%
-TOML         1h 11m 47s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.98%
+TypeScript   4h 37m 40s   ██████░░░░░░░░░░░░░░░░░░░  23.23%
+Svelte       4h 17m 12s   ██████░░░░░░░░░░░░░░░░░░░  21.52%
+Python       2h 15m 59s   ███░░░░░░░░░░░░░░░░░░░░░░  11.38%
+JSON         2h 11m 17s   ███░░░░░░░░░░░░░░░░░░░░░░  10.98%
+TOML         1h 11m 47s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.01%
 
 💼 Projects:
-blocked      8h 48m 8s    ██████████████████░░░░░░░  69.78%
-Fraudpheus   2h 10m 26s   █████░░░░░░░░░░░░░░░░░░░░  17.23%
-rustytime    47m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.29%
-joe          15m 59s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.11%
+blocked      8h 48m 8s    ██████████████████░░░░░░░  69.89%
+Fraudpheus   2h 10m 26s   █████░░░░░░░░░░░░░░░░░░░░  17.26%
+rustytime    47m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.30%
+joe          15m 59s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.12%
 todo-app     15m 38s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.07%
 ```
 #### 💻 My coding activity
