@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python                4h 5m 4s     ████████░░░░░░░░░░░░░░░░░  29.42%
-Svelte                2h 31m 14s   █████░░░░░░░░░░░░░░░░░░░░  18.15%
-TypeScript            2h 30m 5s    █████░░░░░░░░░░░░░░░░░░░░  18.02%
-TOML                  1h 21m 58s   ███░░░░░░░░░░░░░░░░░░░░░░  9.84%
-JSON                  44m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.34%
+Python                4h 12m 6s    ████████░░░░░░░░░░░░░░░░░  29.86%
+Svelte                2h 31m 14s   █████░░░░░░░░░░░░░░░░░░░░  17.92%
+TypeScript            2h 30m 5s    █████░░░░░░░░░░░░░░░░░░░░  17.78%
+TOML                  1h 24m 2s    ███░░░░░░░░░░░░░░░░░░░░░░  9.95%
+JSON                  44m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.27%
 
 💼 Projects:
-blocked               4h 22m 6s    ███████████░░░░░░░░░░░░░░  43.27%
-Fraudpheus            2h 51m 25s   ████████░░░░░░░░░░░░░░░░░  28.30%
-rustytime             53m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  8.85%
-resolution-python-2   53m 32s      ███░░░░░░░░░░░░░░░░░░░░░░  8.84%
-hackatime-scraper     31m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.16%
+blocked               4h 22m 6s    ███████████░░░░░░░░░░░░░░  42.77%
+Fraudpheus            2h 51m 25s   ███████░░░░░░░░░░░░░░░░░░  27.97%
+rustytime             53m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  8.75%
+resolution-python-2   53m 32s      ███░░░░░░░░░░░░░░░░░░░░░░  8.74%
+hackatime-scraper     38m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.25%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
