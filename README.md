@@ -4,6 +4,7 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
+- [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(today)**
 - [`resolution-python-2`](https://github.com/ImShyMike/resolution-python-2) - _CLI tool to search GitHub data using the grep.app API_ **(1 day ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(2 days ago)**
 - [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) - _Bot to communicate with people and staff members on Slack_ **(2 days ago)**
@@ -11,7 +12,6 @@ A student who likes coding and gaming!
 - [`resolution-python-1`](https://github.com/ImShyMike/resolution-python-1) - _Tiny task manager_ **(1 week ago)**
 - [`Eryx`](https://github.com/ImShyMike/Eryx) - _A decently fast and simple dynamically typed programming language similar to javascript/python._ **(2 weeks ago)**
 - [`mushroots`](https://github.com/ayoreis/mushroots) - __ **(3 weeks ago)**
-- [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(3 weeks ago)**
 
 #### 📦 My most popular repos
 
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python                4h 12m 9s    ████████████░░░░░░░░░░░░░  44.16%
-Svelte                1h 28m 13s   ████░░░░░░░░░░░░░░░░░░░░░  15.45%
-TOML                  1h 24m 2s    ████░░░░░░░░░░░░░░░░░░░░░  14.72%
-TypeScript            53m 48s      ███░░░░░░░░░░░░░░░░░░░░░░  9.42%
-Shell                 22m 19s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.91%
+Python                4h 12m 9s    ██████████░░░░░░░░░░░░░░░  39.17%
+Svelte                1h 28m 13s   ████░░░░░░░░░░░░░░░░░░░░░  13.70%
+TOML                  1h 24m 2s    ████░░░░░░░░░░░░░░░░░░░░░  13.05%
+TypeScript            1h 13m 48s   ███░░░░░░░░░░░░░░░░░░░░░░  11.46%
+unknown               35m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.57%
 
 💼 Projects:
-Fraudpheus            2h 51m 25s   ██████████░░░░░░░░░░░░░░░  37.47%
-blocked               1h 43m 47s   ██████░░░░░░░░░░░░░░░░░░░  22.68%
-rustytime             53m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  11.72%
-resolution-python-2   53m 32s      ███░░░░░░░░░░░░░░░░░░░░░░  11.70%
-hackatime-scraper     38m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  8.39%
+Fraudpheus            2h 51m 25s   █████████░░░░░░░░░░░░░░░░  34.97%
+blocked               1h 43m 47s   ██████░░░░░░░░░░░░░░░░░░░  21.18%
+rustytime             53m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  10.94%
+resolution-python-2   53m 32s      ███░░░░░░░░░░░░░░░░░░░░░░  10.92%
+hackatime-scraper     38m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.83%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
