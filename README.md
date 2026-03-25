@@ -30,11 +30,11 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python                4h 12m 9s    ██████████░░░░░░░░░░░░░░░  39.05%
-Svelte                1h 28m 13s   ████░░░░░░░░░░░░░░░░░░░░░  13.66%
-TOML                  1h 24m 2s    ████░░░░░░░░░░░░░░░░░░░░░  13.01%
-TypeScript            1h 13m 48s   ███░░░░░░░░░░░░░░░░░░░░░░  11.43%
-unknown               35m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.55%
+Python                4h 12m 9s    ██████████░░░░░░░░░░░░░░░  38.93%
+Svelte                1h 28m 13s   ████░░░░░░░░░░░░░░░░░░░░░  13.62%
+TOML                  1h 24m 2s    ████░░░░░░░░░░░░░░░░░░░░░  12.97%
+TypeScript            1h 13m 48s   ███░░░░░░░░░░░░░░░░░░░░░░  11.39%
+unknown               35m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.53%
 
 💼 Projects:
 Fraudpheus            2h 51m 25s   █████████░░░░░░░░░░░░░░░░  34.83%
