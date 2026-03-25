@@ -4,9 +4,9 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`resolution-python-2`](https://github.com/ImShyMike/resolution-python-2) - _CLI tool to search GitHub data using the grep.app API_ **(today)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 day ago)**
-- [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) - _Bot to communicate with people and staff members on Slack_ **(1 day ago)**
+- [`resolution-python-2`](https://github.com/ImShyMike/resolution-python-2) - _CLI tool to search GitHub data using the grep.app API_ **(1 day ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(2 days ago)**
+- [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) - _Bot to communicate with people and staff members on Slack_ **(2 days ago)**
 - [`resolution-rust-1`](https://github.com/ImShyMike/resolution-rust-1) - _Hacker news story viewer_ **(1 week ago)**
 - [`resolution-python-1`](https://github.com/ImShyMike/resolution-python-1) - _Tiny task manager_ **(1 week ago)**
 - [`Eryx`](https://github.com/ImShyMike/Eryx) - _A decently fast and simple dynamically typed programming language similar to javascript/python._ **(2 weeks ago)**
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Bug fixes**](https://github.com/BudzioT/Fraudpheus/pull/32) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(1 day ago)**
-- [**Add auto case tagging**](https://github.com/BudzioT/Fraudpheus/pull/31) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(3 days ago)**
-- [**Bump base reminder time to 24h**](https://github.com/BudzioT/Fraudpheus/pull/30) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(5 days ago)**
+- [**Draft: Add automod/slur filter feature to firehose**](https://github.com/hackclub/firehose/pull/25) on [`firehose`](https://github.com/hackclub/firehose) **(today)**
+- [**Bug fixes**](https://github.com/BudzioT/Fraudpheus/pull/32) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(2 days ago)**
+- [**Add auto case tagging**](https://github.com/BudzioT/Fraudpheus/pull/31) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(4 days ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python                4h 12m 9s    ████████░░░░░░░░░░░░░░░░░  29.87%
-Svelte                2h 31m 14s   █████░░░░░░░░░░░░░░░░░░░░  17.91%
-TypeScript            2h 30m 5s    █████░░░░░░░░░░░░░░░░░░░░  17.78%
-TOML                  1h 24m 2s    ███░░░░░░░░░░░░░░░░░░░░░░  9.95%
-JSON                  44m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.27%
+Python                4h 12m 9s    ████████████░░░░░░░░░░░░░  44.16%
+Svelte                1h 28m 13s   ████░░░░░░░░░░░░░░░░░░░░░  15.45%
+TOML                  1h 24m 2s    ████░░░░░░░░░░░░░░░░░░░░░  14.72%
+TypeScript            53m 48s      ███░░░░░░░░░░░░░░░░░░░░░░  9.42%
+Shell                 22m 19s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.91%
 
 💼 Projects:
-blocked               4h 22m 6s    ███████████░░░░░░░░░░░░░░  42.77%
-Fraudpheus            2h 51m 25s   ███████░░░░░░░░░░░░░░░░░░  27.97%
-rustytime             53m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  8.75%
-resolution-python-2   53m 32s      ███░░░░░░░░░░░░░░░░░░░░░░  8.73%
-hackatime-scraper     38m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.26%
+Fraudpheus            2h 51m 25s   ██████████░░░░░░░░░░░░░░░  37.47%
+blocked               1h 43m 47s   ██████░░░░░░░░░░░░░░░░░░░  22.68%
+rustytime             53m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  11.72%
+resolution-python-2   53m 32s      ███░░░░░░░░░░░░░░░░░░░░░░  11.70%
+hackatime-scraper     38m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  8.39%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
