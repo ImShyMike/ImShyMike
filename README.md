@@ -4,12 +4,12 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 day ago)**
-- [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(2 days ago)**
-- [`resolution-python-2`](https://github.com/ImShyMike/resolution-python-2) - _CLI tool to search GitHub data using the grep.app API_ **(3 days ago)**
-- [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) - _Bot to communicate with people and staff members on Slack_ **(4 days ago)**
-- [`resolution-python-1`](https://github.com/ImShyMike/resolution-python-1) - _Tiny task manager_ **(1 week ago)**
-- [`resolution-rust-1`](https://github.com/ImShyMike/resolution-rust-1) - _Hacker news story viewer_ **(1 week ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(2 days ago)**
+- [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(3 days ago)**
+- [`resolution-python-2`](https://github.com/ImShyMike/resolution-python-2) - _CLI tool to search GitHub data using the grep.app API_ **(4 days ago)**
+- [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) - _Bot to communicate with people and staff members on Slack_ **(5 days ago)**
+- [`resolution-python-1`](https://github.com/ImShyMike/resolution-python-1) - _Tiny task manager_ **(2 weeks ago)**
+- [`resolution-rust-1`](https://github.com/ImShyMike/resolution-rust-1) - _Hacker news story viewer_ **(2 weeks ago)**
 - [`Eryx`](https://github.com/ImShyMike/Eryx) - _A decently fast and simple dynamically typed programming language similar to javascript/python._ **(3 weeks ago)**
 - [`mushroots`](https://github.com/ayoreis/mushroots) - __ **(3 weeks ago)**
 
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Draft: Add automod/slur filter feature to firehose**](https://github.com/hackclub/firehose/pull/25) on [`firehose`](https://github.com/hackclub/firehose) **(2 days ago)**
-- [**Bug fixes**](https://github.com/BudzioT/Fraudpheus/pull/32) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(4 days ago)**
-- [**Add auto case tagging**](https://github.com/BudzioT/Fraudpheus/pull/31) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(6 days ago)**
+- [**Draft: Add automod/slur filter feature to firehose**](https://github.com/hackclub/firehose/pull/25) on [`firehose`](https://github.com/hackclub/firehose) **(3 days ago)**
+- [**Bug fixes**](https://github.com/BudzioT/Fraudpheus/pull/32) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(5 days ago)**
+- [**Add auto case tagging**](https://github.com/BudzioT/Fraudpheus/pull/31) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(1 week ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python                4h 12m 9s    █████████████░░░░░░░░░░░░  48.70%
-TOML                  1h 24m 2s    █████░░░░░░░░░░░░░░░░░░░░  16.23%
-unknown               33m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.52%
-Markdown              25m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.84%
-Svelte                24m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.67%
+Python                4h 10m 8s    █████████████░░░░░░░░░░░░  51.70%
+TOML                  1h 18m 48s   █████░░░░░░░░░░░░░░░░░░░░  16.29%
+unknown               31m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.56%
+TypeScript            24m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.96%
+JSON                  23m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.81%
 
 💼 Projects:
-Fraudpheus            2h 51m 25s   ████████████░░░░░░░░░░░░░  44.37%
-rustytime             53m 38s      ████░░░░░░░░░░░░░░░░░░░░░  13.88%
-resolution-python-2   53m 32s      ████░░░░░░░░░░░░░░░░░░░░░  13.86%
-hackatime-scraper     38m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  9.93%
-slack-undoc-client    30m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.92%
+Fraudpheus            2h 46m 6s    ████████████░░░░░░░░░░░░░  45.50%
+rustytime             53m 38s      ████░░░░░░░░░░░░░░░░░░░░░  14.69%
+resolution-python-2   53m 32s      ████░░░░░░░░░░░░░░░░░░░░░  14.66%
+hackatime-scraper     38m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  10.51%
+slack-undoc-client    30m 36s      ███░░░░░░░░░░░░░░░░░░░░░░  8.38%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
