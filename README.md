@@ -30,17 +30,17 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript           2h 27m 45s   ████████████░░░░░░░░░░░░░  46.07%
-Svelte               52m 39s      █████░░░░░░░░░░░░░░░░░░░░  16.42%
-JSON                 31m 58s      ███░░░░░░░░░░░░░░░░░░░░░░  9.97%
-unknown              26m 44s      ███░░░░░░░░░░░░░░░░░░░░░░  8.34%
-Shell                19m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.15%
+TypeScript           2h 27m 45s   ████████████░░░░░░░░░░░░░  44.61%
+Svelte               54m 39s      █████░░░░░░░░░░░░░░░░░░░░  16.50%
+JSON                 33m 58s      ███░░░░░░░░░░░░░░░░░░░░░░  10.26%
+unknown              26m 44s      ███░░░░░░░░░░░░░░░░░░░░░░  8.07%
+Shell                19m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.95%
 
 💼 Projects:
-blocked              2h 43m 27s   ████████████████████░░░░░  78.16%
-slack-undoc-client   30m 36s      ████░░░░░░░░░░░░░░░░░░░░░  14.63%
-rustytime            10m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.83%
-resolution-rust-2    4m 59s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.38%
+blocked              2h 50m 6s    ████████████████████░░░░░  78.83%
+slack-undoc-client   30m 36s      ████░░░░░░░░░░░░░░░░░░░░░  14.18%
+rustytime            10m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.68%
+resolution-rust-2    4m 59s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.31%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
