@@ -4,8 +4,8 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(today)**
-- [`ADallower`](https://github.com/ImShyMike/ADallower) - _turn website ads into amazing works of art!_ **(4 days ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 day ago)**
+- [`ADallower`](https://github.com/ImShyMike/ADallower) - _turn website ads into amazing works of art!_ **(5 days ago)**
 - [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(1 week ago)**
 - [`resolution-python-2`](https://github.com/ImShyMike/resolution-python-2) - _CLI tool to search GitHub data using the grep.app API_ **(1 week ago)**
 - [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) - _Bot to communicate with people and staff members on Slack_ **(1 week ago)**
@@ -30,15 +30,15 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript   2h 12m 48s   █████████████░░░░░░░░░░░░  51.31%
-Svelte       56m 39s      ██████░░░░░░░░░░░░░░░░░░░  21.89%
-JSON         17m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.75%
-Shell        13m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.38%
-Rust         10m 6s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.90%
+TypeScript   2h 21m 9s    █████████████░░░░░░░░░░░░  49.71%
+Svelte       56m 39s      █████░░░░░░░░░░░░░░░░░░░░  19.95%
+JSON         19m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.86%
+HTML         16m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.90%
+Shell        15m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.63%
 
 💼 Projects:
-blocked      2h 59m 29s   ████████████████████████░  94.67%
-rustytime    10m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.33%
+blocked      3h 18m 27s   ████████████████████████░  95.16%
+rustytime    10m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.84%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
