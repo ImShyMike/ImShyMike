@@ -30,16 +30,16 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript       2h 25m 57s   ████████████░░░░░░░░░░░░░  47.41%
-Svelte           58m 39s      █████░░░░░░░░░░░░░░░░░░░░  19.05%
-JSON             27m 33s      ███░░░░░░░░░░░░░░░░░░░░░░  8.95%
-HTML             16m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.44%
-Shell            15m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.19%
+TypeScript       2h 32m 36s   ████████████░░░░░░░░░░░░░  45.25%
+Svelte           1h 10m 17s   ██████░░░░░░░░░░░░░░░░░░░  20.84%
+JSON             29m 33s      ███░░░░░░░░░░░░░░░░░░░░░░  8.76%
+Shell            17m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.33%
+HTML             16m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.97%
 
 💼 Projects:
-blocked          3h 22m 44s   ████████████████████████░  92.38%
-rustytime        10m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.60%
-my-emdash-site   6m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.02%
+blocked          3h 41m 4s    ████████████████████████░  92.97%
+rustytime        10m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.25%
+my-emdash-site   6m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.78%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
