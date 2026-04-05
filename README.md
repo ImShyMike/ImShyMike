@@ -4,14 +4,14 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(3 days ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(4 days ago)**
 - [`ADallower`](https://github.com/ImShyMike/ADallower) - _turn website ads into amazing works of art!_ **(1 week ago)**
 - [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(1 week ago)**
 - [`resolution-python-2`](https://github.com/ImShyMike/resolution-python-2) - _CLI tool to search GitHub data using the grep.app API_ **(1 week ago)**
 - [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) - _Bot to communicate with people and staff members on Slack_ **(1 week ago)**
 - [`resolution-rust-1`](https://github.com/ImShyMike/resolution-rust-1) - _Hacker news story viewer_ **(3 weeks ago)**
 - [`resolution-python-1`](https://github.com/ImShyMike/resolution-python-1) - _Tiny task manager_ **(3 weeks ago)**
-- [`Eryx`](https://github.com/ImShyMike/Eryx) - _A decently fast and simple dynamically typed programming language similar to javascript/python._ **(4 weeks ago)**
+- [`Eryx`](https://github.com/ImShyMike/Eryx) - _A decently fast and simple dynamically typed programming language similar to javascript/python._ **(1 month ago)**
 
 #### 📦 My most popular repos
 
@@ -30,17 +30,17 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript       3h 19m 13s   ███████████░░░░░░░░░░░░░░  40.22%
-Svelte           1h 51m 6s    ██████░░░░░░░░░░░░░░░░░░░  22.43%
-JSON             45m 17s      ███░░░░░░░░░░░░░░░░░░░░░░  9.14%
-Shell            32m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.66%
-YAML             21m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.32%
+TypeScript       3h 39m 20s   ███████████░░░░░░░░░░░░░░  40.61%
+Svelte           2h 1m 7s     ██████░░░░░░░░░░░░░░░░░░░  22.42%
+JSON             47m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  8.77%
+Shell            38m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.18%
+YAML             21m 25s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.97%
 
 💼 Projects:
-blocked          4h 47m 53s   ███████████████████████░░  89.11%
-s-archive        18m 28s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.72%
-rustytime        10m 6s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.13%
-my-emdash-site   6m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.05%
+blocked          5h 8m 0s     ██████████████████████░░░  87.37%
+s-archive        27m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.89%
+rustytime        10m 6s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.87%
+my-emdash-site   6m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.88%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
