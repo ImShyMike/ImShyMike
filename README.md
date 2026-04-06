@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript           5h 21m 58s   ████████████░░░░░░░░░░░░░  47.33%
-Svelte               2h 4m 38s    █████░░░░░░░░░░░░░░░░░░░░  18.32%
-JSON                 53m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.89%
-Shell                45m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.68%
-Python               27m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.11%
+TypeScript           5h 24m 25s   ████████████░░░░░░░░░░░░░  47.33%
+Svelte               2h 4m 38s    █████░░░░░░░░░░░░░░░░░░░░  18.18%
+JSON                 53m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.83%
+Shell                45m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.63%
+Python               30m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.47%
 
 💼 Projects:
-blocked              5h 21m 37s   ██████████████████░░░░░░░  69.53%
-slack-undoc-client   1h 29m 2s    █████░░░░░░░░░░░░░░░░░░░░  19.25%
-s-archive            27m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.01%
-rustytime            10m 6s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.18%
-emojiout-v2          7m 23s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.60%
+blocked              5h 21m 37s   ██████████████████░░░░░░░  68.77%
+slack-undoc-client   1h 31m 29s   █████░░░░░░░░░░░░░░░░░░░░  19.56%
+s-archive            27m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.94%
+rustytime            10m 6s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.16%
+emojiout-v2          10m 3s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.15%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
