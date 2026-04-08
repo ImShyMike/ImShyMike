@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript           5h 42m 28s   ████████░░░░░░░░░░░░░░░░░  31.58%
-unknown              2h 9m 41s    ███░░░░░░░░░░░░░░░░░░░░░░  11.96%
-Ruby                 1h 40m 35s   ███░░░░░░░░░░░░░░░░░░░░░░  9.27%
-Svelte               1h 39m 43s   ███░░░░░░░░░░░░░░░░░░░░░░  9.19%
-JSON                 56m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.22%
+TypeScript           5h 42m 28s   ████████░░░░░░░░░░░░░░░░░  31.21%
+unknown              2h 9m 41s    ███░░░░░░░░░░░░░░░░░░░░░░  11.82%
+Ruby                 1h 53m 16s   ███░░░░░░░░░░░░░░░░░░░░░░  10.32%
+Svelte               1h 39m 43s   ███░░░░░░░░░░░░░░░░░░░░░░  9.09%
+JSON                 56m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.16%
 
 💼 Projects:
-blocked              3h 49m 44s   █████████░░░░░░░░░░░░░░░░  32.90%
-ferret               2h 59m 6s    ███████░░░░░░░░░░░░░░░░░░  25.65%
-slack-undoc-client   2h 6m 7s     █████░░░░░░░░░░░░░░░░░░░░  18.06%
-slack-tui            1h 22m 27s   ███░░░░░░░░░░░░░░░░░░░░░░  11.81%
-s-archive            27m 48s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.98%
+blocked              3h 49m 44s   █████████░░░░░░░░░░░░░░░░  32.40%
+ferret               2h 59m 6s    ███████░░░░░░░░░░░░░░░░░░  25.26%
+slack-undoc-client   2h 6m 7s     █████░░░░░░░░░░░░░░░░░░░░  17.79%
+slack-tui            1h 22m 27s   ███░░░░░░░░░░░░░░░░░░░░░░  11.63%
+s-archive            27m 48s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.92%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
