@@ -4,8 +4,8 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(1 day ago)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(6 days ago)**
+- [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(2 days ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 week ago)**
 - [`ADallower`](https://github.com/ImShyMike/ADallower) - _turn website ads into amazing works of art!_ **(1 week ago)**
 - [`resolution-python-2`](https://github.com/ImShyMike/resolution-python-2) - _CLI tool to search GitHub data using the grep.app API_ **(2 weeks ago)**
 - [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) - _Bot to communicate with people and staff members on Slack_ **(2 weeks ago)**
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Draft: Add automod/slur filter feature to firehose**](https://github.com/hackclub/firehose/pull/25) on [`firehose`](https://github.com/hackclub/firehose) **(1 week ago)**
+- [**Draft: Add automod/slur filter feature to firehose**](https://github.com/hackclub/firehose/pull/25) on [`firehose`](https://github.com/hackclub/firehose) **(2 weeks ago)**
 - [**Bug fixes**](https://github.com/BudzioT/Fraudpheus/pull/32) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(2 weeks ago)**
 - [**Add auto case tagging**](https://github.com/BudzioT/Fraudpheus/pull/31) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(2 weeks ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript           5h 42m 28s   ████████████░░░░░░░░░░░░░  47.67%
-Svelte               1h 39m 43s   ████░░░░░░░░░░░░░░░░░░░░░  13.88%
-JSON                 56m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.88%
-Python               52m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.32%
-Shell                43m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.08%
+TypeScript           5h 42m 28s   ████████████░░░░░░░░░░░░░  46.74%
+Svelte               1h 39m 43s   ████░░░░░░░░░░░░░░░░░░░░░  13.61%
+JSON                 56m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.73%
+Python               52m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.18%
+Shell                43m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.97%
 
 💼 Projects:
-blocked              3h 41m 44s   ███████████░░░░░░░░░░░░░░  43.87%
-slack-undoc-client   2h 6m 7s     ███████░░░░░░░░░░░░░░░░░░  24.95%
-slack-tui            1h 22m 27s   █████░░░░░░░░░░░░░░░░░░░░  16.31%
-s-archive            27m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.50%
-hackatime-scraper    20m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.08%
+blocked              3h 49m 44s   ████████████░░░░░░░░░░░░░  44.24%
+slack-undoc-client   2h 6m 7s     ███████░░░░░░░░░░░░░░░░░░  24.29%
+slack-tui            1h 22m 27s   ████░░░░░░░░░░░░░░░░░░░░░  15.88%
+s-archive            27m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.35%
+hackatime-scraper    22m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.36%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
