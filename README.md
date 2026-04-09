@@ -4,6 +4,7 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
+- [`QuestCompassPlus`](https://github.com/ImShyMike/QuestCompassPlus) - _Minecraft fabric mod for the minecraft server Monumenta that adds QOL features related to the quest compass. _ **(today)**
 - [`ships`](https://github.com/hackclub/ships) - _🚢 27,457 Ships, visualised_ **(1 day ago)**
 - [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(3 days ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 week ago)**
@@ -11,7 +12,6 @@ A student who likes coding and gaming!
 - [`resolution-python-2`](https://github.com/ImShyMike/resolution-python-2) - _CLI tool to search GitHub data using the grep.app API_ **(2 weeks ago)**
 - [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) - _Bot to communicate with people and staff members on Slack_ **(2 weeks ago)**
 - [`resolution-rust-1`](https://github.com/ImShyMike/resolution-rust-1) - _Hacker news story viewer_ **(3 weeks ago)**
-- [`resolution-python-1`](https://github.com/ImShyMike/resolution-python-1) - _Tiny task manager_ **(3 weeks ago)**
 
 #### 📦 My most popular repos
 
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript           5h 41m 52s   ████████░░░░░░░░░░░░░░░░░  31.67%
-unknown              2h 9m 0s     ███░░░░░░░░░░░░░░░░░░░░░░  11.95%
-Ruby                 2h 5m 45s    ███░░░░░░░░░░░░░░░░░░░░░░  11.65%
-Svelte               1h 27m 35s   ███░░░░░░░░░░░░░░░░░░░░░░  8.11%
-JSON                 59m 23s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.50%
+TypeScript           4h 52m 56s   ████████░░░░░░░░░░░░░░░░░  31.05%
+unknown              2h 12m 31s   ████░░░░░░░░░░░░░░░░░░░░░  14.05%
+Ruby                 2h 5m 45s    ████░░░░░░░░░░░░░░░░░░░░░  13.33%
+Python               52m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.58%
+Markdown             47m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.02%
 
 💼 Projects:
-blocked              3h 34m 44s   ████████░░░░░░░░░░░░░░░░░  30.76%
-ferret               2h 59m 6s    ███████░░░░░░░░░░░░░░░░░░  25.65%
-slack-undoc-client   2h 6m 7s     █████░░░░░░░░░░░░░░░░░░░░  18.06%
-slack-tui            1h 22m 27s   ███░░░░░░░░░░░░░░░░░░░░░░  11.81%
-s-archive            27m 48s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.98%
+ferret               2h 59m 6s    ████████░░░░░░░░░░░░░░░░░  29.23%
+blocked              2h 11m 9s    ██████░░░░░░░░░░░░░░░░░░░  21.40%
+slack-undoc-client   2h 4m 7s     ██████░░░░░░░░░░░░░░░░░░░  20.25%
+slack-tui            1h 22m 27s   ████░░░░░░░░░░░░░░░░░░░░░  13.45%
+s-archive            27m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.54%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
