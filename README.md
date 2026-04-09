@@ -4,8 +4,8 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`ships`](https://github.com/hackclub/ships) - _🚢 27,457 Ships, visualised_ **(today)**
-- [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(2 days ago)**
+- [`ships`](https://github.com/hackclub/ships) - _🚢 27,457 Ships, visualised_ **(1 day ago)**
+- [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(3 days ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 week ago)**
 - [`ADallower`](https://github.com/ImShyMike/ADallower) - _turn website ads into amazing works of art!_ **(1 week ago)**
 - [`resolution-python-2`](https://github.com/ImShyMike/resolution-python-2) - _CLI tool to search GitHub data using the grep.app API_ **(2 weeks ago)**
@@ -23,7 +23,7 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Add deleted record handling**](https://github.com/hackclub/ships/pull/53) on [`ships`](https://github.com/hackclub/ships) **(today)**
+- [**Add deleted record handling**](https://github.com/hackclub/ships/pull/53) on [`ships`](https://github.com/hackclub/ships) **(1 day ago)**
 - [**Draft: Add automod/slur filter feature to firehose**](https://github.com/hackclub/firehose/pull/25) on [`firehose`](https://github.com/hackclub/firehose) **(2 weeks ago)**
 - [**Bug fixes**](https://github.com/BudzioT/Fraudpheus/pull/32) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(2 weeks ago)**
 
