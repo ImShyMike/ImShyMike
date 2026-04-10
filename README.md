@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
+- [**Don't soft delete all projects if airbridge returns nothing**](https://github.com/hackclub/ships/pull/56) on [`ships`](https://github.com/hackclub/ships) **(today)**
 - [**Add deleted record handling**](https://github.com/hackclub/ships/pull/53) on [`ships`](https://github.com/hackclub/ships) **(2 days ago)**
 - [**Draft: Add automod/slur filter feature to firehose**](https://github.com/hackclub/firehose/pull/25) on [`firehose`](https://github.com/hackclub/firehose) **(2 weeks ago)**
-- [**Bug fixes**](https://github.com/BudzioT/Fraudpheus/pull/32) on [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) **(2 weeks ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript           4h 54m 56s   ████████░░░░░░░░░░░░░░░░░  30.28%
-Ruby                 2h 34m 21s   ████░░░░░░░░░░░░░░░░░░░░░  15.85%
-unknown              2h 12m 31s   ████░░░░░░░░░░░░░░░░░░░░░  13.60%
-Python               52m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.40%
-Markdown             47m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.86%
+TypeScript           5h 17m 47s   ████████░░░░░░░░░░░░░░░░░  31.52%
+Ruby                 2h 36m 52s   ████░░░░░░░░░░░░░░░░░░░░░  15.56%
+unknown              2h 12m 31s   ████░░░░░░░░░░░░░░░░░░░░░  13.14%
+Python               52m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.22%
+Markdown             47m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.69%
 
 💼 Projects:
-ferret               2h 59m 6s    ███████░░░░░░░░░░░░░░░░░░  27.84%
-blocked              2h 13m 9s    ██████░░░░░░░░░░░░░░░░░░░  20.70%
-slack-undoc-client   2h 4m 7s     █████░░░░░░░░░░░░░░░░░░░░  19.29%
-slack-tui            1h 22m 27s   ████░░░░░░░░░░░░░░░░░░░░░  12.82%
-ships                53m 29s      ███░░░░░░░░░░░░░░░░░░░░░░  8.31%
+ferret               2h 59m 6s    ███████░░░░░░░░░░░░░░░░░░  26.68%
+blocked              2h 38m 30s   ██████░░░░░░░░░░░░░░░░░░░  23.61%
+slack-undoc-client   2h 4m 7s     █████░░░░░░░░░░░░░░░░░░░░  18.49%
+slack-tui            1h 22m 27s   ████░░░░░░░░░░░░░░░░░░░░░  12.28%
+ships                56m 0s       ███░░░░░░░░░░░░░░░░░░░░░░  8.34%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
