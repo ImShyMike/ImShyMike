@@ -15,7 +15,7 @@ A student who likes coding and gaming!
 
 #### 📦 My most popular repos
 
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(31⭐)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(32⭐)**
 - [`waka-relay`](https://github.com/ImShyMike/waka-relay) - _📊 A self-hosted app that relays WakaTime heartbeats to multiple instances_ **(30⭐)**
 - [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(26⭐)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(15⭐)**
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
+- [**Fix quantized heartbeats endpoint**](https://github.com/hackclub/hackatime/pull/1157) on [`hackatime`](https://github.com/hackclub/hackatime) **(today)**
 - [**Fix typo**](https://github.com/hackclub/ships/pull/60) on [`ships`](https://github.com/hackclub/ships) **(3 days ago)**
 - [**Include boba drops in api requests**](https://github.com/hackclub/ships/pull/59) on [`ships`](https://github.com/hackclub/ships) **(3 days ago)**
-- [**Align jobs**](https://github.com/hackclub/ships/pull/58) on [`ships`](https://github.com/hackclub/ships) **(3 days ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript           6h 36m 20s   ███████░░░░░░░░░░░░░░░░░░  26.24%
-Svelte               5h 26m 51s   ██████░░░░░░░░░░░░░░░░░░░  21.64%
-Ruby                 3h 13m 40s   ████░░░░░░░░░░░░░░░░░░░░░  12.82%
-unknown              2h 52m 14s   ███░░░░░░░░░░░░░░░░░░░░░░  11.40%
-Markdown             1h 13m 26s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.86%
+TypeScript           7h 1m 52s    ███████░░░░░░░░░░░░░░░░░░  26.90%
+Svelte               5h 33m 3s    ██████░░░░░░░░░░░░░░░░░░░  21.24%
+Ruby                 3h 19m 28s   ████░░░░░░░░░░░░░░░░░░░░░  12.72%
+unknown              2h 52m 14s   ███░░░░░░░░░░░░░░░░░░░░░░  10.98%
+Markdown             1h 15m 26s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.81%
 
 💼 Projects:
-pulse                5h 18m 40s   ████████░░░░░░░░░░░░░░░░░  30.75%
-ferret               2h 59m 6s    █████░░░░░░░░░░░░░░░░░░░░  17.28%
-blocked              2h 21m 43s   ████░░░░░░░░░░░░░░░░░░░░░  13.67%
-slack-undoc-client   2h 4m 7s     ███░░░░░░░░░░░░░░░░░░░░░░  11.98%
-ships                1h 44m 24s   ███░░░░░░░░░░░░░░░░░░░░░░  10.07%
+pulse                5h 18m 40s   ████████░░░░░░░░░░░░░░░░░  29.78%
+ferret               2h 59m 6s    █████░░░░░░░░░░░░░░░░░░░░  16.73%
+blocked              2h 21m 43s   ████░░░░░░░░░░░░░░░░░░░░░  13.24%
+slack-undoc-client   2h 4m 7s     ███░░░░░░░░░░░░░░░░░░░░░░  11.60%
+ships                1h 44m 24s   ███░░░░░░░░░░░░░░░░░░░░░░  9.75%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
