@@ -15,7 +15,7 @@ A student who likes coding and gaming!
 
 #### 📦 My most popular repos
 
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(30⭐)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(31⭐)**
 - [`waka-relay`](https://github.com/ImShyMike/waka-relay) - _📊 A self-hosted app that relays WakaTime heartbeats to multiple instances_ **(30⭐)**
 - [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(26⭐)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(15⭐)**
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript           6h 17m 26s   ███████░░░░░░░░░░░░░░░░░░  25.50%
-Svelte               5h 15m 13s   ██████░░░░░░░░░░░░░░░░░░░  21.30%
-Ruby                 3h 13m 40s   ████░░░░░░░░░░░░░░░░░░░░░  13.09%
-unknown              2h 52m 14s   ███░░░░░░░░░░░░░░░░░░░░░░  11.64%
-Markdown             1h 13m 26s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.96%
+TypeScript           6h 28m 25s   ███████░░░░░░░░░░░░░░░░░░  25.92%
+Svelte               5h 22m 47s   ██████░░░░░░░░░░░░░░░░░░░  21.54%
+Ruby                 3h 13m 40s   ████░░░░░░░░░░░░░░░░░░░░░  12.92%
+unknown              2h 52m 14s   ███░░░░░░░░░░░░░░░░░░░░░░  11.49%
+Markdown             1h 13m 26s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.90%
 
 💼 Projects:
-pulse                5h 18m 40s   ████████░░░░░░░░░░░░░░░░░  31.33%
-ferret               2h 59m 6s    █████░░░░░░░░░░░░░░░░░░░░  17.61%
-blocked              2h 21m 43s   ████░░░░░░░░░░░░░░░░░░░░░  13.93%
-slack-undoc-client   2h 4m 7s     ████░░░░░░░░░░░░░░░░░░░░░  12.20%
-ships                1h 44m 24s   ███░░░░░░░░░░░░░░░░░░░░░░  10.26%
+pulse                5h 18m 40s   ████████░░░░░░░░░░░░░░░░░  31.02%
+ferret               2h 59m 6s    █████░░░░░░░░░░░░░░░░░░░░  17.44%
+blocked              2h 21m 43s   ████░░░░░░░░░░░░░░░░░░░░░  13.80%
+slack-undoc-client   2h 4m 7s     ████░░░░░░░░░░░░░░░░░░░░░  12.08%
+ships                1h 44m 24s   ███░░░░░░░░░░░░░░░░░░░░░░  10.16%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
