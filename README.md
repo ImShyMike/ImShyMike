@@ -4,14 +4,14 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`realtime`](https://github.com/ImShyMike/realtime) - _Make a website that updates in real-time, get a router!_ **(1 day ago)**
+- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, Wakatime-compatible coding time tracker_ **(today)**
+- [`realtime`](https://github.com/ImShyMike/realtime) - _Make a website that updates in real-time, get a router!_ **(today)**
 - [`ships`](https://github.com/hackclub/ships) - _🚢 27,457 Ships, visualised_ **(2 days ago)**
 - [`QuestCompassPlus`](https://github.com/ImShyMike/QuestCompassPlus) - _Minecraft fabric mod for the minecraft server Monumenta that adds QOL features related to the quest compass. _ **(3 days ago)**
 - [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(1 week ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 week ago)**
 - [`ADallower`](https://github.com/ImShyMike/ADallower) - _turn website ads into amazing works of art!_ **(2 weeks ago)**
 - [`resolution-python-2`](https://github.com/ImShyMike/resolution-python-2) - _CLI tool to search GitHub data using the grep.app API_ **(2 weeks ago)**
-- [`Fraudpheus`](https://github.com/BudzioT/Fraudpheus) - _Bot to communicate with people and staff members on Slack_ **(3 weeks ago)**
 
 #### 📦 My most popular repos
 
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Fix quantized heartbeats endpoint**](https://github.com/hackclub/hackatime/pull/1157) on [`hackatime`](https://github.com/hackclub/hackatime) **(today)**
+- [**Fix logic bug**](https://github.com/hackclub/ships/pull/61) on [`ships`](https://github.com/hackclub/ships) **(today)**
+- [**Add `null_pixels` to quantized heartbeats endpoint**](https://github.com/hackclub/hackatime/pull/1157) on [`hackatime`](https://github.com/hackclub/hackatime) **(today)**
 - [**Fix typo**](https://github.com/hackclub/ships/pull/60) on [`ships`](https://github.com/hackclub/ships) **(3 days ago)**
-- [**Include boba drops in api requests**](https://github.com/hackclub/ships/pull/59) on [`ships`](https://github.com/hackclub/ships) **(3 days ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript           7h 1m 52s    ███████░░░░░░░░░░░░░░░░░░  26.90%
-Svelte               5h 33m 3s    ██████░░░░░░░░░░░░░░░░░░░  21.24%
-Ruby                 3h 19m 28s   ████░░░░░░░░░░░░░░░░░░░░░  12.72%
-unknown              2h 52m 14s   ███░░░░░░░░░░░░░░░░░░░░░░  10.98%
-Markdown             1h 15m 26s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.81%
+TypeScript           7h 6m 42s    ███████░░░░░░░░░░░░░░░░░░  26.68%
+Svelte               5h 47m 57s   ██████░░░░░░░░░░░░░░░░░░░  21.75%
+Ruby                 3h 25m 46s   ████░░░░░░░░░░░░░░░░░░░░░  12.86%
+unknown              2h 52m 14s   ███░░░░░░░░░░░░░░░░░░░░░░  10.77%
+Markdown             1h 15m 26s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.72%
 
 💼 Projects:
-pulse                5h 18m 40s   ████████░░░░░░░░░░░░░░░░░  29.78%
-ferret               2h 59m 6s    █████░░░░░░░░░░░░░░░░░░░░  16.73%
-blocked              2h 21m 43s   ████░░░░░░░░░░░░░░░░░░░░░  13.24%
-slack-undoc-client   2h 4m 7s     ███░░░░░░░░░░░░░░░░░░░░░░  11.60%
-ships                1h 44m 24s   ███░░░░░░░░░░░░░░░░░░░░░░  9.75%
+pulse                5h 34m 13s   ████████░░░░░░░░░░░░░░░░░  30.60%
+ferret               2h 59m 6s    █████░░░░░░░░░░░░░░░░░░░░  16.40%
+blocked              2h 21m 43s   ████░░░░░░░░░░░░░░░░░░░░░  12.98%
+slack-undoc-client   2h 4m 7s     ███░░░░░░░░░░░░░░░░░░░░░░  11.36%
+ships                1h 46m 49s   ███░░░░░░░░░░░░░░░░░░░░░░  9.78%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
