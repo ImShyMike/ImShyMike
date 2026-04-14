@@ -4,14 +4,14 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, Wakatime-compatible coding time tracker_ **(today)**
-- [`realtime`](https://github.com/ImShyMike/realtime) - _Make a website that updates in real-time, get a router!_ **(today)**
-- [`ships`](https://github.com/hackclub/ships) - _🚢 27,457 Ships, visualised_ **(2 days ago)**
-- [`QuestCompassPlus`](https://github.com/ImShyMike/QuestCompassPlus) - _Minecraft fabric mod for the minecraft server Monumenta that adds QOL features related to the quest compass. _ **(3 days ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Unified YSWS DB search made easy_ **(today)**
+- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, Wakatime-compatible coding time tracker_ **(1 day ago)**
+- [`realtime`](https://github.com/ImShyMike/realtime) - _Make a website that updates in real-time, get a router!_ **(1 day ago)**
+- [`ships`](https://github.com/hackclub/ships) - _🚢 27,457 Ships, visualised_ **(3 days ago)**
+- [`QuestCompassPlus`](https://github.com/ImShyMike/QuestCompassPlus) - _Minecraft fabric mod for the minecraft server Monumenta that adds QOL features related to the quest compass. _ **(4 days ago)**
 - [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(1 week ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 week ago)**
 - [`ADallower`](https://github.com/ImShyMike/ADallower) - _turn website ads into amazing works of art!_ **(2 weeks ago)**
-- [`resolution-python-2`](https://github.com/ImShyMike/resolution-python-2) - _CLI tool to search GitHub data using the grep.app API_ **(2 weeks ago)**
 
 #### 📦 My most popular repos
 
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Fix logic bug**](https://github.com/hackclub/ships/pull/61) on [`ships`](https://github.com/hackclub/ships) **(today)**
-- [**Add `null_pixels` to quantized heartbeats endpoint**](https://github.com/hackclub/hackatime/pull/1157) on [`hackatime`](https://github.com/hackclub/hackatime) **(today)**
-- [**Fix typo**](https://github.com/hackclub/ships/pull/60) on [`ships`](https://github.com/hackclub/ships) **(3 days ago)**
+- [**Fix logic bug**](https://github.com/hackclub/ships/pull/61) on [`ships`](https://github.com/hackclub/ships) **(1 day ago)**
+- [**Add `null_pixels` to quantized heartbeats endpoint**](https://github.com/hackclub/hackatime/pull/1157) on [`hackatime`](https://github.com/hackclub/hackatime) **(1 day ago)**
+- [**Fix typo**](https://github.com/hackclub/ships/pull/60) on [`ships`](https://github.com/hackclub/ships) **(4 days ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Svelte       5h 48m 49s   ███████░░░░░░░░░░░░░░░░░░  24.62%
-TypeScript   3h 54m 8s    █████░░░░░░░░░░░░░░░░░░░░  16.53%
-Ruby         3h 25m 46s   ████░░░░░░░░░░░░░░░░░░░░░  14.52%
-unknown      2h 51m 4s    ████░░░░░░░░░░░░░░░░░░░░░  12.07%
-Markdown     1h 2m 43s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.43%
+Svelte       5h 48m 49s   ██████░░░░░░░░░░░░░░░░░░░  23.07%
+TypeScript   3h 54m 8s    ████░░░░░░░░░░░░░░░░░░░░░  15.49%
+Ruby         3h 25m 46s   ████░░░░░░░░░░░░░░░░░░░░░  13.61%
+unknown      2h 51m 4s    ███░░░░░░░░░░░░░░░░░░░░░░  11.32%
+Rust         1h 48m 41s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.19%
 
 💼 Projects:
-pulse        5h 34m 30s   ██████████░░░░░░░░░░░░░░░  36.30%
-ferret       2h 59m 6s    █████░░░░░░░░░░░░░░░░░░░░  19.44%
-blocked      2h 21m 43s   ████░░░░░░░░░░░░░░░░░░░░░  15.38%
-ships        1h 46m 49s   ███░░░░░░░░░░░░░░░░░░░░░░  11.59%
-otter        1h 6m 7s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.18%
+pulse        5h 34m 30s   █████████░░░░░░░░░░░░░░░░  33.74%
+ferret       2h 59m 6s    █████░░░░░░░░░░░░░░░░░░░░  18.07%
+blocked      2h 21m 43s   ████░░░░░░░░░░░░░░░░░░░░░  14.30%
+otter        2h 16m 2s    ████░░░░░░░░░░░░░░░░░░░░░  13.72%
+ships        1h 46m 49s   ███░░░░░░░░░░░░░░░░░░░░░░  10.78%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
