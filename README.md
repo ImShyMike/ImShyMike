@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Rust         5h 59m 47s   █████░░░░░░░░░░░░░░░░░░░░  19.62%
-Svelte       5h 50m 49s   █████░░░░░░░░░░░░░░░░░░░░  19.13%
-TypeScript   4h 4m 24s    ████░░░░░░░░░░░░░░░░░░░░░  13.33%
-Ruby         3h 25m 46s   ███░░░░░░░░░░░░░░░░░░░░░░  11.22%
-unknown      3h 3m 59s    ███░░░░░░░░░░░░░░░░░░░░░░  10.03%
+Rust         6h 1m 47s    █████░░░░░░░░░░░░░░░░░░░░  19.70%
+Svelte       5h 50m 49s   █████░░░░░░░░░░░░░░░░░░░░  19.11%
+TypeScript   4h 4m 24s    ████░░░░░░░░░░░░░░░░░░░░░  13.31%
+Ruby         3h 25m 46s   ███░░░░░░░░░░░░░░░░░░░░░░  11.21%
+unknown      3h 3m 59s    ███░░░░░░░░░░░░░░░░░░░░░░  10.02%
 
 💼 Projects:
-otter        6h 40m 55s   ████████░░░░░░░░░░░░░░░░░  31.71%
-pulse        5h 34m 30s   ███████░░░░░░░░░░░░░░░░░░  26.46%
-ferret       2h 59m 6s    ████░░░░░░░░░░░░░░░░░░░░░  14.17%
-blocked      2h 21m 43s   ███░░░░░░░░░░░░░░░░░░░░░░  11.21%
-ships        1h 46m 49s   ███░░░░░░░░░░░░░░░░░░░░░░  8.45%
+otter        6h 42m 55s   ████████░░░░░░░░░░░░░░░░░  31.82%
+pulse        5h 34m 30s   ███████░░░░░░░░░░░░░░░░░░  26.41%
+ferret       2h 59m 6s    ████░░░░░░░░░░░░░░░░░░░░░  14.14%
+blocked      2h 21m 43s   ███░░░░░░░░░░░░░░░░░░░░░░  11.19%
+ships        1h 46m 49s   ███░░░░░░░░░░░░░░░░░░░░░░  8.44%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
