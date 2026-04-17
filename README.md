@@ -4,7 +4,7 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`otter`](https://github.com/ImShyMike/otter) - _Unified YSWS DB search made easy_ **(1 day ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Unified YSWS DB search made easy_ **(today)**
 - [`ships`](https://github.com/hackclub/ships) - _🚢 27,457 Ships, visualised_ **(4 days ago)**
 - [`realtime`](https://github.com/ImShyMike/realtime) - _Make a website that updates in real-time, get a router!_ **(4 days ago)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, Wakatime-compatible coding time tracker_ **(4 days ago)**
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Rust         7h 4m 19s    ████████░░░░░░░░░░░░░░░░░  28.60%
-Svelte       5h 29m 12s   ██████░░░░░░░░░░░░░░░░░░░  22.19%
-TypeScript   3h 10m 58s   ████░░░░░░░░░░░░░░░░░░░░░  12.87%
-unknown      1h 32m 44s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.25%
-Ruby         1h 18m 1s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.26%
+Rust         7h 12m 37s   ████████░░░░░░░░░░░░░░░░░  28.88%
+Svelte       5h 29m 12s   ██████░░░░░░░░░░░░░░░░░░░  21.97%
+TypeScript   3h 10m 58s   ████░░░░░░░░░░░░░░░░░░░░░  12.75%
+unknown      1h 32m 44s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.19%
+Ruby         1h 18m 1s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.21%
 
 💼 Projects:
-otter        8h 8m 44s    ████████████░░░░░░░░░░░░░  44.29%
-pulse        5h 34m 30s   ████████░░░░░░░░░░░░░░░░░  30.32%
-ships        1h 19m 55s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.24%
-blocked      1h 4m 49s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.87%
-joe          59m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.40%
+otter        8h 19m 48s   ████████████░░░░░░░░░░░░░  44.85%
+pulse        5h 34m 30s   ████████░░░░░░░░░░░░░░░░░  30.01%
+ships        1h 19m 55s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.17%
+blocked      1h 4m 49s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.82%
+joe          59m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.34%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
