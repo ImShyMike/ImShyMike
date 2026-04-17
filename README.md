@@ -5,9 +5,9 @@ A student who likes coding and gaming!
 #### 🏗️ What I've been working on
 
 - [`otter`](https://github.com/ImShyMike/otter) - _Unified YSWS DB search made easy_ **(today)**
-- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, Wakatime-compatible coding time tracker_ **(4 days ago)**
 - [`ships`](https://github.com/hackclub/ships) - _🚢 27,457 Ships, visualised_ **(4 days ago)**
 - [`realtime`](https://github.com/ImShyMike/realtime) - _Make a website that updates in real-time, get a router!_ **(4 days ago)**
+- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, Wakatime-compatible coding time tracker_ **(4 days ago)**
 - [`QuestCompassPlus`](https://github.com/ImShyMike/QuestCompassPlus) - _Minecraft fabric mod for the minecraft server Monumenta that adds QOL features related to the quest compass. _ **(1 week ago)**
 - [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(1 week ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(2 weeks ago)**
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Rust         9h 28m 6s     █████████░░░░░░░░░░░░░░░░  33.84%
-Svelte       5h 29m 12s    █████░░░░░░░░░░░░░░░░░░░░  19.61%
-TypeScript   3h 10m 58s    ███░░░░░░░░░░░░░░░░░░░░░░  11.38%
-unknown      1h 38m 3s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.84%
-Ruby         1h 18m 1s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.65%
+Rust         9h 30m 32s   █████████░░░░░░░░░░░░░░░░  33.90%
+Svelte       5h 29m 12s   █████░░░░░░░░░░░░░░░░░░░░  19.56%
+TypeScript   3h 10m 58s   ███░░░░░░░░░░░░░░░░░░░░░░  11.35%
+unknown      1h 38m 3s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.83%
+Ruby         1h 18m 1s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.64%
 
 💼 Projects:
-otter        10h 54m 39s   █████████████░░░░░░░░░░░░  51.57%
-pulse        5h 34m 30s    ███████░░░░░░░░░░░░░░░░░░  26.35%
-ships        1h 19m 55s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.30%
-blocked      1h 4m 49s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.11%
-joe          59m 32s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.69%
+otter        10h 59m 8s   █████████████░░░░░░░░░░░░  51.75%
+pulse        5h 34m 30s   ███████░░░░░░░░░░░░░░░░░░  26.26%
+ships        1h 19m 55s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.27%
+blocked      1h 4m 49s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.09%
+joe          59m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.67%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
