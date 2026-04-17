@@ -4,11 +4,11 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`otter`](https://github.com/ImShyMike/otter) - _Unified YSWS DB search made easy_ **(today)**
-- [`ships`](https://github.com/hackclub/ships) - _🚢 27,457 Ships, visualised_ **(3 days ago)**
-- [`realtime`](https://github.com/ImShyMike/realtime) - _Make a website that updates in real-time, get a router!_ **(3 days ago)**
-- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, Wakatime-compatible coding time tracker_ **(3 days ago)**
-- [`QuestCompassPlus`](https://github.com/ImShyMike/QuestCompassPlus) - _Minecraft fabric mod for the minecraft server Monumenta that adds QOL features related to the quest compass. _ **(6 days ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Unified YSWS DB search made easy_ **(1 day ago)**
+- [`ships`](https://github.com/hackclub/ships) - _🚢 27,457 Ships, visualised_ **(4 days ago)**
+- [`realtime`](https://github.com/ImShyMike/realtime) - _Make a website that updates in real-time, get a router!_ **(4 days ago)**
+- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, Wakatime-compatible coding time tracker_ **(4 days ago)**
+- [`QuestCompassPlus`](https://github.com/ImShyMike/QuestCompassPlus) - _Minecraft fabric mod for the minecraft server Monumenta that adds QOL features related to the quest compass. _ **(1 week ago)**
 - [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(1 week ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(2 weeks ago)**
 - [`ADallower`](https://github.com/ImShyMike/ADallower) - _turn website ads into amazing works of art!_ **(2 weeks ago)**
@@ -23,9 +23,9 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Fix logic bug**](https://github.com/hackclub/ships/pull/61) on [`ships`](https://github.com/hackclub/ships) **(3 days ago)**
-- [**Add `null_pixels` to quantized heartbeats endpoint**](https://github.com/hackclub/hackatime/pull/1157) on [`hackatime`](https://github.com/hackclub/hackatime) **(3 days ago)**
-- [**Fix typo**](https://github.com/hackclub/ships/pull/60) on [`ships`](https://github.com/hackclub/ships) **(6 days ago)**
+- [**Fix logic bug**](https://github.com/hackclub/ships/pull/61) on [`ships`](https://github.com/hackclub/ships) **(4 days ago)**
+- [**Add `null_pixels` to quantized heartbeats endpoint**](https://github.com/hackclub/hackatime/pull/1157) on [`hackatime`](https://github.com/hackclub/hackatime) **(4 days ago)**
+- [**Fix typo**](https://github.com/hackclub/ships/pull/60) on [`ships`](https://github.com/hackclub/ships) **(1 week ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
