@@ -4,13 +4,13 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(today)**
 - [`otter`](https://github.com/ImShyMike/otter) - _Unified YSWS DB search made easy_ **(today)**
+- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, Wakatime-compatible coding time tracker_ **(5 days ago)**
 - [`ships`](https://github.com/hackclub/ships) - _🚢 27,457 Ships, visualised_ **(5 days ago)**
 - [`realtime`](https://github.com/ImShyMike/realtime) - _Make a website that updates in real-time, get a router!_ **(5 days ago)**
-- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, Wakatime-compatible coding time tracker_ **(5 days ago)**
 - [`QuestCompassPlus`](https://github.com/ImShyMike/QuestCompassPlus) - _Minecraft fabric mod for the minecraft server Monumenta that adds QOL features related to the quest compass. _ **(1 week ago)**
 - [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(1 week ago)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(2 weeks ago)**
 - [`ADallower`](https://github.com/ImShyMike/ADallower) - _turn website ads into amazing works of art!_ **(3 weeks ago)**
 
 #### 📦 My most popular repos
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Rust          10h 21m 24s   ███████████░░░░░░░░░░░░░░  40.26%
-Svelte        5h 9m 39s     ██████░░░░░░░░░░░░░░░░░░░  20.06%
-TypeScript    1h 38m 35s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.39%
-unknown       1h 37m 48s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.34%
-Shell         1h 11m 44s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.65%
+Rust          10h 32m 41s   ███████████░░░░░░░░░░░░░░  40.69%
+Svelte        5h 9m 39s     █████░░░░░░░░░░░░░░░░░░░░  19.92%
+TypeScript    1h 38m 35s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.34%
+unknown       1h 37m 48s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.29%
+Shell         1h 11m 44s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.61%
 
 💼 Projects:
-otter         12h 16m 53s   ████████████████░░░░░░░░░  62.55%
-pulse         5h 13m 7s     ███████░░░░░░░░░░░░░░░░░░  26.58%
-joe           59m 32s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.05%
-emailscrape   27m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.34%
-ships         18m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.58%
+otter         12h 16m 53s   ████████████████░░░░░░░░░  62.06%
+pulse         5h 13m 7s     ███████░░░░░░░░░░░░░░░░░░  26.37%
+joe           59m 32s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.01%
+emailscrape   27m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.32%
+ships         18m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.57%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
