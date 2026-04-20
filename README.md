@@ -4,13 +4,13 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(today)**
 - [`otter`](https://github.com/ImShyMike/otter) - _Unified YSWS DB search made easy_ **(today)**
-- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, Wakatime-compatible coding time tracker_ **(6 days ago)**
-- [`ships`](https://github.com/hackclub/ships) - _🚢 27,457 Ships, visualised_ **(6 days ago)**
-- [`realtime`](https://github.com/ImShyMike/realtime) - _Make a website that updates in real-time, get a router!_ **(6 days ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(today)**
+- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, Wakatime-compatible coding time tracker_ **(1 week ago)**
+- [`ships`](https://github.com/hackclub/ships) - _🚢 27,457 Ships, visualised_ **(1 week ago)**
+- [`realtime`](https://github.com/ImShyMike/realtime) - _Make a website that updates in real-time, get a router!_ **(1 week ago)**
 - [`QuestCompassPlus`](https://github.com/ImShyMike/QuestCompassPlus) - _Minecraft fabric mod for the minecraft server Monumenta that adds QOL features related to the quest compass. _ **(1 week ago)**
-- [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(1 week ago)**
+- [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(2 weeks ago)**
 - [`ADallower`](https://github.com/ImShyMike/ADallower) - _turn website ads into amazing works of art!_ **(3 weeks ago)**
 
 #### 📦 My most popular repos
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Fix logic bug**](https://github.com/hackclub/ships/pull/61) on [`ships`](https://github.com/hackclub/ships) **(6 days ago)**
-- [**Add `null_pixels` to quantized heartbeats endpoint**](https://github.com/hackclub/hackatime/pull/1157) on [`hackatime`](https://github.com/hackclub/hackatime) **(6 days ago)**
+- [**Fix logic bug**](https://github.com/hackclub/ships/pull/61) on [`ships`](https://github.com/hackclub/ships) **(1 week ago)**
+- [**Add `null_pixels` to quantized heartbeats endpoint**](https://github.com/hackclub/hackatime/pull/1157) on [`hackatime`](https://github.com/hackclub/hackatime) **(1 week ago)**
 - [**Fix typo**](https://github.com/hackclub/ships/pull/60) on [`ships`](https://github.com/hackclub/ships) **(1 week ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Rust          13h 0m 43s   █████████████░░░░░░░░░░░░  50.18%
-Svelte        2h 12m 45s   ███░░░░░░░░░░░░░░░░░░░░░░  8.53%
-TypeScript    2h 12m 15s   ███░░░░░░░░░░░░░░░░░░░░░░  8.50%
-unknown       1h 20m 24s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.17%
-Shell         1h 16m 4s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.89%
+Rust          13h 0m 43s    ████████████░░░░░░░░░░░░░  47.38%
+Svelte        3h 29m 36s    ████░░░░░░░░░░░░░░░░░░░░░  12.72%
+TypeScript    2h 15m 51s    ███░░░░░░░░░░░░░░░░░░░░░░  8.24%
+unknown       1h 20m 24s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.88%
+Shell         1h 16m 4s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.62%
 
 💼 Projects:
-otter         16h 30m 5s   ██████████████████████░░░  84.56%
-joe           59m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.08%
-rustytime     57m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.88%
-emailscrape   27m 34s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.35%
-shiba         14m 37s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.25%
+otter         17h 47m 50s   ██████████████████████░░░  85.31%
+rustytime     1h 0m 10s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.81%
+joe           59m 32s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.76%
+emailscrape   27m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.20%
+shiba         14m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.17%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
