@@ -5,7 +5,7 @@ A student who likes coding and gaming!
 #### 🏗️ What I've been working on
 
 - [`otter`](https://github.com/ImShyMike/otter) - _Unified YSWS DB search made easy_ **(today)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(today)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 day ago)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, Wakatime-compatible coding time tracker_ **(1 week ago)**
 - [`ships`](https://github.com/hackclub/ships) - _🚢 27,457 Ships, visualised_ **(1 week ago)**
 - [`realtime`](https://github.com/ImShyMike/realtime) - _Make a website that updates in real-time, get a router!_ **(1 week ago)**
@@ -30,16 +30,16 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Rust          12h 46m 40s   █████████████░░░░░░░░░░░░  48.44%
-Svelte        3h 40m 25s    ████░░░░░░░░░░░░░░░░░░░░░  13.93%
-TypeScript    1h 58m 52s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.51%
-unknown       1h 18m 4s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.93%
-Shell         1h 15m 28s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.77%
+Rust          12h 46m 40s   █████████████░░░░░░░░░░░░  48.35%
+Svelte        3h 41m 14s    ████░░░░░░░░░░░░░░░░░░░░░  13.95%
+TypeScript    1h 58m 52s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.50%
+unknown       1h 18m 4s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.92%
+Shell         1h 15m 28s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.76%
 
 💼 Projects:
-otter         17h 41m 39s   ██████████████████████░░░  87.34%
-rustytime     1h 43m 27s    ███░░░░░░░░░░░░░░░░░░░░░░  8.51%
-emailscrape   27m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.27%
+otter         17h 44m 27s   ██████████████████████░░░  87.37%
+rustytime     1h 43m 27s    ███░░░░░░░░░░░░░░░░░░░░░░  8.49%
+emailscrape   27m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.26%
 shiba         14m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.20%
 joe           8m 17s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.68%
 ```
