@@ -30,18 +30,17 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Rust          9h 43m 55s   █████████░░░░░░░░░░░░░░░░  35.56%
-Svelte        8h 7m 0s     ████████░░░░░░░░░░░░░░░░░  29.65%
-TypeScript    2h 53m 2s    ███░░░░░░░░░░░░░░░░░░░░░░  10.54%
-HTML          1h 17m 3s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.69%
-unknown       1h 2m 6s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.78%
+Svelte        8h 11m 24s   █████████░░░░░░░░░░░░░░░░  33.72%
+Rust          7h 45m 12s   ████████░░░░░░░░░░░░░░░░░  31.92%
+TypeScript    2h 42m 45s   ███░░░░░░░░░░░░░░░░░░░░░░  11.17%
+HTML          1h 4m 45s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.44%
+Shell         50m 45s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.48%
 
 💼 Projects:
-otter         18h 23m 1s   ██████████████████████░░░  85.85%
-rustytime     2h 1m 21s    ███░░░░░░░░░░░░░░░░░░░░░░  9.44%
-emailscrape   27m 34s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.15%
-shiba         14m 37s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.14%
-firehose      10m 2s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.78%
+otter         16h 18m 6s   ██████████████████████░░░  86.02%
+rustytime     2h 1m 21s    ███░░░░░░░░░░░░░░░░░░░░░░  10.67%
+emailscrape   27m 34s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.42%
+firehose      10m 2s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.88%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
