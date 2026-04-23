@@ -4,8 +4,8 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`otter`](https://github.com/ImShyMike/otter) - _Unified YSWS DB search made easy_ **(today)**
-- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from the Hack Club Slack_ **(today)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(today)**
+- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from the Hack Club Slack; highlighting stories that matter to makers; Built with Astro_ **(today)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(2 days ago)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, Wakatime-compatible coding time tracker_ **(1 week ago)**
 - [`ships`](https://github.com/hackclub/ships) - _🚢 27,457 Ships, visualised_ **(1 week ago)**
@@ -30,17 +30,17 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Svelte        10h 34m 43s   ██████████░░░░░░░░░░░░░░░  36.44%
-Rust          8h 36m 26s    ████████░░░░░░░░░░░░░░░░░  29.65%
-TypeScript    3h 36m 45s    ████░░░░░░░░░░░░░░░░░░░░░  12.44%
-HTML          1h 4m 45s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.72%
-Shell         56m 50s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.26%
+Svelte        10h 39m 11s   █████████░░░░░░░░░░░░░░░░  35.33%
+Rust          8h 43m 35s    ████████░░░░░░░░░░░░░░░░░  28.94%
+TypeScript    3h 42m 45s    ████░░░░░░░░░░░░░░░░░░░░░  12.31%
+Shell         1h 8m 10s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.77%
+HTML          1h 4m 45s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.58%
 
 💼 Projects:
-otter         19h 57m 32s   ███████████████████████░░  88.28%
-rustytime     2h 1m 21s     ███░░░░░░░░░░░░░░░░░░░░░░  8.95%
-emailscrape   27m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.03%
-firehose      10m 2s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.74%
+otter         20h 36m 33s   ███████████████████████░░  88.61%
+rustytime     2h 1m 21s     ███░░░░░░░░░░░░░░░░░░░░░░  8.70%
+emailscrape   27m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.98%
+firehose      10m 2s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.72%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
