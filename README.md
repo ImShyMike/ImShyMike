@@ -30,16 +30,16 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Svelte       12h 22m 47s   ███████████░░░░░░░░░░░░░░  43.11%
-Rust         7h 2m 29s     ███████░░░░░░░░░░░░░░░░░░  24.52%
-TypeScript   4h 7m 13s     ████░░░░░░░░░░░░░░░░░░░░░  14.35%
-SQL          44m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.58%
-TOML         38m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.21%
+Svelte       12h 27m 8s   ████████████░░░░░░░░░░░░░  46.23%
+Rust         6h 10m 22s   ██████░░░░░░░░░░░░░░░░░░░  22.92%
+TypeScript   4h 11m 13s   ████░░░░░░░░░░░░░░░░░░░░░  15.54%
+SQL          38m 22s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.37%
+HTML         34m 25s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.13%
 
 💼 Projects:
-otter        20h 22m 52s   ███████████████████████░░  90.30%
-rustytime    2h 1m 21s     ███░░░░░░░░░░░░░░░░░░░░░░  8.96%
-firehose     10m 2s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.74%
+otter        19h 42m 3s   ████████████████████████░  92.82%
+rustytime    1h 21m 26s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.39%
+firehose     10m 2s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.79%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
