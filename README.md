@@ -30,15 +30,15 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Svelte       12h 20m 47s   ███████████░░░░░░░░░░░░░░  43.05%
-Rust         7h 2m 29s     ███████░░░░░░░░░░░░░░░░░░  24.55%
-TypeScript   4h 7m 13s     ████░░░░░░░░░░░░░░░░░░░░░  14.37%
+Svelte       12h 22m 47s   ███████████░░░░░░░░░░░░░░  43.11%
+Rust         7h 2m 29s     ███████░░░░░░░░░░░░░░░░░░  24.52%
+TypeScript   4h 7m 13s     ████░░░░░░░░░░░░░░░░░░░░░  14.35%
 SQL          44m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.58%
 TOML         38m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.21%
 
 💼 Projects:
-otter        20h 20m 52s   ███████████████████████░░  90.28%
-rustytime    2h 1m 21s     ███░░░░░░░░░░░░░░░░░░░░░░  8.97%
+otter        20h 22m 52s   ███████████████████████░░  90.30%
+rustytime    2h 1m 21s     ███░░░░░░░░░░░░░░░░░░░░░░  8.96%
 firehose     10m 2s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.74%
 ```
 #### 💻 My coding activity
