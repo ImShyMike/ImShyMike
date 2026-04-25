@@ -4,7 +4,7 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(1 day ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(today)**
 - [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from the Hack Club Slack; highlighting stories that matter to makers; Built with Astro & MDX_ **(2 days ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(4 days ago)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, Wakatime-compatible coding time tracker_ **(1 week ago)**
@@ -30,16 +30,16 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Svelte       12h 13m 51s   ███████████░░░░░░░░░░░░░░  43.10%
-Rust         6h 51m 20s    ███████░░░░░░░░░░░░░░░░░░  24.16%
-TypeScript   4h 7m 13s     ████░░░░░░░░░░░░░░░░░░░░░  14.52%
-SQL          44m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.61%
-TOML         38m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.24%
+Svelte       12h 20m 47s   ███████████░░░░░░░░░░░░░░  43.06%
+Rust         7h 1m 52s     ███████░░░░░░░░░░░░░░░░░░  24.52%
+TypeScript   4h 7m 13s     ████░░░░░░░░░░░░░░░░░░░░░  14.37%
+SQL          44m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.58%
+TOML         38m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.21%
 
 💼 Projects:
-otter        20h 2m 47s    ███████████████████████░░  90.15%
-rustytime    2h 1m 21s     ███░░░░░░░░░░░░░░░░░░░░░░  9.10%
-firehose     10m 2s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.75%
+otter        20h 20m 15s   ███████████████████████░░  90.28%
+rustytime    2h 1m 21s     ███░░░░░░░░░░░░░░░░░░░░░░  8.98%
+firehose     10m 2s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.74%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
