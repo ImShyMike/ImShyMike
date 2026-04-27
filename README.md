@@ -5,8 +5,8 @@ A student who likes coding and gaming!
 #### 🏗️ What I've been working on
 
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(today)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(today)**
 - [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from the Hack Club Slack; highlighting stories that matter to makers; Built with Astro & MDX_ **(4 days ago)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(6 days ago)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(2 weeks ago)**
 - [`realtime`](https://github.com/ImShyMike/realtime) - _Make a website that updates in real-time, get a router!_ **(2 weeks ago)**
 - [`ships`](https://github.com/hackclub/ships) - _🚢 27,457 Ships, visualised_ **(2 weeks ago)**
@@ -30,16 +30,16 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Svelte       13h 38m 9s    █████████████░░░░░░░░░░░░  49.50%
-Rust         5h 55m 41s    ██████░░░░░░░░░░░░░░░░░░░  21.52%
-TypeScript   3h 40m 35s    ████░░░░░░░░░░░░░░░░░░░░░  13.35%
-SQL          1h 29m 30s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.42%
-Markdown     30m 31s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.85%
+Svelte       13h 43m 47s   █████████████░░░░░░░░░░░░  49.61%
+Rust         5h 55m 41s    ██████░░░░░░░░░░░░░░░░░░░  21.42%
+TypeScript   3h 40m 35s    ████░░░░░░░░░░░░░░░░░░░░░  13.28%
+SQL          1h 29m 30s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.39%
+TOML         30m 52s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.86%
 
 💼 Projects:
-otter        20h 47m 17s   ████████████████████████░  94.11%
-rustytime    1h 7m 59s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.13%
-firehose     10m 2s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.76%
+otter        20h 52m 30s   ████████████████████████░  93.89%
+rustytime    1h 11m 27s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.36%
+firehose     10m 2s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.75%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
