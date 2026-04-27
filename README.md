@@ -5,13 +5,13 @@ A student who likes coding and gaming!
 #### 🏗️ What I've been working on
 
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(today)**
-- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from the Hack Club Slack; highlighting stories that matter to makers; Built with Astro & MDX_ **(3 days ago)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(5 days ago)**
-- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(1 week ago)**
-- [`realtime`](https://github.com/ImShyMike/realtime) - _Make a website that updates in real-time, get a router!_ **(1 week ago)**
-- [`ships`](https://github.com/hackclub/ships) - _🚢 27,457 Ships, visualised_ **(1 week ago)**
+- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from the Hack Club Slack; highlighting stories that matter to makers; Built with Astro & MDX_ **(4 days ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(6 days ago)**
+- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(2 weeks ago)**
+- [`realtime`](https://github.com/ImShyMike/realtime) - _Make a website that updates in real-time, get a router!_ **(2 weeks ago)**
+- [`ships`](https://github.com/hackclub/ships) - _🚢 27,457 Ships, visualised_ **(2 weeks ago)**
 - [`QuestCompassPlus`](https://github.com/ImShyMike/QuestCompassPlus) - _Minecraft fabric mod for the minecraft server Monumenta that adds QOL features related to the quest compass. _ **(2 weeks ago)**
-- [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(2 weeks ago)**
+- [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(3 weeks ago)**
 
 #### 📦 My most popular repos
 
@@ -23,23 +23,23 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Fix logic bug**](https://github.com/hackclub/ships/pull/61) on [`ships`](https://github.com/hackclub/ships) **(1 week ago)**
-- [**Add `null_pixels` to quantized heartbeats endpoint**](https://github.com/hackclub/hackatime/pull/1157) on [`hackatime`](https://github.com/hackclub/hackatime) **(1 week ago)**
+- [**Fix logic bug**](https://github.com/hackclub/ships/pull/61) on [`ships`](https://github.com/hackclub/ships) **(2 weeks ago)**
+- [**Add `null_pixels` to quantized heartbeats endpoint**](https://github.com/hackclub/hackatime/pull/1157) on [`hackatime`](https://github.com/hackclub/hackatime) **(2 weeks ago)**
 - [**Fix typo**](https://github.com/hackclub/ships/pull/60) on [`ships`](https://github.com/hackclub/ships) **(2 weeks ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Svelte       11h 39m 30s   █████████████░░░░░░░░░░░░  51.02%
-Rust         4h 27m 22s    █████░░░░░░░░░░░░░░░░░░░░  19.50%
-TypeScript   3h 1m 24s     ████░░░░░░░░░░░░░░░░░░░░░  13.23%
-SQL          1h 10m 59s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.18%
-Markdown     30m 31s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.23%
+Svelte       12h 54m 47s   ██████████████░░░░░░░░░░░  52.57%
+Rust         4h 32m 59s    █████░░░░░░░░░░░░░░░░░░░░  18.52%
+TypeScript   3h 23m 19s    ████░░░░░░░░░░░░░░░░░░░░░  13.80%
+SQL          1h 10m 59s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.82%
+Markdown     30m 31s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.07%
 
 💼 Projects:
-otter        17h 14m 25s   ████████████████████████░  92.99%
-rustytime    1h 7m 59s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.11%
-firehose     10m 2s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.90%
+otter        18h 35m 25s   ████████████████████████░  93.46%
+rustytime    1h 7m 59s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.70%
+firehose     10m 2s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.84%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
