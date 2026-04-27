@@ -15,7 +15,7 @@ A student who likes coding and gaming!
 
 #### 📦 My most popular repos
 
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(32⭐)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(33⭐)**
 - [`waka-relay`](https://github.com/ImShyMike/waka-relay) - _📊 A self-hosted app that relays WakaTime heartbeats to multiple instances_ **(30⭐)**
 - [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(26⭐)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(15⭐)**
@@ -30,16 +30,16 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Svelte       13h 17m 26s   █████████████░░░░░░░░░░░░  50.15%
-Rust         5h 24m 18s    ██████░░░░░░░░░░░░░░░░░░░  20.40%
-TypeScript   3h 29m 53s    ████░░░░░░░░░░░░░░░░░░░░░  13.20%
-SQL          1h 29m 30s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.63%
-Markdown     30m 31s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.92%
+Svelte       13h 38m 9s    █████████████░░░░░░░░░░░░  49.50%
+Rust         5h 55m 41s    ██████░░░░░░░░░░░░░░░░░░░  21.52%
+TypeScript   3h 40m 35s    ████░░░░░░░░░░░░░░░░░░░░░  13.35%
+SQL          1h 29m 30s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.42%
+Markdown     30m 31s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.85%
 
 💼 Projects:
-otter        19h 57m 56s   ████████████████████████░  93.89%
-rustytime    1h 7m 59s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.33%
-firehose     10m 2s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.79%
+otter        20h 47m 17s   ████████████████████████░  94.11%
+rustytime    1h 7m 59s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.13%
+firehose     10m 2s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.76%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
