@@ -4,9 +4,9 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(today)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(today)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 day ago)**
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(1 day ago)**
 - [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from the Hack Club Slack; highlighting stories that matter to makers; Built with Astro & MDX_ **(5 days ago)**
 - [`realtime`](https://github.com/ImShyMike/realtime) - _Make a website that updates in real-time, get a router!_ **(2 weeks ago)**
 - [`ships`](https://github.com/hackclub/ships) - _🚢 27,457 Ships, visualised_ **(2 weeks ago)**
@@ -30,14 +30,14 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Svelte             12h 0m 4s     ████████████░░░░░░░░░░░░░  45.00%
-Rust               5h 24m 44s    ██████░░░░░░░░░░░░░░░░░░░  20.29%
-TypeScript         3h 10m 42s    ███░░░░░░░░░░░░░░░░░░░░░░  11.92%
+Svelte             12h 0m 4s     ████████████░░░░░░░░░░░░░  44.94%
+Rust               5h 26m 44s    ██████░░░░░░░░░░░░░░░░░░░  20.39%
+TypeScript         3h 10m 42s    ███░░░░░░░░░░░░░░░░░░░░░░  11.90%
 SQL                1h 29m 30s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.59%
-JSON               46m 10s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.89%
+JSON               46m 10s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.88%
 
 💼 Projects:
-otter              18h 57m 36s   ████████████████████████░  92.05%
+otter              18h 59m 36s   ████████████████████████░  92.06%
 shymike.dev        37m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.04%
 Doubloon-Finance   31m 16s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.53%
 rustytime          19m 23s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.57%
