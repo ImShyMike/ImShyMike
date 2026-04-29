@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
+- [**Use a slack bot to set the icon**](https://github.com/hackclub/shrimp-shuffler/pull/9) on [`shrimp-shuffler`](https://github.com/hackclub/shrimp-shuffler) **(today)**
 - [**Fix logic bug**](https://github.com/hackclub/ships/pull/61) on [`ships`](https://github.com/hackclub/ships) **(2 weeks ago)**
 - [**Add `null_pixels` to quantized heartbeats endpoint**](https://github.com/hackclub/hackatime/pull/1157) on [`hackatime`](https://github.com/hackclub/hackatime) **(2 weeks ago)**
-- [**Fix typo**](https://github.com/hackclub/ships/pull/60) on [`ships`](https://github.com/hackclub/ships) **(2 weeks ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Svelte             10h 29m 7s    █████████░░░░░░░░░░░░░░░░  35.67%
-Rust               5h 45m 33s    █████░░░░░░░░░░░░░░░░░░░░  19.59%
-TypeScript         3h 9m 16s     ███░░░░░░░░░░░░░░░░░░░░░░  10.73%
-Python             2h 46m 55s    ███░░░░░░░░░░░░░░░░░░░░░░  9.46%
-SQL                1h 39m 24s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.64%
+Svelte             8h 2m 45s    ████████░░░░░░░░░░░░░░░░░  31.82%
+Rust               4h 45m 12s   █████░░░░░░░░░░░░░░░░░░░░  18.80%
+Python             2h 46m 55s   ███░░░░░░░░░░░░░░░░░░░░░░  11.00%
+TypeScript         2h 23m 31s   ███░░░░░░░░░░░░░░░░░░░░░░  9.46%
+SQL                1h 26m 23s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.69%
 
 💼 Projects:
-otter              20h 49m 21s   ████████████████████████░  92.97%
-shymike.dev        37m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.80%
-Doubloon-Finance   31m 16s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.33%
-rustytime          11m 40s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.87%
-firehose           10m 2s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.75%
+otter              17h 24m 1s   ███████████████████████░░  91.59%
+shymike.dev        37m 35s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.30%
+Doubloon-Finance   31m 16s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.74%
+shrimp-shuffler    21m 37s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.90%
+joe                3m 58s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.35%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
