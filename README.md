@@ -4,10 +4,10 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(today)**
-- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(today)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 day ago)**
-- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from the Hack Club Slack; highlighting stories that matter to makers; Built with Astro & MDX_ **(5 days ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(1 day ago)**
+- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 day ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(2 days ago)**
+- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from the Hack Club Slack; highlighting stories that matter to makers; Built with Astro & MDX_ **(6 days ago)**
 - [`realtime`](https://github.com/ImShyMike/realtime) - _Make a website that updates in real-time, get a router!_ **(2 weeks ago)**
 - [`ships`](https://github.com/hackclub/ships) - _🚢 27,457 Ships, visualised_ **(2 weeks ago)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(2 weeks ago)**
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Svelte             10h 6m 43s   ███████████░░░░░░░░░░░░░░  40.71%
-Rust               5h 31m 56s   ██████░░░░░░░░░░░░░░░░░░░  22.27%
-TypeScript         3h 5m 16s    ████░░░░░░░░░░░░░░░░░░░░░  12.43%
-SQL                1h 33m 8s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.25%
-JSON               50m 10s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.37%
+Svelte             10h 13m 7s   ███████████░░░░░░░░░░░░░░  40.75%
+Rust               5h 39m 56s   ██████░░░░░░░░░░░░░░░░░░░  22.59%
+TypeScript         3h 5m 16s    ████░░░░░░░░░░░░░░░░░░░░░  12.31%
+SQL                1h 33m 8s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.19%
+JSON               50m 10s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.33%
 
 💼 Projects:
-otter              17h 19m 4s   ███████████████████████░░  91.98%
-shymike.dev        37m 35s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.33%
-Doubloon-Finance   31m 16s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.77%
-rustytime          11m 40s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.03%
-firehose           10m 2s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.89%
+otter              17h 32m 9s   ████████████████████████░  92.08%
+shymike.dev        37m 35s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.29%
+Doubloon-Finance   31m 16s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.74%
+rustytime          11m 40s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.02%
+firehose           10m 2s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.88%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
