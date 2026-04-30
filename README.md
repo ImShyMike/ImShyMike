@@ -17,7 +17,7 @@ A student who likes coding and gaming!
 
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(33⭐)**
 - [`waka-relay`](https://github.com/ImShyMike/waka-relay) - _📊 A self-hosted app that relays WakaTime heartbeats to multiple instances_ **(30⭐)**
-- [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(26⭐)**
+- [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(27⭐)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(15⭐)**
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(9⭐)**
 
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Svelte             8h 7m 50s     ████████░░░░░░░░░░░░░░░░░  29.12%
-Rust               4h 54m 58s    █████░░░░░░░░░░░░░░░░░░░░  17.61%
-Python             3h 19m 20s    ███░░░░░░░░░░░░░░░░░░░░░░  11.90%
-TypeScript         2h 23m 31s    ███░░░░░░░░░░░░░░░░░░░░░░  8.57%
-SQL                1h 26m 23s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.16%
+Svelte             8h 7m 50s     ████████░░░░░░░░░░░░░░░░░  28.94%
+Rust               4h 54m 58s    █████░░░░░░░░░░░░░░░░░░░░  17.50%
+Python             3h 23m 35s    ████░░░░░░░░░░░░░░░░░░░░░  12.08%
+TypeScript         2h 23m 31s    ███░░░░░░░░░░░░░░░░░░░░░░  8.51%
+SQL                1h 26m 23s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.13%
 
 💼 Projects:
-otter              17h 52m 30s   ██████████████████████░░░  85.90%
-shrimp-shuffler    57m 21s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.59%
-shymike.dev        37m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.01%
-Doubloon-Finance   31m 16s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.50%
-hades              22m 53s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.83%
+otter              17h 52m 30s   ██████████████████████░░░  85.45%
+shrimp-shuffler    57m 21s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.57%
+shymike.dev        37m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.99%
+Doubloon-Finance   31m 16s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.49%
+hades              23m 7s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.84%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
