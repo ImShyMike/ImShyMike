@@ -5,13 +5,13 @@ A student who likes coding and gaming!
 #### 🏗️ What I've been working on
 
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(today)**
+- [`hades`](https://github.com/ImShyMike/hades) - _transparent slack message anonymizer_ **(today)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(2 days ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(3 days ago)**
 - [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from the Hack Club Slack; Built with Astro & MDX_ **(1 week ago)**
-- [`realtime`](https://github.com/ImShyMike/realtime) - _Make a website that updates in real-time, get a router!_ **(2 weeks ago)**
 - [`ships`](https://github.com/hackclub/ships) - _🚢 27,457 Ships, visualised_ **(2 weeks ago)**
+- [`realtime`](https://github.com/ImShyMike/realtime) - _Make a website that updates in real-time, get a router!_ **(2 weeks ago)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(2 weeks ago)**
-- [`QuestCompassPlus`](https://github.com/ImShyMike/QuestCompassPlus) - _Minecraft fabric mod for the minecraft server Monumenta that adds QOL features related to the quest compass. _ **(2 weeks ago)**
 
 #### 📦 My most popular repos
 
@@ -19,7 +19,7 @@ A student who likes coding and gaming!
 - [`waka-relay`](https://github.com/ImShyMike/waka-relay) - _📊 A self-hosted app that relays WakaTime heartbeats to multiple instances_ **(30⭐)**
 - [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(26⭐)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(15⭐)**
-- [`spaces`](https://github.com/hackclub/spaces) - __ **(9⭐)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(9⭐)**
 
 #### 🔨 My recent pull requests
 
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Svelte             8h 7m 50s     ████████░░░░░░░░░░░░░░░░░  30.15%
-Rust               4h 54m 58s    █████░░░░░░░░░░░░░░░░░░░░  18.23%
-Python             2h 56m 25s    ███░░░░░░░░░░░░░░░░░░░░░░  10.90%
-TypeScript         2h 23m 31s    ███░░░░░░░░░░░░░░░░░░░░░░  8.87%
-SQL                1h 26m 23s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.34%
+Svelte             8h 7m 50s     ████████░░░░░░░░░░░░░░░░░  29.12%
+Rust               4h 54m 58s    █████░░░░░░░░░░░░░░░░░░░░  17.61%
+Python             3h 19m 20s    ███░░░░░░░░░░░░░░░░░░░░░░  11.90%
+TypeScript         2h 23m 31s    ███░░░░░░░░░░░░░░░░░░░░░░  8.57%
+SQL                1h 26m 23s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.16%
 
 💼 Projects:
-otter              17h 38m 52s   ██████████████████████░░░  87.27%
-shrimp-shuffler    57m 21s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.73%
-shymike.dev        37m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.10%
-Doubloon-Finance   31m 16s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.58%
-zmessage           13m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.10%
+otter              17h 52m 30s   ██████████████████████░░░  85.90%
+shrimp-shuffler    57m 21s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.59%
+shymike.dev        37m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.01%
+Doubloon-Finance   31m 16s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.50%
+hades              22m 53s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.83%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
