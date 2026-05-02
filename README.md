@@ -4,8 +4,8 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
+- [`hades`](https://github.com/ImShyMike/hades) - _transparent slack message anonymizer_ **(today)**
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(2 days ago)**
-- [`hades`](https://github.com/ImShyMike/hades) - _transparent slack message anonymizer_ **(2 days ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(4 days ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(5 days ago)**
 - [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from the Hack Club Slack; Built with Astro & MDX_ **(1 week ago)**
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Svelte             4h 3m 26s    ██████░░░░░░░░░░░░░░░░░░░  21.20%
-Python             3h 33m 42s   █████░░░░░░░░░░░░░░░░░░░░  18.61%
-Rust               2h 52m 4s    ████░░░░░░░░░░░░░░░░░░░░░  14.99%
-SQL                1h 9m 25s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.05%
-TypeScript         59m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.14%
+Svelte             4h 3m 26s    ██████░░░░░░░░░░░░░░░░░░░  21.13%
+Python             3h 35m 42s   █████░░░░░░░░░░░░░░░░░░░░  18.72%
+Rust               2h 52m 4s    ████░░░░░░░░░░░░░░░░░░░░░  14.94%
+SQL                1h 9m 25s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.03%
+TypeScript         59m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.13%
 
 💼 Projects:
-otter              10h 31m 7s   ███████████████████░░░░░░  75.60%
-shrimp-shuffler    58m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.00%
-shymike.dev        37m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.50%
-Doubloon-Finance   31m 16s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.75%
-hades              23m 7s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.77%
+otter              10h 31m 7s   ███████████████████░░░░░░  75.23%
+shrimp-shuffler    58m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.96%
+shymike.dev        37m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.48%
+Doubloon-Finance   31m 16s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.73%
+hades              27m 8s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.23%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
