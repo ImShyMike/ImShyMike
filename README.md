@@ -9,8 +9,8 @@ A student who likes coding and gaming!
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(5 days ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(6 days ago)**
 - [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from the Hack Club Slack; Built with Astro & MDX_ **(1 week ago)**
-- [`ships`](https://github.com/hackclub/ships) - _🚢 27,457 Ships, visualised_ **(2 weeks ago)**
 - [`realtime`](https://github.com/ImShyMike/realtime) - _Make a website that updates in real-time, get a router!_ **(2 weeks ago)**
+- [`ships`](https://github.com/hackclub/ships) - _🚢 27,457 Ships, visualised_ **(2 weeks ago)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(2 weeks ago)**
 
 #### 📦 My most popular repos
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Svelte             4h 11m 36s   ██████░░░░░░░░░░░░░░░░░░░  20.42%
-Python             3h 43m 28s   █████░░░░░░░░░░░░░░░░░░░░  18.14%
-Rust               2h 39m 27s   ████░░░░░░░░░░░░░░░░░░░░░  12.94%
-YAML               1h 17m 49s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.32%
-SQL                1h 9m 25s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.63%
+Python             4h 7m 22s    ██████░░░░░░░░░░░░░░░░░░░  20.84%
+Svelte             3h 36m 38s   █████░░░░░░░░░░░░░░░░░░░░  18.26%
+Rust               2h 17m 0s    ███░░░░░░░░░░░░░░░░░░░░░░  11.54%
+YAML               1h 17m 49s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.56%
+unknown            1h 8m 40s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.79%
 
 💼 Projects:
-otter              11h 20m 2s   ████████████████████░░░░░  76.25%
-shrimp-shuffler    58m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.55%
-shymike.dev        37m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.21%
-Doubloon-Finance   31m 16s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.51%
-hades              31m 11s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.50%
+otter              9h 56m 55s   ██████████████████░░░░░░░  71.35%
+shrimp-shuffler    58m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.98%
+shymike.dev        37m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.49%
+Doubloon-Finance   31m 16s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.74%
+hades              31m 11s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.73%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
