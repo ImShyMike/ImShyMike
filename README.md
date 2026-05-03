@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Svelte             3h 52m 22s    █████░░░░░░░░░░░░░░░░░░░░  19.39%
-Python             3h 43m 28s    █████░░░░░░░░░░░░░░░░░░░░  18.65%
-Rust               2h 35m 3s     ████░░░░░░░░░░░░░░░░░░░░░  12.94%
-YAML               1h 12m 5s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.02%
-SQL                1h 9m 25s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.79%
+Svelte             4h 3m 12s    █████░░░░░░░░░░░░░░░░░░░░  19.99%
+Python             3h 43m 28s   █████░░░░░░░░░░░░░░░░░░░░  18.36%
+Rust               2h 35m 3s    ████░░░░░░░░░░░░░░░░░░░░░  12.74%
+YAML               1h 17m 49s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.40%
+SQL                1h 9m 25s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.70%
 
 💼 Projects:
-otter              10h 50m 16s   ███████████████████░░░░░░  75.43%
-shrimp-shuffler    58m 25s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.78%
-shymike.dev        37m 35s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.36%
-Doubloon-Finance   31m 16s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.63%
-hades              31m 11s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.62%
+otter              11h 7m 13s   ███████████████████░░░░░░  75.90%
+shrimp-shuffler    58m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.65%
+shymike.dev        37m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.28%
+Doubloon-Finance   31m 16s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.56%
+hades              31m 11s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.55%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
