@@ -19,7 +19,7 @@ A student who likes coding and gaming!
 - [`waka-relay`](https://github.com/ImShyMike/waka-relay) - _📊 A self-hosted app that relays WakaTime heartbeats to multiple instances_ **(30⭐)**
 - [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(27⭐)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(15⭐)**
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(9⭐)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(10⭐)**
 
 #### 🔨 My recent pull requests
 
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python              4h 24m 36s   ██████░░░░░░░░░░░░░░░░░░░  21.46%
-Svelte              3h 41m 8s    █████░░░░░░░░░░░░░░░░░░░░  17.94%
-Rust                2h 21m 7s    ███░░░░░░░░░░░░░░░░░░░░░░  11.45%
-YAML                1h 17m 49s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.31%
-unknown             1h 10m 40s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.73%
+Python              4h 24m 36s   ██████░░░░░░░░░░░░░░░░░░░  21.35%
+Svelte              3h 41m 8s    █████░░░░░░░░░░░░░░░░░░░░  17.84%
+Rust                2h 21m 7s    ███░░░░░░░░░░░░░░░░░░░░░░  11.39%
+YAML                1h 17m 49s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.28%
+unknown             1h 10m 40s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.70%
 
 💼 Projects:
-otter               10h 7m 35s   ██████████████████░░░░░░░  69.55%
-shrimp-shuffler     58m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.69%
-slack-categorizer   52m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.97%
-shymike.dev         37m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.30%
-Doubloon-Finance    31m 16s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.58%
+otter               10h 7m 35s   ██████████████████░░░░░░░  69.19%
+shrimp-shuffler     58m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.65%
+slack-categorizer   52m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.94%
+shymike.dev         37m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.28%
+Doubloon-Finance    31m 16s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.56%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
