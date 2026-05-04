@@ -4,14 +4,14 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(today)**
-- [`hades`](https://github.com/ImShyMike/hades) - _transparent slack message anonymizer_ **(1 day ago)**
-- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(5 days ago)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(6 days ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(1 day ago)**
+- [`hades`](https://github.com/ImShyMike/hades) - _transparent slack message anonymizer_ **(2 days ago)**
+- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(6 days ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 week ago)**
 - [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from the Hack Club Slack; Built with Astro & MDX_ **(1 week ago)**
-- [`realtime`](https://github.com/ImShyMike/realtime) - _Make a website that updates in real-time, get a router!_ **(2 weeks ago)**
-- [`ships`](https://github.com/hackclub/ships) - _🚢 27,457 Ships, visualised_ **(2 weeks ago)**
-- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(2 weeks ago)**
+- [`realtime`](https://github.com/ImShyMike/realtime) - _Make a website that updates in real-time, get a router!_ **(3 weeks ago)**
+- [`ships`](https://github.com/hackclub/ships) - _🚢 27,457 Ships, visualised_ **(3 weeks ago)**
+- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(3 weeks ago)**
 
 #### 📦 My most popular repos
 
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Use a slack bot to set the icon**](https://github.com/hackclub/shrimp-shuffler/pull/9) on [`shrimp-shuffler`](https://github.com/hackclub/shrimp-shuffler) **(4 days ago)**
-- [**Fix logic bug**](https://github.com/hackclub/ships/pull/61) on [`ships`](https://github.com/hackclub/ships) **(2 weeks ago)**
-- [**Add `null_pixels` to quantized heartbeats endpoint**](https://github.com/hackclub/hackatime/pull/1157) on [`hackatime`](https://github.com/hackclub/hackatime) **(2 weeks ago)**
+- [**Use a slack bot to set the icon**](https://github.com/hackclub/shrimp-shuffler/pull/9) on [`shrimp-shuffler`](https://github.com/hackclub/shrimp-shuffler) **(5 days ago)**
+- [**Fix logic bug**](https://github.com/hackclub/ships/pull/61) on [`ships`](https://github.com/hackclub/ships) **(3 weeks ago)**
+- [**Add `null_pixels` to quantized heartbeats endpoint**](https://github.com/hackclub/hackatime/pull/1157) on [`hackatime`](https://github.com/hackclub/hackatime) **(3 weeks ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python             4h 7m 22s    ██████░░░░░░░░░░░░░░░░░░░  20.84%
-Svelte             3h 36m 38s   █████░░░░░░░░░░░░░░░░░░░░  18.26%
-Rust               2h 17m 0s    ███░░░░░░░░░░░░░░░░░░░░░░  11.54%
-YAML               1h 17m 49s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.56%
-unknown            1h 8m 40s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.79%
+Python              4h 24m 36s   ██████░░░░░░░░░░░░░░░░░░░  21.72%
+Svelte              3h 36m 38s   █████░░░░░░░░░░░░░░░░░░░░  17.78%
+Rust                2h 17m 0s    ███░░░░░░░░░░░░░░░░░░░░░░  11.25%
+YAML                1h 17m 49s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.39%
+unknown             1h 8m 40s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.64%
 
 💼 Projects:
-otter              9h 56m 55s   ██████████████████░░░░░░░  71.35%
-shrimp-shuffler    58m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.98%
-shymike.dev        37m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.49%
-Doubloon-Finance   31m 16s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.74%
-hades              31m 11s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.73%
+otter               9h 56m 55s   ██████████████████░░░░░░░  69.34%
+shrimp-shuffler     58m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.79%
+slack-categorizer   52m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.06%
+shymike.dev         37m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.37%
+Doubloon-Finance    31m 16s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.63%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
