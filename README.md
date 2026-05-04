@@ -30,14 +30,14 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python              4h 24m 36s   ██████░░░░░░░░░░░░░░░░░░░  21.47%
-Svelte              3h 40m 53s   █████░░░░░░░░░░░░░░░░░░░░  17.92%
+Python              4h 24m 36s   ██████░░░░░░░░░░░░░░░░░░░  21.46%
+Svelte              3h 41m 8s    █████░░░░░░░░░░░░░░░░░░░░  17.94%
 Rust                2h 21m 7s    ███░░░░░░░░░░░░░░░░░░░░░░  11.45%
 YAML                1h 17m 49s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.31%
 unknown             1h 10m 40s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.73%
 
 💼 Projects:
-otter               10h 7m 20s   ██████████████████░░░░░░░  69.54%
+otter               10h 7m 35s   ██████████████████░░░░░░░  69.55%
 shrimp-shuffler     58m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.69%
 slack-categorizer   52m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.97%
 shymike.dev         37m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.30%
