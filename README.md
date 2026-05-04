@@ -5,13 +5,13 @@ A student who likes coding and gaming!
 #### 🏗️ What I've been working on
 
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(today)**
+- [`Hackatime-Analyzer`](https://github.com/ImShyMike/Hackatime-Analyzer) - _Website to easily analyze your Hackatime data in the browser!_ **(today)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(today)**
 - [`hades`](https://github.com/ImShyMike/hades) - _transparent slack message anonymizer_ **(2 days ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(6 days ago)**
 - [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from the Hack Club Slack; Built with Astro & MDX_ **(1 week ago)**
-- [`realtime`](https://github.com/ImShyMike/realtime) - _Make a website that updates in real-time, get a router!_ **(3 weeks ago)**
 - [`ships`](https://github.com/hackclub/ships) - _🚢 27,457 Ships, visualised_ **(3 weeks ago)**
-- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(3 weeks ago)**
+- [`realtime`](https://github.com/ImShyMike/realtime) - _Make a website that updates in real-time, get a router!_ **(3 weeks ago)**
 
 #### 📦 My most popular repos
 
@@ -30,11 +30,11 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python              4h 24m 36s   ██████░░░░░░░░░░░░░░░░░░░  21.35%
-Svelte              3h 41m 8s    █████░░░░░░░░░░░░░░░░░░░░  17.84%
-Rust                2h 21m 7s    ███░░░░░░░░░░░░░░░░░░░░░░  11.39%
-YAML                1h 17m 49s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.28%
-unknown             1h 10m 40s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.70%
+Python              4h 24m 36s   ██████░░░░░░░░░░░░░░░░░░░  21.31%
+Svelte              3h 43m 15s   █████░░░░░░░░░░░░░░░░░░░░  17.98%
+Rust                2h 21m 7s    ███░░░░░░░░░░░░░░░░░░░░░░  11.37%
+YAML                1h 17m 49s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.27%
+unknown             1h 10m 40s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.69%
 
 💼 Projects:
 otter               10h 7m 35s   ██████████████████░░░░░░░  69.19%
