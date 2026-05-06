@@ -9,7 +9,7 @@ A student who likes coding and gaming!
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(2 days ago)**
 - [`hades`](https://github.com/ImShyMike/hades) - _transparent slack message anonymizer_ **(4 days ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 week ago)**
-- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from the Hack Club Slack; Built with Astro & MDX_ **(1 week ago)**
+- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from the Hack Club Slack; Powered by Astro + MDX 📰_ **(1 week ago)**
 - [`ships`](https://github.com/hackclub/ships) - _🚢 27,457 Ships, visualised_ **(3 weeks ago)**
 - [`realtime`](https://github.com/ImShyMike/realtime) - _Make a website that updates in real-time, get a router!_ **(3 weeks ago)**
 
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python              5h 11m 39s   █████████░░░░░░░░░░░░░░░░  32.12%
-Rust                1h 59m 27s   ████░░░░░░░░░░░░░░░░░░░░░  12.31%
-YAML                1h 27m 23s   ███░░░░░░░░░░░░░░░░░░░░░░  9.01%
-unknown             1h 9m 43s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.19%
-Svelte              1h 5m 46s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.78%
+Python              2h 29m 41s   ███████░░░░░░░░░░░░░░░░░░  24.64%
+Rust                1h 27m 56s   ████░░░░░░░░░░░░░░░░░░░░░  14.48%
+YAML                1h 5m 47s    ███░░░░░░░░░░░░░░░░░░░░░░  10.83%
+Markdown            54m 16s      ███░░░░░░░░░░░░░░░░░░░░░░  8.93%
+unknown             45m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.50%
 
 💼 Projects:
-otter               8h 23m 53s   ██████████████████░░░░░░░  71.76%
-shrimp-shuffler     58m 25s      ███░░░░░░░░░░░░░░░░░░░░░░  8.32%
-slack-categorizer   52m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.43%
-hades               31m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.44%
-Fraudpheus          22m 16s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.17%
+otter               4h 27m 15s   ████████████████░░░░░░░░░  61.09%
+slack-categorizer   52m 10s      ███░░░░░░░░░░░░░░░░░░░░░░  11.92%
+shrimp-shuffler     34m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.85%
+hades               31m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.13%
+Fraudpheus          22m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.09%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
