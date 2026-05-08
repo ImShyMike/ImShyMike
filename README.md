@@ -30,11 +30,11 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python              1h 52m 28s   ███████░░░░░░░░░░░░░░░░░░  26.00%
-Rust                1h 20m 15s   █████░░░░░░░░░░░░░░░░░░░░  18.55%
-Markdown            42m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  9.80%
-YAML                41m 11s      ███░░░░░░░░░░░░░░░░░░░░░░  9.52%
-SQL                 32m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.60%
+Python              1h 54m 28s   ███████░░░░░░░░░░░░░░░░░░  26.34%
+Rust                1h 20m 15s   █████░░░░░░░░░░░░░░░░░░░░  18.47%
+Markdown            42m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  9.75%
+YAML                41m 11s      ███░░░░░░░░░░░░░░░░░░░░░░  9.48%
+SQL                 32m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.57%
 
 💼 Projects:
 otter               4h 0m 57s    ████████████████████░░░░░  76.42%
