@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python              1h 59m 30s   ███████░░░░░░░░░░░░░░░░░░  27.06%
-Rust                1h 20m 15s   █████░░░░░░░░░░░░░░░░░░░░  18.17%
-Markdown            44m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  10.05%
-YAML                41m 11s      ███░░░░░░░░░░░░░░░░░░░░░░  9.33%
-SQL                 32m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.45%
+Python              1h 50m 2s    ███████░░░░░░░░░░░░░░░░░░  25.83%
+Rust                1h 20m 15s   █████░░░░░░░░░░░░░░░░░░░░  18.84%
+Markdown            44m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  10.41%
+YAML                37m 11s      ███░░░░░░░░░░░░░░░░░░░░░░  8.73%
+SQL                 32m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.72%
 
 💼 Projects:
-otter               4h 0m 57s    ███████████████████░░░░░░  75.22%
-slack-categorizer   54m 10s      █████░░░░░░░░░░░░░░░░░░░░  16.91%
-Fraudpheus          9m 29s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.96%
-hades               6m 4s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.89%
-ft-data             5m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.57%
+otter               4h 0m 57s    ████████████████████░░░░░  77.51%
+slack-categorizer   54m 10s      █████░░░░░░░░░░░░░░░░░░░░  17.43%
+hades               6m 4s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.95%
+ft-data             5m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.61%
+unknown             4m 27s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.43%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
