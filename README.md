@@ -4,7 +4,7 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(3 days ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(today)**
 - [`Hackatime-Analyzer`](https://github.com/ImShyMike/Hackatime-Analyzer) - _Website to easily analyze your Hackatime data in the browser!_ **(5 days ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(5 days ago)**
 - [`hades`](https://github.com/ImShyMike/hades) - _transparent slack message anonymizer_ **(1 week ago)**
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python              1h 50m 2s    ███████░░░░░░░░░░░░░░░░░░  25.83%
-Rust                1h 20m 15s   █████░░░░░░░░░░░░░░░░░░░░  18.84%
-Markdown            44m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  10.41%
-YAML                37m 11s      ███░░░░░░░░░░░░░░░░░░░░░░  8.73%
-SQL                 32m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.72%
+Python              1h 50m 2s    ███████░░░░░░░░░░░░░░░░░░  24.46%
+Rust                1h 20m 15s   █████░░░░░░░░░░░░░░░░░░░░  17.84%
+Markdown            44m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  9.86%
+Svelte              38m 55s      ███░░░░░░░░░░░░░░░░░░░░░░  8.65%
+YAML                37m 11s      ███░░░░░░░░░░░░░░░░░░░░░░  8.27%
 
 💼 Projects:
-otter               4h 0m 57s    ████████████████████░░░░░  77.51%
-slack-categorizer   54m 10s      █████░░░░░░░░░░░░░░░░░░░░  17.43%
-hades               6m 4s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.95%
-ft-data             5m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.61%
-unknown             4m 27s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.43%
+otter               4h 8m 1s     ███████████████████░░░░░░  75.56%
+slack-categorizer   54m 10s      █████░░░░░░░░░░░░░░░░░░░░  16.50%
+shymike.dev         10m 19s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.14%
+hades               6m 4s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.85%
+ft-data             5m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.53%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
