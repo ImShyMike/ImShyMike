@@ -4,9 +4,9 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(today)**
-- [`Hackatime-Analyzer`](https://github.com/ImShyMike/Hackatime-Analyzer) - _Website to easily analyze your Hackatime data in the browser!_ **(5 days ago)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(5 days ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(1 day ago)**
+- [`Hackatime-Analyzer`](https://github.com/ImShyMike/Hackatime-Analyzer) - _Website to easily analyze your Hackatime data in the browser!_ **(6 days ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(6 days ago)**
 - [`hades`](https://github.com/ImShyMike/hades) - _transparent slack message anonymizer_ **(1 week ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 week ago)**
 - [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club Slack _ **(2 weeks ago)**
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python              1h 48m 53s   █████░░░░░░░░░░░░░░░░░░░░  19.65%
-Rust                1h 36m 13s   █████░░░░░░░░░░░░░░░░░░░░  17.36%
-Svelte              59m 1s       ███░░░░░░░░░░░░░░░░░░░░░░  10.65%
-Markdown            44m 21s      ██░░░░░░░░░░░░░░░░░░░░░░░  8.00%
-YAML                40m 28s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.30%
+Rust                1h 49m 20s   █████░░░░░░░░░░░░░░░░░░░░  19.08%
+Python              1h 48m 53s   █████░░░░░░░░░░░░░░░░░░░░  19.00%
+Svelte              59m 1s       ███░░░░░░░░░░░░░░░░░░░░░░  10.30%
+SQL                 45m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.89%
+Markdown            44m 21s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.74%
 
 💼 Projects:
-otter               4h 53m 21s   ███████████████████░░░░░░  75.41%
-slack-categorizer   54m 10s      ████░░░░░░░░░░░░░░░░░░░░░  13.92%
-shymike.dev         31m 49s      ███░░░░░░░░░░░░░░░░░░░░░░  8.18%
-ft-data             5m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.29%
-unknown             4m 27s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.14%
+otter               5h 9m 13s    ████████████████████░░░░░  76.37%
+slack-categorizer   54m 10s      ████░░░░░░░░░░░░░░░░░░░░░  13.38%
+shymike.dev         31m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.86%
+ft-data             5m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.24%
+unknown             4m 27s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.10%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
