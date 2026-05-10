@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Rust                2h 16m 42s   ██████░░░░░░░░░░░░░░░░░░░  21.72%
-Python              1h 52m 59s   █████░░░░░░░░░░░░░░░░░░░░  17.95%
-Svelte              1h 9m 11s    ███░░░░░░░░░░░░░░░░░░░░░░  10.99%
-SQL                 53m 34s      ███░░░░░░░░░░░░░░░░░░░░░░  8.51%
-Markdown            44m 21s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.05%
+Rust                2h 20m 52s   ██████░░░░░░░░░░░░░░░░░░░  22.24%
+Python              1h 52m 59s   █████░░░░░░░░░░░░░░░░░░░░  17.84%
+Svelte              1h 9m 11s    ███░░░░░░░░░░░░░░░░░░░░░░  10.92%
+SQL                 53m 34s      ███░░░░░░░░░░░░░░░░░░░░░░  8.46%
+Markdown            44m 21s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.00%
 
 💼 Projects:
-otter               5h 56m 56s   ████████████████████░░░░░  78.87%
-slack-categorizer   54m 10s      ███░░░░░░░░░░░░░░░░░░░░░░  11.97%
-shymike.dev         31m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.03%
-ft-data             5m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.11%
-unknown             4m 27s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.98%
+otter               6h 1m 6s     ████████████████████░░░░░  79.06%
+slack-categorizer   54m 10s      ███░░░░░░░░░░░░░░░░░░░░░░  11.86%
+shymike.dev         31m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.97%
+ft-data             5m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.10%
+unknown             4m 27s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.97%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
