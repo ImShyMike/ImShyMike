@@ -23,25 +23,24 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
+- [**Use airbridge instead of raw airtable for dupe Code Url checking**](https://github.com/hackclub/beest/pull/18) on [`beest`](https://github.com/hackclub/beest) **(today)**
 - [**Use a slack bot to set the icon**](https://github.com/hackclub/shrimp-shuffler/pull/9) on [`shrimp-shuffler`](https://github.com/hackclub/shrimp-shuffler) **(1 week ago)**
 - [**Fix logic bug**](https://github.com/hackclub/ships/pull/61) on [`ships`](https://github.com/hackclub/ships) **(4 weeks ago)**
-- [**Add `null_pixels` to quantized heartbeats endpoint**](https://github.com/hackclub/hackatime/pull/1157) on [`hackatime`](https://github.com/hackclub/hackatime) **(4 weeks ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Rust                2h 32m 14s   ██████░░░░░░░░░░░░░░░░░░░  22.40%
-Svelte              2h 1m 37s    █████░░░░░░░░░░░░░░░░░░░░  17.90%
-Python              1h 49m 16s   █████░░░░░░░░░░░░░░░░░░░░  16.08%
-TypeScript          1h 1m 23s    ███░░░░░░░░░░░░░░░░░░░░░░  9.03%
-SQL                 53m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.85%
+Rust          2h 28m 7s    ███████░░░░░░░░░░░░░░░░░░  24.32%
+Svelte        2h 16m 1s    ██████░░░░░░░░░░░░░░░░░░░  22.33%
+TypeScript    1h 10m 16s   ███░░░░░░░░░░░░░░░░░░░░░░  11.54%
+Python        1h 8m 8s     ███░░░░░░░░░░░░░░░░░░░░░░  11.19%
+SQL           53m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  8.76%
 
 💼 Projects:
-otter               6h 36m 55s   █████████████████████░░░░  80.58%
-slack-categorizer   54m 10s      ███░░░░░░░░░░░░░░░░░░░░░░  11.00%
-shymike.dev         31m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.46%
-ft-data             5m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.02%
-unknown             4m 27s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.90%
+otter         6h 51m 18s   ███████████████████████░░  90.79%
+shymike.dev   31m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.02%
+ft-data       5m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.11%
+beest         4m 53s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.08%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
