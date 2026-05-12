@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Rust              2h 28m 7s    █████░░░░░░░░░░░░░░░░░░░░  19.25%
-Python            2h 26m 33s   █████░░░░░░░░░░░░░░░░░░░░  19.04%
-Svelte            2h 16m 1s    █████░░░░░░░░░░░░░░░░░░░░  17.67%
-TypeScript        1h 12m 16s   ███░░░░░░░░░░░░░░░░░░░░░░  9.39%
-SQL               53m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.93%
+Svelte            2h 10m 0s    ██████░░░░░░░░░░░░░░░░░░░  22.64%
+Python            1h 40m 24s   █████░░░░░░░░░░░░░░░░░░░░  17.49%
+Rust              1h 17m 17s   ████░░░░░░░░░░░░░░░░░░░░░  13.46%
+TypeScript        1h 8m 12s    ███░░░░░░░░░░░░░░░░░░░░░░  11.88%
+Ruby              46m 31s      ███░░░░░░░░░░░░░░░░░░░░░░  8.10%
 
 💼 Projects:
-otter             6h 53m 18s   ██████████████████░░░░░░░  71.73%
-the-funny         57m 26s      ███░░░░░░░░░░░░░░░░░░░░░░  9.97%
-shrimp-shuffler   46m 36s      ███░░░░░░░░░░░░░░░░░░░░░░  8.09%
-shymike.dev       31m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.52%
-sillyB            10m 49s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.88%
+otter             4h 27m 19s   ████████████████░░░░░░░░░  61.58%
+the-funny         1h 3m 22s    ████░░░░░░░░░░░░░░░░░░░░░  14.60%
+shrimp-shuffler   46m 36s      ███░░░░░░░░░░░░░░░░░░░░░░  10.73%
+shymike.dev       29m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.87%
+sillyB            10m 49s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.49%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
