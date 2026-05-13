@@ -19,7 +19,7 @@ A student who likes coding and gaming!
 - [`waka-relay`](https://github.com/ImShyMike/waka-relay) - _📊 A self-hosted app that relays WakaTime heartbeats to multiple instances_ **(30⭐)**
 - [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(27⭐)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(15⭐)**
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(10⭐)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(11⭐)**
 
 #### 🔨 My recent pull requests
 
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Svelte            2h 18m 14s   ██████░░░░░░░░░░░░░░░░░░░  23.27%
-Python            1h 49m 51s   █████░░░░░░░░░░░░░░░░░░░░  18.49%
-Rust              1h 17m 17s   ████░░░░░░░░░░░░░░░░░░░░░  13.01%
-TypeScript        1h 8m 12s    ███░░░░░░░░░░░░░░░░░░░░░░  11.48%
-Ruby              46m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.83%
+Svelte            2h 20m 14s   ██████░░░░░░░░░░░░░░░░░░░  21.99%
+Python            1h 49m 51s   █████░░░░░░░░░░░░░░░░░░░░  17.23%
+Rust              1h 28m 12s   ████░░░░░░░░░░░░░░░░░░░░░  13.83%
+TypeScript        1h 13m 45s   ███░░░░░░░░░░░░░░░░░░░░░░  11.57%
+Ruby              46m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.30%
 
 💼 Projects:
-otter             4h 35m 34s   ████████████████░░░░░░░░░  60.99%
-the-funny         1h 12m 48s   █████░░░░░░░░░░░░░░░░░░░░  16.11%
-shrimp-shuffler   46m 36s      ███░░░░░░░░░░░░░░░░░░░░░░  10.31%
-shymike.dev       29m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.60%
-sillyB            10m 49s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.39%
+otter             4h 37m 37s   ███████████████░░░░░░░░░░  59.38%
+the-funny         1h 12m 48s   ████░░░░░░░░░░░░░░░░░░░░░  15.57%
+shrimp-shuffler   46m 36s      ███░░░░░░░░░░░░░░░░░░░░░░  9.97%
+shymike.dev       29m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.38%
+sillyB            10m 49s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.31%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
