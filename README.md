@@ -5,9 +5,9 @@ A student who likes coding and gaming!
 #### 🏗️ What I've been working on
 
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(today)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(today)**
-- [`beest`](https://github.com/hackclub/beest) - _formerly strands, the Repo for beest.hackclub.com_ **(2 days ago)**
-- [`shrimp-shuffler`](https://github.com/hackclub/shrimp-shuffler) - _🦐🦐🦐_ **(2 days ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 day ago)**
+- [`beest`](https://github.com/hackclub/beest) - _formerly strands, the Repo for beest.hackclub.com_ **(3 days ago)**
+- [`shrimp-shuffler`](https://github.com/hackclub/shrimp-shuffler) - _🦐🦐🦐_ **(3 days ago)**
 - [`Hackatime-Analyzer`](https://github.com/ImShyMike/Hackatime-Analyzer) - _Website to easily analyze your Hackatime data in the browser!_ **(1 week ago)**
 - [`hades`](https://github.com/ImShyMike/hades) - _transparent slack message anonymizer_ **(1 week ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(2 weeks ago)**
@@ -23,24 +23,24 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Use airbridge instead of raw airtable for dupe Code Url checking**](https://github.com/hackclub/beest/pull/18) on [`beest`](https://github.com/hackclub/beest) **(3 days ago)**
+- [**Use airbridge instead of raw airtable for dupe Code Url checking**](https://github.com/hackclub/beest/pull/18) on [`beest`](https://github.com/hackclub/beest) **(4 days ago)**
 - [**Use a slack bot to set the icon**](https://github.com/hackclub/shrimp-shuffler/pull/9) on [`shrimp-shuffler`](https://github.com/hackclub/shrimp-shuffler) **(2 weeks ago)**
 - [**Fix logic bug**](https://github.com/hackclub/ships/pull/61) on [`ships`](https://github.com/hackclub/ships) **(1 month ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Svelte              2h 26m 53s   ██████░░░░░░░░░░░░░░░░░░░  22.62%
-Python              1h 54m 51s   █████░░░░░░░░░░░░░░░░░░░░  17.69%
-Rust                1h 28m 12s   ████░░░░░░░░░░░░░░░░░░░░░  13.58%
-TypeScript          1h 13m 45s   ███░░░░░░░░░░░░░░░░░░░░░░  11.36%
-Ruby                46m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.16%
+Svelte              2h 27m 42s   ██████░░░░░░░░░░░░░░░░░░░  22.71%
+Python              1h 54m 51s   █████░░░░░░░░░░░░░░░░░░░░  17.66%
+Rust                1h 28m 12s   ████░░░░░░░░░░░░░░░░░░░░░  13.56%
+TypeScript          1h 13m 45s   ███░░░░░░░░░░░░░░░░░░░░░░  11.34%
+Ruby                46m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.15%
 
 💼 Projects:
-otter               4h 37m 30s   ███████████████░░░░░░░░░░  57.89%
-the-funny           1h 12m 48s   ████░░░░░░░░░░░░░░░░░░░░░  15.19%
-shrimp-shuffler     46m 36s      ███░░░░░░░░░░░░░░░░░░░░░░  9.72%
-shymike.dev         29m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.22%
+otter               4h 38m 19s   ███████████████░░░░░░░░░░  57.96%
+the-funny           1h 12m 48s   ████░░░░░░░░░░░░░░░░░░░░░  15.16%
+shrimp-shuffler     46m 36s      ███░░░░░░░░░░░░░░░░░░░░░░  9.70%
+shymike.dev         29m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.21%
 hackatime-scraper   11m 25s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.38%
 ```
 #### 💻 My coding activity
