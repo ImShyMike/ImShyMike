@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
+- [**sync repo to upstream**](https://github.com/ImShyMike/vscode-hackatime/pull/1) on [`vscode-hackatime`](https://github.com/ImShyMike/vscode-hackatime) **(today)**
 - [**Use airbridge instead of raw airtable for dupe Code Url checking**](https://github.com/hackclub/beest/pull/18) on [`beest`](https://github.com/hackclub/beest) **(5 days ago)**
 - [**Use a slack bot to set the icon**](https://github.com/hackclub/shrimp-shuffler/pull/9) on [`shrimp-shuffler`](https://github.com/hackclub/shrimp-shuffler) **(2 weeks ago)**
-- [**Fix logic bug**](https://github.com/hackclub/ships/pull/61) on [`ships`](https://github.com/hackclub/ships) **(1 month ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python              3h 55m 50s   ████████░░░░░░░░░░░░░░░░░  28.04%
-Svelte              2h 27m 42s   █████░░░░░░░░░░░░░░░░░░░░  17.56%
-Rust                1h 33m 35s   ███░░░░░░░░░░░░░░░░░░░░░░  11.13%
-TypeScript          1h 31m 32s   ███░░░░░░░░░░░░░░░░░░░░░░  10.88%
-Ruby                46m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.53%
+Python             3h 55m 50s   ███████░░░░░░░░░░░░░░░░░░  25.33%
+Svelte             2h 27m 42s   ████░░░░░░░░░░░░░░░░░░░░░  15.86%
+TypeScript         2h 4m 40s    ████░░░░░░░░░░░░░░░░░░░░░  13.39%
+Rust               1h 33m 35s   ███░░░░░░░░░░░░░░░░░░░░░░  10.05%
+unknown            48m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.18%
 
 💼 Projects:
-otter               4h 38m 19s   ███████████░░░░░░░░░░░░░░  43.15%
-hackatime-sync      2h 7m 15s    █████░░░░░░░░░░░░░░░░░░░░  19.73%
-the-funny           1h 12m 48s   ███░░░░░░░░░░░░░░░░░░░░░░  11.29%
-shrimp-shuffler     46m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.22%
-hackatime-scraper   31m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.95%
+otter              4h 38m 19s   ██████████░░░░░░░░░░░░░░░  39.97%
+hackatime-sync     2h 7m 15s    █████░░░░░░░░░░░░░░░░░░░░  18.27%
+the-funny          1h 12m 48s   ███░░░░░░░░░░░░░░░░░░░░░░  10.45%
+vscode-hackatime   51m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.40%
+shrimp-shuffler    46m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.69%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
