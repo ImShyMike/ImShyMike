@@ -4,10 +4,10 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(1 day ago)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(2 days ago)**
-- [`beest`](https://github.com/hackclub/beest) - _formerly strands, the Repo for beest.hackclub.com_ **(4 days ago)**
-- [`shrimp-shuffler`](https://github.com/hackclub/shrimp-shuffler) - _🦐🦐🦐_ **(4 days ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(2 days ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(3 days ago)**
+- [`beest`](https://github.com/hackclub/beest) - _formerly strands, the Repo for beest.hackclub.com_ **(5 days ago)**
+- [`shrimp-shuffler`](https://github.com/hackclub/shrimp-shuffler) - _🦐🦐🦐_ **(5 days ago)**
 - [`Hackatime-Analyzer`](https://github.com/ImShyMike/Hackatime-Analyzer) - _Website to easily analyze your Hackatime data in the browser!_ **(1 week ago)**
 - [`hades`](https://github.com/ImShyMike/hades) - _transparent slack message anonymizer_ **(2 weeks ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(2 weeks ago)**
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**sync repo to upstream**](https://github.com/ImShyMike/vscode-hackatime/pull/1) on [`vscode-hackatime`](https://github.com/ImShyMike/vscode-hackatime) **(today)**
-- [**Use airbridge instead of raw airtable for dupe Code Url checking**](https://github.com/hackclub/beest/pull/18) on [`beest`](https://github.com/hackclub/beest) **(5 days ago)**
+- [**sync repo to upstream**](https://github.com/ImShyMike/vscode-hackatime/pull/1) on [`vscode-hackatime`](https://github.com/ImShyMike/vscode-hackatime) **(1 day ago)**
+- [**Use airbridge instead of raw airtable for dupe Code Url checking**](https://github.com/hackclub/beest/pull/18) on [`beest`](https://github.com/hackclub/beest) **(6 days ago)**
 - [**Use a slack bot to set the icon**](https://github.com/hackclub/shrimp-shuffler/pull/9) on [`shrimp-shuffler`](https://github.com/hackclub/shrimp-shuffler) **(2 weeks ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python             3h 50m 57s   ███████░░░░░░░░░░░░░░░░░░  27.15%
-TypeScript         2h 2m 34s    ████░░░░░░░░░░░░░░░░░░░░░  14.41%
-Svelte             1h 58m 32s   ████░░░░░░░░░░░░░░░░░░░░░  13.94%
-Rust               1h 28m 29s   ███░░░░░░░░░░░░░░░░░░░░░░  10.40%
-Ruby               46m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.47%
+Python             3h 50m 57s   ███████░░░░░░░░░░░░░░░░░░  24.84%
+TypeScript         3h 5m 18s    █████░░░░░░░░░░░░░░░░░░░░  19.93%
+Svelte             1h 58m 32s   ████░░░░░░░░░░░░░░░░░░░░░  12.75%
+Rust               1h 28m 29s   ███░░░░░░░░░░░░░░░░░░░░░░  9.52%
+Ruby               46m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.00%
 
 💼 Projects:
-otter              4h 0m 57s    ██████████░░░░░░░░░░░░░░░  36.48%
-hackatime-sync     2h 7m 15s    █████░░░░░░░░░░░░░░░░░░░░  19.27%
-vscode-hackatime   1h 22m 45s   ████░░░░░░░░░░░░░░░░░░░░░  12.53%
-the-funny          1h 12m 48s   ███░░░░░░░░░░░░░░░░░░░░░░  11.02%
-shrimp-shuffler    46m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.06%
+otter              4h 0m 57s    █████████░░░░░░░░░░░░░░░░  33.10%
+vscode-hackatime   2h 30m 19s   ██████░░░░░░░░░░░░░░░░░░░  20.65%
+hackatime-sync     2h 7m 15s    █████░░░░░░░░░░░░░░░░░░░░  17.48%
+the-funny          1h 12m 48s   ███░░░░░░░░░░░░░░░░░░░░░░  10.00%
+shrimp-shuffler    46m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.40%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
