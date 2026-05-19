@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript         4h 6m 59s    ████████░░░░░░░░░░░░░░░░░  29.01%
-Python             3h 46m 51s   ███████░░░░░░░░░░░░░░░░░░  26.65%
-JSON               1h 5m 28s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.69%
-Markdown           52m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.16%
-Ruby               46m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.46%
+TypeScript         4h 6m 59s    ████████░░░░░░░░░░░░░░░░░  28.94%
+Python             3h 46m 51s   ███████░░░░░░░░░░░░░░░░░░  26.58%
+JSON               1h 5m 28s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.67%
+Markdown           52m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.14%
+Ruby               46m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.45%
 
 💼 Projects:
-vscode-hackatime   4h 48m 55s   ███████████░░░░░░░░░░░░░░  43.00%
-hackatime-sync     2h 7m 15s    █████░░░░░░░░░░░░░░░░░░░░  18.94%
-the-funny          1h 12m 48s   ███░░░░░░░░░░░░░░░░░░░░░░  10.84%
-shrimp-shuffler    46m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.94%
-joe                33m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.06%
+vscode-hackatime   4h 48m 55s   ███████████░░░░░░░░░░░░░░  42.87%
+hackatime-sync     2h 7m 15s    █████░░░░░░░░░░░░░░░░░░░░  18.88%
+the-funny          1h 12m 48s   ███░░░░░░░░░░░░░░░░░░░░░░  10.80%
+shrimp-shuffler    46m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.92%
+joe                33m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.04%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
