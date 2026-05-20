@@ -4,8 +4,8 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(today)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(5 days ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(1 day ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(6 days ago)**
 - [`beest`](https://github.com/hackclub/beest) - _formerly strands, the Repo for beest.hackclub.com_ **(1 week ago)**
 - [`shrimp-shuffler`](https://github.com/hackclub/shrimp-shuffler) - _🦐🦐🦐_ **(1 week ago)**
 - [`Hackatime-Analyzer`](https://github.com/ImShyMike/Hackatime-Analyzer) - _Website to easily analyze your Hackatime data in the browser!_ **(2 weeks ago)**
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**sync repo to upstream**](https://github.com/ImShyMike/vscode-hackatime/pull/1) on [`vscode-hackatime`](https://github.com/ImShyMike/vscode-hackatime) **(3 days ago)**
+- [**sync repo to upstream**](https://github.com/ImShyMike/vscode-hackatime/pull/1) on [`vscode-hackatime`](https://github.com/ImShyMike/vscode-hackatime) **(4 days ago)**
 - [**Use airbridge instead of raw airtable for dupe Code Url checking**](https://github.com/hackclub/beest/pull/18) on [`beest`](https://github.com/hackclub/beest) **(1 week ago)**
-- [**Use a slack bot to set the icon**](https://github.com/hackclub/shrimp-shuffler/pull/9) on [`shrimp-shuffler`](https://github.com/hackclub/shrimp-shuffler) **(2 weeks ago)**
+- [**Use a slack bot to set the icon**](https://github.com/hackclub/shrimp-shuffler/pull/9) on [`shrimp-shuffler`](https://github.com/hackclub/shrimp-shuffler) **(3 weeks ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript         4h 13m 26s   ████████░░░░░░░░░░░░░░░░░  28.22%
-Python             3h 46m 51s   ███████░░░░░░░░░░░░░░░░░░  25.26%
-JSON               1h 5m 28s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.29%
-Markdown           52m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.84%
-Svelte             47m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.27%
+TypeScript         4h 4m 33s    █████████░░░░░░░░░░░░░░░░  33.60%
+Python             2h 27m 37s   ██████░░░░░░░░░░░░░░░░░░░  20.28%
+JSON               1h 5m 28s    ███░░░░░░░░░░░░░░░░░░░░░░  8.99%
+Svelte             47m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.50%
+Markdown           44m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.08%
 
 💼 Projects:
-vscode-hackatime   4h 48m 55s   ███████████░░░░░░░░░░░░░░  40.68%
-hackatime-sync     2h 7m 15s    █████░░░░░░░░░░░░░░░░░░░░  17.92%
-the-funny          1h 12m 48s   ███░░░░░░░░░░░░░░░░░░░░░░  10.25%
-otter              47m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.69%
-shrimp-shuffler    46m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.56%
+vscode-hackatime   4h 48m 55s   █████████████░░░░░░░░░░░░  49.86%
+hackatime-sync     2h 7m 15s    ██████░░░░░░░░░░░░░░░░░░░  21.96%
+otter              47m 29s      ███░░░░░░░░░░░░░░░░░░░░░░  8.20%
+joe                33m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.87%
+vscode-check       26m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.52%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
