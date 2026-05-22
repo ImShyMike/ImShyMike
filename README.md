@@ -4,8 +4,8 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 day ago)**
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(2 days ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(2 days ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(3 days ago)**
 - [`beest`](https://github.com/hackclub/beest) - _formerly strands, the Repo for beest.hackclub.com_ **(1 week ago)**
 - [`shrimp-shuffler`](https://github.com/hackclub/shrimp-shuffler) - _🦐🦐🦐_ **(1 week ago)**
 - [`Hackatime-Analyzer`](https://github.com/ImShyMike/Hackatime-Analyzer) - _Website to easily analyze your Hackatime data in the browser!_ **(2 weeks ago)**
@@ -23,7 +23,7 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**sync repo to upstream**](https://github.com/ImShyMike/vscode-hackatime/pull/1) on [`vscode-hackatime`](https://github.com/ImShyMike/vscode-hackatime) **(5 days ago)**
+- [**sync repo to upstream**](https://github.com/ImShyMike/vscode-hackatime/pull/1) on [`vscode-hackatime`](https://github.com/ImShyMike/vscode-hackatime) **(6 days ago)**
 - [**Use airbridge instead of raw airtable for dupe Code Url checking**](https://github.com/hackclub/beest/pull/18) on [`beest`](https://github.com/hackclub/beest) **(1 week ago)**
 - [**Use a slack bot to set the icon**](https://github.com/hackclub/shrimp-shuffler/pull/9) on [`shrimp-shuffler`](https://github.com/hackclub/shrimp-shuffler) **(3 weeks ago)**
 
