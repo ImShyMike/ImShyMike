@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript          3h 48m 29s   █████████░░░░░░░░░░░░░░░░  35.03%
-Python              1h 54m 50s   █████░░░░░░░░░░░░░░░░░░░░  17.60%
-JSON                1h 3m 19s    ███░░░░░░░░░░░░░░░░░░░░░░  9.71%
-Rust                1h 1m 57s    ███░░░░░░░░░░░░░░░░░░░░░░  9.50%
-Svelte              42m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.56%
+TypeScript         3h 9m 48s    ████████████░░░░░░░░░░░░░  45.90%
+Rust               1h 1m 57s    ████░░░░░░░░░░░░░░░░░░░░░  14.98%
+JSON               45m 52s      ███░░░░░░░░░░░░░░░░░░░░░░  11.09%
+Svelte             42m 46s      ███░░░░░░░░░░░░░░░░░░░░░░  10.34%
+HTML               29m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.11%
 
 💼 Projects:
-vscode-hackatime    4h 50m 58s   ██████████████░░░░░░░░░░░  52.74%
-hackatime-sync      1h 55m 56s   ██████░░░░░░░░░░░░░░░░░░░  21.01%
-otter               1h 15m 6s    ████░░░░░░░░░░░░░░░░░░░░░  13.61%
-vscode-check        26m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.75%
-hackatime-scraper   18m 31s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.36%
+vscode-hackatime   3h 51m 12s   █████████████████░░░░░░░░  64.82%
+otter              1h 15m 6s    ██████░░░░░░░░░░░░░░░░░░░  21.05%
+vscode-check       26m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.35%
+rustytime          15m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.29%
+joe                8m 52s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.49%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
