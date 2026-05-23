@@ -4,8 +4,8 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(today)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(3 days ago)**
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(4 days ago)**
 - [`beest`](https://github.com/hackclub/beest) - _formerly strands, the Repo for beest.hackclub.com_ **(1 week ago)**
 - [`shrimp-shuffler`](https://github.com/hackclub/shrimp-shuffler) - _🦐🦐🦐_ **(1 week ago)**
 - [`Hackatime-Analyzer`](https://github.com/ImShyMike/Hackatime-Analyzer) - _Website to easily analyze your Hackatime data in the browser!_ **(2 weeks ago)**
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript          3h 48m 29s   ██████████░░░░░░░░░░░░░░░  36.34%
-Python              1h 54m 50s   █████░░░░░░░░░░░░░░░░░░░░  18.27%
-JSON                1h 3m 19s    ███░░░░░░░░░░░░░░░░░░░░░░  10.07%
-Svelte              42m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.80%
-Rust                40m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.42%
+TypeScript          3h 48m 29s   █████████░░░░░░░░░░░░░░░░  35.26%
+Python              1h 54m 50s   █████░░░░░░░░░░░░░░░░░░░░  17.72%
+JSON                1h 3m 19s    ███░░░░░░░░░░░░░░░░░░░░░░  9.77%
+Rust                59m 37s      ███░░░░░░░░░░░░░░░░░░░░░░  9.20%
+Svelte              42m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.60%
 
 💼 Projects:
-vscode-hackatime    4h 50m 58s   ██████████████░░░░░░░░░░░  54.89%
-hackatime-sync      1h 55m 56s   ██████░░░░░░░░░░░░░░░░░░░  21.87%
-otter               53m 31s      ███░░░░░░░░░░░░░░░░░░░░░░  10.10%
-vscode-check        26m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.95%
-hackatime-scraper   18m 31s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.49%
+vscode-hackatime    4h 50m 58s   ██████████████░░░░░░░░░░░  52.96%
+hackatime-sync      1h 55m 56s   ██████░░░░░░░░░░░░░░░░░░░  21.10%
+otter               1h 12m 46s   ████░░░░░░░░░░░░░░░░░░░░░  13.25%
+vscode-check        26m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.77%
+hackatime-scraper   18m 31s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.37%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
