@@ -4,7 +4,7 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(2 days ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(today)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(5 days ago)**
 - [`beest`](https://github.com/hackclub/beest) - _formerly strands, the Repo for beest.hackclub.com_ **(1 week ago)**
 - [`shrimp-shuffler`](https://github.com/hackclub/shrimp-shuffler) - _🦐🦐🦐_ **(1 week ago)**
@@ -30,17 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Rust               1h 1m 57s   █████████░░░░░░░░░░░░░░░░  34.54%
-Svelte             42m 46s     ██████░░░░░░░░░░░░░░░░░░░  23.84%
-TypeScript         33m 47s     █████░░░░░░░░░░░░░░░░░░░░  18.83%
-HTML               18m 49s     ███░░░░░░░░░░░░░░░░░░░░░░  10.49%
-JSON               4m 54s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.73%
+Rust               1h 5m 57s    ████████░░░░░░░░░░░░░░░░░  31.87%
+Svelte             51m 44s      ███████░░░░░░░░░░░░░░░░░░  25.00%
+TypeScript         41m 59s      ██████░░░░░░░░░░░░░░░░░░░  20.29%
+HTML               18m 49s      ███░░░░░░░░░░░░░░░░░░░░░░  9.09%
+unknown            7m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.38%
 
 💼 Projects:
-otter              1h 15m 6s   ████████████░░░░░░░░░░░░░  47.49%
-vscode-hackatime   41m 31s     ███████░░░░░░░░░░░░░░░░░░  26.25%
-vscode-check       26m 13s     █████░░░░░░░░░░░░░░░░░░░░  16.58%
-rustytime          15m 19s     ███░░░░░░░░░░░░░░░░░░░░░░  9.68%
+otter              1h 27m 55s   █████████████░░░░░░░░░░░░  49.44%
+vscode-hackatime   41m 31s      ██████░░░░░░░░░░░░░░░░░░░  23.35%
+vscode-check       26m 13s      ████░░░░░░░░░░░░░░░░░░░░░  14.74%
+rustytime          15m 19s      ███░░░░░░░░░░░░░░░░░░░░░░  8.61%
+drawr              6m 52s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.86%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
