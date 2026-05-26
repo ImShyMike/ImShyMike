@@ -4,7 +4,7 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(1 day ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(today)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(6 days ago)**
 - [`beest`](https://github.com/hackclub/beest) - _formerly strands, the Repo for beest.hackclub.com_ **(2 weeks ago)**
 - [`shrimp-shuffler`](https://github.com/hackclub/shrimp-shuffler) - _🦐🦐🦐_ **(2 weeks ago)**
@@ -30,16 +30,16 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Svelte             2h 33m 18s   ██████████░░░░░░░░░░░░░░░  39.35%
-TypeScript         1h 57m 21s   ████████░░░░░░░░░░░░░░░░░  30.12%
-Rust               1h 5m 57s    █████░░░░░░░░░░░░░░░░░░░░  16.93%
-CSS                20m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.13%
-unknown            11m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.84%
+Svelte             2h 33m 18s   ██████████░░░░░░░░░░░░░░░  39.09%
+TypeScript         1h 57m 21s   ████████░░░░░░░░░░░░░░░░░  29.93%
+Rust               1h 8m 28s    █████░░░░░░░░░░░░░░░░░░░░  17.46%
+CSS                20m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.10%
+unknown            11m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.83%
 
 💼 Projects:
-drawr              3h 21m 8s    █████████████████░░░░░░░░  66.08%
-otter              1h 27m 55s   ████████░░░░░░░░░░░░░░░░░  28.88%
-rustytime          15m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.03%
+drawr              3h 21m 8s    █████████████████░░░░░░░░  65.53%
+otter              1h 30m 26s   ████████░░░░░░░░░░░░░░░░░  29.47%
+rustytime          15m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.99%
 vscode-hackatime   2s           █░░░░░░░░░░░░░░░░░░░░░░░░  0.01%
 ```
 #### 💻 My coding activity
