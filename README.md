@@ -4,13 +4,13 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(today)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(5 days ago)**
-- [`beest`](https://github.com/hackclub/beest) - _formerly strands, the Repo for beest.hackclub.com_ **(1 week ago)**
-- [`shrimp-shuffler`](https://github.com/hackclub/shrimp-shuffler) - _🦐🦐🦐_ **(1 week ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(1 day ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(6 days ago)**
+- [`beest`](https://github.com/hackclub/beest) - _formerly strands, the Repo for beest.hackclub.com_ **(2 weeks ago)**
+- [`shrimp-shuffler`](https://github.com/hackclub/shrimp-shuffler) - _🦐🦐🦐_ **(2 weeks ago)**
 - [`Hackatime-Analyzer`](https://github.com/ImShyMike/Hackatime-Analyzer) - _Website to easily analyze your Hackatime data in the browser!_ **(3 weeks ago)**
 - [`hades`](https://github.com/ImShyMike/hades) - _transparent slack message anonymizer_ **(3 weeks ago)**
-- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(3 weeks ago)**
+- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(4 weeks ago)**
 - [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club Slack _ **(1 month ago)**
 
 #### 📦 My most popular repos
@@ -30,18 +30,17 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Svelte             2h 51m 54s   ██████████░░░░░░░░░░░░░░░  36.52%
-TypeScript         2h 21m 25s   ████████░░░░░░░░░░░░░░░░░  30.04%
-Rust               1h 5m 57s    ████░░░░░░░░░░░░░░░░░░░░░  14.01%
-HTML               20m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.42%
-CSS                20m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.25%
+Svelte             2h 33m 18s   ██████████░░░░░░░░░░░░░░░  39.35%
+TypeScript         1h 57m 21s   ████████░░░░░░░░░░░░░░░░░  30.12%
+Rust               1h 5m 57s    █████░░░░░░░░░░░░░░░░░░░░  16.93%
+CSS                20m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.13%
+unknown            11m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.84%
 
 💼 Projects:
-drawr              3h 19m 8s    ██████████████░░░░░░░░░░░  53.81%
-otter              1h 27m 55s   ██████░░░░░░░░░░░░░░░░░░░  23.75%
-vscode-hackatime   41m 31s      ███░░░░░░░░░░░░░░░░░░░░░░  11.22%
-vscode-check       26m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.08%
-rustytime          15m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.14%
+drawr              3h 21m 8s    █████████████████░░░░░░░░  66.08%
+otter              1h 27m 55s   ████████░░░░░░░░░░░░░░░░░  28.88%
+rustytime          15m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.03%
+vscode-hackatime   2s           █░░░░░░░░░░░░░░░░░░░░░░░░  0.01%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
