@@ -30,15 +30,15 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Svelte             2h 11m 8s    ███████████░░░░░░░░░░░░░░  42.37%
-TypeScript         1h 45m 39s   █████████░░░░░░░░░░░░░░░░  34.14%
-Rust               26m 6s       ███░░░░░░░░░░░░░░░░░░░░░░  8.43%
-CSS                20m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.46%
-unknown            11m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.58%
+Svelte             2h 15m 8s    ███████████░░░░░░░░░░░░░░  43.11%
+TypeScript         1h 45m 39s   █████████░░░░░░░░░░░░░░░░  33.70%
+Rust               26m 6s       ███░░░░░░░░░░░░░░░░░░░░░░  8.33%
+CSS                20m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.38%
+unknown            11m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.54%
 
 💼 Projects:
-drawr              3h 21m 8s    ██████████████████████░░░  84.48%
-otter              36m 55s      ████░░░░░░░░░░░░░░░░░░░░░  15.51%
+drawr              3h 25m 8s    ██████████████████████░░░  84.74%
+otter              36m 55s      ████░░░░░░░░░░░░░░░░░░░░░  15.25%
 vscode-hackatime   2s           █░░░░░░░░░░░░░░░░░░░░░░░░  0.01%
 ```
 #### 💻 My coding activity
