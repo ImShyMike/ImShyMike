@@ -4,6 +4,7 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
+- [`canvas`](https://github.com/ImShyMike/canvas) - _a big real time canvas_ **(today)**
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(2 days ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 week ago)**
 - [`beest`](https://github.com/hackclub/beest) - _formerly strands, the Repo for beest.hackclub.com_ **(2 weeks ago)**
@@ -11,7 +12,6 @@ A student who likes coding and gaming!
 - [`Hackatime-Analyzer`](https://github.com/ImShyMike/Hackatime-Analyzer) - _Website to easily analyze your Hackatime data in the browser!_ **(3 weeks ago)**
 - [`hades`](https://github.com/ImShyMike/hades) - _transparent slack message anonymizer_ **(3 weeks ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 month ago)**
-- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club Slack _ **(1 month ago)**
 
 #### 📦 My most popular repos
 
@@ -30,15 +30,16 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Svelte             2h 15m 8s    ███████████░░░░░░░░░░░░░░  43.11%
-TypeScript         1h 45m 39s   █████████░░░░░░░░░░░░░░░░  33.70%
-Rust               26m 6s       ███░░░░░░░░░░░░░░░░░░░░░░  8.33%
-CSS                20m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.38%
-unknown            11m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.54%
+Svelte             2h 15m 8s    ███████████░░░░░░░░░░░░░░  42.30%
+TypeScript         1h 45m 39s   █████████░░░░░░░░░░░░░░░░  33.07%
+Rust               30m 6s       ███░░░░░░░░░░░░░░░░░░░░░░  9.42%
+CSS                20m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.26%
+unknown            13m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.10%
 
 💼 Projects:
-drawr              3h 25m 8s    ██████████████████████░░░  84.74%
-otter              36m 55s      ████░░░░░░░░░░░░░░░░░░░░░  15.25%
+drawr              3h 25m 8s    █████████████████████░░░░  83.81%
+otter              36m 55s      ████░░░░░░░░░░░░░░░░░░░░░  15.08%
+canvas             2m 40s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.09%
 vscode-hackatime   2s           █░░░░░░░░░░░░░░░░░░░░░░░░  0.01%
 ```
 #### 💻 My coding activity
