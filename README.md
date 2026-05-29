@@ -4,14 +4,14 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`canvas`](https://github.com/ImShyMike/canvas) - _a big real time canvas_ **(today)**
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(2 days ago)**
+- [`drawr`](https://github.com/ImShyMike/drawr) - _Sketch together in real time_ **(today)**
+- [`canvas`](https://github.com/ImShyMike/canvas) - _a big real time canvas_ **(1 day ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(3 days ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 week ago)**
 - [`beest`](https://github.com/hackclub/beest) - _formerly strands, the Repo for beest.hackclub.com_ **(2 weeks ago)**
 - [`shrimp-shuffler`](https://github.com/hackclub/shrimp-shuffler) - _🦐🦐🦐_ **(2 weeks ago)**
 - [`Hackatime-Analyzer`](https://github.com/ImShyMike/Hackatime-Analyzer) - _Website to easily analyze your Hackatime data in the browser!_ **(3 weeks ago)**
 - [`hades`](https://github.com/ImShyMike/hades) - _transparent slack message anonymizer_ **(3 weeks ago)**
-- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 month ago)**
 
 #### 📦 My most popular repos
 
@@ -25,21 +25,21 @@ A student who likes coding and gaming!
 
 - [**sync repo to upstream**](https://github.com/ImShyMike/vscode-hackatime/pull/1) on [`vscode-hackatime`](https://github.com/ImShyMike/vscode-hackatime) **(1 week ago)**
 - [**Use airbridge instead of raw airtable for dupe Code Url checking**](https://github.com/hackclub/beest/pull/18) on [`beest`](https://github.com/hackclub/beest) **(2 weeks ago)**
-- [**Use a slack bot to set the icon**](https://github.com/hackclub/shrimp-shuffler/pull/9) on [`shrimp-shuffler`](https://github.com/hackclub/shrimp-shuffler) **(4 weeks ago)**
+- [**Use a slack bot to set the icon**](https://github.com/hackclub/shrimp-shuffler/pull/9) on [`shrimp-shuffler`](https://github.com/hackclub/shrimp-shuffler) **(1 month ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Svelte             3h 14m 6s    ███████████░░░░░░░░░░░░░░  42.56%
-TypeScript         2h 39m 36s   █████████░░░░░░░░░░░░░░░░  35.00%
-Rust               32m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.04%
-Markdown           23m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.09%
-CSS                22m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.82%
+Svelte             3h 32m 43s   ███████████░░░░░░░░░░░░░░  40.30%
+TypeScript         3h 14m 58s   ██████████░░░░░░░░░░░░░░░  36.94%
+Rust               32m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.08%
+Markdown           25m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.83%
+CSS                22m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.17%
 
 💼 Projects:
-drawr              5h 9m 54s    ██████████████████████░░░  86.41%
-otter              34m 55s      ███░░░░░░░░░░░░░░░░░░░░░░  9.74%
-canvas             13m 48s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.85%
+drawr              5h 58m 19s   ███████████████████████░░  88.02%
+otter              34m 55s      ███░░░░░░░░░░░░░░░░░░░░░░  8.58%
+canvas             13m 48s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.39%
 vscode-hackatime   2s           █░░░░░░░░░░░░░░░░░░░░░░░░  0.01%
 ```
 #### 💻 My coding activity
