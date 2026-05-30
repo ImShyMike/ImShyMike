@@ -30,11 +30,11 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Svelte                  3h 43m 47s   ██████████░░░░░░░░░░░░░░░  36.02%
-TypeScript              3h 31m 6s    █████████░░░░░░░░░░░░░░░░  33.98%
-JSON                    52m 40s      ███░░░░░░░░░░░░░░░░░░░░░░  8.48%
-Markdown                38m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.24%
-Rust                    32m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.17%
+Svelte                  3h 43m 47s   █████████░░░░░░░░░░░░░░░░  35.90%
+TypeScript              3h 31m 6s    █████████░░░░░░░░░░░░░░░░  33.87%
+JSON                    52m 40s      ███░░░░░░░░░░░░░░░░░░░░░░  8.45%
+Markdown                38m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.22%
+Rust                    32m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.15%
 
 💼 Projects:
 drawr                   6h 14m 0s    ████████████████████░░░░░  78.47%
