@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
+- [**Make VS Code docs use forked Hackatime extension**](https://github.com/hackclub/hackatime/pull/1385) on [`hackatime`](https://github.com/hackclub/hackatime) **(today)**
+- [**Make VS Code use forked Hackatime extension**](https://github.com/hackclub/hackatime-setup/pull/11) on [`hackatime-setup`](https://github.com/hackclub/hackatime-setup) **(today)**
 - [**sync repo to upstream**](https://github.com/ImShyMike/vscode-hackatime/pull/1) on [`vscode-hackatime`](https://github.com/ImShyMike/vscode-hackatime) **(2 weeks ago)**
-- [**Use airbridge instead of raw airtable for dupe Code Url checking**](https://github.com/hackclub/beest/pull/18) on [`beest`](https://github.com/hackclub/beest) **(2 weeks ago)**
-- [**Use a slack bot to set the icon**](https://github.com/hackclub/shrimp-shuffler/pull/9) on [`shrimp-shuffler`](https://github.com/hackclub/shrimp-shuffler) **(1 month ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Svelte                  3h 43m 47s   █████████░░░░░░░░░░░░░░░░  35.90%
-TypeScript              3h 31m 6s    █████████░░░░░░░░░░░░░░░░  33.87%
-JSON                    52m 40s      ███░░░░░░░░░░░░░░░░░░░░░░  8.45%
-Markdown                38m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.22%
-Rust                    32m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.15%
+Svelte             3h 43m 47s   █████████░░░░░░░░░░░░░░░░  35.03%
+TypeScript         3h 31m 6s    █████████░░░░░░░░░░░░░░░░  33.05%
+JSON               54m 40s      ███░░░░░░░░░░░░░░░░░░░░░░  8.56%
+Markdown           41m 26s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.49%
+Rust               39m 1s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.11%
 
 💼 Projects:
-drawr                   6h 14m 0s    ████████████████████░░░░░  78.47%
-vscode-hackatime        49m 32s      ███░░░░░░░░░░░░░░░░░░░░░░  10.39%
-otter                   38m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  8.17%
-canvas                  13m 48s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.90%
-vscode-hackatime-prod   19s          █░░░░░░░░░░░░░░░░░░░░░░░░  0.07%
+drawr              6h 14m 0s    ████████████████████░░░░░  76.83%
+vscode-hackatime   49m 32s      ███░░░░░░░░░░░░░░░░░░░░░░  10.18%
+otter              38m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  8.00%
+canvas             13m 48s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.83%
+hackatime-setup    7m 31s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.54%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
