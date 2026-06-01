@@ -4,14 +4,14 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(today)**
+- [`stardance`](https://github.com/hackclub/stardance) - _The largest high school STEM event of the summer!_ **(today)**
 - [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(today)**
+- [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(today)**
 - [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(1 day ago)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(1 day ago)**
 - [`hackatime-setup`](https://github.com/hackclub/hackatime-setup) - _The installer for Hackatime, the free coding time tracker from Hack Club._ **(2 days ago)**
 - [`drawr`](https://github.com/ImShyMike/drawr) - _Sketch together in real time_ **(3 days ago)**
 - [`canvas`](https://github.com/ImShyMike/canvas) - _a big real time canvas_ **(4 days ago)**
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(6 days ago)**
 
 #### 📦 My most popular repos
 
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
+- [**Re-add email autofill**](https://github.com/hackclub/stardance/pull/259) on [`stardance`](https://github.com/hackclub/stardance) **(today)**
 - [**add visual studio marketplace verification**](https://github.com/hackclub/dns/pull/2971) on [`dns`](https://github.com/hackclub/dns) **(1 day ago)**
 - [**migrate unknown project alerts to config**](https://github.com/hackclub/vscode-hackatime/pull/9) on [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) **(1 day ago)**
-- [**Make VS Code docs use forked Hackatime extension**](https://github.com/hackclub/hackatime/pull/1385) on [`hackatime`](https://github.com/hackclub/hackatime) **(2 days ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript              5h 32m 54s   ███████████░░░░░░░░░░░░░░  40.55%
-Svelte                  3h 43m 47s   ███████░░░░░░░░░░░░░░░░░░  27.26%
-JSON                    1h 14m 30s   ███░░░░░░░░░░░░░░░░░░░░░░  9.07%
-Markdown                52m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.42%
-Shell                   34m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.25%
+TypeScript              5h 32m 54s   ██████████░░░░░░░░░░░░░░░  36.35%
+Svelte                  3h 43m 47s   ███████░░░░░░░░░░░░░░░░░░  24.44%
+JSON                    1h 24m 31s   ███░░░░░░░░░░░░░░░░░░░░░░  9.23%
+Shell                   1h 13m 22s   ███░░░░░░░░░░░░░░░░░░░░░░  8.01%
+Markdown                52m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.75%
 
 💼 Projects:
-drawr                   6h 14m 0s    ███████████████░░░░░░░░░░  59.23%
-vscode-hackatime-prod   2h 7m 44s    ██████░░░░░░░░░░░░░░░░░░░  20.23%
-vscode-hackatime        49m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.84%
-slack-asar              22m 43s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.60%
-otter                   17m 22s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.75%
+drawr                   6h 14m 0s    ██████████████░░░░░░░░░░░  55.14%
+vscode-hackatime-prod   2h 7m 44s    █████░░░░░░░░░░░░░░░░░░░░  18.83%
+slack-asar              1h 6m 19s    ███░░░░░░░░░░░░░░░░░░░░░░  9.78%
+vscode-hackatime        49m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.30%
+otter                   17m 22s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.56%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
