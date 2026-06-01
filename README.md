@@ -4,13 +4,13 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(today)**
-- [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(today)**
-- [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(today)**
-- [`hackatime-setup`](https://github.com/hackclub/hackatime-setup) - _The installer for Hackatime, the free coding time tracker from Hack Club._ **(1 day ago)**
-- [`drawr`](https://github.com/ImShyMike/drawr) - _Sketch together in real time_ **(2 days ago)**
-- [`canvas`](https://github.com/ImShyMike/canvas) - _a big real time canvas_ **(3 days ago)**
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(5 days ago)**
+- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(1 day ago)**
+- [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(1 day ago)**
+- [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(1 day ago)**
+- [`hackatime-setup`](https://github.com/hackclub/hackatime-setup) - _The installer for Hackatime, the free coding time tracker from Hack Club._ **(2 days ago)**
+- [`drawr`](https://github.com/ImShyMike/drawr) - _Sketch together in real time_ **(3 days ago)**
+- [`canvas`](https://github.com/ImShyMike/canvas) - _a big real time canvas_ **(4 days ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(6 days ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 week ago)**
 
 #### 📦 My most popular repos
@@ -23,9 +23,9 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**add visual studio marketplace verification**](https://github.com/hackclub/dns/pull/2971) on [`dns`](https://github.com/hackclub/dns) **(today)**
-- [**migrate unknown project alerts to config**](https://github.com/hackclub/vscode-hackatime/pull/9) on [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) **(today)**
-- [**Make VS Code docs use forked Hackatime extension**](https://github.com/hackclub/hackatime/pull/1385) on [`hackatime`](https://github.com/hackclub/hackatime) **(1 day ago)**
+- [**add visual studio marketplace verification**](https://github.com/hackclub/dns/pull/2971) on [`dns`](https://github.com/hackclub/dns) **(1 day ago)**
+- [**migrate unknown project alerts to config**](https://github.com/hackclub/vscode-hackatime/pull/9) on [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) **(1 day ago)**
+- [**Make VS Code docs use forked Hackatime extension**](https://github.com/hackclub/hackatime/pull/1385) on [`hackatime`](https://github.com/hackclub/hackatime) **(2 days ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
