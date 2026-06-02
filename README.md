@@ -4,14 +4,14 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`stardance`](https://github.com/hackclub/stardance) - _The largest high school STEM event of the summer!_ **(today)**
-- [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(today)**
-- [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(today)**
-- [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(1 day ago)**
-- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(1 day ago)**
-- [`hackatime-setup`](https://github.com/hackclub/hackatime-setup) - _The installer for Hackatime, the free coding time tracker from Hack Club._ **(2 days ago)**
-- [`drawr`](https://github.com/ImShyMike/drawr) - _Sketch together in real time_ **(3 days ago)**
-- [`canvas`](https://github.com/ImShyMike/canvas) - _a big real time canvas_ **(4 days ago)**
+- [`stardance`](https://github.com/hackclub/stardance) - _The largest high school STEM event of the summer!_ **(1 day ago)**
+- [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(1 day ago)**
+- [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(1 day ago)**
+- [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(2 days ago)**
+- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(2 days ago)**
+- [`hackatime-setup`](https://github.com/hackclub/hackatime-setup) - _The installer for Hackatime, the free coding time tracker from Hack Club._ **(3 days ago)**
+- [`drawr`](https://github.com/ImShyMike/drawr) - _Sketch together in real time_ **(4 days ago)**
+- [`canvas`](https://github.com/ImShyMike/canvas) - _a big real time canvas_ **(5 days ago)**
 
 #### 📦 My most popular repos
 
@@ -23,9 +23,9 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Re-add email autofill**](https://github.com/hackclub/stardance/pull/259) on [`stardance`](https://github.com/hackclub/stardance) **(today)**
-- [**add visual studio marketplace verification**](https://github.com/hackclub/dns/pull/2971) on [`dns`](https://github.com/hackclub/dns) **(1 day ago)**
-- [**migrate unknown project alerts to config**](https://github.com/hackclub/vscode-hackatime/pull/9) on [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) **(1 day ago)**
+- [**Re-add email autofill**](https://github.com/hackclub/stardance/pull/259) on [`stardance`](https://github.com/hackclub/stardance) **(1 day ago)**
+- [**add visual studio marketplace verification**](https://github.com/hackclub/dns/pull/2971) on [`dns`](https://github.com/hackclub/dns) **(2 days ago)**
+- [**migrate unknown project alerts to config**](https://github.com/hackclub/vscode-hackatime/pull/9) on [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) **(2 days ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
