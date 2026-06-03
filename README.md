@@ -4,14 +4,14 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(today)**
-- [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(1 day ago)**
-- [`stardance`](https://github.com/hackclub/stardance) - _The largest high school STEM event of the summer!_ **(1 day ago)**
-- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(2 days ago)**
-- [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(2 days ago)**
-- [`hackatime-setup`](https://github.com/hackclub/hackatime-setup) - _The installer for Hackatime, the free coding time tracker from Hack Club._ **(3 days ago)**
-- [`drawr`](https://github.com/ImShyMike/drawr) - _Sketch together in real time_ **(4 days ago)**
-- [`canvas`](https://github.com/ImShyMike/canvas) - _a big real time canvas_ **(5 days ago)**
+- [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(1 day ago)**
+- [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(2 days ago)**
+- [`stardance`](https://github.com/hackclub/stardance) - _The largest high school STEM event of the summer!_ **(2 days ago)**
+- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(3 days ago)**
+- [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(3 days ago)**
+- [`hackatime-setup`](https://github.com/hackclub/hackatime-setup) - _The installer for Hackatime, the free coding time tracker from Hack Club._ **(4 days ago)**
+- [`drawr`](https://github.com/ImShyMike/drawr) - _Sketch together in real time_ **(5 days ago)**
+- [`canvas`](https://github.com/ImShyMike/canvas) - _a big real time canvas_ **(6 days ago)**
 
 #### 📦 My most popular repos
 
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Re-add email autofill**](https://github.com/hackclub/stardance/pull/259) on [`stardance`](https://github.com/hackclub/stardance) **(1 day ago)**
-- [**add visual studio marketplace verification**](https://github.com/hackclub/dns/pull/2971) on [`dns`](https://github.com/hackclub/dns) **(2 days ago)**
-- [**migrate unknown project alerts to config**](https://github.com/hackclub/vscode-hackatime/pull/9) on [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) **(2 days ago)**
+- [**Add a very important member to the teams page**](https://github.com/hackclub/site/pull/2055) on [`site`](https://github.com/hackclub/site) **(today)**
+- [**Re-add email autofill**](https://github.com/hackclub/stardance/pull/259) on [`stardance`](https://github.com/hackclub/stardance) **(2 days ago)**
+- [**add visual studio marketplace verification**](https://github.com/hackclub/dns/pull/2971) on [`dns`](https://github.com/hackclub/dns) **(3 days ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript              3h 52m 15s   █████████░░░░░░░░░░░░░░░░  32.24%
-Shell                   1h 49m 33s   ████░░░░░░░░░░░░░░░░░░░░░  15.21%
-Svelte                  1h 32m 39s   ████░░░░░░░░░░░░░░░░░░░░░  12.86%
-JSON                    1h 20m 31s   ███░░░░░░░░░░░░░░░░░░░░░░  11.18%
-unknown                 1h 2m 8s     ███░░░░░░░░░░░░░░░░░░░░░░  8.62%
+TypeScript              3h 52m 15s   ████████░░░░░░░░░░░░░░░░░  30.95%
+JSON                    1h 51m 41s   ████░░░░░░░░░░░░░░░░░░░░░  14.88%
+Shell                   1h 49m 33s   ████░░░░░░░░░░░░░░░░░░░░░  14.60%
+Svelte                  1h 32m 39s   ████░░░░░░░░░░░░░░░░░░░░░  12.35%
+unknown                 1h 2m 8s     ███░░░░░░░░░░░░░░░░░░░░░░  8.28%
 
 💼 Projects:
-drawr                   2h 50m 52s   █████████░░░░░░░░░░░░░░░░  32.55%
-vscode-hackatime-prod   2h 14m 45s   ███████░░░░░░░░░░░░░░░░░░  25.67%
-slack-asar              2h 1m 50s    ██████░░░░░░░░░░░░░░░░░░░  23.21%
-vscode-hackatime        49m 32s      ███░░░░░░░░░░░░░░░░░░░░░░  9.44%
-canvas                  13m 48s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.63%
+drawr                   2h 50m 52s   ████████░░░░░░░░░░░░░░░░░  30.92%
+vscode-hackatime-prod   2h 14m 45s   ███████░░░░░░░░░░░░░░░░░░  24.38%
+slack-asar              2h 2m 57s    ██████░░░░░░░░░░░░░░░░░░░  22.25%
+vscode-hackatime        49m 32s      ███░░░░░░░░░░░░░░░░░░░░░░  8.96%
+site                    29m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.28%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
