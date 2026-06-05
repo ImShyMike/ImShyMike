@@ -4,14 +4,14 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(today)**
-- [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(2 days ago)**
-- [`stardance`](https://github.com/hackclub/stardance) - _The largest high school STEM event of the summer!_ **(3 days ago)**
-- [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(3 days ago)**
-- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(4 days ago)**
-- [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(4 days ago)**
-- [`hackatime-setup`](https://github.com/hackclub/hackatime-setup) - _The installer for Hackatime, the free coding time tracker from Hack Club._ **(5 days ago)**
-- [`drawr`](https://github.com/ImShyMike/drawr) - _Sketch together in real time_ **(6 days ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(1 day ago)**
+- [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(3 days ago)**
+- [`stardance`](https://github.com/hackclub/stardance) - _The largest high school STEM event of the summer!_ **(4 days ago)**
+- [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(4 days ago)**
+- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(5 days ago)**
+- [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(5 days ago)**
+- [`hackatime-setup`](https://github.com/hackclub/hackatime-setup) - _The installer for Hackatime, the free coding time tracker from Hack Club._ **(6 days ago)**
+- [`drawr`](https://github.com/ImShyMike/drawr) - _Sketch together in real time_ **(1 week ago)**
 
 #### 📦 My most popular repos
 
@@ -23,9 +23,9 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**batch heartbeat sending**](https://github.com/JeffreyWangDev/onshape-wakatime/pull/7) on [`onshape-wakatime`](https://github.com/JeffreyWangDev/onshape-wakatime) **(today)**
-- [**Add a very important member to the teams page**](https://github.com/hackclub/site/pull/2055) on [`site`](https://github.com/hackclub/site) **(1 day ago)**
-- [**Re-add email autofill**](https://github.com/hackclub/stardance/pull/259) on [`stardance`](https://github.com/hackclub/stardance) **(3 days ago)**
+- [**batch heartbeat sending**](https://github.com/JeffreyWangDev/onshape-wakatime/pull/7) on [`onshape-wakatime`](https://github.com/JeffreyWangDev/onshape-wakatime) **(1 day ago)**
+- [**Add a very important member to the teams page**](https://github.com/hackclub/site/pull/2055) on [`site`](https://github.com/hackclub/site) **(2 days ago)**
+- [**Re-add email autofill**](https://github.com/hackclub/stardance/pull/259) on [`stardance`](https://github.com/hackclub/stardance) **(4 days ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
