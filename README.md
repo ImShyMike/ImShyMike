@@ -4,12 +4,12 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(1 day ago)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(1 day ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 day ago)**
+- [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(1 day ago)**
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(5 days ago)**
-- [`stardance`](https://github.com/hackclub/stardance) - _The largest high school STEM event of the summer!_ **(1 week ago)**
 - [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(1 week ago)**
+- [`stardance`](https://github.com/hackclub/stardance) - _The largest high school STEM event of the summer!_ **(1 week ago)**
 - [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(1 week ago)**
 - [`hackatime-setup`](https://github.com/hackclub/hackatime-setup) - _The installer for Hackatime, the free coding time tracker from Hack Club._ **(1 week ago)**
 
