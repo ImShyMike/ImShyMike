@@ -4,10 +4,10 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(today)**
-- [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(today)**
-- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(1 day ago)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 day ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(1 day ago)**
+- [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(1 day ago)**
+- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(2 days ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(2 days ago)**
 - [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(1 week ago)**
 - [`stardance`](https://github.com/hackclub/stardance) - _The largest high school STEM event of the summer!_ **(1 week ago)**
 - [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(1 week ago)**
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Update the VS Code installer image**](https://github.com/hackclub/hackatime/pull/1422) on [`hackatime`](https://github.com/hackclub/hackatime) **(1 day ago)**
-- [**Use correct extension in VS Code setup**](https://github.com/hackclub/hackatime/pull/1421) on [`hackatime`](https://github.com/hackclub/hackatime) **(1 day ago)**
-- [**batch heartbeat sending**](https://github.com/JeffreyWangDev/onshape-wakatime/pull/7) on [`onshape-wakatime`](https://github.com/JeffreyWangDev/onshape-wakatime) **(5 days ago)**
+- [**Update the VS Code installer image**](https://github.com/hackclub/hackatime/pull/1422) on [`hackatime`](https://github.com/hackclub/hackatime) **(2 days ago)**
+- [**Use correct extension in VS Code setup**](https://github.com/hackclub/hackatime/pull/1421) on [`hackatime`](https://github.com/hackclub/hackatime) **(2 days ago)**
+- [**batch heartbeat sending**](https://github.com/JeffreyWangDev/onshape-wakatime/pull/7) on [`onshape-wakatime`](https://github.com/JeffreyWangDev/onshape-wakatime) **(6 days ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-JavaScript              3h 10m 57s   ██████░░░░░░░░░░░░░░░░░░░  20.43%
-JSON                    2h 10m 40s   ████░░░░░░░░░░░░░░░░░░░░░  13.98%
-Shell                   2h 9m 56s    ████░░░░░░░░░░░░░░░░░░░░░  13.90%
-Svelte                  1h 44m 25s   ███░░░░░░░░░░░░░░░░░░░░░░  11.17%
-TypeScript              1h 8m 36s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.34%
+JavaScript              3h 2m 50s    ██████░░░░░░░░░░░░░░░░░░░  21.89%
+JSON                    2h 8m 40s    ████░░░░░░░░░░░░░░░░░░░░░  15.40%
+Svelte                  1h 44m 25s   ████░░░░░░░░░░░░░░░░░░░░░  12.50%
+Shell                   1h 30m 16s   ███░░░░░░░░░░░░░░░░░░░░░░  10.81%
+Text                    1h 5m 13s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.81%
 
 💼 Projects:
-stack                   3h 16m 18s   ████████░░░░░░░░░░░░░░░░░  30.66%
-slack-asar              1h 54m 44s   █████░░░░░░░░░░░░░░░░░░░░  17.92%
-portfolio               1h 21m 37s   ████░░░░░░░░░░░░░░░░░░░░░  12.75%
-ysws-matcher            1h 20m 48s   ████░░░░░░░░░░░░░░░░░░░░░  12.62%
-vscode-hackatime-prod   56m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  8.80%
+stack                   3h 16m 18s   █████████░░░░░░░░░░░░░░░░  34.04%
+portfolio               1h 21m 37s   ████░░░░░░░░░░░░░░░░░░░░░  14.15%
+ysws-matcher            1h 20m 48s   ████░░░░░░░░░░░░░░░░░░░░░  14.01%
+slack-asar              58m 6s       ███░░░░░░░░░░░░░░░░░░░░░░  10.08%
+vscode-hackatime-prod   49m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  8.56%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
