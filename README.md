@@ -4,10 +4,10 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(1 day ago)**
-- [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(1 day ago)**
-- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(2 days ago)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(2 days ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(2 days ago)**
+- [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(2 days ago)**
+- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(3 days ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(3 days ago)**
 - [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(1 week ago)**
 - [`stardance`](https://github.com/hackclub/stardance) - _The largest high school STEM event of the summer!_ **(1 week ago)**
 - [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(1 week ago)**
@@ -23,9 +23,9 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Update the VS Code installer image**](https://github.com/hackclub/hackatime/pull/1422) on [`hackatime`](https://github.com/hackclub/hackatime) **(2 days ago)**
-- [**Use correct extension in VS Code setup**](https://github.com/hackclub/hackatime/pull/1421) on [`hackatime`](https://github.com/hackclub/hackatime) **(2 days ago)**
-- [**batch heartbeat sending**](https://github.com/JeffreyWangDev/onshape-wakatime/pull/7) on [`onshape-wakatime`](https://github.com/JeffreyWangDev/onshape-wakatime) **(6 days ago)**
+- [**Update the VS Code installer image**](https://github.com/hackclub/hackatime/pull/1422) on [`hackatime`](https://github.com/hackclub/hackatime) **(3 days ago)**
+- [**Use correct extension in VS Code setup**](https://github.com/hackclub/hackatime/pull/1421) on [`hackatime`](https://github.com/hackclub/hackatime) **(3 days ago)**
+- [**batch heartbeat sending**](https://github.com/JeffreyWangDev/onshape-wakatime/pull/7) on [`onshape-wakatime`](https://github.com/JeffreyWangDev/onshape-wakatime) **(1 week ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
