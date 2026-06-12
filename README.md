@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-JavaScript              2h 47m 15s   █████████░░░░░░░░░░░░░░░░  33.89%
-JSON                    47m 13s      ███░░░░░░░░░░░░░░░░░░░░░░  9.57%
-TypeScript              46m 30s      ███░░░░░░░░░░░░░░░░░░░░░░  9.42%
-Rust                    39m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.96%
-Markdown                38m 2s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.71%
+JavaScript              2h 49m 15s   █████████░░░░░░░░░░░░░░░░  33.88%
+JSON                    47m 13s      ███░░░░░░░░░░░░░░░░░░░░░░  9.45%
+TypeScript              46m 30s      ███░░░░░░░░░░░░░░░░░░░░░░  9.31%
+Markdown                40m 2s       ███░░░░░░░░░░░░░░░░░░░░░░  8.01%
+Rust                    39m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.86%
 
 💼 Projects:
-stack                   3h 16m 18s   ███████████████░░░░░░░░░░  58.47%
-vscode-hackatime-prod   49m 22s      ████░░░░░░░░░░░░░░░░░░░░░  14.70%
-otter                   31m 8s       ███░░░░░░░░░░░░░░░░░░░░░░  9.27%
-hackatime-heatmap       15m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.67%
-Workspace               12m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.57%
+stack                   3h 16m 18s   ███████████████░░░░░░░░░░  57.77%
+vscode-hackatime-prod   53m 25s      ████░░░░░░░░░░░░░░░░░░░░░  15.72%
+otter                   31m 8s       ███░░░░░░░░░░░░░░░░░░░░░░  9.16%
+hackatime-heatmap       15m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.61%
+Workspace               12m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.53%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
