@@ -8,8 +8,8 @@ A student who likes coding and gaming!
 - [`canvas`](https://github.com/ImShyMike/canvas) - _a big real time canvas_ **(1 day ago)**
 - [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(2 days ago)**
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(5 days ago)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(6 days ago)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(6 days ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(6 days ago)**
 - [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(1 week ago)**
 - [`stardance`](https://github.com/hackclub/stardance) - _The largest high school STEM event of the summer!_ **(1 week ago)**
 
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript              1h 1m 16s    █████░░░░░░░░░░░░░░░░░░░░  16.96%
-JSON                    53m 2s       ████░░░░░░░░░░░░░░░░░░░░░  14.68%
-Markdown                47m 54s      ████░░░░░░░░░░░░░░░░░░░░░  13.26%
-Rust                    39m 17s      ███░░░░░░░░░░░░░░░░░░░░░░  10.88%
-Python                  29m 15s      ███░░░░░░░░░░░░░░░░░░░░░░  8.10%
+JSON                    55m 38s      ████░░░░░░░░░░░░░░░░░░░░░  15.72%
+TypeScript              55m 16s      ████░░░░░░░░░░░░░░░░░░░░░  15.62%
+Markdown                47m 54s      ████░░░░░░░░░░░░░░░░░░░░░  13.54%
+Rust                    39m 17s      ███░░░░░░░░░░░░░░░░░░░░░░  11.10%
+Python                  29m 15s      ███░░░░░░░░░░░░░░░░░░░░░░  8.27%
 
 💼 Projects:
-vscode-hackatime-prod   1h 50m 52s   ████████████░░░░░░░░░░░░░  45.10%
-otter                   31m 8s       ████░░░░░░░░░░░░░░░░░░░░░  12.66%
-ysws-matcher            29m 33s      ████░░░░░░░░░░░░░░░░░░░░░  12.02%
-hackatime-heatmap       15m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.37%
-Workspace               12m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.88%
+vscode-hackatime-prod   1h 50m 52s   ████████████░░░░░░░░░░░░░  45.55%
+ysws-matcher            32m 9s       ████░░░░░░░░░░░░░░░░░░░░░  13.21%
+otter                   31m 8s       ████░░░░░░░░░░░░░░░░░░░░░  12.79%
+hackatime-heatmap       15m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.44%
+Workspace               12m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.93%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
