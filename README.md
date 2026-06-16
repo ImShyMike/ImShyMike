@@ -16,8 +16,8 @@ A student who likes coding and gaming!
 #### 📦 My most popular repos
 
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(34⭐)**
+- [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(30⭐)**
 - [`waka-relay`](https://github.com/ImShyMike/waka-relay) - _📊 A self-hosted app that relays WakaTime heartbeats to multiple instances_ **(30⭐)**
-- [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(29⭐)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(15⭐)**
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(11⭐)**
 
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-JSON                    59m 42s      █████░░░░░░░░░░░░░░░░░░░░  18.95%
-Markdown                45m 16s      ████░░░░░░░░░░░░░░░░░░░░░  14.37%
-Rust                    39m 52s      ████░░░░░░░░░░░░░░░░░░░░░  12.65%
-Python                  36m 33s      ███░░░░░░░░░░░░░░░░░░░░░░  11.60%
-YAML                    24m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.62%
+Rust                    1h 10m 51s   █████░░░░░░░░░░░░░░░░░░░░  19.36%
+JSON                    1h 1m 42s    █████░░░░░░░░░░░░░░░░░░░░  16.86%
+Markdown                45m 16s      ████░░░░░░░░░░░░░░░░░░░░░  12.37%
+Python                  36m 33s      ███░░░░░░░░░░░░░░░░░░░░░░  9.99%
+TypeScript              29m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.97%
 
 💼 Projects:
-vscode-hackatime-prod   1h 16m 45s   ██████████░░░░░░░░░░░░░░░  36.35%
-ysws-matcher            53m 25s      ███████░░░░░░░░░░░░░░░░░░  25.30%
-otter                   43m 0s       ██████░░░░░░░░░░░░░░░░░░░  20.36%
-hackatime-heatmap       15m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.42%
-canvas-mine             9m 1s        ██░░░░░░░░░░░░░░░░░░░░░░░  4.27%
+vscode-hackatime-prod   1h 16m 45s   ████████░░░░░░░░░░░░░░░░░  28.66%
+otter                   1h 5m 38s    ███████░░░░░░░░░░░░░░░░░░  24.51%
+ysws-matcher            53m 25s      █████░░░░░░░░░░░░░░░░░░░░  19.95%
+utoipa-ts               27m 40s      ███░░░░░░░░░░░░░░░░░░░░░░  10.33%
+hackatime-heatmap       15m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.85%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
