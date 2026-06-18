@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Rust                    4h 44m 22s   █████████░░░░░░░░░░░░░░░░  33.88%
-Markdown                2h 17m 49s   █████░░░░░░░░░░░░░░░░░░░░  16.42%
-TypeScript              2h 3m 50s    ████░░░░░░░░░░░░░░░░░░░░░  14.76%
-TOML                    1h 21m 39s   ███░░░░░░░░░░░░░░░░░░░░░░  9.73%
-JSON                    1h 3m 42s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.59%
+Rust                    4h 46m 22s   █████████░░░░░░░░░░░░░░░░  33.88%
+Markdown                2h 17m 49s   █████░░░░░░░░░░░░░░░░░░░░  16.30%
+TypeScript              2h 7m 50s    ████░░░░░░░░░░░░░░░░░░░░░  15.12%
+TOML                    1h 21m 39s   ███░░░░░░░░░░░░░░░░░░░░░░  9.66%
+JSON                    1h 3m 42s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.54%
 
 💼 Projects:
-utoipa-ts               6h 16m 11s   ████████████████░░░░░░░░░  60.90%
-otter                   1h 30m 35s   ████░░░░░░░░░░░░░░░░░░░░░  14.66%
-vscode-hackatime-prod   59m 30s      ███░░░░░░░░░░░░░░░░░░░░░░  9.63%
-ysws-matcher            53m 25s      ███░░░░░░░░░░░░░░░░░░░░░░  8.65%
-hackatime-heatmap       13m 23s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.17%
+utoipa-ts               6h 20m 31s   ████████████████░░░░░░░░░  61.17%
+otter                   1h 30m 35s   ████░░░░░░░░░░░░░░░░░░░░░  14.56%
+vscode-hackatime-prod   59m 30s      ███░░░░░░░░░░░░░░░░░░░░░░  9.56%
+ysws-matcher            53m 25s      ███░░░░░░░░░░░░░░░░░░░░░░  8.59%
+hackatime-heatmap       13m 23s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.15%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
