@@ -4,10 +4,10 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`utoipa-ts`](https://github.com/ImShyMike/utoipa-ts) - _Generate TypeScript API definitions from utoipa paths_ **(today)**
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(1 day ago)**
-- [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(6 days ago)**
-- [`canvas`](https://github.com/ImShyMike/canvas) - _a big real time canvas_ **(6 days ago)**
+- [`utoipa-ts`](https://github.com/ImShyMike/utoipa-ts) - _Generate TypeScript API definitions from utoipa paths_ **(1 day ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(2 days ago)**
+- [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(1 week ago)**
+- [`canvas`](https://github.com/ImShyMike/canvas) - _a big real time canvas_ **(1 week ago)**
 - [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(1 week ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 week ago)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(1 week ago)**
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Sync upstream changes**](https://github.com/hackclub/vscode-hackatime/pull/16) on [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) **(6 days ago)**
-- [**Sync upstream changes**](https://github.com/hackclub/vscode-hackatime/pull/15) on [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) **(6 days ago)**
-- [**Sync upstream changes**](https://github.com/hackclub/vscode-hackatime/pull/14) on [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) **(6 days ago)**
+- [**Sync upstream changes**](https://github.com/hackclub/vscode-hackatime/pull/16) on [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) **(1 week ago)**
+- [**Sync upstream changes**](https://github.com/hackclub/vscode-hackatime/pull/15) on [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) **(1 week ago)**
+- [**Sync upstream changes**](https://github.com/hackclub/vscode-hackatime/pull/14) on [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) **(1 week ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Rust                    4h 58m 17s   █████████░░░░░░░░░░░░░░░░  32.75%
-TypeScript              2h 32m 4s    █████░░░░░░░░░░░░░░░░░░░░  16.69%
-Markdown                2h 30m 8s    █████░░░░░░░░░░░░░░░░░░░░  16.48%
-TOML                    1h 23m 51s   ███░░░░░░░░░░░░░░░░░░░░░░  9.21%
-JSON                    1h 12m 48s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.99%
+Rust                    4h 44m 5s    █████████░░░░░░░░░░░░░░░░  34.85%
+TypeScript              2h 29m 43s   █████░░░░░░░░░░░░░░░░░░░░  18.37%
+Markdown                2h 7m 40s    ████░░░░░░░░░░░░░░░░░░░░░  15.66%
+TOML                    1h 17m 54s   ███░░░░░░░░░░░░░░░░░░░░░░  9.56%
+JSON                    55m 28s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.80%
 
 💼 Projects:
-utoipa-ts               6h 53m 40s   ████████████████░░░░░░░░░  62.93%
-otter                   1h 30m 35s   ████░░░░░░░░░░░░░░░░░░░░░  13.78%
-vscode-hackatime-prod   59m 30s      ███░░░░░░░░░░░░░░░░░░░░░░  9.05%
-ysws-matcher            53m 25s      ███░░░░░░░░░░░░░░░░░░░░░░  8.13%
-hackatime-heatmap       15m 23s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.34%
+utoipa-ts               6h 53m 40s   ██████████████████░░░░░░░  69.85%
+otter                   1h 30m 35s   ████░░░░░░░░░░░░░░░░░░░░░  15.30%
+ysws-matcher            53m 25s      ███░░░░░░░░░░░░░░░░░░░░░░  9.02%
+vscode-hackatime-prod   16m 6s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.72%
+rustytime               8m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.41%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
