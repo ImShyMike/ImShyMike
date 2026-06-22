@@ -4,14 +4,14 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`utoipa-ts`](https://github.com/ImShyMike/utoipa-ts) - _Generate TypeScript API definitions from utoipa paths_ **(2 days ago)**
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(3 days ago)**
-- [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(1 week ago)**
+- [`utoipa-ts`](https://github.com/ImShyMike/utoipa-ts) - _Generate TypeScript API definitions from utoipa paths_ **(3 days ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(4 days ago)**
 - [`canvas`](https://github.com/ImShyMike/canvas) - _a big real time canvas_ **(1 week ago)**
+- [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(1 week ago)**
 - [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(1 week ago)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 week ago)**
-- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(1 week ago)**
-- [`stardance`](https://github.com/hackclub/stardance) - _The largest high school STEM event of the summer!_ **(2 weeks ago)**
+- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(2 weeks ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(2 weeks ago)**
+- [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(3 weeks ago)**
 
 #### 📦 My most popular repos
 
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Rust           4h 44m 5s    ██████████░░░░░░░░░░░░░░░  37.39%
-TypeScript     2h 19m 17s   █████░░░░░░░░░░░░░░░░░░░░  18.33%
-Markdown       2h 0m 8s     ████░░░░░░░░░░░░░░░░░░░░░  15.81%
-TOML           1h 15m 54s   ███░░░░░░░░░░░░░░░░░░░░░░  9.99%
-JSON           46m 4s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.06%
+Rust           4h 44m 5s    ███████████░░░░░░░░░░░░░░  40.96%
+TypeScript     2h 17m 17s   █████░░░░░░░░░░░░░░░░░░░░  19.80%
+Markdown       2h 0m 8s     █████░░░░░░░░░░░░░░░░░░░░  17.32%
+TOML           1h 15m 54s   ███░░░░░░░░░░░░░░░░░░░░░░  10.94%
+YAML           21m 29s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.10%
 
 💼 Projects:
-utoipa-ts      6h 53m 40s   ███████████████████░░░░░░  72.98%
-otter          1h 30m 35s   ████░░░░░░░░░░░░░░░░░░░░░  15.98%
-ysws-matcher   53m 25s      ███░░░░░░░░░░░░░░░░░░░░░░  9.42%
-rustytime      8m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.48%
-stardance      42s          █░░░░░░░░░░░░░░░░░░░░░░░░  0.12%
+utoipa-ts      6h 53m 40s   ████████████████████░░░░░  77.95%
+otter          1h 30m 35s   █████░░░░░░░░░░░░░░░░░░░░  17.07%
+ysws-matcher   17m 14s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.25%
+rustytime      8m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.58%
+stardance      42s          █░░░░░░░░░░░░░░░░░░░░░░░░  0.13%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
