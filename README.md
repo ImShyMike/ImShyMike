@@ -30,17 +30,17 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Rust             4h 51m 57s   ███████████░░░░░░░░░░░░░░  41.72%
-TypeScript       2h 19m 17s   █████░░░░░░░░░░░░░░░░░░░░  19.90%
-Markdown         2h 2m 8s     █████░░░░░░░░░░░░░░░░░░░░  17.45%
-TOML             1h 17m 54s   ███░░░░░░░░░░░░░░░░░░░░░░  11.13%
-unknown          21m 21s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.05%
+Rust             4h 51m 57s   ███████████░░░░░░░░░░░░░░  41.46%
+TypeScript       2h 19m 17s   █████░░░░░░░░░░░░░░░░░░░░  19.78%
+Markdown         2h 2m 8s     █████░░░░░░░░░░░░░░░░░░░░  17.34%
+TOML             1h 17m 54s   ███░░░░░░░░░░░░░░░░░░░░░░  11.06%
+unknown          21m 21s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.03%
 
 💼 Projects:
-utoipa-ts        6h 53m 40s   ████████████████████░░░░░  77.80%
-otter            1h 39m 52s   █████░░░░░░░░░░░░░░░░░░░░  18.78%
+utoipa-ts        6h 53m 40s   ████████████████████░░░░░  77.44%
+otter            1h 39m 52s   █████░░░░░░░░░░░░░░░░░░░░  18.69%
+lastseen-slack   8m 28s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.58%
 rustytime        8m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.57%
-lastseen-slack   6m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.13%
 funny            1m 52s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.35%
 ```
 #### 💻 My coding activity
