@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Rust         4h 51m 57s   ███████████░░░░░░░░░░░░░░  42.20%
-TypeScript   2h 19m 17s   ██████░░░░░░░░░░░░░░░░░░░  20.13%
-Markdown     2h 2m 8s     █████░░░░░░░░░░░░░░░░░░░░  17.65%
-TOML         1h 15m 54s   ███░░░░░░░░░░░░░░░░░░░░░░  10.97%
-unknown      21m 21s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.09%
+Rust             4h 51m 57s   ███████████░░░░░░░░░░░░░░  41.72%
+TypeScript       2h 19m 17s   █████░░░░░░░░░░░░░░░░░░░░  19.90%
+Markdown         2h 2m 8s     █████░░░░░░░░░░░░░░░░░░░░  17.45%
+TOML             1h 17m 54s   ███░░░░░░░░░░░░░░░░░░░░░░  11.13%
+unknown          21m 21s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.05%
 
 💼 Projects:
-utoipa-ts    6h 53m 40s   ████████████████████░░░░░  78.68%
-otter        1h 39m 52s   █████░░░░░░░░░░░░░░░░░░░░  19.00%
-rustytime    8m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.59%
-funny        1m 52s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.36%
-.claude      1m 16s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.24%
+utoipa-ts        6h 53m 40s   ████████████████████░░░░░  77.80%
+otter            1h 39m 52s   █████░░░░░░░░░░░░░░░░░░░░  18.78%
+rustytime        8m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.57%
+lastseen-slack   6m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.13%
+funny            1m 52s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.35%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
