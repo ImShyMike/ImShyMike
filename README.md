@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Rust             4h 51m 57s   ██████████░░░░░░░░░░░░░░░  39.27%
-TypeScript       2h 36m 19s   ██████░░░░░░░░░░░░░░░░░░░  21.02%
-Markdown         2h 2m 8s     █████░░░░░░░░░░░░░░░░░░░░  16.43%
-TOML             1h 17m 54s   ███░░░░░░░░░░░░░░░░░░░░░░  10.48%
-unknown          27m 32s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.70%
+Rust             4h 51m 57s   ██████████░░░░░░░░░░░░░░░  37.32%
+TypeScript       2h 36m 45s   ██████░░░░░░░░░░░░░░░░░░░  20.04%
+Markdown         2h 2m 8s     ████░░░░░░░░░░░░░░░░░░░░░  15.61%
+TOML             1h 17m 54s   ███░░░░░░░░░░░░░░░░░░░░░░  9.96%
+Python           36m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.73%
 
 💼 Projects:
-utoipa-ts        6h 53m 40s   ███████████████████░░░░░░  74.03%
-otter            1h 39m 52s   █████░░░░░░░░░░░░░░░░░░░░  17.87%
-lastseen-slack   16m 49s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.01%
-palatine-hill    16m 12s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.90%
-rustytime        8m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.50%
+utoipa-ts        6h 53m 40s   ██████████████████░░░░░░░  70.74%
+otter            1h 39m 52s   █████░░░░░░░░░░░░░░░░░░░░  17.08%
+lastseen-slack   42m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.25%
+palatine-hill    16m 38s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.84%
+rustytime        8m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.43%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
