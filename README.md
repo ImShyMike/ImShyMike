@@ -4,9 +4,9 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`palatine-hill`](https://github.com/FoxMoss/palatine-hill) - _A HackClub YSWS_ **(today)**
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(1 day ago)**
-- [`utoipa-ts`](https://github.com/ImShyMike/utoipa-ts) - _Generate TypeScript API definitions from utoipa paths_ **(4 days ago)**
+- [`palatine-hill`](https://github.com/FoxMoss/palatine-hill) - _A HackClub YSWS_ **(1 day ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(2 days ago)**
+- [`utoipa-ts`](https://github.com/ImShyMike/utoipa-ts) - _Generate TypeScript API definitions from utoipa paths_ **(5 days ago)**
 - [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(1 week ago)**
 - [`canvas`](https://github.com/ImShyMike/canvas) - _a big real time canvas_ **(1 week ago)**
 - [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(1 week ago)**
@@ -23,24 +23,24 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Improve homepage prize display**](https://github.com/FoxMoss/palatine-hill/pull/1) on [`palatine-hill`](https://github.com/FoxMoss/palatine-hill) **(today)**
+- [**Improve homepage prize display**](https://github.com/FoxMoss/palatine-hill/pull/1) on [`palatine-hill`](https://github.com/FoxMoss/palatine-hill) **(1 day ago)**
 - [**Sync upstream changes**](https://github.com/hackclub/vscode-hackatime/pull/16) on [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) **(1 week ago)**
 - [**Sync upstream changes**](https://github.com/hackclub/vscode-hackatime/pull/15) on [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) **(1 week ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Rust             3h 57m 16s   █████████░░░░░░░░░░░░░░░░  33.66%
-TypeScript       2h 24m 45s   ██████░░░░░░░░░░░░░░░░░░░  20.53%
-Markdown         2h 2m 8s     █████░░░░░░░░░░░░░░░░░░░░  17.33%
-TOML             1h 10m 8s    ███░░░░░░░░░░░░░░░░░░░░░░  9.95%
-Python           39m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.60%
+Rust             3h 57m 16s   █████████░░░░░░░░░░░░░░░░  33.58%
+TypeScript       2h 24m 45s   ██████░░░░░░░░░░░░░░░░░░░  20.48%
+Markdown         2h 2m 8s     █████░░░░░░░░░░░░░░░░░░░░  17.28%
+TOML             1h 10m 8s    ███░░░░░░░░░░░░░░░░░░░░░░  9.92%
+Python           41m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.84%
 
 💼 Projects:
-utoipa-ts        6h 13m 25s   ███████████████████░░░░░░  74.02%
-otter            1h 3m 0s     ████░░░░░░░░░░░░░░░░░░░░░  12.49%
-lastseen-slack   47m 34s      ███░░░░░░░░░░░░░░░░░░░░░░  9.43%
-palatine-hill    16m 38s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.30%
+utoipa-ts        6h 13m 25s   ███████████████████░░░░░░  73.77%
+otter            1h 3m 0s     ████░░░░░░░░░░░░░░░░░░░░░  12.45%
+lastseen-slack   49m 20s      ███░░░░░░░░░░░░░░░░░░░░░░  9.75%
+palatine-hill    16m 38s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.29%
 funny            1m 52s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.37%
 ```
 #### 💻 My coding activity
