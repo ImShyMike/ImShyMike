@@ -30,18 +30,17 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python                  1h 59m 28s   ██████████████░░░░░░░░░░░  53.78%
-unknown                 23m 35s      ███░░░░░░░░░░░░░░░░░░░░░░  10.62%
-TypeScript              21m 28s      ███░░░░░░░░░░░░░░░░░░░░░░  9.66%
-Shell                   16m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.65%
-YAML                    16m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.49%
+Python                  1h 55m 37s   ██████████████░░░░░░░░░░░  54.95%
+unknown                 23m 35s      ███░░░░░░░░░░░░░░░░░░░░░░  11.21%
+TypeScript              19m 28s      ███░░░░░░░░░░░░░░░░░░░░░░  9.25%
+Shell                   16m 59s      ███░░░░░░░░░░░░░░░░░░░░░░  8.07%
+YAML                    16m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.91%
 
 💼 Projects:
-lastseen-slack          2h 9m 10s    ████████████████████░░░░░  79.14%
-palatine-hill           16m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  10.19%
-otter                   7m 17s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.46%
-vscode-hackatime-prod   4m 11s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.56%
-dns-snitch              4m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.50%
+lastseen-slack          2h 9m 10s    █████████████████████░░░░  83.84%
+palatine-hill           16m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  10.80%
+vscode-hackatime-prod   4m 11s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.72%
+dns-snitch              4m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.65%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
