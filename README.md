@@ -30,16 +30,12 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Python                  1h 16m 13s   █████████████████░░░░░░░░  67.47%
-unknown                 10m 41s      ███░░░░░░░░░░░░░░░░░░░░░░  9.46%
-Shell                   8m 1s        ██░░░░░░░░░░░░░░░░░░░░░░░  7.10%
-YAML                    6m 1s        ██░░░░░░░░░░░░░░░░░░░░░░░  5.33%
-TOML                    4m 4s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.60%
+Python       2m 5s   █████████████░░░░░░░░░░░░  50.61%
+unknown      2m 0s   █████████████░░░░░░░░░░░░  48.58%
+TOML         2s      █░░░░░░░░░░░░░░░░░░░░░░░░  0.81%
 
 💼 Projects:
-lastseen-slack          1h 17m 50s   ███████████████████████░░  90.40%
-vscode-hackatime-prod   4m 11s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.86%
-dns-snitch              4m 5s        ██░░░░░░░░░░░░░░░░░░░░░░░  4.74%
+dns-snitch   4m 5s   █████████████████████████  100.00%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
