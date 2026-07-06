@@ -30,15 +30,15 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript            2h 3m 28s    ███████████████░░░░░░░░░░  57.31%
-Rust                  1h 9m 50s    █████████░░░░░░░░░░░░░░░░  32.42%
-Shell                 8m 8s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.78%
-JSON                  5m 49s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.70%
-unknown               4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.86%
+TypeScript            2h 13m 10s   ███████████████░░░░░░░░░░  58.12%
+Rust                  1h 9m 50s    ████████░░░░░░░░░░░░░░░░░  30.48%
+Shell                 10m 8s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.42%
+unknown               6m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.62%
+JSON                  5m 49s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.54%
 
 💼 Projects:
-channel-ping-bot      2h 8m 44s    █████████████████░░░░░░░░  64.18%
-clickhouse-autotune   1h 11m 50s   █████████░░░░░░░░░░░░░░░░  35.82%
+channel-ping-bot      2h 20m 27s   █████████████████░░░░░░░░  66.16%
+clickhouse-autotune   1h 11m 50s   █████████░░░░░░░░░░░░░░░░  33.84%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
