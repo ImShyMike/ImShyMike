@@ -5,7 +5,7 @@ A student who likes coding and gaming!
 #### 🏗️ What I've been working on
 
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 week ago)**
-- [`palatine-hill`](https://github.com/FoxMoss/palatine-hill) - _A HackClub YSWS_ **(1 week ago)**
+- [`palatine-hill`](https://github.com/FoxMoss/palatine-hill) - _A HackClub YSWS_ **(2 weeks ago)**
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(2 weeks ago)**
 - [`utoipa-ts`](https://github.com/ImShyMike/utoipa-ts) - _Generate TypeScript API definitions from utoipa paths_ **(2 weeks ago)**
 - [`canvas`](https://github.com/ImShyMike/canvas) - _a big real time canvas_ **(3 weeks ago)**
@@ -19,26 +19,26 @@ A student who likes coding and gaming!
 - [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(30⭐)**
 - [`waka-relay`](https://github.com/ImShyMike/waka-relay) - _📊 A self-hosted app that relays WakaTime heartbeats to multiple instances_ **(29⭐)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(16⭐)**
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(11⭐)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(12⭐)**
 
 #### 🔨 My recent pull requests
 
-- [**Improve homepage prize display**](https://github.com/FoxMoss/palatine-hill/pull/1) on [`palatine-hill`](https://github.com/FoxMoss/palatine-hill) **(1 week ago)**
+- [**Improve homepage prize display**](https://github.com/FoxMoss/palatine-hill/pull/1) on [`palatine-hill`](https://github.com/FoxMoss/palatine-hill) **(2 weeks ago)**
 - [**Sync upstream changes**](https://github.com/hackclub/vscode-hackatime/pull/16) on [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) **(3 weeks ago)**
 - [**Sync upstream changes**](https://github.com/hackclub/vscode-hackatime/pull/15) on [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) **(3 weeks ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript            2h 13m 10s   ███████████████░░░░░░░░░░  58.12%
-Rust                  1h 9m 50s    ████████░░░░░░░░░░░░░░░░░  30.48%
-Shell                 10m 8s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.42%
-unknown               6m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.62%
-JSON                  5m 49s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.54%
+TypeScript            2h 30m 8s    ████████████████░░░░░░░░░  60.02%
+Rust                  1h 9m 50s    ███████░░░░░░░░░░░░░░░░░░  27.92%
+Shell                 10m 8s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.05%
+YAML                  6m 3s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.42%
+unknown               6m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.40%
 
 💼 Projects:
-channel-ping-bot      2h 20m 27s   █████████████████░░░░░░░░  66.16%
-clickhouse-autotune   1h 11m 50s   █████████░░░░░░░░░░░░░░░░  33.84%
+channel-ping-bot      2h 39m 30s   ██████████████████░░░░░░░  68.95%
+clickhouse-autotune   1h 11m 50s   ████████░░░░░░░░░░░░░░░░░  31.05%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
