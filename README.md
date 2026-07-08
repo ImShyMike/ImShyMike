@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript            4h 34m 42s   ██████████████░░░░░░░░░░░  52.65%
-Rust                  1h 18m 36s   ████░░░░░░░░░░░░░░░░░░░░░  15.06%
-Shell                 32m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.28%
-unknown               29m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.69%
-Python                23m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.49%
+TypeScript            4h 34m 42s   █████████████░░░░░░░░░░░░  51.72%
+Rust                  1h 18m 36s   ████░░░░░░░░░░░░░░░░░░░░░  14.80%
+unknown               35m 1s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.59%
+Shell                 32m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.17%
+Python                27m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.17%
 
 💼 Projects:
-channel-ping-bot      4h 48m 37s   ██████████████████░░░░░░░  68.05%
-clickhouse-autotune   1h 11m 50s   █████░░░░░░░░░░░░░░░░░░░░  16.94%
-otter                 41m 26s      ███░░░░░░░░░░░░░░░░░░░░░░  9.77%
-github-tg             22m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.23%
-airbridge             4s           █░░░░░░░░░░░░░░░░░░░░░░░░  0.02%
+channel-ping-bot      4h 48m 37s   █████████████████░░░░░░░░  67.20%
+clickhouse-autotune   1h 11m 50s   █████░░░░░░░░░░░░░░░░░░░░  16.73%
+otter                 41m 26s      ███░░░░░░░░░░░░░░░░░░░░░░  9.65%
+github-tg             22m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.17%
+dns-snitch            5m 20s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.24%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
