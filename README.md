@@ -11,7 +11,7 @@ A student who likes coding and gaming!
 - [`canvas`](https://github.com/ImShyMike/canvas) - _a big real time canvas_ **(3 weeks ago)**
 - [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(3 weeks ago)**
 - [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(3 weeks ago)**
-- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(4 weeks ago)**
+- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(1 month ago)**
 
 #### 📦 My most popular repos
 
@@ -23,23 +23,23 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Lookup auth tokens using airtable instead of v0.1**](https://github.com/hackclub/airbridge/pull/166) on [`airbridge`](https://github.com/hackclub/airbridge) **(today)**
+- [**Lookup auth tokens using airtable instead of v0.1**](https://github.com/hackclub/airbridge/pull/166) on [`airbridge`](https://github.com/hackclub/airbridge) **(1 day ago)**
 - [**Improve homepage prize display**](https://github.com/FoxMoss/palatine-hill/pull/1) on [`palatine-hill`](https://github.com/FoxMoss/palatine-hill) **(2 weeks ago)**
 - [**Sync upstream changes**](https://github.com/hackclub/vscode-hackatime/pull/16) on [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) **(3 weeks ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript            4h 27m 29s   ███████████████░░░░░░░░░░  57.07%
-Rust                  1h 16m 26s   █████░░░░░░░░░░░░░░░░░░░░  16.31%
-Python                23m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.00%
-Shell                 22m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.89%
-unknown               17m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.64%
+TypeScript            4h 27m 29s   ███████████████░░░░░░░░░░  56.81%
+Rust                  1h 18m 36s   █████░░░░░░░░░░░░░░░░░░░░  16.69%
+Python                23m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.98%
+Shell                 22m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.86%
+unknown               17m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.63%
 
 💼 Projects:
-channel-ping-bot      4h 48m 37s   ███████████████████░░░░░░  72.20%
-clickhouse-autotune   1h 11m 50s   █████░░░░░░░░░░░░░░░░░░░░  17.97%
-otter                 39m 15s      ███░░░░░░░░░░░░░░░░░░░░░░  9.82%
+channel-ping-bot      4h 48m 37s   ██████████████████░░░░░░░  71.80%
+clickhouse-autotune   1h 11m 50s   █████░░░░░░░░░░░░░░░░░░░░  17.87%
+otter                 41m 26s      ███░░░░░░░░░░░░░░░░░░░░░░  10.31%
 airbridge             4s           █░░░░░░░░░░░░░░░░░░░░░░░░  0.02%
 ```
 #### 💻 My coding activity
