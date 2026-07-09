@@ -9,8 +9,8 @@ A student who likes coding and gaming!
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 week ago)**
 - [`palatine-hill`](https://github.com/FoxMoss/palatine-hill) - _A HackClub YSWS_ **(2 weeks ago)**
 - [`utoipa-ts`](https://github.com/ImShyMike/utoipa-ts) - _Generate TypeScript API definitions from utoipa paths_ **(2 weeks ago)**
-- [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(3 weeks ago)**
 - [`canvas`](https://github.com/ImShyMike/canvas) - _a big real time canvas_ **(3 weeks ago)**
+- [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(3 weeks ago)**
 - [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(3 weeks ago)**
 
 #### 📦 My most popular repos
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript            8h 22m 46s   ██████████████░░░░░░░░░░░  55.81%
-JSON                  1h 25m 41s   ███░░░░░░░░░░░░░░░░░░░░░░  9.51%
-Rust                  1h 18m 36s   ███░░░░░░░░░░░░░░░░░░░░░░  8.72%
-unknown               1h 2m 8s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.90%
-Shell                 47m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.32%
+TypeScript            8h 32m 47s   ██████████████░░░░░░░░░░░  55.85%
+JSON                  1h 25m 41s   ███░░░░░░░░░░░░░░░░░░░░░░  9.33%
+Rust                  1h 18m 36s   ███░░░░░░░░░░░░░░░░░░░░░░  8.56%
+unknown               1h 2m 8s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.77%
+Shell                 47m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.22%
 
 💼 Projects:
-channel-ping-bot      4h 48m 37s   ███████████░░░░░░░░░░░░░░  41.95%
-slack-selfbot         4h 16m 28s   ██████████░░░░░░░░░░░░░░░  37.28%
-clickhouse-autotune   1h 11m 50s   ███░░░░░░░░░░░░░░░░░░░░░░  10.44%
-otter                 43m 26s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.31%
-github-tg             22m 11s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.22%
+channel-ping-bot      4h 48m 37s   ███████████░░░░░░░░░░░░░░  41.04%
+slack-selfbot         4h 26m 29s   ██████████░░░░░░░░░░░░░░░  37.89%
+clickhouse-autotune   1h 11m 50s   ███░░░░░░░░░░░░░░░░░░░░░░  10.21%
+otter                 48m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.93%
+github-tg             22m 11s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.15%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
