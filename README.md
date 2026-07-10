@@ -4,14 +4,14 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(today)**
 - [`slack-selfbot`](https://github.com/ImShyMike/slack-selfbot) - _silly selfbot with commands_ **(today)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(1 day ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 week ago)**
 - [`palatine-hill`](https://github.com/FoxMoss/palatine-hill) - _A HackClub YSWS_ **(2 weeks ago)**
-- [`utoipa-ts`](https://github.com/ImShyMike/utoipa-ts) - _Generate TypeScript API definitions from utoipa paths_ **(2 weeks ago)**
-- [`canvas`](https://github.com/ImShyMike/canvas) - _a big real time canvas_ **(3 weeks ago)**
+- [`utoipa-ts`](https://github.com/ImShyMike/utoipa-ts) - _Generate TypeScript API definitions from utoipa paths_ **(3 weeks ago)**
 - [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(3 weeks ago)**
-- [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(3 weeks ago)**
+- [`canvas`](https://github.com/ImShyMike/canvas) - _a big real time canvas_ **(3 weeks ago)**
+- [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(4 weeks ago)**
 
 #### 📦 My most popular repos
 
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Lookup auth tokens using airtable instead of v0.1**](https://github.com/hackclub/airbridge/pull/166) on [`airbridge`](https://github.com/hackclub/airbridge) **(2 days ago)**
+- [**Lookup auth tokens using airtable instead of v0.1**](https://github.com/hackclub/airbridge/pull/166) on [`airbridge`](https://github.com/hackclub/airbridge) **(3 days ago)**
 - [**Improve homepage prize display**](https://github.com/FoxMoss/palatine-hill/pull/1) on [`palatine-hill`](https://github.com/FoxMoss/palatine-hill) **(2 weeks ago)**
 - [**Sync upstream changes**](https://github.com/hackclub/vscode-hackatime/pull/16) on [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) **(3 weeks ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript            8h 32m 47s   ██████████████░░░░░░░░░░░  55.85%
-JSON                  1h 25m 41s   ███░░░░░░░░░░░░░░░░░░░░░░  9.33%
-Rust                  1h 18m 36s   ███░░░░░░░░░░░░░░░░░░░░░░  8.56%
-unknown               1h 2m 8s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.77%
-Shell                 47m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.22%
+TypeScript            8h 49m 37s   ██████████████░░░░░░░░░░░  55.30%
+JSON                  1h 36m 22s   ███░░░░░░░░░░░░░░░░░░░░░░  10.06%
+Rust                  1h 18m 36s   ███░░░░░░░░░░░░░░░░░░░░░░  8.21%
+unknown               1h 2m 8s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.49%
+Markdown              51m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.36%
 
 💼 Projects:
-channel-ping-bot      4h 48m 37s   ███████████░░░░░░░░░░░░░░  41.04%
-slack-selfbot         4h 26m 29s   ██████████░░░░░░░░░░░░░░░  37.89%
-clickhouse-autotune   1h 11m 50s   ███░░░░░░░░░░░░░░░░░░░░░░  10.21%
-otter                 48m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.93%
-github-tg             22m 11s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.15%
+channel-ping-bot      4h 48m 37s   ██████████░░░░░░░░░░░░░░░  39.69%
+slack-selfbot         4h 44m 3s    ██████████░░░░░░░░░░░░░░░  39.06%
+clickhouse-autotune   1h 11m 50s   ███░░░░░░░░░░░░░░░░░░░░░░  9.88%
+otter                 48m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.70%
+github-tg             22m 11s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.05%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
