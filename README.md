@@ -10,8 +10,8 @@ A student who likes coding and gaming!
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 week ago)**
 - [`palatine-hill`](https://github.com/FoxMoss/palatine-hill) - _A HackClub YSWS_ **(2 weeks ago)**
 - [`utoipa-ts`](https://github.com/ImShyMike/utoipa-ts) - _Generate TypeScript API definitions from utoipa paths_ **(3 weeks ago)**
-- [`canvas`](https://github.com/ImShyMike/canvas) - _a big real time canvas_ **(4 weeks ago)**
 - [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(4 weeks ago)**
+- [`canvas`](https://github.com/ImShyMike/canvas) - _a big real time canvas_ **(4 weeks ago)**
 
 #### 📦 My most popular repos
 
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript            15h 8m 48s   ███████████████░░░░░░░░░░  59.53%
-JSON                  3h 0m 17s    ███░░░░░░░░░░░░░░░░░░░░░░  11.81%
-unknown               1h 38m 16s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.44%
-Rust                  1h 23m 6s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.44%
-Shell                 1h 10m 7s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.59%
+TypeScript             15h 8m 48s   ████████████████░░░░░░░░░  61.90%
+JSON                   3h 0m 17s    ████░░░░░░░░░░░░░░░░░░░░░  12.28%
+unknown                1h 36m 16s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.56%
+Shell                  1h 10m 7s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.78%
+Markdown               1h 1m 20s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.18%
 
 💼 Projects:
-slack-selfbot         10h 34m 3s   ██████████████░░░░░░░░░░░  53.15%
-channel-ping-bot      4h 52m 37s   ███████░░░░░░░░░░░░░░░░░░  24.53%
-clickhouse-autotune   1h 11m 50s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.02%
-ysws-matcher          56m 4s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.70%
-otter                 53m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.46%
+slack-selfbot          10h 34m 3s   ██████████████░░░░░░░░░░░  55.89%
+channel-ping-bot       4h 52m 37s   ███████░░░░░░░░░░░░░░░░░░  25.79%
+ysws-matcher           56m 4s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.94%
+otter                  53m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.69%
+slack-ws-interceptor   28m 32s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.51%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
