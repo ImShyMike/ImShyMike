@@ -4,12 +4,12 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
+- [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(today)**
 - [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(4 days ago)**
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(5 days ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(2 weeks ago)**
 - [`palatine-hill`](https://github.com/FoxMoss/palatine-hill) - _A HackClub YSWS_ **(3 weeks ago)**
 - [`utoipa-ts`](https://github.com/ImShyMike/utoipa-ts) - _Generate TypeScript API definitions from utoipa paths_ **(3 weeks ago)**
-- [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(1 month ago)**
 - [`canvas`](https://github.com/ImShyMike/canvas) - _a big real time canvas_ **(1 month ago)**
 - [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(1 month ago)**
 
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript             13h 41m 20s   ███████████████░░░░░░░░░░  59.34%
-JSON                   3h 19m 38s    ████░░░░░░░░░░░░░░░░░░░░░  14.42%
-unknown                1h 32m 16s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.67%
-Shell                  1h 2m 0s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.48%
-Markdown               59m 10s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.27%
+TypeScript              14h 32m 45s   ███████████████░░░░░░░░░░  59.56%
+JSON                    3h 27m 44s    ████░░░░░░░░░░░░░░░░░░░░░  14.18%
+unknown                 1h 38m 16s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.71%
+Markdown                1h 8m 52s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.70%
+Shell                   1h 6m 3s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.51%
 
 💼 Projects:
-slack-selfbot          11h 9m 16s    ████████████████░░░░░░░░░  62.61%
-channel-ping-bot       2h 30m 10s    ████░░░░░░░░░░░░░░░░░░░░░  14.05%
-ysws-matcher           1h 39m 58s    ███░░░░░░░░░░░░░░░░░░░░░░  9.35%
-otter                  55m 15s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.17%
-slack-ws-interceptor   28m 32s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.67%
+slack-selfbot           11h 32m 28s   ████████████████░░░░░░░░░  61.48%
+channel-ping-bot        2h 30m 10s    ████░░░░░░░░░░░░░░░░░░░░░  13.33%
+ysws-matcher            1h 39m 58s    ███░░░░░░░░░░░░░░░░░░░░░░  8.88%
+otter                   55m 15s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.91%
+vscode-hackatime-prod   33m 56s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.01%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
