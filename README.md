@@ -23,9 +23,9 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
+- [**Sync upstream changes**](https://github.com/hackclub/vscode-hackatime/pull/20) on [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) **(today)**
 - [**Lookup auth tokens using airtable instead of v0.1**](https://github.com/hackclub/airbridge/pull/166) on [`airbridge`](https://github.com/hackclub/airbridge) **(1 week ago)**
 - [**Improve homepage prize display**](https://github.com/FoxMoss/palatine-hill/pull/1) on [`palatine-hill`](https://github.com/FoxMoss/palatine-hill) **(3 weeks ago)**
-- [**Sync upstream changes**](https://github.com/hackclub/vscode-hackatime/pull/16) on [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) **(1 month ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
