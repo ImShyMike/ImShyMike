@@ -4,9 +4,9 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(1 day ago)**
-- [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(5 days ago)**
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(6 days ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(today)**
+- [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(2 days ago)**
+- [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(6 days ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(2 weeks ago)**
 - [`palatine-hill`](https://github.com/FoxMoss/palatine-hill) - _A HackClub YSWS_ **(3 weeks ago)**
 - [`utoipa-ts`](https://github.com/ImShyMike/utoipa-ts) - _Generate TypeScript API definitions from utoipa paths_ **(3 weeks ago)**
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Sync upstream changes**](https://github.com/hackclub/vscode-hackatime/pull/20) on [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) **(today)**
+- [**Sync upstream changes**](https://github.com/hackclub/vscode-hackatime/pull/20) on [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) **(1 day ago)**
 - [**Lookup auth tokens using airtable instead of v0.1**](https://github.com/hackclub/airbridge/pull/166) on [`airbridge`](https://github.com/hackclub/airbridge) **(1 week ago)**
 - [**Improve homepage prize display**](https://github.com/FoxMoss/palatine-hill/pull/1) on [`palatine-hill`](https://github.com/FoxMoss/palatine-hill) **(3 weeks ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript              12h 24m 45s   ███████████████░░░░░░░░░░  59.14%
-JSON                    3h 9m 38s     ████░░░░░░░░░░░░░░░░░░░░░  15.06%
-Markdown                1h 10m 56s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.63%
-unknown                 1h 8m 42s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.46%
-Svelte                  57m 46s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.59%
+TypeScript              12h 32m 37s   ███████████████░░░░░░░░░░  58.69%
+JSON                    3h 9m 38s     ████░░░░░░░░░░░░░░░░░░░░░  14.79%
+Markdown                1h 10m 56s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.53%
+unknown                 1h 8m 42s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.36%
+Svelte                  57m 46s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.50%
 
 💼 Projects:
-slack-selfbot           11h 34m 40s   ██████████████████░░░░░░░  70.04%
-ysws-matcher            1h 39m 58s    ███░░░░░░░░░░░░░░░░░░░░░░  10.08%
-otter                   1h 2m 46s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.33%
-vscode-hackatime-prod   41m 22s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.17%
-joe                     30m 51s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.11%
+slack-selfbot           11h 34m 40s   ██████████████████░░░░░░░  68.46%
+ysws-matcher            1h 39m 58s    ███░░░░░░░░░░░░░░░░░░░░░░  9.85%
+otter                   1h 17m 49s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.67%
+vscode-hackatime-prod   41m 22s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.08%
+joe                     31m 11s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.07%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
