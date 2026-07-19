@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript              3h 16m 28s   ████████░░░░░░░░░░░░░░░░░  30.11%
-Rust                    1h 33m 5s    ████░░░░░░░░░░░░░░░░░░░░░  14.27%
-Python                  1h 31m 7s    ████░░░░░░░░░░░░░░░░░░░░░  13.96%
-JSON                    1h 12m 31s   ███░░░░░░░░░░░░░░░░░░░░░░  11.11%
-Svelte                  56m 51s      ███░░░░░░░░░░░░░░░░░░░░░░  8.71%
+TypeScript          3h 16m 28s   ████████░░░░░░░░░░░░░░░░░  28.37%
+Rust                2h 9m 9s     █████░░░░░░░░░░░░░░░░░░░░  18.65%
+Python              1h 31m 7s    ████░░░░░░░░░░░░░░░░░░░░░  13.16%
+JSON                1h 14m 31s   ███░░░░░░░░░░░░░░░░░░░░░░  10.76%
+Svelte              56m 51s      ███░░░░░░░░░░░░░░░░░░░░░░  8.21%
 
 💼 Projects:
-slack-selfbot           1h 53m 28s   ██████░░░░░░░░░░░░░░░░░░░  22.29%
-appointment-check       1h 38m 45s   █████░░░░░░░░░░░░░░░░░░░░  19.40%
-ysws-matcher            1h 22m 42s   █████░░░░░░░░░░░░░░░░░░░░  16.25%
-otter                   1h 8m 51s    ████░░░░░░░░░░░░░░░░░░░░░  13.53%
-vscode-hackatime-prod   43m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  8.52%
+slack-selfbot       1h 53m 28s   ██████░░░░░░░░░░░░░░░░░░░  20.82%
+appointment-check   1h 38m 45s   █████░░░░░░░░░░░░░░░░░░░░  18.12%
+ysws-matcher        1h 22m 42s   ████░░░░░░░░░░░░░░░░░░░░░  15.17%
+otter               1h 8m 51s    ████░░░░░░░░░░░░░░░░░░░░░  12.63%
+tinspirereveng      48m 11s      ███░░░░░░░░░░░░░░░░░░░░░░  8.84%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
