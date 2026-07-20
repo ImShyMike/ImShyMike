@@ -4,11 +4,11 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`slack-selfbot`](https://github.com/ImShyMike/slack-selfbot) - _silly selfbot with commands_ **(2 days ago)**
-- [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(2 days ago)**
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(3 days ago)**
+- [`slack-selfbot`](https://github.com/ImShyMike/slack-selfbot) - _silly selfbot with commands_ **(3 days ago)**
+- [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(3 days ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(4 days ago)**
 - [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(1 week ago)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(2 weeks ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(3 weeks ago)**
 - [`palatine-hill`](https://github.com/FoxMoss/palatine-hill) - _A HackClub YSWS_ **(3 weeks ago)**
 - [`utoipa-ts`](https://github.com/ImShyMike/utoipa-ts) - _Generate TypeScript API definitions from utoipa paths_ **(1 month ago)**
 - [`canvas`](https://github.com/ImShyMike/canvas) - _a big real time canvas_ **(1 month ago)**
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Sync upstream changes**](https://github.com/hackclub/vscode-hackatime/pull/20) on [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) **(4 days ago)**
+- [**Sync upstream changes**](https://github.com/hackclub/vscode-hackatime/pull/20) on [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) **(5 days ago)**
 - [**Lookup auth tokens using airtable instead of v0.1**](https://github.com/hackclub/airbridge/pull/166) on [`airbridge`](https://github.com/hackclub/airbridge) **(1 week ago)**
 - [**Improve homepage prize display**](https://github.com/FoxMoss/palatine-hill/pull/1) on [`palatine-hill`](https://github.com/FoxMoss/palatine-hill) **(3 weeks ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Rust                    3h 28m 20s   ███████░░░░░░░░░░░░░░░░░░  27.31%
-TypeScript              3h 12m 19s   ███████░░░░░░░░░░░░░░░░░░  25.21%
-Python                  1h 47m 22s   ████░░░░░░░░░░░░░░░░░░░░░  14.08%
-Svelte                  52m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.85%
-JSON                    45m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.95%
+Rust                    4h 24m 52s   █████████░░░░░░░░░░░░░░░░  32.33%
+TypeScript              3h 12m 19s   ██████░░░░░░░░░░░░░░░░░░░  23.47%
+Python                  1h 47m 22s   ████░░░░░░░░░░░░░░░░░░░░░  13.10%
+Svelte                  52m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.37%
+JSON                    45m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.54%
 
 💼 Projects:
-tinspirereveng          2h 24m 36s   ███████░░░░░░░░░░░░░░░░░░  24.12%
-slack-selfbot           1h 53m 28s   █████░░░░░░░░░░░░░░░░░░░░  18.93%
-appointment-check       1h 38m 45s   █████░░░░░░░░░░░░░░░░░░░░  16.48%
-otter                   1h 8m 51s    ███░░░░░░░░░░░░░░░░░░░░░░  11.49%
-vscode-hackatime-prod   43m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.24%
+tinspirereveng          3h 21m 8s    ████████░░░░░░░░░░░░░░░░░  30.66%
+slack-selfbot           1h 53m 28s   █████░░░░░░░░░░░░░░░░░░░░  17.30%
+appointment-check       1h 38m 45s   ████░░░░░░░░░░░░░░░░░░░░░  15.06%
+otter                   1h 8m 51s    ███░░░░░░░░░░░░░░░░░░░░░░  10.50%
+vscode-hackatime-prod   43m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.61%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
