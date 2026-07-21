@@ -30,11 +30,11 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Rust                7h 52m 14s   ████████████░░░░░░░░░░░░░  47.44%
-TypeScript          3h 14m 17s   █████░░░░░░░░░░░░░░░░░░░░  19.52%
-Python              1h 49m 22s   ███░░░░░░░░░░░░░░░░░░░░░░  10.99%
-unknown             45m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.56%
-Markdown            36m 6s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.63%
+Rust                7h 52m 14s   ████████████░░░░░░░░░░░░░  47.35%
+TypeScript          3h 14m 17s   █████░░░░░░░░░░░░░░░░░░░░  19.48%
+Python              1h 49m 22s   ███░░░░░░░░░░░░░░░░░░░░░░  10.97%
+unknown             47m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.75%
+Markdown            36m 6s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.62%
 
 💼 Projects:
 tinspirereveng      6h 51m 19s   █████████████░░░░░░░░░░░░  49.53%
