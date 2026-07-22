@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Rust                7h 56m 59s   ██████████████░░░░░░░░░░░  53.34%
-Python              1h 49m 22s   ████░░░░░░░░░░░░░░░░░░░░░  12.23%
-TypeScript          1h 36m 47s   ███░░░░░░░░░░░░░░░░░░░░░░  10.82%
-unknown             44m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.01%
-Svelte              34m 36s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.87%
+Rust                8h 14m 59s   ██████████████░░░░░░░░░░░  54.26%
+Python              1h 49m 22s   ███░░░░░░░░░░░░░░░░░░░░░░  11.99%
+TypeScript          1h 36m 47s   ███░░░░░░░░░░░░░░░░░░░░░░  10.61%
+unknown             44m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.91%
+Svelte              34m 36s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.79%
 
 💼 Projects:
-tinspirereveng      6h 51m 19s   ██████████████░░░░░░░░░░░  55.67%
-appointment-check   1h 38m 45s   ████░░░░░░░░░░░░░░░░░░░░░  13.36%
-otter               1h 10m 56s   ███░░░░░░░░░░░░░░░░░░░░░░  9.60%
-slack-selfbot       53m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.18%
-joe                 42m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.69%
+tinspirereveng      6h 51m 19s   ██████████████░░░░░░░░░░░  54.34%
+appointment-check   1h 38m 45s   ████░░░░░░░░░░░░░░░░░░░░░  13.05%
+otter               1h 10m 56s   ███░░░░░░░░░░░░░░░░░░░░░░  9.37%
+slack-selfbot       53m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.01%
+joe                 42m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.56%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
