@@ -4,8 +4,8 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(today)**
 - [`slack-selfbot`](https://github.com/ImShyMike/slack-selfbot) - _silly selfbot with commands_ **(1 day ago)**
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(1 day ago)**
 - [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(1 week ago)**
 - [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(2 weeks ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(3 weeks ago)**
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Rust              7h 57m 3s    ████████████████░░░░░░░░░  62.97%
-TypeScript        53m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.08%
-Markdown          44m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.82%
-JavaScript        38m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.05%
-Shell             33m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.48%
+Rust              8h 1m 3s     ████████████████░░░░░░░░░  63.00%
+TypeScript        53m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.03%
+Markdown          44m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.78%
+JavaScript        38m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.01%
+Shell             33m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.44%
 
 💼 Projects:
-tinspirereveng    6h 51m 19s   ████████████████░░░░░░░░░  63.45%
-otter             1h 8m 33s    ███░░░░░░░░░░░░░░░░░░░░░░  10.58%
-arker             47m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.26%
-slack-selfbot     39m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.13%
-tuned-rpi-image   35m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.43%
+tinspirereveng    6h 51m 19s   ████████████████░░░░░░░░░  63.06%
+otter             1h 12m 35s   ███░░░░░░░░░░░░░░░░░░░░░░  11.13%
+arker             47m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.21%
+slack-selfbot     39m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.09%
+tuned-rpi-image   35m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.40%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
