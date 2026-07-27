@@ -4,11 +4,11 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(today)**
-- [`slack-selfbot`](https://github.com/ImShyMike/slack-selfbot) - _silly selfbot with commands_ **(1 day ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(1 day ago)**
+- [`slack-selfbot`](https://github.com/ImShyMike/slack-selfbot) - _silly selfbot with commands_ **(2 days ago)**
 - [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(1 week ago)**
 - [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(2 weeks ago)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(3 weeks ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(4 weeks ago)**
 - [`palatine-hill`](https://github.com/FoxMoss/palatine-hill) - _A HackClub YSWS_ **(1 month ago)**
 - [`utoipa-ts`](https://github.com/ImShyMike/utoipa-ts) - _Generate TypeScript API definitions from utoipa paths_ **(1 month ago)**
 - [`canvas`](https://github.com/ImShyMike/canvas) - _a big real time canvas_ **(1 month ago)**
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Rust              5h 51m 41s   ████████████████░░░░░░░░░  61.08%
-TypeScript        53m 39s      ███░░░░░░░░░░░░░░░░░░░░░░  9.32%
-Markdown          38m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.62%
-Shell             33m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.89%
-JavaScript        29m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.09%
+Rust              5h 51m 41s   ███████████████░░░░░░░░░░  58.13%
+TypeScript        1h 18m 43s   ████░░░░░░░░░░░░░░░░░░░░░  13.01%
+Markdown          40m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.65%
+Shell             35m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.94%
+JavaScript        29m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.85%
 
 💼 Projects:
-tinspirereveng    4h 24m 44s   ██████████████░░░░░░░░░░░  53.02%
-otter             1h 12m 35s   ████░░░░░░░░░░░░░░░░░░░░░  14.54%
-arker             47m 3s       ███░░░░░░░░░░░░░░░░░░░░░░  9.42%
-slack-selfbot     39m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.96%
-tuned-rpi-image   35m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.05%
+tinspirereveng    4h 24m 44s   █████████████░░░░░░░░░░░░  50.29%
+otter             1h 12m 35s   ████░░░░░░░░░░░░░░░░░░░░░  13.79%
+arker             47m 3s       ███░░░░░░░░░░░░░░░░░░░░░░  8.94%
+slack-selfbot     39m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.55%
+tuned-rpi-image   37m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.09%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
