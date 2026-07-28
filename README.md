@@ -4,8 +4,8 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(1 day ago)**
-- [`slack-selfbot`](https://github.com/ImShyMike/slack-selfbot) - _silly selfbot with commands_ **(2 days ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(2 days ago)**
+- [`slack-selfbot`](https://github.com/ImShyMike/slack-selfbot) - _silly selfbot with commands_ **(3 days ago)**
 - [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(1 week ago)**
 - [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(2 weeks ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(4 weeks ago)**
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**oh so queerious**](https://github.com/hackclub/hackatime/pull/1490) on [`hackatime`](https://github.com/hackclub/hackatime) **(today)**
+- [**oh so queerious**](https://github.com/hackclub/hackatime/pull/1490) on [`hackatime`](https://github.com/hackclub/hackatime) **(1 day ago)**
 - [**Sync upstream changes**](https://github.com/hackclub/vscode-hackatime/pull/20) on [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) **(1 week ago)**
-- [**Lookup auth tokens using airtable instead of v0.1**](https://github.com/hackclub/airbridge/pull/166) on [`airbridge`](https://github.com/hackclub/airbridge) **(2 weeks ago)**
+- [**Lookup auth tokens using airtable instead of v0.1**](https://github.com/hackclub/airbridge/pull/166) on [`airbridge`](https://github.com/hackclub/airbridge) **(3 weeks ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Rust              2h 3m 17s    ███████░░░░░░░░░░░░░░░░░░  25.90%
-TypeScript        1h 12m 55s   ████░░░░░░░░░░░░░░░░░░░░░  15.32%
-Markdown          1h 2m 21s    ████░░░░░░░░░░░░░░░░░░░░░  13.10%
-Ruby              55m 53s      ███░░░░░░░░░░░░░░░░░░░░░░  11.74%
-YAML              41m 33s      ███░░░░░░░░░░░░░░░░░░░░░░  8.73%
+Rust              2h 3m 17s    ███████░░░░░░░░░░░░░░░░░░  25.80%
+TypeScript        1h 12m 55s   ████░░░░░░░░░░░░░░░░░░░░░  15.26%
+Markdown          1h 2m 21s    ████░░░░░░░░░░░░░░░░░░░░░  13.05%
+Ruby              55m 53s      ███░░░░░░░░░░░░░░░░░░░░░░  11.69%
+YAML              43m 33s      ███░░░░░░░░░░░░░░░░░░░░░░  9.11%
 
 💼 Projects:
-otter             1h 12m 35s   █████░░░░░░░░░░░░░░░░░░░░  19.53%
-hackatime         1h 11m 43s   █████░░░░░░░░░░░░░░░░░░░░  19.30%
-tuned-rpi-image   47m 49s      ████░░░░░░░░░░░░░░░░░░░░░  12.87%
-arker             47m 3s       ████░░░░░░░░░░░░░░░░░░░░░  12.66%
-slack-selfbot     39m 44s      ███░░░░░░░░░░░░░░░░░░░░░░  10.69%
+hackatime         1h 13m 43s   █████░░░░░░░░░░░░░░░░░░░░  19.73%
+otter             1h 12m 35s   █████░░░░░░░░░░░░░░░░░░░░  19.43%
+tuned-rpi-image   47m 49s      ████░░░░░░░░░░░░░░░░░░░░░  12.80%
+arker             47m 3s       ████░░░░░░░░░░░░░░░░░░░░░  12.59%
+slack-selfbot     39m 44s      ███░░░░░░░░░░░░░░░░░░░░░░  10.64%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
