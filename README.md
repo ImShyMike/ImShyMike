@@ -4,11 +4,11 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(today)**
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(2 days ago)**
 - [`slack-selfbot`](https://github.com/ImShyMike/slack-selfbot) - _silly selfbot with commands_ **(3 days ago)**
 - [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(1 week ago)**
 - [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(2 weeks ago)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(4 weeks ago)**
 - [`palatine-hill`](https://github.com/FoxMoss/palatine-hill) - _A HackClub YSWS_ **(1 month ago)**
 - [`utoipa-ts`](https://github.com/ImShyMike/utoipa-ts) - _Generate TypeScript API definitions from utoipa paths_ **(1 month ago)**
 - [`canvas`](https://github.com/ImShyMike/canvas) - _a big real time canvas_ **(1 month ago)**
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Rust              2h 3m 17s    ███████░░░░░░░░░░░░░░░░░░  25.80%
-TypeScript        1h 12m 55s   ████░░░░░░░░░░░░░░░░░░░░░  15.26%
-Markdown          1h 2m 21s    ████░░░░░░░░░░░░░░░░░░░░░  13.05%
-Ruby              55m 53s      ███░░░░░░░░░░░░░░░░░░░░░░  11.69%
-YAML              43m 33s      ███░░░░░░░░░░░░░░░░░░░░░░  9.11%
+Rust              2h 3m 17s    ███████░░░░░░░░░░░░░░░░░░  25.54%
+TypeScript        1h 14m 55s   ████░░░░░░░░░░░░░░░░░░░░░  15.52%
+Markdown          1h 5m 6s     ████░░░░░░░░░░░░░░░░░░░░░  13.49%
+Ruby              55m 53s      ███░░░░░░░░░░░░░░░░░░░░░░  11.58%
+YAML              43m 33s      ███░░░░░░░░░░░░░░░░░░░░░░  9.02%
 
 💼 Projects:
-hackatime         1h 13m 43s   █████░░░░░░░░░░░░░░░░░░░░  19.73%
-otter             1h 12m 35s   █████░░░░░░░░░░░░░░░░░░░░  19.43%
-tuned-rpi-image   47m 49s      ████░░░░░░░░░░░░░░░░░░░░░  12.80%
-arker             47m 3s       ████░░░░░░░░░░░░░░░░░░░░░  12.59%
-slack-selfbot     39m 44s      ███░░░░░░░░░░░░░░░░░░░░░░  10.64%
+hackatime         1h 13m 43s   █████░░░░░░░░░░░░░░░░░░░░  19.69%
+otter             1h 12m 35s   █████░░░░░░░░░░░░░░░░░░░░  19.39%
+tuned-rpi-image   47m 49s      ████░░░░░░░░░░░░░░░░░░░░░  12.77%
+arker             47m 3s       ████░░░░░░░░░░░░░░░░░░░░░  12.57%
+slack-selfbot     39m 44s      ███░░░░░░░░░░░░░░░░░░░░░░  10.61%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
