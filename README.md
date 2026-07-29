@@ -4,9 +4,9 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(today)**
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(2 days ago)**
-- [`slack-selfbot`](https://github.com/ImShyMike/slack-selfbot) - _silly selfbot with commands_ **(3 days ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 day ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(3 days ago)**
+- [`slack-selfbot`](https://github.com/ImShyMike/slack-selfbot) - _silly selfbot with commands_ **(4 days ago)**
 - [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(1 week ago)**
 - [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(2 weeks ago)**
 - [`palatine-hill`](https://github.com/FoxMoss/palatine-hill) - _A HackClub YSWS_ **(1 month ago)**
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**oh so queerious**](https://github.com/hackclub/hackatime/pull/1490) on [`hackatime`](https://github.com/hackclub/hackatime) **(1 day ago)**
-- [**Sync upstream changes**](https://github.com/hackclub/vscode-hackatime/pull/20) on [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) **(1 week ago)**
+- [**oh so queerious**](https://github.com/hackclub/hackatime/pull/1490) on [`hackatime`](https://github.com/hackclub/hackatime) **(2 days ago)**
+- [**Sync upstream changes**](https://github.com/hackclub/vscode-hackatime/pull/20) on [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) **(2 weeks ago)**
 - [**Lookup auth tokens using airtable instead of v0.1**](https://github.com/hackclub/airbridge/pull/166) on [`airbridge`](https://github.com/hackclub/airbridge) **(3 weeks ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Rust              1h 25m 47s   █████░░░░░░░░░░░░░░░░░░░░  19.54%
-TypeScript        1h 14m 55s   █████░░░░░░░░░░░░░░░░░░░░  17.06%
-Markdown          1h 5m 6s     ████░░░░░░░░░░░░░░░░░░░░░  14.83%
-Ruby              55m 53s      ████░░░░░░░░░░░░░░░░░░░░░  12.73%
-YAML              43m 33s      ███░░░░░░░░░░░░░░░░░░░░░░  9.92%
+Rust              1h 25m 47s   █████░░░░░░░░░░░░░░░░░░░░  19.44%
+TypeScript        1h 17m 6s    █████░░░░░░░░░░░░░░░░░░░░  17.47%
+Markdown          1h 5m 6s     ████░░░░░░░░░░░░░░░░░░░░░  14.75%
+Ruby              55m 53s      ████░░░░░░░░░░░░░░░░░░░░░  12.66%
+YAML              43m 33s      ███░░░░░░░░░░░░░░░░░░░░░░  9.87%
 
 💼 Projects:
-hackatime         1h 13m 43s   ██████░░░░░░░░░░░░░░░░░░░  22.02%
-otter             1h 8m 30s    ██████░░░░░░░░░░░░░░░░░░░  20.46%
-tuned-rpi-image   47m 49s      ████░░░░░░░░░░░░░░░░░░░░░  14.28%
-arker             47m 3s       ████░░░░░░░░░░░░░░░░░░░░░  14.06%
-slack-selfbot     39m 44s      ███░░░░░░░░░░░░░░░░░░░░░░  11.87%
+hackatime         1h 13m 43s   ██████░░░░░░░░░░░░░░░░░░░  21.88%
+otter             1h 8m 30s    ██████░░░░░░░░░░░░░░░░░░░  20.33%
+tuned-rpi-image   47m 49s      ████░░░░░░░░░░░░░░░░░░░░░  14.19%
+arker             47m 3s       ████░░░░░░░░░░░░░░░░░░░░░  13.96%
+slack-selfbot     39m 44s      ███░░░░░░░░░░░░░░░░░░░░░░  11.79%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
