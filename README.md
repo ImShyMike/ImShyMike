@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
+- [**Add missing fields to admin heartbeat endpoint**](https://github.com/hackclub/hackatime/pull/1496) on [`hackatime`](https://github.com/hackclub/hackatime) **(today)**
 - [**oh so queerious**](https://github.com/hackclub/hackatime/pull/1490) on [`hackatime`](https://github.com/hackclub/hackatime) **(2 days ago)**
 - [**Sync upstream changes**](https://github.com/hackclub/vscode-hackatime/pull/20) on [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) **(2 weeks ago)**
-- [**Lookup auth tokens using airtable instead of v0.1**](https://github.com/hackclub/airbridge/pull/166) on [`airbridge`](https://github.com/hackclub/airbridge) **(3 weeks ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Rust              1h 25m 47s   █████░░░░░░░░░░░░░░░░░░░░  19.17%
-TypeScript        1h 19m 17s   █████░░░░░░░░░░░░░░░░░░░░  17.72%
-Markdown          1h 7m 10s    ████░░░░░░░░░░░░░░░░░░░░░  15.01%
-Ruby              55m 53s      ████░░░░░░░░░░░░░░░░░░░░░  12.49%
-YAML              43m 33s      ███░░░░░░░░░░░░░░░░░░░░░░  9.73%
+Rust              1h 25m 47s   █████░░░░░░░░░░░░░░░░░░░░  18.25%
+TypeScript        1h 19m 17s   █████░░░░░░░░░░░░░░░░░░░░  16.87%
+Markdown          1h 9m 10s    ████░░░░░░░░░░░░░░░░░░░░░  14.71%
+Ruby              1h 8m 25s    ████░░░░░░░░░░░░░░░░░░░░░  14.55%
+YAML              45m 33s      ███░░░░░░░░░░░░░░░░░░░░░░  9.69%
 
 💼 Projects:
-hackatime         1h 13m 43s   ██████░░░░░░░░░░░░░░░░░░░  21.49%
-otter             1h 8m 30s    █████░░░░░░░░░░░░░░░░░░░░  19.97%
-tuned-rpi-image   51m 39s      ████░░░░░░░░░░░░░░░░░░░░░  15.06%
-arker             47m 3s       ████░░░░░░░░░░░░░░░░░░░░░  13.72%
-slack-selfbot     39m 44s      ███░░░░░░░░░░░░░░░░░░░░░░  11.59%
+hackatime         1h 27m 50s   ███████░░░░░░░░░░░░░░░░░░  24.19%
+otter             1h 8m 30s    █████░░░░░░░░░░░░░░░░░░░░  18.87%
+tuned-rpi-image   53m 39s      ████░░░░░░░░░░░░░░░░░░░░░  14.78%
+arker             47m 3s       ████░░░░░░░░░░░░░░░░░░░░░  12.96%
+slack-selfbot     39m 44s      ███░░░░░░░░░░░░░░░░░░░░░░  10.94%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
