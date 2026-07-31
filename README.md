@@ -4,12 +4,12 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(today)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(2 days ago)**
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(4 days ago)**
-- [`slack-selfbot`](https://github.com/ImShyMike/slack-selfbot) - _silly selfbot with commands_ **(5 days ago)**
-- [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(1 week ago)**
-- [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(2 weeks ago)**
+- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(1 day ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(3 days ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(5 days ago)**
+- [`slack-selfbot`](https://github.com/ImShyMike/slack-selfbot) - _silly selfbot with commands_ **(6 days ago)**
+- [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(2 weeks ago)**
+- [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(3 weeks ago)**
 - [`palatine-hill`](https://github.com/FoxMoss/palatine-hill) - _A HackClub YSWS_ **(1 month ago)**
 - [`utoipa-ts`](https://github.com/ImShyMike/utoipa-ts) - _Generate TypeScript API definitions from utoipa paths_ **(1 month ago)**
 
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Add missing fields to admin heartbeat endpoint**](https://github.com/hackclub/hackatime/pull/1496) on [`hackatime`](https://github.com/hackclub/hackatime) **(1 day ago)**
-- [**oh so queerious**](https://github.com/hackclub/hackatime/pull/1490) on [`hackatime`](https://github.com/hackclub/hackatime) **(3 days ago)**
+- [**Add missing fields to admin heartbeat endpoint**](https://github.com/hackclub/hackatime/pull/1496) on [`hackatime`](https://github.com/hackclub/hackatime) **(2 days ago)**
+- [**oh so queerious**](https://github.com/hackclub/hackatime/pull/1490) on [`hackatime`](https://github.com/hackclub/hackatime) **(4 days ago)**
 - [**Sync upstream changes**](https://github.com/hackclub/vscode-hackatime/pull/20) on [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) **(2 weeks ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Markdown           1h 11m 6s    █████░░░░░░░░░░░░░░░░░░░░  17.72%
-Ruby               1h 8m 25s    █████░░░░░░░░░░░░░░░░░░░░  17.06%
-Rust               56m 56s      ████░░░░░░░░░░░░░░░░░░░░░  14.19%
-TypeScript         56m 8s       ████░░░░░░░░░░░░░░░░░░░░░  13.99%
-Shell              38m 23s      ███░░░░░░░░░░░░░░░░░░░░░░  9.57%
+Markdown          1h 11m 6s    █████░░░░░░░░░░░░░░░░░░░░  17.55%
+Ruby              1h 8m 25s    █████░░░░░░░░░░░░░░░░░░░░  16.89%
+Rust              1h 0m 56s    ████░░░░░░░░░░░░░░░░░░░░░  15.04%
+TypeScript        56m 8s       ████░░░░░░░░░░░░░░░░░░░░░  13.86%
+Shell             38m 23s      ███░░░░░░░░░░░░░░░░░░░░░░  9.47%
 
 💼 Projects:
-hackatime          1h 27m 50s   ███████░░░░░░░░░░░░░░░░░░  27.21%
-otter              1h 8m 30s    ██████░░░░░░░░░░░░░░░░░░░  21.22%
-tuned-rpi-image    53m 39s      █████░░░░░░░░░░░░░░░░░░░░  16.62%
-joe                37m 18s      ███░░░░░░░░░░░░░░░░░░░░░░  11.55%
-zillow-sillyness   27m 59s      ███░░░░░░░░░░░░░░░░░░░░░░  8.67%
+hackatime         1h 27m 50s   ███████░░░░░░░░░░░░░░░░░░  26.87%
+otter             1h 8m 30s    ██████░░░░░░░░░░░░░░░░░░░  20.96%
+tuned-rpi-image   53m 39s      █████░░░░░░░░░░░░░░░░░░░░  16.41%
+joe               37m 18s      ███░░░░░░░░░░░░░░░░░░░░░░  11.41%
+hackatime-sync    30m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  9.47%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
