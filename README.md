@@ -30,11 +30,11 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Markdown          1h 37m 58s   ██████░░░░░░░░░░░░░░░░░░░  23.24%
-Ruby              1h 8m 25s    █████░░░░░░░░░░░░░░░░░░░░  16.23%
-TypeScript        1h 3m 4s     ████░░░░░░░░░░░░░░░░░░░░░  14.96%
-Rust              43m 40s      ███░░░░░░░░░░░░░░░░░░░░░░  10.36%
-Shell             34m 21s      ███░░░░░░░░░░░░░░░░░░░░░░  8.15%
+Markdown          1h 39m 58s   ██████░░░░░░░░░░░░░░░░░░░  23.60%
+Ruby              1h 8m 25s    █████░░░░░░░░░░░░░░░░░░░░  16.15%
+TypeScript        1h 3m 4s     ████░░░░░░░░░░░░░░░░░░░░░  14.89%
+Rust              43m 40s      ███░░░░░░░░░░░░░░░░░░░░░░  10.31%
+Shell             34m 21s      ███░░░░░░░░░░░░░░░░░░░░░░  8.11%
 
 💼 Projects:
 hackatime         1h 27m 50s   ███████░░░░░░░░░░░░░░░░░░  26.23%
