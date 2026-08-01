@@ -4,10 +4,10 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(1 day ago)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(3 days ago)**
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(5 days ago)**
-- [`slack-selfbot`](https://github.com/ImShyMike/slack-selfbot) - _silly selfbot with commands_ **(6 days ago)**
+- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(2 days ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(4 days ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(6 days ago)**
+- [`slack-selfbot`](https://github.com/ImShyMike/slack-selfbot) - _silly selfbot with commands_ **(1 week ago)**
 - [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(2 weeks ago)**
 - [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(3 weeks ago)**
 - [`palatine-hill`](https://github.com/FoxMoss/palatine-hill) - _A HackClub YSWS_ **(1 month ago)**
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Add missing fields to admin heartbeat endpoint**](https://github.com/hackclub/hackatime/pull/1496) on [`hackatime`](https://github.com/hackclub/hackatime) **(2 days ago)**
-- [**oh so queerious**](https://github.com/hackclub/hackatime/pull/1490) on [`hackatime`](https://github.com/hackclub/hackatime) **(4 days ago)**
+- [**Add missing fields to admin heartbeat endpoint**](https://github.com/hackclub/hackatime/pull/1496) on [`hackatime`](https://github.com/hackclub/hackatime) **(3 days ago)**
+- [**oh so queerious**](https://github.com/hackclub/hackatime/pull/1490) on [`hackatime`](https://github.com/hackclub/hackatime) **(5 days ago)**
 - [**Sync upstream changes**](https://github.com/hackclub/vscode-hackatime/pull/20) on [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) **(2 weeks ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Markdown          1h 37m 58s   ██████░░░░░░░░░░░░░░░░░░░  23.46%
-Ruby              1h 8m 25s    █████░░░░░░░░░░░░░░░░░░░░  16.39%
-TypeScript        59m 0s       ████░░░░░░░░░░░░░░░░░░░░░  14.13%
-Rust              43m 40s      ███░░░░░░░░░░░░░░░░░░░░░░  10.46%
-Shell             34m 21s      ███░░░░░░░░░░░░░░░░░░░░░░  8.23%
+Markdown          1h 37m 58s   ██████░░░░░░░░░░░░░░░░░░░  23.24%
+Ruby              1h 8m 25s    █████░░░░░░░░░░░░░░░░░░░░  16.23%
+TypeScript        1h 3m 4s     ████░░░░░░░░░░░░░░░░░░░░░  14.96%
+Rust              43m 40s      ███░░░░░░░░░░░░░░░░░░░░░░  10.36%
+Shell             34m 21s      ███░░░░░░░░░░░░░░░░░░░░░░  8.15%
 
 💼 Projects:
-hackatime         1h 27m 50s   ███████░░░░░░░░░░░░░░░░░░  26.55%
-tuned-rpi-image   51m 11s      ████░░░░░░░░░░░░░░░░░░░░░  15.47%
-joe               42m 12s      ████░░░░░░░░░░░░░░░░░░░░░  12.76%
-hackatime-sync    40m 29s      ████░░░░░░░░░░░░░░░░░░░░░  12.24%
-otter             37m 10s      ███░░░░░░░░░░░░░░░░░░░░░░  11.24%
+hackatime         1h 27m 50s   ███████░░░░░░░░░░░░░░░░░░  26.23%
+tuned-rpi-image   51m 11s      ████░░░░░░░░░░░░░░░░░░░░░  15.28%
+joe               46m 16s      ████░░░░░░░░░░░░░░░░░░░░░  13.82%
+hackatime-sync    40m 29s      ████░░░░░░░░░░░░░░░░░░░░░  12.09%
+otter             37m 10s      ███░░░░░░░░░░░░░░░░░░░░░░  11.10%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
