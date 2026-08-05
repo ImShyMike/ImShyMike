@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Markdown           1h 28m 7s   ██████████░░░░░░░░░░░░░░░  37.96%
-Python             42m 25s     █████░░░░░░░░░░░░░░░░░░░░  18.28%
-TypeScript         19m 35s     ███░░░░░░░░░░░░░░░░░░░░░░  8.44%
-JSON               18m 24s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.93%
-unknown            16m 5s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.93%
+Markdown           1h 28m 7s   ██████████░░░░░░░░░░░░░░░  36.67%
+Python             42m 25s     █████░░░░░░░░░░░░░░░░░░░░  17.65%
+TypeScript         27m 2s      ███░░░░░░░░░░░░░░░░░░░░░░  11.25%
+JSON               18m 24s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.66%
+unknown            16m 5s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.69%
 
 💼 Projects:
-pt_novo            40m 42s     █████░░░░░░░░░░░░░░░░░░░░  19.74%
-hackatime-sync     40m 29s     █████░░░░░░░░░░░░░░░░░░░░  19.63%
-josh               34m 20s     █████░░░░░░░░░░░░░░░░░░░░  16.65%
-zillow-sillyness   27m 59s     ████░░░░░░░░░░░░░░░░░░░░░  13.57%
-joe                17m 44s     ███░░░░░░░░░░░░░░░░░░░░░░  8.60%
+pt_novo            40m 42s     █████░░░░░░░░░░░░░░░░░░░░  19.04%
+hackatime-sync     40m 29s     █████░░░░░░░░░░░░░░░░░░░░  18.94%
+josh               34m 20s     █████░░░░░░░░░░░░░░░░░░░░  16.06%
+zillow-sillyness   27m 59s     ████░░░░░░░░░░░░░░░░░░░░░  13.09%
+otter              19m 32s     ███░░░░░░░░░░░░░░░░░░░░░░  9.14%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
