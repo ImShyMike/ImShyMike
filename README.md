@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Markdown         1h 5m 28s   ████████████░░░░░░░░░░░░░  46.99%
-TypeScript       23m 45s     █████░░░░░░░░░░░░░░░░░░░░  17.05%
-Python           16m 21s     ███░░░░░░░░░░░░░░░░░░░░░░  11.73%
-Rust             15m 45s     ███░░░░░░░░░░░░░░░░░░░░░░  11.30%
-Shell            8m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.24%
+Markdown          44m 42s   █████████████░░░░░░░░░░░░  49.96%
+TypeScript        18m 53s   ██████░░░░░░░░░░░░░░░░░░░  21.11%
+Python            14m 21s   █████░░░░░░░░░░░░░░░░░░░░  16.04%
+Shell             6m 17s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.02%
+Rust              2m 23s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.66%
 
 💼 Projects:
-pt_novo          40m 42s     █████████░░░░░░░░░░░░░░░░  33.80%
-josh             21m 13s     █████░░░░░░░░░░░░░░░░░░░░  17.62%
-otter            19m 32s     █████░░░░░░░░░░░░░░░░░░░░  16.22%
-hackatime-sync   11m 32s     ███░░░░░░░░░░░░░░░░░░░░░░  9.58%
-joe              9m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.54%
+pt_novo           40m 42s   █████████████░░░░░░░░░░░░  50.39%
+otter             19m 32s   ███████░░░░░░░░░░░░░░░░░░  24.18%
+slack-selfbot     5m 27s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.75%
+site              5m 22s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.64%
+tuned-rpi-image   4m 17s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.30%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
