@@ -4,14 +4,14 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`site`](https://github.com/hackclub/site) - _🚩 The fourth iteration of the Hack Club site!_ **(today)**
-- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 day ago)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 day ago)**
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(1 day ago)**
+- [`site`](https://github.com/hackclub/site) - _🚩 The fourth iteration of the Hack Club site!_ **(1 day ago)**
+- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(2 days ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(2 days ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(2 days ago)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(1 week ago)**
 - [`slack-selfbot`](https://github.com/ImShyMike/slack-selfbot) - _silly selfbot with commands_ **(1 week ago)**
-- [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(2 weeks ago)**
-- [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(3 weeks ago)**
+- [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(3 weeks ago)**
+- [`slack-undoc-client`](https://github.com/ImShyMike/slack-undoc-client) - _A client for Slack's undocumented/user API endpoints._ **(4 weeks ago)**
 
 #### 📦 My most popular repos
 
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Make /opensource cards clickable**](https://github.com/hackclub/site/pull/2149) on [`site`](https://github.com/hackclub/site) **(today)**
+- [**Make /opensource cards clickable**](https://github.com/hackclub/site/pull/2149) on [`site`](https://github.com/hackclub/site) **(1 day ago)**
 - [**Add missing fields to admin heartbeat endpoint**](https://github.com/hackclub/hackatime/pull/1496) on [`hackatime`](https://github.com/hackclub/hackatime) **(1 week ago)**
 - [**oh so queerious**](https://github.com/hackclub/hackatime/pull/1490) on [`hackatime`](https://github.com/hackclub/hackatime) **(1 week ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Markdown         1h 16m 19s   ███████████░░░░░░░░░░░░░░  41.81%
-Python           32m 25s      █████░░░░░░░░░░░░░░░░░░░░  17.76%
-TypeScript       28m 2s       ████░░░░░░░░░░░░░░░░░░░░░  15.36%
-Rust             15m 45s      ███░░░░░░░░░░░░░░░░░░░░░░  8.63%
-Shell            10m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.86%
+Markdown         1h 5m 28s   ████████████░░░░░░░░░░░░░  46.99%
+TypeScript       23m 45s     █████░░░░░░░░░░░░░░░░░░░░  17.05%
+Python           16m 21s     ███░░░░░░░░░░░░░░░░░░░░░░  11.73%
+Rust             15m 45s     ███░░░░░░░░░░░░░░░░░░░░░░  11.30%
+Shell            8m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.24%
 
 💼 Projects:
-pt_novo          40m 42s      ███████░░░░░░░░░░░░░░░░░░  25.05%
-josh             32m 3s       █████░░░░░░░░░░░░░░░░░░░░  19.73%
-hackatime-sync   28m 29s      █████░░░░░░░░░░░░░░░░░░░░  17.53%
-otter            19m 32s      ████░░░░░░░░░░░░░░░░░░░░░  12.02%
-joe              13m 21s      ███░░░░░░░░░░░░░░░░░░░░░░  8.22%
+pt_novo          40m 42s     █████████░░░░░░░░░░░░░░░░  33.80%
+josh             21m 13s     █████░░░░░░░░░░░░░░░░░░░░  17.62%
+otter            19m 32s     █████░░░░░░░░░░░░░░░░░░░░  16.22%
+hackatime-sync   11m 32s     ███░░░░░░░░░░░░░░░░░░░░░░  9.58%
+joe              9m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.54%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
