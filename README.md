@@ -30,18 +30,13 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript         14m 49s   ███████████░░░░░░░░░░░░░░  43.11%
-JSON               10m 26s   ████████░░░░░░░░░░░░░░░░░  30.36%
-Markdown           8m 15s    ███████░░░░░░░░░░░░░░░░░░  24.01%
-HTML               49s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.38%
-Astro              3s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.15%
+JSON               10m 26s   ███████████░░░░░░░░░░░░░░  43.38%
+Markdown           8m 15s    █████████░░░░░░░░░░░░░░░░  34.30%
+TypeScript         5m 22s    ██████░░░░░░░░░░░░░░░░░░░  22.31%
 
 💼 Projects:
-zillow-sillyness   16m 24s   ███████████████░░░░░░░░░░  57.48%
-slack-selfbot      5m 27s    █████░░░░░░░░░░░░░░░░░░░░  19.10%
-site               5m 22s    █████░░░░░░░░░░░░░░░░░░░░  18.81%
-shymike.dev        1m 11s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.15%
-otter              4s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.23%
+zillow-sillyness   16m 24s   ███████████████████░░░░░░  75.34%
+site               5m 22s    ███████░░░░░░░░░░░░░░░░░░  24.66%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
