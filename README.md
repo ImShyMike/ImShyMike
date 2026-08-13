@@ -30,13 +30,11 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-JSON               10m 26s   ███████████░░░░░░░░░░░░░░  43.38%
-Markdown           8m 15s    █████████░░░░░░░░░░░░░░░░  34.30%
-TypeScript         5m 22s    ██████░░░░░░░░░░░░░░░░░░░  22.31%
+JSON               10m 26s   ██████████████░░░░░░░░░░░  55.84%
+Markdown           8m 15s    ████████████░░░░░░░░░░░░░  44.16%
 
 💼 Projects:
-zillow-sillyness   16m 24s   ███████████████████░░░░░░  75.34%
-site               5m 22s    ███████░░░░░░░░░░░░░░░░░░  24.66%
+zillow-sillyness   16m 24s   █████████████████████████  100.00%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
