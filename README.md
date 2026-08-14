@@ -4,10 +4,10 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(today)**
 - [`site`](https://github.com/hackclub/site) - _🚩 The fourth iteration of the Hack Club site!_ **(1 week ago)**
-- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 week ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 week ago)**
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(1 week ago)**
+- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 week ago)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(2 weeks ago)**
 - [`slack-selfbot`](https://github.com/ImShyMike/slack-selfbot) - _silly selfbot with commands_ **(2 weeks ago)**
 - [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(4 weeks ago)**
@@ -30,15 +30,15 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-JSON               10m 26s   ████████░░░░░░░░░░░░░░░░░  31.14%
-Rust               9m 59s    ████████░░░░░░░░░░░░░░░░░  29.80%
-Markdown           8m 15s    ███████░░░░░░░░░░░░░░░░░░  24.63%
-Svelte             2m 50s    ███░░░░░░░░░░░░░░░░░░░░░░  8.46%
-HTML               2m 0s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.97%
+JSON               10m 26s   ███████░░░░░░░░░░░░░░░░░░  25.88%
+Rust               10m 13s   ███████░░░░░░░░░░░░░░░░░░  25.34%
+Markdown           8m 15s    ██████░░░░░░░░░░░░░░░░░░░  20.46%
+Svelte             7m 25s    █████░░░░░░░░░░░░░░░░░░░░  18.40%
+HTML               2m 0s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.96%
 
 💼 Projects:
-zillow-sillyness   16m 24s   ███████████████░░░░░░░░░░  57.11%
-otter              12m 19s   ███████████░░░░░░░░░░░░░░  42.89%
+otter              17m 9s    █████████████░░░░░░░░░░░░  51.12%
+zillow-sillyness   16m 24s   █████████████░░░░░░░░░░░░  48.88%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
