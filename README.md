@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Rust                     1h 0m 20s    ██████░░░░░░░░░░░░░░░░░░░  23.51%
-Svelte                   53m 44s      ██████░░░░░░░░░░░░░░░░░░░  20.94%
-TypeScript               40m 38s      ████░░░░░░░░░░░░░░░░░░░░░  15.83%
-JavaScript               30m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  11.83%
-Markdown                 23m 41s      ███░░░░░░░░░░░░░░░░░░░░░░  9.23%
+Rust                     1h 0m 20s    ██████░░░░░░░░░░░░░░░░░░░  22.42%
+Svelte                   53m 44s      █████░░░░░░░░░░░░░░░░░░░░  19.96%
+TypeScript               43m 7s       █████░░░░░░░░░░░░░░░░░░░░  16.02%
+JavaScript               30m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  11.28%
+Markdown                 27m 41s      ███░░░░░░░░░░░░░░░░░░░░░░  10.29%
 
 💼 Projects:
-otter                    1h 47m 45s   ███████████████░░░░░░░░░░  56.56%
-gmail-webhooks           35m 59s      █████░░░░░░░░░░░░░░░░░░░░  18.89%
-claude-accountswitcher   28m 22s      ████░░░░░░░░░░░░░░░░░░░░░  14.89%
-zillow-sillyness         16m 24s      ███░░░░░░░░░░░░░░░░░░░░░░  8.61%
-hcb                      2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.05%
+otter                    1h 47m 45s   ██████████████░░░░░░░░░░░  54.63%
+gmail-webhooks           37m 59s      █████░░░░░░░░░░░░░░░░░░░░  19.26%
+claude-accountswitcher   28m 22s      ████░░░░░░░░░░░░░░░░░░░░░  14.38%
+zillow-sillyness         16m 24s      ███░░░░░░░░░░░░░░░░░░░░░░  8.32%
+hcb                      4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.03%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
