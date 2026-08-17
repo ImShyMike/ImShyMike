@@ -4,7 +4,7 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(2 days ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(3 days ago)**
 - [`site`](https://github.com/hackclub/site) - _🚩 The fourth iteration of the Hack Club site!_ **(1 week ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 week ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 week ago)**
@@ -25,23 +25,23 @@ A student who likes coding and gaming!
 
 - [**Make /opensource cards clickable**](https://github.com/hackclub/site/pull/2149) on [`site`](https://github.com/hackclub/site) **(1 week ago)**
 - [**Add missing fields to admin heartbeat endpoint**](https://github.com/hackclub/hackatime/pull/1496) on [`hackatime`](https://github.com/hackclub/hackatime) **(2 weeks ago)**
-- [**oh so queerious**](https://github.com/hackclub/hackatime/pull/1490) on [`hackatime`](https://github.com/hackclub/hackatime) **(2 weeks ago)**
+- [**oh so queerious**](https://github.com/hackclub/hackatime/pull/1490) on [`hackatime`](https://github.com/hackclub/hackatime) **(3 weeks ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Rust                     1h 0m 20s    ██████░░░░░░░░░░░░░░░░░░░  22.42%
-Svelte                   53m 44s      █████░░░░░░░░░░░░░░░░░░░░  19.96%
-TypeScript               43m 7s       █████░░░░░░░░░░░░░░░░░░░░  16.02%
-JavaScript               30m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  11.28%
-Markdown                 27m 41s      ███░░░░░░░░░░░░░░░░░░░░░░  10.29%
+Rust                     1h 0m 20s    ██████░░░░░░░░░░░░░░░░░░░  20.52%
+Svelte                   53m 44s      █████░░░░░░░░░░░░░░░░░░░░  18.27%
+TypeScript               45m 17s      ████░░░░░░░░░░░░░░░░░░░░░  15.40%
+Markdown                 34m 4s       ███░░░░░░░░░░░░░░░░░░░░░░  11.58%
+JavaScript               30m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  10.33%
 
 💼 Projects:
-otter                    1h 47m 45s   ██████████████░░░░░░░░░░░  54.63%
-gmail-webhooks           37m 59s      █████░░░░░░░░░░░░░░░░░░░░  19.26%
-claude-accountswitcher   28m 22s      ████░░░░░░░░░░░░░░░░░░░░░  14.38%
-zillow-sillyness         16m 24s      ███░░░░░░░░░░░░░░░░░░░░░░  8.32%
-hcb                      4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.03%
+otter                    1h 47m 45s   █████████████░░░░░░░░░░░░  49.70%
+gmail-webhooks           41m 59s      █████░░░░░░░░░░░░░░░░░░░░  19.37%
+claude-accountswitcher   28m 22s      ████░░░░░░░░░░░░░░░░░░░░░  13.09%
+zillow-sillyness         16m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.57%
+hcb-dashboard            15m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.17%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
