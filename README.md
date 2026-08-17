@@ -6,8 +6,8 @@ A student who likes coding and gaming!
 
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(3 days ago)**
 - [`site`](https://github.com/hackclub/site) - _🚩 The fourth iteration of the Hack Club site!_ **(1 week ago)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 week ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 week ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 week ago)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(2 weeks ago)**
 - [`slack-selfbot`](https://github.com/ImShyMike/slack-selfbot) - _silly selfbot with commands_ **(3 weeks ago)**
 - [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(1 month ago)**
