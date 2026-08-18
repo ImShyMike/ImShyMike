@@ -4,7 +4,7 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(4 days ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(1 day ago)**
 - [`site`](https://github.com/hackclub/site) - _🚩 The fourth iteration of the Hack Club site!_ **(1 week ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 week ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 week ago)**
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Rust                     1h 0m 20s    █████░░░░░░░░░░░░░░░░░░░░  19.73%
-TypeScript               53m 52s      █████░░░░░░░░░░░░░░░░░░░░  17.61%
-Svelte                   53m 44s      █████░░░░░░░░░░░░░░░░░░░░  17.57%
-Markdown                 36m 4s       ███░░░░░░░░░░░░░░░░░░░░░░  11.79%
-JavaScript               30m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  9.93%
+Rust                     1h 2m 20s    ██████░░░░░░░░░░░░░░░░░░░  20.25%
+TypeScript               53m 52s      █████░░░░░░░░░░░░░░░░░░░░  17.50%
+Svelte                   53m 44s      █████░░░░░░░░░░░░░░░░░░░░  17.46%
+Markdown                 36m 4s       ███░░░░░░░░░░░░░░░░░░░░░░  11.72%
+JavaScript               30m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  9.86%
 
 💼 Projects:
-otter                    1h 47m 45s   ████████████░░░░░░░░░░░░░  47.49%
-gmail-webhooks           41m 59s      █████░░░░░░░░░░░░░░░░░░░░  18.50%
-claude-accountswitcher   28m 22s      ████░░░░░░░░░░░░░░░░░░░░░  12.50%
-hcb-dashboard            25m 39s      ███░░░░░░░░░░░░░░░░░░░░░░  11.31%
-zillow-sillyness         16m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.23%
+otter                    1h 49m 45s   ████████████░░░░░░░░░░░░░  47.95%
+gmail-webhooks           41m 59s      █████░░░░░░░░░░░░░░░░░░░░  18.34%
+claude-accountswitcher   28m 22s      ████░░░░░░░░░░░░░░░░░░░░░  12.39%
+hcb-dashboard            25m 39s      ███░░░░░░░░░░░░░░░░░░░░░░  11.21%
+zillow-sillyness         16m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.17%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
