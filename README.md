@@ -4,14 +4,14 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
+- [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(today)**
 - [`scrape`](https://github.com/ImShyMike/scrape) - _make a web scraper, get a spider plushy_ **(today)**
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(1 day ago)**
 - [`site`](https://github.com/hackclub/site) - _🚩 The fourth iteration of the Hack Club site!_ **(1 week ago)**
-- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 week ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 week ago)**
+- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 week ago)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(2 weeks ago)**
 - [`slack-selfbot`](https://github.com/ImShyMike/slack-selfbot) - _silly selfbot with commands_ **(3 weeks ago)**
-- [`vscode-hackatime`](https://github.com/hackclub/vscode-hackatime) - _Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity. _ **(1 month ago)**
 
 #### 📦 My most popular repos
 
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
+- [**Add record for scrape.hackclub.com**](https://github.com/hackclub/dns/pull/3439) on [`dns`](https://github.com/hackclub/dns) **(today)**
 - [**Make /opensource cards clickable**](https://github.com/hackclub/site/pull/2149) on [`site`](https://github.com/hackclub/site) **(1 week ago)**
 - [**Add missing fields to admin heartbeat endpoint**](https://github.com/hackclub/hackatime/pull/1496) on [`hackatime`](https://github.com/hackclub/hackatime) **(2 weeks ago)**
-- [**oh so queerious**](https://github.com/hackclub/hackatime/pull/1490) on [`hackatime`](https://github.com/hackclub/hackatime) **(3 weeks ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Svelte                   2h 16m 51s   █████████░░░░░░░░░░░░░░░░  32.09%
-TypeScript               1h 17m 57s   █████░░░░░░░░░░░░░░░░░░░░  18.28%
-Rust                     1h 2m 20s    ████░░░░░░░░░░░░░░░░░░░░░  14.62%
-Markdown                 36m 4s       ███░░░░░░░░░░░░░░░░░░░░░░  8.46%
-JavaScript               30m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.12%
+Svelte                   2h 19m 4s    ████████░░░░░░░░░░░░░░░░░  31.96%
+TypeScript               1h 24m 29s   █████░░░░░░░░░░░░░░░░░░░░  19.41%
+Rust                     1h 2m 20s    ████░░░░░░░░░░░░░░░░░░░░░  14.32%
+Markdown                 36m 4s       ███░░░░░░░░░░░░░░░░░░░░░░  8.29%
+JavaScript               30m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.98%
 
 💼 Projects:
-otter                    1h 50m 30s   █████████░░░░░░░░░░░░░░░░  34.33%
-scrape                   1h 32m 16s   ████████░░░░░░░░░░░░░░░░░  28.66%
-gmail-webhooks           41m 59s      ████░░░░░░░░░░░░░░░░░░░░░  13.04%
-claude-accountswitcher   28m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  8.81%
-hcb-dashboard            25m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.97%
+otter                    1h 50m 30s   █████████░░░░░░░░░░░░░░░░  33.62%
+scrape                   1h 39m 3s    ████████░░░░░░░░░░░░░░░░░  30.14%
+gmail-webhooks           41m 59s      ████░░░░░░░░░░░░░░░░░░░░░  12.77%
+claude-accountswitcher   28m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  8.63%
+hcb-dashboard            25m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.80%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
