@@ -4,14 +4,14 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
+- [`scrape`](https://github.com/ImShyMike/scrape) - _make a web scraper, get a spider plushy_ **(today)**
 - [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(1 day ago)**
-- [`scrape`](https://github.com/ImShyMike/scrape) - _make a web scraper, get a spider plushy_ **(1 day ago)**
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(2 days ago)**
+- [`hcb-api`](https://github.com/skyfallwastaken/hcb-api) - _Use the HCB API even without being part of Hack Club HQ_ **(3 days ago)**
 - [`site`](https://github.com/hackclub/site) - _🚩 The fourth iteration of the Hack Club site!_ **(1 week ago)**
-- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(2 weeks ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(2 weeks ago)**
+- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(2 weeks ago)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(2 weeks ago)**
-- [`slack-selfbot`](https://github.com/ImShyMike/slack-selfbot) - _silly selfbot with commands_ **(3 weeks ago)**
 
 #### 📦 My most popular repos
 
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Svelte                   2h 21m 6s    ████████░░░░░░░░░░░░░░░░░  31.59%
-TypeScript               1h 29m 55s   ██████░░░░░░░░░░░░░░░░░░░  20.13%
-Rust                     1h 2m 20s    ████░░░░░░░░░░░░░░░░░░░░░  13.96%
-Markdown                 36m 4s       ███░░░░░░░░░░░░░░░░░░░░░░  8.08%
-JavaScript               30m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.80%
+Svelte                   2h 21m 6s    ████████░░░░░░░░░░░░░░░░░  30.85%
+TypeScript               1h 40m 41s   ██████░░░░░░░░░░░░░░░░░░░  22.01%
+Rust                     1h 2m 20s    ████░░░░░░░░░░░░░░░░░░░░░  13.63%
+Markdown                 36m 4s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.89%
+JavaScript               30m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.64%
 
 💼 Projects:
-otter                    1h 54m 30s   █████████░░░░░░░░░░░░░░░░  33.66%
-scrape                   1h 46m 31s   ████████░░░░░░░░░░░░░░░░░  31.31%
-gmail-webhooks           41m 59s      ████░░░░░░░░░░░░░░░░░░░░░  12.34%
-claude-accountswitcher   28m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  8.34%
-hcb-dashboard            25m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.54%
+scrape                   1h 57m 16s   █████████░░░░░░░░░░░░░░░░  33.42%
+otter                    1h 54m 30s   █████████░░░░░░░░░░░░░░░░  32.63%
+gmail-webhooks           41m 59s      ███░░░░░░░░░░░░░░░░░░░░░░  11.96%
+claude-accountswitcher   28m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  8.08%
+hcb-dashboard            25m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.31%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
