@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Svelte                   2h 25m 6s    ███████░░░░░░░░░░░░░░░░░░  27.62%
-TypeScript               1h 51m 25s   ██████░░░░░░░░░░░░░░░░░░░  21.20%
-Rust                     1h 35m 32s   █████░░░░░░░░░░░░░░░░░░░░  18.18%
-Shell                    37m 26s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.12%
-JavaScript               28m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.40%
+Svelte                   2h 25m 6s    ███████░░░░░░░░░░░░░░░░░░  27.10%
+TypeScript               1h 51m 25s   ██████░░░░░░░░░░░░░░░░░░░  20.81%
+Rust                     1h 41m 28s   █████░░░░░░░░░░░░░░░░░░░░  18.95%
+Shell                    37m 26s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.99%
+JavaScript               28m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.30%
 
 💼 Projects:
-scrape                   1h 59m 16s   ████████░░░░░░░░░░░░░░░░░  29.91%
-otter                    1h 54m 30s   ████████░░░░░░░░░░░░░░░░░  28.71%
-airtable-proxy           59m 40s      ████░░░░░░░░░░░░░░░░░░░░░  14.96%
-gmail-webhooks           41m 59s      ███░░░░░░░░░░░░░░░░░░░░░░  10.53%
-claude-accountswitcher   28m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.11%
+scrape                   1h 59m 16s   ████████░░░░░░░░░░░░░░░░░  29.41%
+otter                    1h 54m 30s   ████████░░░░░░░░░░░░░░░░░  28.24%
+airtable-proxy           1h 6m 25s    █████░░░░░░░░░░░░░░░░░░░░  16.38%
+gmail-webhooks           41m 59s      ███░░░░░░░░░░░░░░░░░░░░░░  10.35%
+claude-accountswitcher   28m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.00%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
