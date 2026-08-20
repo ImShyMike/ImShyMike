@@ -4,14 +4,14 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`scrape`](https://github.com/ImShyMike/scrape) - _make a web scraper, get a spider plushy_ **(today)**
-- [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(1 day ago)**
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(2 days ago)**
-- [`hcb-api`](https://github.com/skyfallwastaken/hcb-api) - _Use the HCB API even without being part of Hack Club HQ_ **(3 days ago)**
-- [`site`](https://github.com/hackclub/site) - _🚩 The fourth iteration of the Hack Club site!_ **(1 week ago)**
+- [`scrape`](https://github.com/ImShyMike/scrape) - _make a web scraper, get a spider plushy_ **(1 day ago)**
+- [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(2 days ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(3 days ago)**
+- [`hcb-api`](https://github.com/skyfallwastaken/hcb-api) - _Use the HCB API even without being part of Hack Club HQ_ **(4 days ago)**
+- [`site`](https://github.com/hackclub/site) - _🚩 The fourth iteration of the Hack Club site!_ **(2 weeks ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(2 weeks ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(2 weeks ago)**
-- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(2 weeks ago)**
+- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(3 weeks ago)**
 
 #### 📦 My most popular repos
 
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Add record for scrape.hackclub.com**](https://github.com/hackclub/dns/pull/3439) on [`dns`](https://github.com/hackclub/dns) **(1 day ago)**
-- [**Make /opensource cards clickable**](https://github.com/hackclub/site/pull/2149) on [`site`](https://github.com/hackclub/site) **(1 week ago)**
+- [**Add record for scrape.hackclub.com**](https://github.com/hackclub/dns/pull/3439) on [`dns`](https://github.com/hackclub/dns) **(2 days ago)**
+- [**Make /opensource cards clickable**](https://github.com/hackclub/site/pull/2149) on [`site`](https://github.com/hackclub/site) **(2 weeks ago)**
 - [**Add missing fields to admin heartbeat endpoint**](https://github.com/hackclub/hackatime/pull/1496) on [`hackatime`](https://github.com/hackclub/hackatime) **(3 weeks ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Svelte                   2h 19m 6s    ████████░░░░░░░░░░░░░░░░░  31.81%
-TypeScript               1h 45m 16s   ███████░░░░░░░░░░░░░░░░░░  24.07%
-Rust                     1h 2m 20s    ████░░░░░░░░░░░░░░░░░░░░░  14.25%
-JavaScript               28m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.49%
-Markdown                 27m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.36%
+Svelte                   2h 19m 6s    ████████░░░░░░░░░░░░░░░░░  30.63%
+TypeScript               1h 45m 16s   ██████░░░░░░░░░░░░░░░░░░░  23.18%
+Rust                     1h 14m 49s   █████░░░░░░░░░░░░░░░░░░░░  16.48%
+JavaScript               28m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.25%
+Markdown                 27m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.13%
 
 💼 Projects:
-scrape                   1h 59m 16s   █████████░░░░░░░░░░░░░░░░  35.17%
-otter                    1h 54m 30s   █████████░░░░░░░░░░░░░░░░  33.77%
-gmail-webhooks           41m 59s      ████░░░░░░░░░░░░░░░░░░░░░  12.38%
-claude-accountswitcher   28m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  8.37%
-hcb-dashboard            25m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.56%
+scrape                   1h 59m 16s   █████████░░░░░░░░░░░░░░░░  33.89%
+otter                    1h 54m 30s   █████████░░░░░░░░░░░░░░░░  32.53%
+gmail-webhooks           41m 59s      ███░░░░░░░░░░░░░░░░░░░░░░  11.93%
+claude-accountswitcher   28m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  8.06%
+hcb-dashboard            25m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.29%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
