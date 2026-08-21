@@ -30,16 +30,16 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Svelte                   2h 27m 12s   ███████░░░░░░░░░░░░░░░░░░  25.31%
-Rust                     1h 53m 28s   █████░░░░░░░░░░░░░░░░░░░░  19.51%
-TypeScript               1h 53m 25s   █████░░░░░░░░░░░░░░░░░░░░  19.50%
-Shell                    41m 30s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.13%
-JavaScript               28m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.88%
+Svelte                   2h 27m 12s   ███████░░░░░░░░░░░░░░░░░░  25.22%
+Rust                     1h 53m 28s   █████░░░░░░░░░░░░░░░░░░░░  19.44%
+TypeScript               1h 53m 25s   █████░░░░░░░░░░░░░░░░░░░░  19.43%
+Shell                    41m 30s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.11%
+JavaScript               28m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.86%
 
 💼 Projects:
-scrape                   1h 59m 16s   ███████░░░░░░░░░░░░░░░░░░  27.00%
-otter                    1h 54m 30s   ███████░░░░░░░░░░░░░░░░░░  25.92%
-airtable-proxy           1h 42m 42s   ██████░░░░░░░░░░░░░░░░░░░  23.25%
+scrape                   1h 59m 16s   ███████░░░░░░░░░░░░░░░░░░  26.99%
+otter                    1h 54m 30s   ███████░░░░░░░░░░░░░░░░░░  25.91%
+airtable-proxy           1h 42m 46s   ██████░░░░░░░░░░░░░░░░░░░  23.26%
 gmail-webhooks           41m 59s      ███░░░░░░░░░░░░░░░░░░░░░░  9.50%
 claude-accountswitcher   28m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.42%
 ```
