@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Svelte           1h 41m 46s   ██████░░░░░░░░░░░░░░░░░░░  20.19%
-TypeScript       1h 34m 12s   █████░░░░░░░░░░░░░░░░░░░░  18.69%
-Rust             57m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  11.50%
-Shell            56m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  11.18%
-Markdown         35m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.11%
+Svelte           1h 41m 46s   ██████░░░░░░░░░░░░░░░░░░░  20.11%
+TypeScript       1h 34m 12s   █████░░░░░░░░░░░░░░░░░░░░  18.61%
+Shell            58m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  11.53%
+Rust             57m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  11.45%
+Markdown         35m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.08%
 
 💼 Projects:
-scrape           1h 59m 16s   ████████░░░░░░░░░░░░░░░░░  31.32%
-airtable-proxy   1h 57m 2s    ████████░░░░░░░░░░░░░░░░░  30.74%
-gmail-webhooks   41m 59s      ███░░░░░░░░░░░░░░░░░░░░░░  11.03%
-drydock          26m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.03%
-hcb-dashboard    25m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.74%
+scrape           1h 59m 16s   ████████░░░░░░░░░░░░░░░░░  31.16%
+airtable-proxy   1h 57m 2s    ████████░░░░░░░░░░░░░░░░░  30.58%
+gmail-webhooks   41m 59s      ███░░░░░░░░░░░░░░░░░░░░░░  10.97%
+drydock          28m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.52%
+hcb-dashboard    25m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.70%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
