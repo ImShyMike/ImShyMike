@@ -16,7 +16,7 @@ A student who likes coding and gaming!
 #### 📦 My most popular repos
 
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(35⭐)**
-- [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(30⭐)**
+- [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(31⭐)**
 - [`waka-relay`](https://github.com/ImShyMike/waka-relay) - _📊 A self-hosted app that relays WakaTime heartbeats to multiple instances_ **(29⭐)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(16⭐)**
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(12⭐)**
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Svelte           1h 40m 4s    ██████░░░░░░░░░░░░░░░░░░░  20.12%
-TypeScript       1h 29m 18s   █████░░░░░░░░░░░░░░░░░░░░  17.95%
-Rust             57m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  11.65%
-Shell            56m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  11.33%
-Markdown         35m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.21%
+Svelte           1h 41m 46s   ██████░░░░░░░░░░░░░░░░░░░  20.19%
+TypeScript       1h 34m 12s   █████░░░░░░░░░░░░░░░░░░░░  18.69%
+Rust             57m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  11.50%
+Shell            56m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  11.18%
+Markdown         35m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.11%
 
 💼 Projects:
-scrape           1h 59m 16s   ████████░░░░░░░░░░░░░░░░░  31.78%
-airtable-proxy   1h 57m 2s    ████████░░░░░░░░░░░░░░░░░  31.18%
-gmail-webhooks   41m 59s      ███░░░░░░░░░░░░░░░░░░░░░░  11.19%
-hcb-dashboard    25m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.83%
-drydock          21m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.83%
+scrape           1h 59m 16s   ████████░░░░░░░░░░░░░░░░░  31.32%
+airtable-proxy   1h 57m 2s    ████████░░░░░░░░░░░░░░░░░  30.74%
+gmail-webhooks   41m 59s      ███░░░░░░░░░░░░░░░░░░░░░░  11.03%
+drydock          26m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.03%
+hcb-dashboard    25m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.74%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
