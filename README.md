@@ -4,9 +4,9 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`scrape`](https://github.com/ImShyMike/scrape) - _make a web scraper, get a spider plushy_ **(4 days ago)**
-- [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(5 days ago)**
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(6 days ago)**
+- [`scrape`](https://github.com/ImShyMike/scrape) - _make a web scraper, get a spider plushy_ **(5 days ago)**
+- [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(6 days ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(1 week ago)**
 - [`hcb-api`](https://github.com/skyfallwastaken/hcb-api) - _Use the HCB API even without being part of Hack Club HQ_ **(1 week ago)**
 - [`site`](https://github.com/hackclub/site) - _🚩 The fourth iteration of the Hack Club site!_ **(2 weeks ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(2 weeks ago)**
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Add record for scrape.hackclub.com**](https://github.com/hackclub/dns/pull/3439) on [`dns`](https://github.com/hackclub/dns) **(5 days ago)**
+- [**Add record for scrape.hackclub.com**](https://github.com/hackclub/dns/pull/3439) on [`dns`](https://github.com/hackclub/dns) **(6 days ago)**
 - [**Make /opensource cards clickable**](https://github.com/hackclub/site/pull/2149) on [`site`](https://github.com/hackclub/site) **(2 weeks ago)**
 - [**Add missing fields to admin heartbeat endpoint**](https://github.com/hackclub/hackatime/pull/1496) on [`hackatime`](https://github.com/hackclub/hackatime) **(3 weeks ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript       1h 50m 32s   ██████░░░░░░░░░░░░░░░░░░░  20.84%
-Svelte           1h 41m 46s   █████░░░░░░░░░░░░░░░░░░░░  19.18%
-Shell            58m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  11.00%
-Rust             57m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  10.92%
-Markdown         40m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.56%
+TypeScript       1h 50m 32s   ██████░░░░░░░░░░░░░░░░░░░  20.63%
+Svelte           1h 41m 46s   █████░░░░░░░░░░░░░░░░░░░░  19.00%
+Shell            58m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  10.90%
+Rust             57m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  10.82%
+Markdown         40m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.48%
 
 💼 Projects:
-scrape           1h 59m 16s   ████████░░░░░░░░░░░░░░░░░  30.76%
-airtable-proxy   1h 57m 2s    ████████░░░░░░░░░░░░░░░░░  30.18%
-gmail-webhooks   41m 59s      ███░░░░░░░░░░░░░░░░░░░░░░  10.83%
-drydock          28m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.42%
-hcb-dashboard    25m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.62%
+scrape           1h 59m 16s   ████████░░░░░░░░░░░░░░░░░  30.35%
+airtable-proxy   1h 57m 2s    ████████░░░░░░░░░░░░░░░░░  29.78%
+gmail-webhooks   41m 59s      ███░░░░░░░░░░░░░░░░░░░░░░  10.68%
+drydock          28m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.32%
+hcb-dashboard    25m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.53%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
