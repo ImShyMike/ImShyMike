@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-Svelte           2h 5m 13s    ██████░░░░░░░░░░░░░░░░░░░  23.21%
-TypeScript       1h 51m 39s   ██████░░░░░░░░░░░░░░░░░░░  20.70%
-Rust             57m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  10.74%
-JSON             51m 1s       ███░░░░░░░░░░░░░░░░░░░░░░  9.46%
-Shell            37m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.98%
+Svelte           2h 5m 13s    ██████░░░░░░░░░░░░░░░░░░░  21.71%
+TypeScript       2h 4m 45s    ██████░░░░░░░░░░░░░░░░░░░  21.63%
+JSON             58m 40s      ███░░░░░░░░░░░░░░░░░░░░░░  10.17%
+Rust             57m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  10.05%
+Shell            39m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.87%
 
 💼 Projects:
-scrape           1h 59m 16s   ████████░░░░░░░░░░░░░░░░░  30.48%
-airtable-proxy   1h 57m 2s    ████████░░░░░░░░░░░░░░░░░  29.91%
-recovery         45m 20s      ███░░░░░░░░░░░░░░░░░░░░░░  11.58%
-orchard          34m 12s      ███░░░░░░░░░░░░░░░░░░░░░░  8.74%
-drydock          28m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.36%
+scrape           1h 59m 16s   ████████░░░░░░░░░░░░░░░░░  28.91%
+airtable-proxy   1h 57m 2s    ████████░░░░░░░░░░░░░░░░░  28.37%
+recovery         45m 20s      ███░░░░░░░░░░░░░░░░░░░░░░  10.99%
+terra            34m 27s      ███░░░░░░░░░░░░░░░░░░░░░░  8.35%
+orchard          34m 12s      ███░░░░░░░░░░░░░░░░░░░░░░  8.29%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
