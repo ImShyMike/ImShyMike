@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript       2h 59m 55s   ██████░░░░░░░░░░░░░░░░░░░  23.20%
-Svelte           2h 15m 21s   █████░░░░░░░░░░░░░░░░░░░░  17.45%
-JSON             1h 33m 59s   ████░░░░░░░░░░░░░░░░░░░░░  12.12%
-Rust             1h 2m 27s    ███░░░░░░░░░░░░░░░░░░░░░░  8.05%
-JavaScript       54m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.08%
+TypeScript       3h 1m 55s    ██████░░░░░░░░░░░░░░░░░░░  22.83%
+Svelte           2h 15m 21s   █████░░░░░░░░░░░░░░░░░░░░  16.99%
+JSON             1h 33m 59s   ███░░░░░░░░░░░░░░░░░░░░░░  11.80%
+Rust             1h 12m 41s   ███░░░░░░░░░░░░░░░░░░░░░░  9.12%
+JavaScript       56m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.14%
 
 💼 Projects:
-scrape           1h 59m 16s   ██████░░░░░░░░░░░░░░░░░░░  21.50%
-airtable-proxy   1h 57m 2s    ██████░░░░░░░░░░░░░░░░░░░  21.09%
-terra            1h 34m 58s   █████░░░░░░░░░░░░░░░░░░░░  17.12%
-recovery         45m 20s      ███░░░░░░░░░░░░░░░░░░░░░░  8.17%
-otter            36m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.61%
+scrape           1h 59m 16s   ██████░░░░░░░░░░░░░░░░░░░  20.85%
+airtable-proxy   1h 57m 2s    ██████░░░░░░░░░░░░░░░░░░░  20.46%
+terra            1h 39m 4s    █████░░░░░░░░░░░░░░░░░░░░  17.31%
+yaap             49m 25s      ███░░░░░░░░░░░░░░░░░░░░░░  8.64%
+recovery         45m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.92%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
