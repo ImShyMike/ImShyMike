@@ -5,9 +5,9 @@ A student who likes coding and gaming!
 #### 🏗️ What I've been working on
 
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(today)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(today)**
 - [`scrape`](https://github.com/ImShyMike/scrape) - _make a web scraper, get a spider plushy_ **(6 days ago)**
 - [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(1 week ago)**
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(1 week ago)**
 - [`hcb-api`](https://github.com/skyfallwastaken/hcb-api) - _Use the HCB API even without being part of Hack Club HQ_ **(1 week ago)**
 - [`site`](https://github.com/hackclub/site) - _🚩 The fourth iteration of the Hack Club site!_ **(2 weeks ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(2 weeks ago)**
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript       2h 51m 10s   ███████░░░░░░░░░░░░░░░░░░  24.94%
-Svelte           2h 10m 19s   █████░░░░░░░░░░░░░░░░░░░░  18.99%
-JSON             1h 25m 17s   ████░░░░░░░░░░░░░░░░░░░░░  12.43%
-Rust             57m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  8.44%
-Shell            39m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.77%
+TypeScript       2h 53m 50s   ███████░░░░░░░░░░░░░░░░░░  24.76%
+Svelte           2h 15m 21s   █████░░░░░░░░░░░░░░░░░░░░  19.28%
+JSON             1h 25m 17s   ████░░░░░░░░░░░░░░░░░░░░░  12.15%
+Rust             57m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  8.25%
+Shell            39m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.64%
 
 💼 Projects:
-scrape           1h 59m 16s   ███████░░░░░░░░░░░░░░░░░░  24.01%
-airtable-proxy   1h 57m 2s    ██████░░░░░░░░░░░░░░░░░░░  23.56%
-terra            1h 17m 36s   ████░░░░░░░░░░░░░░░░░░░░░  15.62%
-recovery         45m 20s      ███░░░░░░░░░░░░░░░░░░░░░░  9.13%
-orchard          34m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.88%
+scrape           1h 59m 16s   ██████░░░░░░░░░░░░░░░░░░░  23.60%
+airtable-proxy   1h 57m 2s    ██████░░░░░░░░░░░░░░░░░░░  23.16%
+terra            1h 17m 36s   ████░░░░░░░░░░░░░░░░░░░░░  15.36%
+recovery         45m 20s      ███░░░░░░░░░░░░░░░░░░░░░░  8.97%
+otter            36m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.26%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
