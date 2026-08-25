@@ -17,7 +17,7 @@ A student who likes coding and gaming!
 
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(35⭐)**
 - [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(32⭐)**
-- [`waka-relay`](https://github.com/ImShyMike/waka-relay) - _📊 A self-hosted app that relays WakaTime heartbeats to multiple instances_ **(29⭐)**
+- [`waka-relay`](https://github.com/ImShyMike/waka-relay) - _📊 A self-hosted app that relays WakaTime heartbeats to multiple instances_ **(30⭐)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(16⭐)**
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(12⭐)**
 
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript       3h 1m 55s    ██████░░░░░░░░░░░░░░░░░░░  22.83%
-Svelte           2h 15m 21s   █████░░░░░░░░░░░░░░░░░░░░  16.99%
-JSON             1h 33m 59s   ███░░░░░░░░░░░░░░░░░░░░░░  11.80%
-Rust             1h 12m 41s   ███░░░░░░░░░░░░░░░░░░░░░░  9.12%
-JavaScript       56m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.14%
+TypeScript       3h 3m 55s    ██████░░░░░░░░░░░░░░░░░░░  21.90%
+Svelte           2h 17m 21s   █████░░░░░░░░░░░░░░░░░░░░  16.36%
+JSON             1h 35m 59s   ███░░░░░░░░░░░░░░░░░░░░░░  11.43%
+Rust             1h 20m 41s   ███░░░░░░░░░░░░░░░░░░░░░░  9.61%
+JavaScript       56m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.78%
 
 💼 Projects:
-scrape           1h 59m 16s   ██████░░░░░░░░░░░░░░░░░░░  20.85%
-airtable-proxy   1h 57m 2s    ██████░░░░░░░░░░░░░░░░░░░  20.46%
-terra            1h 39m 4s    █████░░░░░░░░░░░░░░░░░░░░  17.31%
-yaap             49m 25s      ███░░░░░░░░░░░░░░░░░░░░░░  8.64%
-recovery         45m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.92%
+scrape           1h 59m 16s   ██████░░░░░░░░░░░░░░░░░░░  20.18%
+airtable-proxy   1h 57m 2s    █████░░░░░░░░░░░░░░░░░░░░  19.80%
+terra            1h 39m 4s    █████░░░░░░░░░░░░░░░░░░░░  16.76%
+yaap             1h 8m 20s    ███░░░░░░░░░░░░░░░░░░░░░░  11.56%
+recovery         45m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.67%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
