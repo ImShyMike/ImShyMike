@@ -4,13 +4,13 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
+- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 day ago)**
 - [`scrape`](https://github.com/ImShyMike/scrape) - _make a web scraper, get a spider plushy_ **(6 days ago)**
 - [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(1 week ago)**
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(1 week ago)**
 - [`hcb-api`](https://github.com/skyfallwastaken/hcb-api) - _Use the HCB API even without being part of Hack Club HQ_ **(1 week ago)**
 - [`site`](https://github.com/hackclub/site) - _🚩 The fourth iteration of the Hack Club site!_ **(2 weeks ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(2 weeks ago)**
-- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(2 weeks ago)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(3 weeks ago)**
 
 #### 📦 My most popular repos
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript       2h 34m 2s    ███████░░░░░░░░░░░░░░░░░░  24.70%
-Svelte           2h 5m 13s    ██████░░░░░░░░░░░░░░░░░░░  20.08%
-JSON             1h 2m 40s    ███░░░░░░░░░░░░░░░░░░░░░░  10.05%
-Rust             57m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  9.29%
-Shell            39m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.36%
+TypeScript       2h 42m 5s    ███████░░░░░░░░░░░░░░░░░░  24.81%
+Svelte           2h 7m 13s    █████░░░░░░░░░░░░░░░░░░░░  19.47%
+JSON             1h 10m 28s   ███░░░░░░░░░░░░░░░░░░░░░░  10.79%
+Rust             55m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  8.56%
+Shell            39m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.07%
 
 💼 Projects:
-scrape           1h 59m 16s   ███████░░░░░░░░░░░░░░░░░░  26.40%
-airtable-proxy   1h 57m 2s    ███████░░░░░░░░░░░░░░░░░░  25.91%
-terra            1h 13m 36s   █████░░░░░░░░░░░░░░░░░░░░  16.29%
-recovery         45m 20s      ███░░░░░░░░░░░░░░░░░░░░░░  10.04%
-orchard          34m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.57%
+scrape           1h 59m 16s   ███████░░░░░░░░░░░░░░░░░░  25.40%
+airtable-proxy   1h 57m 2s    ███████░░░░░░░░░░░░░░░░░░  24.92%
+terra            1h 13m 36s   ████░░░░░░░░░░░░░░░░░░░░░  15.67%
+recovery         45m 20s      ███░░░░░░░░░░░░░░░░░░░░░░  9.65%
+orchard          34m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.28%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
