@@ -4,7 +4,7 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 day ago)**
+- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(today)**
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(1 day ago)**
 - [`scrape`](https://github.com/ImShyMike/scrape) - _make a web scraper, get a spider plushy_ **(1 week ago)**
 - [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(1 week ago)**
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript       2h 27m 52s   ██████░░░░░░░░░░░░░░░░░░░  20.12%
-JSON             1h 41m 46s   ████░░░░░░░░░░░░░░░░░░░░░  13.84%
-Rust             1h 29m 47s   ████░░░░░░░░░░░░░░░░░░░░░  12.21%
-Shell            1h 3m 39s    ███░░░░░░░░░░░░░░░░░░░░░░  8.66%
-JavaScript       1h 1m 0s     ███░░░░░░░░░░░░░░░░░░░░░░  8.30%
+TypeScript       2h 55m 14s   ██████░░░░░░░░░░░░░░░░░░░  22.18%
+JSON             1h 48m 21s   ████░░░░░░░░░░░░░░░░░░░░░  13.71%
+Rust             1h 29m 47s   ███░░░░░░░░░░░░░░░░░░░░░░  11.36%
+Svelte           1h 7m 45s    ███░░░░░░░░░░░░░░░░░░░░░░  8.58%
+Shell            1h 3m 39s    ███░░░░░░░░░░░░░░░░░░░░░░  8.06%
 
 💼 Projects:
-airtable-proxy   1h 57m 2s    ██████░░░░░░░░░░░░░░░░░░░  22.81%
-yaap             1h 42m 56s   ██████░░░░░░░░░░░░░░░░░░░  20.06%
-terra            1h 39m 4s    █████░░░░░░░░░░░░░░░░░░░░  19.30%
-recovery         45m 20s      ███░░░░░░░░░░░░░░░░░░░░░░  8.83%
-orchard          34m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.66%
+terra            2h 15m 7s    ███████░░░░░░░░░░░░░░░░░░  24.12%
+airtable-proxy   1h 57m 2s    ██████░░░░░░░░░░░░░░░░░░░  20.89%
+yaap             1h 53m 57s   ██████░░░░░░░░░░░░░░░░░░░  20.34%
+recovery         45m 20s      ███░░░░░░░░░░░░░░░░░░░░░░  8.09%
+orchard          34m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.10%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
