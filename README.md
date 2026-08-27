@@ -19,7 +19,7 @@ A student who likes coding and gaming!
 - [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(32⭐)**
 - [`waka-relay`](https://github.com/ImShyMike/waka-relay) - _📊 A self-hosted app that relays WakaTime heartbeats to multiple instances_ **(30⭐)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(16⭐)**
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(13⭐)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(14⭐)**
 
 #### 🔨 My recent pull requests
 
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript       2h 40m 11s   ██████░░░░░░░░░░░░░░░░░░░  20.85%
-JSON             1h 46m 21s   ████░░░░░░░░░░░░░░░░░░░░░  13.84%
-Svelte           1h 27m 22s   ███░░░░░░░░░░░░░░░░░░░░░░  11.37%
-JavaScript       1h 8m 25s    ███░░░░░░░░░░░░░░░░░░░░░░  8.91%
-Rust             1h 6m 18s    ███░░░░░░░░░░░░░░░░░░░░░░  8.63%
+TypeScript       3h 9m 41s    ██████░░░░░░░░░░░░░░░░░░░  21.95%
+JSON             1h 54m 46s   ████░░░░░░░░░░░░░░░░░░░░░  13.28%
+Svelte           1h 27m 22s   ███░░░░░░░░░░░░░░░░░░░░░░  10.11%
+JavaScript       1h 8m 25s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.92%
+Rust             1h 6m 18s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.67%
 
 💼 Projects:
-yaap             2h 24m 58s   ███████░░░░░░░░░░░░░░░░░░  26.16%
-terra            2h 19m 33s   ███████░░░░░░░░░░░░░░░░░░  25.18%
-airtable-proxy   1h 21m 58s   ████░░░░░░░░░░░░░░░░░░░░░  14.79%
-recovery         45m 20s      ███░░░░░░░░░░░░░░░░░░░░░░  8.18%
-otter            39m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.15%
+terra            3h 25m 17s   █████████░░░░░░░░░░░░░░░░  33.11%
+yaap             2h 24m 58s   ██████░░░░░░░░░░░░░░░░░░░  23.38%
+airtable-proxy   1h 21m 58s   ████░░░░░░░░░░░░░░░░░░░░░  13.22%
+recovery         45m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.31%
+otter            39m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.40%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
