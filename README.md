@@ -4,8 +4,8 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 day ago)**
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(1 day ago)**
+- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(2 days ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(2 days ago)**
 - [`scrape`](https://github.com/ImShyMike/scrape) - _make a web scraper, get a spider plushy_ **(1 week ago)**
 - [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(1 week ago)**
 - [`hcb-api`](https://github.com/skyfallwastaken/hcb-api) - _Use the HCB API even without being part of Hack Club HQ_ **(1 week ago)**
@@ -25,23 +25,23 @@ A student who likes coding and gaming!
 
 - [**Add record for scrape.hackclub.com**](https://github.com/hackclub/dns/pull/3439) on [`dns`](https://github.com/hackclub/dns) **(1 week ago)**
 - [**Make /opensource cards clickable**](https://github.com/hackclub/site/pull/2149) on [`site`](https://github.com/hackclub/site) **(3 weeks ago)**
-- [**Add missing fields to admin heartbeat endpoint**](https://github.com/hackclub/hackatime/pull/1496) on [`hackatime`](https://github.com/hackclub/hackatime) **(4 weeks ago)**
+- [**Add missing fields to admin heartbeat endpoint**](https://github.com/hackclub/hackatime/pull/1496) on [`hackatime`](https://github.com/hackclub/hackatime) **(1 month ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript       3h 9m 41s    ██████░░░░░░░░░░░░░░░░░░░  21.95%
-JSON             1h 54m 46s   ████░░░░░░░░░░░░░░░░░░░░░  13.28%
-Svelte           1h 27m 22s   ███░░░░░░░░░░░░░░░░░░░░░░  10.11%
-JavaScript       1h 8m 25s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.92%
-Rust             1h 6m 18s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.67%
+TypeScript   3h 5m 41s    ███████░░░░░░░░░░░░░░░░░░  24.09%
+JSON         1h 54m 46s   ████░░░░░░░░░░░░░░░░░░░░░  14.89%
+Svelte       1h 21m 16s   ███░░░░░░░░░░░░░░░░░░░░░░  10.54%
+JavaScript   1h 8m 25s    ███░░░░░░░░░░░░░░░░░░░░░░  8.88%
+Markdown     1h 6m 31s    ███░░░░░░░░░░░░░░░░░░░░░░  8.63%
 
 💼 Projects:
-terra            3h 25m 17s   █████████░░░░░░░░░░░░░░░░  33.11%
-yaap             2h 24m 58s   ██████░░░░░░░░░░░░░░░░░░░  23.38%
-airtable-proxy   1h 21m 58s   ████░░░░░░░░░░░░░░░░░░░░░  13.22%
-recovery         45m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.31%
-otter            39m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.40%
+terra        3h 29m 17s   ██████████░░░░░░░░░░░░░░░  37.62%
+yaap         2h 24m 58s   ███████░░░░░░░░░░░░░░░░░░  26.06%
+recovery     45m 20s      ███░░░░░░░░░░░░░░░░░░░░░░  8.15%
+otter        39m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.13%
+orchard      34m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.15%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
