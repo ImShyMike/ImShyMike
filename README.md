@@ -4,11 +4,11 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(3 days ago)**
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(3 days ago)**
+- [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(4 days ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(4 days ago)**
 - [`scrape`](https://github.com/ImShyMike/scrape) - _make a web scraper, get a spider plushy_ **(1 week ago)**
 - [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(1 week ago)**
-- [`hcb-api`](https://github.com/skyfallwastaken/hcb-api) - _Use the HCB API even without being part of Hack Club HQ_ **(1 week ago)**
+- [`hcb-api`](https://github.com/skyfallwastaken/hcb-api) - _Use the HCB API even without being part of Hack Club HQ_ **(2 weeks ago)**
 - [`site`](https://github.com/hackclub/site) - _🚩 The fourth iteration of the Hack Club site!_ **(3 weeks ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(3 weeks ago)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(1 month ago)**
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript   4h 31m 23s   ████████░░░░░░░░░░░░░░░░░  31.24%
-JSON         1h 54m 48s   ████░░░░░░░░░░░░░░░░░░░░░  13.21%
-Markdown     1h 23m 40s   ███░░░░░░░░░░░░░░░░░░░░░░  9.63%
-Svelte       1h 16m 39s   ███░░░░░░░░░░░░░░░░░░░░░░  8.82%
-JavaScript   1h 10m 40s   ███░░░░░░░░░░░░░░░░░░░░░░  8.13%
+TypeScript   4h 31m 23s   ████████░░░░░░░░░░░░░░░░░  31.16%
+JSON         1h 54m 48s   ████░░░░░░░░░░░░░░░░░░░░░  13.18%
+Markdown     1h 23m 40s   ███░░░░░░░░░░░░░░░░░░░░░░  9.61%
+Svelte       1h 16m 39s   ███░░░░░░░░░░░░░░░░░░░░░░  8.80%
+JavaScript   1h 10m 40s   ███░░░░░░░░░░░░░░░░░░░░░░  8.11%
 
 💼 Projects:
-terra        5h 26m 15s   █████████████░░░░░░░░░░░░  50.75%
-yaap         2h 24m 58s   ██████░░░░░░░░░░░░░░░░░░░  22.55%
-recovery     45m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.05%
-otter        39m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.17%
-orchard      34m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.32%
+terra        5h 28m 15s   █████████████░░░░░░░░░░░░  50.90%
+yaap         2h 24m 58s   ██████░░░░░░░░░░░░░░░░░░░  22.48%
+recovery     45m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.03%
+otter        39m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.15%
+orchard      34m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.30%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
