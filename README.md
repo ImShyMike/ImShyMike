@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript   4h 31m 23s   ████████░░░░░░░░░░░░░░░░░  31.16%
-JSON         1h 54m 48s   ████░░░░░░░░░░░░░░░░░░░░░  13.18%
-Markdown     1h 23m 40s   ███░░░░░░░░░░░░░░░░░░░░░░  9.61%
-Svelte       1h 16m 39s   ███░░░░░░░░░░░░░░░░░░░░░░  8.80%
-JavaScript   1h 10m 40s   ███░░░░░░░░░░░░░░░░░░░░░░  8.11%
+TypeScript    4h 16m 41s   ████████░░░░░░░░░░░░░░░░░  31.13%
+JSON          1h 52m 48s   ████░░░░░░░░░░░░░░░░░░░░░  13.68%
+Markdown      1h 17m 38s   ███░░░░░░░░░░░░░░░░░░░░░░  9.42%
+Svelte        1h 12m 58s   ███░░░░░░░░░░░░░░░░░░░░░░  8.85%
+JavaScript    59m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.25%
 
 💼 Projects:
-terra        5h 28m 15s   █████████████░░░░░░░░░░░░  50.90%
-yaap         2h 24m 58s   ██████░░░░░░░░░░░░░░░░░░░  22.48%
-recovery     45m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.03%
-otter        39m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.15%
-orchard      34m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.30%
+terra         5h 28m 15s   ██████████████░░░░░░░░░░░  53.62%
+yaap          2h 24m 58s   ██████░░░░░░░░░░░░░░░░░░░  23.68%
+recovery      45m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.41%
+orchard       34m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.59%
+shymike.dev   29m 26s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.81%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
