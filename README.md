@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript      4h 27m 1s    █████████░░░░░░░░░░░░░░░░  35.21%
-Svelte          1h 18m 30s   ███░░░░░░░░░░░░░░░░░░░░░░  10.35%
-JSON            1h 15m 0s    ███░░░░░░░░░░░░░░░░░░░░░░  9.89%
-Markdown        55m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.35%
-JavaScript      55m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.34%
+TypeScript      4h 29m 1s    █████████░░░░░░░░░░░░░░░░  35.19%
+Svelte          1h 18m 30s   ███░░░░░░░░░░░░░░░░░░░░░░  10.27%
+JSON            1h 15m 0s    ███░░░░░░░░░░░░░░░░░░░░░░  9.81%
+Markdown        57m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.56%
+JavaScript      55m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.28%
 
 💼 Projects:
-terra           5h 35m 0s    ███████████████░░░░░░░░░░  57.05%
-yaap            2h 39m 16s   ███████░░░░░░░░░░░░░░░░░░  27.12%
-hcb-dashboard   31m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.32%
-shymike.dev     26m 8s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.45%
-otter           23m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.05%
+terra           5h 38m 30s   ███████████████░░░░░░░░░░  57.31%
+yaap            2h 39m 16s   ███████░░░░░░░░░░░░░░░░░░  26.96%
+hcb-dashboard   31m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.29%
+shymike.dev     26m 8s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.42%
+otter           23m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.03%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
