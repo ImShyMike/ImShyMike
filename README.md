@@ -4,8 +4,8 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(today)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 week ago)**
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(1 week ago)**
 - [`scrape`](https://github.com/ImShyMike/scrape) - _make a web scraper, get a spider plushy_ **(2 weeks ago)**
 - [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(2 weeks ago)**
 - [`hcb-api`](https://github.com/skyfallwastaken/hcb-api) - _Use the HCB API even without being part of Hack Club HQ_ **(2 weeks ago)**
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript         6h 15m 45s   █████████████░░░░░░░░░░░░  50.88%
-Svelte             1h 6m 22s    ███░░░░░░░░░░░░░░░░░░░░░░  8.99%
-JSON               1h 4m 45s    ███░░░░░░░░░░░░░░░░░░░░░░  8.77%
-SCSS               54m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.35%
-Markdown           49m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.66%
+TypeScript         5h 54m 29s   ██████████████░░░░░░░░░░░  52.04%
+Svelte             1h 18m 52s   ███░░░░░░░░░░░░░░░░░░░░░░  11.58%
+JSON               52m 23s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.69%
+SCSS               52m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.67%
+Markdown           47m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.93%
 
 💼 Projects:
-terra              6h 27m 41s   ████████████████░░░░░░░░░  63.12%
-yaap               1h 26m 8s    ████░░░░░░░░░░░░░░░░░░░░░  14.02%
-channel-ping-bot   1h 19m 8s    ████░░░░░░░░░░░░░░░░░░░░░  12.88%
-hcb-dashboard      31m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.09%
-ysws-matcher       17m 44s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.89%
+terra              5h 47m 12s   ████████████████░░░░░░░░░  62.50%
+channel-ping-bot   1h 19m 8s    ████░░░░░░░░░░░░░░░░░░░░░  14.25%
+otter              50m 7s       ███░░░░░░░░░░░░░░░░░░░░░░  9.02%
+hcb-dashboard      31m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.63%
+yaap               24m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.45%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
