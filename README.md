@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript         5h 55m 28s   ██████████████░░░░░░░░░░░  54.99%
-Svelte             1h 10m 52s   ███░░░░░░░░░░░░░░░░░░░░░░  10.96%
-JSON               54m 17s      ███░░░░░░░░░░░░░░░░░░░░░░  8.40%
-SCSS               52m 11s      ███░░░░░░░░░░░░░░░░░░░░░░  8.07%
-Markdown           37m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.76%
+TypeScript         6h 19m 17s   ██████████████░░░░░░░░░░░  55.56%
+Svelte             1h 10m 52s   ███░░░░░░░░░░░░░░░░░░░░░░  10.38%
+JSON               58m 21s      ███░░░░░░░░░░░░░░░░░░░░░░  8.55%
+SCSS               52m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.64%
+Markdown           37m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.45%
 
 💼 Projects:
-terra              5h 23m 31s   ███████████████░░░░░░░░░░  59.96%
-channel-ping-bot   1h 19m 8s    ████░░░░░░░░░░░░░░░░░░░░░  14.67%
-otter              54m 34s      ███░░░░░░░░░░░░░░░░░░░░░░  10.11%
-hcb-dashboard      46m 53s      ███░░░░░░░░░░░░░░░░░░░░░░  8.69%
-ysws-matcher       17m 44s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.29%
+terra              5h 51m 59s   ████████████████░░░░░░░░░  61.67%
+channel-ping-bot   1h 19m 8s    ████░░░░░░░░░░░░░░░░░░░░░  13.87%
+otter              54m 34s      ███░░░░░░░░░░░░░░░░░░░░░░  9.56%
+hcb-dashboard      46m 53s      ███░░░░░░░░░░░░░░░░░░░░░░  8.21%
+ysws-matcher       17m 44s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.11%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
