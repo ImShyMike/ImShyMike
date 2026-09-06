@@ -4,11 +4,11 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(2 days ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(3 days ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 week ago)**
 - [`scrape`](https://github.com/ImShyMike/scrape) - _make a web scraper, get a spider plushy_ **(2 weeks ago)**
 - [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(2 weeks ago)**
-- [`hcb-api`](https://github.com/skyfallwastaken/hcb-api) - _Use the HCB API even without being part of Hack Club HQ_ **(2 weeks ago)**
+- [`hcb-api`](https://github.com/skyfallwastaken/hcb-api) - _Use the HCB API even without being part of Hack Club HQ_ **(3 weeks ago)**
 - [`site`](https://github.com/hackclub/site) - _🚩 The fourth iteration of the Hack Club site!_ **(1 month ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 month ago)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(1 month ago)**
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript         4h 47m 22s   ██████████████░░░░░░░░░░░  52.48%
-Svelte             1h 10m 52s   ████░░░░░░░░░░░░░░░░░░░░░  12.94%
-JSON               1h 0m 51s    ███░░░░░░░░░░░░░░░░░░░░░░  11.11%
-SCSS               46m 11s      ███░░░░░░░░░░░░░░░░░░░░░░  8.43%
-Shell              20m 44s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.79%
+TypeScript         4h 49m 22s   █████████████░░░░░░░░░░░░  51.33%
+Svelte             1h 10m 52s   ████░░░░░░░░░░░░░░░░░░░░░  12.57%
+JSON               1h 0m 51s    ███░░░░░░░░░░░░░░░░░░░░░░  10.79%
+SCSS               46m 11s      ███░░░░░░░░░░░░░░░░░░░░░░  8.19%
+Shell              22m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.04%
 
 💼 Projects:
-terra              4h 5m 41s    ██████████████░░░░░░░░░░░  52.90%
-channel-ping-bot   1h 19m 8s    █████░░░░░░░░░░░░░░░░░░░░  17.04%
-otter              54m 34s      ███░░░░░░░░░░░░░░░░░░░░░░  11.75%
-hcb-dashboard      46m 53s      ███░░░░░░░░░░░░░░░░░░░░░░  10.09%
-ysws-matcher       17m 44s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.82%
+terra              4h 16m 22s   ██████████████░░░░░░░░░░░  53.96%
+channel-ping-bot   1h 19m 8s    █████░░░░░░░░░░░░░░░░░░░░  16.66%
+otter              54m 34s      ███░░░░░░░░░░░░░░░░░░░░░░  11.48%
+hcb-dashboard      46m 53s      ███░░░░░░░░░░░░░░░░░░░░░░  9.87%
+ysws-matcher       17m 44s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.73%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
