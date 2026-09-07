@@ -4,7 +4,7 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(3 days ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(4 days ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 week ago)**
 - [`scrape`](https://github.com/ImShyMike/scrape) - _make a web scraper, get a spider plushy_ **(2 weeks ago)**
 - [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(2 weeks ago)**
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript         4h 47m 22s   █████████████░░░░░░░░░░░░  51.16%
-Svelte             1h 10m 52s   ████░░░░░░░░░░░░░░░░░░░░░  12.62%
-JSON               1h 0m 51s    ███░░░░░░░░░░░░░░░░░░░░░░  10.83%
-SCSS               46m 11s      ███░░░░░░░░░░░░░░░░░░░░░░  8.22%
-Shell              22m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.06%
+TypeScript         4h 53m 59s   █████████████░░░░░░░░░░░░  51.00%
+Svelte             1h 10m 52s   ████░░░░░░░░░░░░░░░░░░░░░  12.29%
+JSON               1h 4m 58s    ███░░░░░░░░░░░░░░░░░░░░░░  11.27%
+SCSS               46m 11s      ███░░░░░░░░░░░░░░░░░░░░░░  8.01%
+Shell              24m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.30%
 
 💼 Projects:
-terra              4h 14m 21s   ██████████████░░░░░░░░░░░  53.76%
-channel-ping-bot   1h 19m 8s    █████░░░░░░░░░░░░░░░░░░░░  16.73%
-otter              54m 34s      ███░░░░░░░░░░░░░░░░░░░░░░  11.53%
-hcb-dashboard      46m 53s      ███░░░░░░░░░░░░░░░░░░░░░░  9.91%
-ysws-matcher       17m 44s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.75%
+terra              4h 14m 21s   ██████████████░░░░░░░░░░░  52.89%
+channel-ping-bot   1h 19m 8s    █████░░░░░░░░░░░░░░░░░░░░  16.46%
+otter              54m 34s      ███░░░░░░░░░░░░░░░░░░░░░░  11.35%
+hcb-dashboard      46m 53s      ███░░░░░░░░░░░░░░░░░░░░░░  9.75%
+ysws-matcher       17m 44s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.69%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
