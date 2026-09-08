@@ -4,10 +4,10 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(4 days ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(5 days ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 week ago)**
 - [`scrape`](https://github.com/ImShyMike/scrape) - _make a web scraper, get a spider plushy_ **(2 weeks ago)**
-- [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(2 weeks ago)**
+- [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(3 weeks ago)**
 - [`hcb-api`](https://github.com/skyfallwastaken/hcb-api) - _Use the HCB API even without being part of Hack Club HQ_ **(3 weeks ago)**
 - [`site`](https://github.com/hackclub/site) - _🚩 The fourth iteration of the Hack Club site!_ **(1 month ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 month ago)**
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Add record for scrape.hackclub.com**](https://github.com/hackclub/dns/pull/3439) on [`dns`](https://github.com/hackclub/dns) **(2 weeks ago)**
+- [**Add record for scrape.hackclub.com**](https://github.com/hackclub/dns/pull/3439) on [`dns`](https://github.com/hackclub/dns) **(3 weeks ago)**
 - [**Make /opensource cards clickable**](https://github.com/hackclub/site/pull/2149) on [`site`](https://github.com/hackclub/site) **(1 month ago)**
 - [**Add missing fields to admin heartbeat endpoint**](https://github.com/hackclub/hackatime/pull/1496) on [`hackatime`](https://github.com/hackclub/hackatime) **(1 month ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript               6h 8m 42s   ██████████████░░░░░░░░░░░  53.23%
-JSON                     1h 7m 19s   ███░░░░░░░░░░░░░░░░░░░░░░  9.72%
-Svelte                   1h 0m 10s   ███░░░░░░░░░░░░░░░░░░░░░░  8.69%
-SCSS                     46m 11s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.67%
-Markdown                 30m 5s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.34%
+TypeScript               5h 25m 16s   ██████████████░░░░░░░░░░░  53.59%
+JSON                     1h 6m 42s    ███░░░░░░░░░░░░░░░░░░░░░░  10.99%
+Svelte                   46m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.59%
+Shell                    31m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.20%
+Markdown                 28m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.63%
 
 💼 Projects:
-terra                    4h 4m 21s   ███████████░░░░░░░░░░░░░░  43.54%
-channel-ping-bot         1h 19m 8s   ████░░░░░░░░░░░░░░░░░░░░░  14.10%
-slack-block-kit-schema   55m 24s     ███░░░░░░░░░░░░░░░░░░░░░░  9.87%
-otter                    54m 34s     ███░░░░░░░░░░░░░░░░░░░░░░  9.72%
-slack-undoc-client       53m 10s     ███░░░░░░░░░░░░░░░░░░░░░░  9.47%
+terra                    2h 54m 0s    █████████░░░░░░░░░░░░░░░░  34.98%
+channel-ping-bot         1h 19m 8s    ████░░░░░░░░░░░░░░░░░░░░░  15.91%
+slack-block-kit-schema   1h 9m 43s    ████░░░░░░░░░░░░░░░░░░░░░  14.02%
+slack-undoc-client       1h 0m 14s    ████░░░░░░░░░░░░░░░░░░░░░  12.11%
+otter                    54m 34s      ███░░░░░░░░░░░░░░░░░░░░░░  10.97%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
