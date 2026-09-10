@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript               7h 0m 33s    ██████████████░░░░░░░░░░░  54.45%
-JSON                     1h 24m 35s   ███░░░░░░░░░░░░░░░░░░░░░░  10.95%
-HTML                     43m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.65%
-Svelte                   41m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.42%
-Shell                    34m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.51%
+TypeScript               4h 45m 56s   █████████████░░░░░░░░░░░░  48.79%
+JSON                     1h 1m 31s    ███░░░░░░░░░░░░░░░░░░░░░░  10.50%
+Svelte                   41m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.15%
+HTML                     41m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.11%
+Shell                    30m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.26%
 
 💼 Projects:
-terra                    4h 1m 15s    ██████████░░░░░░░░░░░░░░░  38.03%
-slack-block-kit-schema   2h 9m 50s    ██████░░░░░░░░░░░░░░░░░░░  20.47%
-channel-ping-bot         1h 19m 8s    ████░░░░░░░░░░░░░░░░░░░░░  12.47%
-slack-undoc-client       1h 15m 20s   ███░░░░░░░░░░░░░░░░░░░░░░  11.88%
-otter                    54m 34s      ███░░░░░░░░░░░░░░░░░░░░░░  8.60%
+terra                    2h 48m 36s   █████████░░░░░░░░░░░░░░░░  35.93%
+slack-block-kit-schema   2h 9m 50s    ███████░░░░░░░░░░░░░░░░░░  27.67%
+slack-undoc-client       1h 15m 20s   █████░░░░░░░░░░░░░░░░░░░░  16.05%
+otter                    52m 34s      ███░░░░░░░░░░░░░░░░░░░░░░  11.20%
+hcb-dashboard            13m 38s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.91%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
