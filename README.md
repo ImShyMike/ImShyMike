@@ -4,7 +4,7 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(6 days ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(1 week ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(2 weeks ago)**
 - [`scrape`](https://github.com/ImShyMike/scrape) - _make a web scraper, get a spider plushy_ **(3 weeks ago)**
 - [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(3 weeks ago)**
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript               6h 58m 33s   ██████████████░░░░░░░░░░░  54.33%
-JSON                     1h 24m 35s   ███░░░░░░░░░░░░░░░░░░░░░░  10.98%
-HTML                     43m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.67%
-Svelte                   41m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.44%
-Shell                    34m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.52%
+TypeScript               7h 0m 33s    ██████████████░░░░░░░░░░░  54.45%
+JSON                     1h 24m 35s   ███░░░░░░░░░░░░░░░░░░░░░░  10.95%
+HTML                     43m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.65%
+Svelte                   41m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.42%
+Shell                    34m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.51%
 
 💼 Projects:
-terra                    3h 59m 15s   ██████████░░░░░░░░░░░░░░░  37.83%
-slack-block-kit-schema   2h 9m 50s    ██████░░░░░░░░░░░░░░░░░░░  20.53%
-channel-ping-bot         1h 19m 8s    ████░░░░░░░░░░░░░░░░░░░░░  12.51%
-slack-undoc-client       1h 15m 20s   ███░░░░░░░░░░░░░░░░░░░░░░  11.91%
-otter                    54m 34s      ███░░░░░░░░░░░░░░░░░░░░░░  8.63%
+terra                    4h 1m 15s    ██████████░░░░░░░░░░░░░░░  38.03%
+slack-block-kit-schema   2h 9m 50s    ██████░░░░░░░░░░░░░░░░░░░  20.47%
+channel-ping-bot         1h 19m 8s    ████░░░░░░░░░░░░░░░░░░░░░  12.47%
+slack-undoc-client       1h 15m 20s   ███░░░░░░░░░░░░░░░░░░░░░░  11.88%
+otter                    54m 34s      ███░░░░░░░░░░░░░░░░░░░░░░  8.60%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
