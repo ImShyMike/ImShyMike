@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript               6h 22m 14s   ██████████████░░░░░░░░░░░  54.31%
-JSON                     1h 19m 32s   ███░░░░░░░░░░░░░░░░░░░░░░  11.30%
-HTML                     41m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.92%
-SCSS                     29m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.21%
-Shell                    28m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.10%
+TypeScript               6h 38m 23s   ██████████████░░░░░░░░░░░  54.91%
+JSON                     1h 19m 32s   ███░░░░░░░░░░░░░░░░░░░░░░  10.96%
+HTML                     41m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.74%
+SCSS                     35m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.85%
+Shell                    28m 50s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.97%
 
 💼 Projects:
-terra                    5h 16m 41s   ███████████████░░░░░░░░░░  56.07%
-slack-block-kit-schema   2h 9m 50s    ██████░░░░░░░░░░░░░░░░░░░  22.99%
-slack-undoc-client       1h 15m 20s   ████░░░░░░░░░░░░░░░░░░░░░  13.34%
-hcb-dashboard            13m 38s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.41%
-yaap                     7m 51s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.39%
+terra                    5h 36m 26s   ███████████████░░░░░░░░░░  57.56%
+slack-block-kit-schema   2h 9m 50s    ██████░░░░░░░░░░░░░░░░░░░  22.21%
+slack-undoc-client       1h 15m 20s   ████░░░░░░░░░░░░░░░░░░░░░  12.89%
+hcb-dashboard            13m 38s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.33%
+yaap                     7m 51s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.34%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
