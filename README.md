@@ -8,7 +8,7 @@ A student who likes coding and gaming!
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(2 weeks ago)**
 - [`scrape`](https://github.com/ImShyMike/scrape) - _make a web scraper, get a spider plushy_ **(3 weeks ago)**
 - [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(3 weeks ago)**
-- [`hcb-api`](https://github.com/skyfallwastaken/hcb-api) - _Use the HCB API even without being part of Hack Club HQ_ **(3 weeks ago)**
+- [`hcb-api`](https://github.com/skyfallwastaken/hcb-api) - _Use the HCB API even without being part of Hack Club HQ_ **(4 weeks ago)**
 - [`site`](https://github.com/hackclub/site) - _🚩 The fourth iteration of the Hack Club site!_ **(1 month ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 month ago)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(1 month ago)**
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript               6h 20m 33s   ██████████████░░░░░░░░░░░  55.71%
-JSON                     1h 13m 44s   ███░░░░░░░░░░░░░░░░░░░░░░  10.79%
-HTML                     41m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.10%
-SCSS                     33m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.86%
-JavaScript               32m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.68%
+TypeScript               6h 26m 33s   ███████████████░░░░░░░░░░  56.10%
+JSON                     1h 13m 44s   ███░░░░░░░░░░░░░░░░░░░░░░  10.70%
+HTML                     41m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.05%
+SCSS                     33m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.82%
+JavaScript               32m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.64%
 
 💼 Projects:
-terra                    5h 20m 11s   ███████████████░░░░░░░░░░  58.02%
-slack-block-kit-schema   2h 9m 50s    ██████░░░░░░░░░░░░░░░░░░░  23.53%
-slack-undoc-client       1h 15m 20s   ████░░░░░░░░░░░░░░░░░░░░░  13.65%
-yaap                     7m 51s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.42%
-slacking                 6m 24s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.16%
+terra                    5h 20m 11s   ███████████████░░░░░░░░░░  57.40%
+slack-block-kit-schema   2h 9m 50s    ██████░░░░░░░░░░░░░░░░░░░  23.27%
+slack-undoc-client       1h 21m 20s   ████░░░░░░░░░░░░░░░░░░░░░  14.58%
+yaap                     7m 51s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.41%
+slacking                 6m 24s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.15%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
