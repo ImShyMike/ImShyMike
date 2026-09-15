@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
+- [**Terra transcript**](https://github.com/hackclub/nephthys/pull/258) on [`nephthys`](https://github.com/hackclub/nephthys) **(today)**
 - [**Add record for scrape.hackclub.com**](https://github.com/hackclub/dns/pull/3439) on [`dns`](https://github.com/hackclub/dns) **(4 weeks ago)**
 - [**Make /opensource cards clickable**](https://github.com/hackclub/site/pull/2149) on [`site`](https://github.com/hackclub/site) **(1 month ago)**
-- [**Add missing fields to admin heartbeat endpoint**](https://github.com/hackclub/hackatime/pull/1496) on [`hackatime`](https://github.com/hackclub/hackatime) **(1 month ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript               7h 18m 0s    ████████████████░░░░░░░░░  61.43%
-SCSS                     1h 15m 52s   ███░░░░░░░░░░░░░░░░░░░░░░  10.64%
-JSON                     1h 1m 9s     ███░░░░░░░░░░░░░░░░░░░░░░  8.58%
-HTML                     29m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.08%
-SQL                      25m 6s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.52%
+TypeScript               7h 20m 0s    ███████████████░░░░░░░░░░  59.88%
+SCSS                     1h 16m 9s    ███░░░░░░░░░░░░░░░░░░░░░░  10.36%
+JSON                     1h 3m 9s     ███░░░░░░░░░░░░░░░░░░░░░░  8.59%
+HTML                     29m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.96%
+SQL                      25m 6s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.42%
 
 💼 Projects:
-terra                    8h 31m 20s   ██████████████████████░░░  85.36%
-slack-block-kit-schema   58m 8s       ███░░░░░░░░░░░░░░░░░░░░░░  9.70%
-slack-undoc-client       19m 6s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.19%
-slacking                 6m 24s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.07%
-home-manager             4m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.68%
+terra                    8h 33m 38s   █████████████████████░░░░  83.25%
+slack-block-kit-schema   58m 8s       ███░░░░░░░░░░░░░░░░░░░░░░  9.42%
+slack-undoc-client       19m 6s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.10%
+nephthys                 15m 37s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.53%
+slacking                 6m 24s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.04%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
