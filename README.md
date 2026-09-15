@@ -16,7 +16,7 @@ A student who likes coding and gaming!
 #### 📦 My most popular repos
 
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(35⭐)**
-- [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(33⭐)**
+- [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(34⭐)**
 - [`waka-relay`](https://github.com/ImShyMike/waka-relay) - _📊 A self-hosted app that relays WakaTime heartbeats to multiple instances_ **(29⭐)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(17⭐)**
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(14⭐)**
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript               7h 9m 9s     ████████████████░░░░░░░░░  62.16%
-SCSS                     1h 6m 16s    ███░░░░░░░░░░░░░░░░░░░░░░  9.60%
-JSON                     1h 1m 9s     ███░░░░░░░░░░░░░░░░░░░░░░  8.86%
-HTML                     29m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.21%
-SQL                      25m 6s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.64%
+TypeScript               7h 11m 9s   ████████████████░░░░░░░░░  61.91%
+SCSS                     1h 8m 16s   ███░░░░░░░░░░░░░░░░░░░░░░  9.80%
+JSON                     1h 1m 9s    ███░░░░░░░░░░░░░░░░░░░░░░  8.78%
+HTML                     29m 5s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.18%
+SQL                      25m 6s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.60%
 
 💼 Projects:
-terra                    8h 16m 16s   ██████████████████████░░░  84.98%
-slack-block-kit-schema   58m 8s       ███░░░░░░░░░░░░░░░░░░░░░░  9.95%
-slack-undoc-client       19m 6s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.27%
-slacking                 6m 24s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.10%
-home-manager             4m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.70%
+terra                    8h 19m 0s   ██████████████████████░░░  85.05%
+slack-block-kit-schema   58m 8s      ███░░░░░░░░░░░░░░░░░░░░░░  9.91%
+slack-undoc-client       19m 6s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.26%
+slacking                 6m 24s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.09%
+home-manager             4m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.70%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
