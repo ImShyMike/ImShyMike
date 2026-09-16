@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript               6h 1m 57s    ███████████████░░░░░░░░░░  59.50%
-SCSS                     1h 11m 53s   ███░░░░░░░░░░░░░░░░░░░░░░  11.82%
-JSON                     54m 7s       ███░░░░░░░░░░░░░░░░░░░░░░  8.90%
-SQL                      25m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.13%
-Python                   23m 57s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.94%
+TypeScript               6h 26m 35s   ███████████████░░░░░░░░░░  59.02%
+SCSS                     1h 17m 41s   ███░░░░░░░░░░░░░░░░░░░░░░  11.86%
+JSON                     56m 53s      ███░░░░░░░░░░░░░░░░░░░░░░  8.68%
+SQL                      27m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.20%
+Python                   23m 57s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.66%
 
 💼 Projects:
-terra                    7h 56m 42s   ████████████████████████░  92.79%
-nephthys                 15m 37s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.04%
-slack-block-kit-schema   6m 55s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.35%
-slacking                 6m 24s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.25%
-home-manager             4m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.79%
+terra                    8h 30m 18s   ████████████████████████░  93.24%
+nephthys                 15m 37s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.85%
+slack-block-kit-schema   6m 55s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.26%
+slacking                 6m 24s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.17%
+home-manager             4m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.75%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
