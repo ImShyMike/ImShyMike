@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript       7h 42m 2s    ████████████████░░░░░░░░░  60.82%
-SCSS             1h 20m 21s   ███░░░░░░░░░░░░░░░░░░░░░░  10.58%
-JSON             1h 4m 20s    ███░░░░░░░░░░░░░░░░░░░░░░  8.47%
-SQL              35m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.70%
-Python           33m 1s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.35%
+TypeScript       7h 52m 4s    ████████████████░░░░░░░░░  61.34%
+SCSS             1h 20m 21s   ███░░░░░░░░░░░░░░░░░░░░░░  10.44%
+JSON             1h 4m 20s    ███░░░░░░░░░░░░░░░░░░░░░░  8.36%
+SQL              35m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.64%
+Python           33m 1s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.29%
 
 💼 Projects:
-terra            9h 51m 2s    ████████████████████████░  92.76%
-nephthys         15m 37s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.45%
-arg              15m 24s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.42%
-airtable-proxy   6m 45s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.06%
-orchard          4m 21s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.68%
+terra            10h 1m 4s    ████████████████████████░  92.87%
+nephthys         15m 37s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.41%
+arg              15m 24s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.38%
+airtable-proxy   6m 45s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.04%
+orchard          4m 21s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.67%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
