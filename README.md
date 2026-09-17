@@ -4,11 +4,11 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`nephthys`](https://github.com/hackclub/nephthys) - _Support bot for the Hack Club Slack_ **(today)**
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(1 week ago)**
+- [`nephthys`](https://github.com/hackclub/nephthys) - _Support bot for the Hack Club Slack_ **(1 day ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(2 weeks ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(3 weeks ago)**
 - [`scrape`](https://github.com/ImShyMike/scrape) - _make a web scraper, get a spider plushy_ **(4 weeks ago)**
-- [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(4 weeks ago)**
+- [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(1 month ago)**
 - [`hcb-api`](https://github.com/skyfallwastaken/hcb-api) - _Use the HCB API even without being part of Hack Club HQ_ **(1 month ago)**
 - [`site`](https://github.com/hackclub/site) - _🚩 The fourth iteration of the Hack Club site!_ **(1 month ago)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 month ago)**
@@ -23,25 +23,23 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Terra transcript**](https://github.com/hackclub/nephthys/pull/258) on [`nephthys`](https://github.com/hackclub/nephthys) **(1 day ago)**
-- [**Add record for scrape.hackclub.com**](https://github.com/hackclub/dns/pull/3439) on [`dns`](https://github.com/hackclub/dns) **(4 weeks ago)**
+- [**Terra transcript**](https://github.com/hackclub/nephthys/pull/258) on [`nephthys`](https://github.com/hackclub/nephthys) **(2 days ago)**
+- [**Add record for scrape.hackclub.com**](https://github.com/hackclub/dns/pull/3439) on [`dns`](https://github.com/hackclub/dns) **(1 month ago)**
 - [**Make /opensource cards clickable**](https://github.com/hackclub/site/pull/2149) on [`site`](https://github.com/hackclub/site) **(1 month ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript               6h 35m 4s    ███████████████░░░░░░░░░░  59.00%
-SCSS                     1h 17m 41s   ███░░░░░░░░░░░░░░░░░░░░░░  11.60%
-JSON                     1h 0m 53s    ███░░░░░░░░░░░░░░░░░░░░░░  9.09%
-SQL                      27m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.11%
-Python                   23m 57s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.58%
+TypeScript           6h 12m 7s    ████████████████░░░░░░░░░  60.89%
+SCSS                 1h 15m 41s   ████░░░░░░░░░░░░░░░░░░░░░  12.38%
+JSON                 54m 2s       ███░░░░░░░░░░░░░░░░░░░░░░  8.84%
+SQL                  27m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.51%
+Python               15m 37s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.56%
 
 💼 Projects:
-terra                    8h 44m 7s    ████████████████████████░  93.40%
-nephthys                 15m 37s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.78%
-slack-block-kit-schema   6m 55s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.23%
-slacking                 6m 24s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.14%
-home-manager             4m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.73%
+terra                8h 15m 33s   █████████████████████████  96.19%
+nephthys             15m 37s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.03%
+slack-undoc-client   4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.78%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
