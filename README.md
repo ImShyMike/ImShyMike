@@ -4,7 +4,6 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`dryft`](https://github.com/ImShyMike/dryft) - __ **(today)**
 - [`nephthys`](https://github.com/hackclub/nephthys) - _Support bot for the Hack Club Slack_ **(3 days ago)**
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(2 weeks ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(3 weeks ago)**
@@ -12,6 +11,7 @@ A student who likes coding and gaming!
 - [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(1 month ago)**
 - [`hcb-api`](https://github.com/skyfallwastaken/hcb-api) - _Use the HCB API even without being part of Hack Club HQ_ **(1 month ago)**
 - [`site`](https://github.com/hackclub/site) - _🚩 The fourth iteration of the Hack Club site!_ **(1 month ago)**
+- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 month ago)**
 
 #### 📦 My most popular repos
 
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript       5h 36m 57s   ████████████████░░░░░░░░░  62.16%
-SCSS             51m 24s      ███░░░░░░░░░░░░░░░░░░░░░░  9.48%
-Python           37m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.89%
-JSON             35m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.64%
-YAML             20m 1s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.69%
+TypeScript       5h 36m 57s   ███████████████░░░░░░░░░░  59.76%
+SCSS             51m 24s      ███░░░░░░░░░░░░░░░░░░░░░░  9.12%
+Python           45m 47s      ███░░░░░░░░░░░░░░░░░░░░░░  8.12%
+JSON             38m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.79%
+Markdown         22m 9s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.93%
 
 💼 Projects:
-terra            6h 41m 30s   ███████████████████████░░  88.65%
-nephthys         15m 37s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.45%
-arg              15m 24s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.40%
-airtable-proxy   6m 45s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.49%
-dryft            5m 16s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.16%
+terra            6h 41m 30s   ██████████████████████░░░  85.78%
+dryft            18m 4s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.86%
+nephthys         15m 37s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.34%
+arg              15m 24s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.29%
+airtable-proxy   6m 45s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.44%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
