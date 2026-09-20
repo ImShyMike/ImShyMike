@@ -4,6 +4,7 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
+- [`bingbong`](https://github.com/sophiayduan/bingbong) - __ **(today)**
 - [`nephthys`](https://github.com/hackclub/nephthys) - _Support bot for the Hack Club Slack_ **(4 days ago)**
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(2 weeks ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(3 weeks ago)**
@@ -11,7 +12,6 @@ A student who likes coding and gaming!
 - [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(1 month ago)**
 - [`hcb-api`](https://github.com/skyfallwastaken/hcb-api) - _Use the HCB API even without being part of Hack Club HQ_ **(1 month ago)**
 - [`site`](https://github.com/hackclub/site) - _🚩 The fourth iteration of the Hack Club site!_ **(1 month ago)**
-- [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(1 month ago)**
 
 #### 📦 My most popular repos
 
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript   5h 36m 57s   ███████████████░░░░░░░░░░  59.04%
-SCSS         51m 24s      ███░░░░░░░░░░░░░░░░░░░░░░  9.01%
-Python       45m 49s      ███░░░░░░░░░░░░░░░░░░░░░░  8.03%
-JSON         38m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.71%
-Markdown     22m 9s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.88%
+TypeScript   5h 14m 54s   ██████████████░░░░░░░░░░░  53.46%
+Python       54m 31s      ███░░░░░░░░░░░░░░░░░░░░░░  9.26%
+SCSS         51m 24s      ███░░░░░░░░░░░░░░░░░░░░░░  8.73%
+C            33m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.66%
+JSON         31m 28s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.34%
 
 💼 Projects:
-terra        6h 41m 30s   ██████████████████████░░░  84.55%
-dryft        18m 6s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.81%
-nephthys     15m 37s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.29%
-arg          15m 24s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.24%
-bingbong     6m 48s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.43%
+terra        6h 16m 38s   ████████████████████░░░░░  76.66%
+bingbong     52m 7s       ███░░░░░░░░░░░░░░░░░░░░░░  10.61%
+dryft        18m 6s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.68%
+nephthys     15m 37s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.18%
+arg          15m 24s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.13%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
