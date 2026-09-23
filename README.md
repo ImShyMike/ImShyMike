@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript        2h 58m 13s   █████████░░░░░░░░░░░░░░░░  35.81%
-Svelte            1h 3m 28s    ████░░░░░░░░░░░░░░░░░░░░░  12.75%
-Python            56m 31s      ███░░░░░░░░░░░░░░░░░░░░░░  11.36%
-C                 50m 15s      ███░░░░░░░░░░░░░░░░░░░░░░  10.10%
-Markdown          36m 4s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.25%
+TypeScript        2h 43m 39s   █████████░░░░░░░░░░░░░░░░  35.17%
+Svelte            1h 5m 28s    ████░░░░░░░░░░░░░░░░░░░░░  14.07%
+C                 50m 15s      ███░░░░░░░░░░░░░░░░░░░░░░  10.80%
+Python            38m 54s      ███░░░░░░░░░░░░░░░░░░░░░░  8.36%
+Markdown          31m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.87%
 
 💼 Projects:
-terra             3h 20m 5s    █████████████░░░░░░░░░░░░  48.64%
-bingbong          2h 5m 33s    ████████░░░░░░░░░░░░░░░░░  30.52%
-echo-show-stuff   23m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.62%
-dryft             18m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.40%
-nephthys          15m 37s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.80%
+terra             3h 1m 0s     ████████████░░░░░░░░░░░░░  46.99%
+bingbong          2h 5m 33s    █████████░░░░░░░░░░░░░░░░  32.59%
+echo-show-stuff   31m 42s      ███░░░░░░░░░░░░░░░░░░░░░░  8.23%
+dryft             18m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.70%
+arg               15m 24s      █░░░░░░░░░░░░░░░░░░░░░░░░  4.00%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
