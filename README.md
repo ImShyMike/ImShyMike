@@ -4,7 +4,7 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`bingbong`](https://github.com/sophiayduan/bingbong) - __ **(3 days ago)**
+- [`bingbong`](https://github.com/sophiayduan/bingbong) - _hack the north 2026 finalist_ **(3 days ago)**
 - [`nephthys`](https://github.com/hackclub/nephthys) - _Support bot for the Hack Club Slack_ **(1 week ago)**
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(2 weeks ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(4 weeks ago)**
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript        2h 55m 32s   █████████░░░░░░░░░░░░░░░░  35.18%
-Svelte            1h 13m 34s   ████░░░░░░░░░░░░░░░░░░░░░  14.74%
-C                 50m 15s      ███░░░░░░░░░░░░░░░░░░░░░░  10.07%
-Python            38m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.80%
-Shell             36m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.33%
+TypeScript        3h 12m 52s   █████████░░░░░░░░░░░░░░░░  35.40%
+Svelte            1h 20m 31s   ████░░░░░░░░░░░░░░░░░░░░░  14.78%
+C                 50m 15s      ███░░░░░░░░░░░░░░░░░░░░░░  9.22%
+Python            38m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.14%
+Shell             38m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.11%
 
 💼 Projects:
-terra             3h 9m 21s    ████████████░░░░░░░░░░░░░  46.07%
-bingbong          2h 5m 33s    ████████░░░░░░░░░░░░░░░░░  30.55%
-echo-show-stuff   49m 7s       ███░░░░░░░░░░░░░░░░░░░░░░  11.95%
-dryft             18m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.40%
-arg               15m 24s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.75%
+terra             3h 36m 43s   █████████████░░░░░░░░░░░░  48.14%
+bingbong          2h 5m 33s    ███████░░░░░░░░░░░░░░░░░░  27.89%
+echo-show-stuff   1h 0m 59s    ████░░░░░░░░░░░░░░░░░░░░░  13.55%
+dryft             18m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.02%
+arg               15m 24s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.42%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
