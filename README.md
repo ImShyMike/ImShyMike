@@ -4,9 +4,9 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`bingbong`](https://github.com/sophiayduan/bingbong) - _hack the north 2026 finalist_ **(3 days ago)**
+- [`bingbong`](https://github.com/sophiayduan/bingbong) - _hack the north 2026 finalist_ **(4 days ago)**
 - [`nephthys`](https://github.com/hackclub/nephthys) - _Support bot for the Hack Club Slack_ **(1 week ago)**
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(2 weeks ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(3 weeks ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(4 weeks ago)**
 - [`scrape`](https://github.com/ImShyMike/scrape) - _make a web scraper, get a spider plushy_ **(1 month ago)**
 - [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(1 month ago)**
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript        3h 12m 52s   █████████░░░░░░░░░░░░░░░░  35.40%
-Svelte            1h 20m 31s   ████░░░░░░░░░░░░░░░░░░░░░  14.78%
-C                 50m 15s      ███░░░░░░░░░░░░░░░░░░░░░░  9.22%
-Python            38m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.14%
-Shell             38m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.11%
+TypeScript        3h 16m 57s   █████████░░░░░░░░░░░░░░░░  34.99%
+Svelte            1h 27m 27s   ████░░░░░░░░░░░░░░░░░░░░░  15.54%
+C                 50m 15s      ███░░░░░░░░░░░░░░░░░░░░░░  8.93%
+Python            38m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.91%
+Shell             38m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.88%
 
 💼 Projects:
-terra             3h 36m 43s   █████████████░░░░░░░░░░░░  48.14%
-bingbong          2h 5m 33s    ███████░░░░░░░░░░░░░░░░░░  27.89%
-echo-show-stuff   1h 0m 59s    ████░░░░░░░░░░░░░░░░░░░░░  13.55%
-dryft             18m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.02%
-arg               15m 24s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.42%
+terra             3h 42m 20s   █████████████░░░░░░░░░░░░  48.04%
+bingbong          2h 5m 33s    ███████░░░░░░░░░░░░░░░░░░  27.13%
+echo-show-stuff   1h 7m 55s    ████░░░░░░░░░░░░░░░░░░░░░  14.68%
+dryft             18m 6s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.91%
+arg               15m 24s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.33%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
