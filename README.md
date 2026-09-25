@@ -4,12 +4,12 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
+- [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(today)**
+- [`nephthys`](https://github.com/hackclub/nephthys) - _Support bot for the Hack Club Slack_ **(today)**
 - [`bingbong`](https://github.com/sophiayduan/bingbong) - _hack the north 2026 finalist_ **(5 days ago)**
-- [`nephthys`](https://github.com/hackclub/nephthys) - _Support bot for the Hack Club Slack_ **(1 week ago)**
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(3 weeks ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 month ago)**
 - [`scrape`](https://github.com/ImShyMike/scrape) - _make a web scraper, get a spider plushy_ **(1 month ago)**
-- [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(1 month ago)**
 - [`hcb-api`](https://github.com/skyfallwastaken/hcb-api) - _Use the HCB API even without being part of Hack Club HQ_ **(1 month ago)**
 - [`site`](https://github.com/hackclub/site) - _🚩 The fourth iteration of the Hack Club site!_ **(1 month ago)**
 
@@ -23,9 +23,9 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
+- [**Add terra api + terra game server**](https://github.com/hackclub/dns/pull/3704) on [`dns`](https://github.com/hackclub/dns) **(today)**
 - [**Don't crash + don't leak memory**](https://github.com/hackclub/nephthys/pull/265) on [`nephthys`](https://github.com/hackclub/nephthys) **(today)**
 - [**Terra transcript**](https://github.com/hackclub/nephthys/pull/258) on [`nephthys`](https://github.com/hackclub/nephthys) **(1 week ago)**
-- [**Add record for scrape.hackclub.com**](https://github.com/hackclub/dns/pull/3439) on [`dns`](https://github.com/hackclub/dns) **(1 month ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
