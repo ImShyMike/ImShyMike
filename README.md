@@ -4,10 +4,10 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(today)**
-- [`nephthys`](https://github.com/hackclub/nephthys) - _Support bot for the Hack Club Slack_ **(1 day ago)**
-- [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(1 day ago)**
-- [`bingbong`](https://github.com/sophiayduan/bingbong) - _hack the north 2026 finalist_ **(6 days ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(1 day ago)**
+- [`nephthys`](https://github.com/hackclub/nephthys) - _Support bot for the Hack Club Slack_ **(2 days ago)**
+- [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(2 days ago)**
+- [`bingbong`](https://github.com/sophiayduan/bingbong) - _hack the north 2026 finalist_ **(1 week ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 month ago)**
 - [`scrape`](https://github.com/ImShyMike/scrape) - _make a web scraper, get a spider plushy_ **(1 month ago)**
 - [`hcb-api`](https://github.com/skyfallwastaken/hcb-api) - _Use the HCB API even without being part of Hack Club HQ_ **(1 month ago)**
@@ -23,8 +23,8 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Add terra api + terra game server**](https://github.com/hackclub/dns/pull/3704) on [`dns`](https://github.com/hackclub/dns) **(1 day ago)**
-- [**Don't crash + don't leak memory**](https://github.com/hackclub/nephthys/pull/265) on [`nephthys`](https://github.com/hackclub/nephthys) **(1 day ago)**
+- [**Add terra api + terra game server**](https://github.com/hackclub/dns/pull/3704) on [`dns`](https://github.com/hackclub/dns) **(2 days ago)**
+- [**Don't crash + don't leak memory**](https://github.com/hackclub/nephthys/pull/265) on [`nephthys`](https://github.com/hackclub/nephthys) **(2 days ago)**
 - [**Terra transcript**](https://github.com/hackclub/nephthys/pull/258) on [`nephthys`](https://github.com/hackclub/nephthys) **(1 week ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
