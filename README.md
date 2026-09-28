@@ -5,8 +5,8 @@ A student who likes coding and gaming!
 #### 🏗️ What I've been working on
 
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(2 days ago)**
-- [`nephthys`](https://github.com/hackclub/nephthys) - _Support bot for the Hack Club Slack_ **(3 days ago)**
 - [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(3 days ago)**
+- [`nephthys`](https://github.com/hackclub/nephthys) - _Support bot for the Hack Club Slack_ **(3 days ago)**
 - [`bingbong`](https://github.com/sophiayduan/bingbong) - _hack the north 2026 finalist_ **(1 week ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 month ago)**
 - [`scrape`](https://github.com/ImShyMike/scrape) - _make a web scraper, get a spider plushy_ **(1 month ago)**
