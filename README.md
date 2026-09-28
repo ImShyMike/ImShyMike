@@ -30,16 +30,16 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript        2h 11m 40s   ████████████░░░░░░░░░░░░░  45.23%
-Svelte            51m 13s      █████░░░░░░░░░░░░░░░░░░░░  17.59%
-SCSS              50m 41s      █████░░░░░░░░░░░░░░░░░░░░  17.41%
-Shell             18m 26s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.33%
-YAML              10m 46s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.70%
+TypeScript        2h 13m 43s   ████████████░░░░░░░░░░░░░  44.39%
+Svelte            51m 13s      █████░░░░░░░░░░░░░░░░░░░░  17.00%
+SCSS              50m 41s      █████░░░░░░░░░░░░░░░░░░░░  16.83%
+Shell             20m 26s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.78%
+Markdown          12m 3s       █░░░░░░░░░░░░░░░░░░░░░░░░  4.00%
 
 💼 Projects:
-terra             2h 41m 37s   █████████████████░░░░░░░░  66.31%
-echo-show-stuff   1h 18m 26s   █████████░░░░░░░░░░░░░░░░  32.18%
-dns               3m 40s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.50%
+terra             2h 45m 52s   █████████████████░░░░░░░░  66.89%
+echo-show-stuff   1h 18m 26s   ████████░░░░░░░░░░░░░░░░░  31.63%
+dns               3m 40s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.48%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
