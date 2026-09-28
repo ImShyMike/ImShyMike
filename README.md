@@ -4,9 +4,9 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(1 day ago)**
-- [`nephthys`](https://github.com/hackclub/nephthys) - _Support bot for the Hack Club Slack_ **(2 days ago)**
-- [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(2 days ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(2 days ago)**
+- [`nephthys`](https://github.com/hackclub/nephthys) - _Support bot for the Hack Club Slack_ **(3 days ago)**
+- [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(3 days ago)**
 - [`bingbong`](https://github.com/sophiayduan/bingbong) - _hack the north 2026 finalist_ **(1 week ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 month ago)**
 - [`scrape`](https://github.com/ImShyMike/scrape) - _make a web scraper, get a spider plushy_ **(1 month ago)**
@@ -23,24 +23,23 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Add terra api + terra game server**](https://github.com/hackclub/dns/pull/3704) on [`dns`](https://github.com/hackclub/dns) **(2 days ago)**
-- [**Don't crash + don't leak memory**](https://github.com/hackclub/nephthys/pull/265) on [`nephthys`](https://github.com/hackclub/nephthys) **(2 days ago)**
+- [**Add terra api + terra game server**](https://github.com/hackclub/dns/pull/3704) on [`dns`](https://github.com/hackclub/dns) **(3 days ago)**
+- [**Don't crash + don't leak memory**](https://github.com/hackclub/nephthys/pull/265) on [`nephthys`](https://github.com/hackclub/nephthys) **(3 days ago)**
 - [**Terra transcript**](https://github.com/hackclub/nephthys/pull/258) on [`nephthys`](https://github.com/hackclub/nephthys) **(1 week ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript        2h 7m 25s    █████████░░░░░░░░░░░░░░░░  32.31%
-Svelte            1h 27m 12s   ██████░░░░░░░░░░░░░░░░░░░  22.12%
-SCSS              50m 41s      ████░░░░░░░░░░░░░░░░░░░░░  12.85%
-C                 33m 31s      ███░░░░░░░░░░░░░░░░░░░░░░  8.50%
-Markdown          27m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.08%
+TypeScript        1h 54m 56s   ███████████░░░░░░░░░░░░░░  42.52%
+Svelte            51m 13s      █████░░░░░░░░░░░░░░░░░░░░  18.95%
+SCSS              50m 41s      █████░░░░░░░░░░░░░░░░░░░░  18.75%
+Shell             18m 26s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.82%
+YAML              10m 46s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.98%
 
 💼 Projects:
-terra             2h 26m 31s   ███████████░░░░░░░░░░░░░░  43.99%
-bingbong          1h 44m 28s   ████████░░░░░░░░░░░░░░░░░  31.36%
-echo-show-stuff   1h 18m 26s   ██████░░░░░░░░░░░░░░░░░░░  23.55%
-dns               3m 40s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.10%
+terra             2h 26m 31s   █████████████████░░░░░░░░  64.09%
+echo-show-stuff   1h 18m 26s   █████████░░░░░░░░░░░░░░░░  34.31%
+dns               3m 40s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.60%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
