@@ -23,24 +23,23 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
+- [**Add Terra to DAU**](https://github.com/hackclub/data-warehouse/pull/94) on [`data-warehouse`](https://github.com/hackclub/data-warehouse) **(today)**
 - [**Add terra api + terra game server**](https://github.com/hackclub/dns/pull/3704) on [`dns`](https://github.com/hackclub/dns) **(1 week ago)**
 - [**Don't crash + don't leak memory**](https://github.com/hackclub/nephthys/pull/265) on [`nephthys`](https://github.com/hackclub/nephthys) **(1 week ago)**
-- [**Terra transcript**](https://github.com/hackclub/nephthys/pull/258) on [`nephthys`](https://github.com/hackclub/nephthys) **(2 weeks ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript           3h 28m 16s   ███████████████░░░░░░░░░░  56.45%
-SCSS                 1h 34m 42s   ███████░░░░░░░░░░░░░░░░░░  25.67%
-YAML                 35m 56s      ███░░░░░░░░░░░░░░░░░░░░░░  9.74%
-SQL                  15m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.11%
-JSON                 6m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.63%
+TypeScript           3h 20m 0s    ██████████████░░░░░░░░░░░  55.49%
+SCSS                 1h 34m 42s   ███████░░░░░░░░░░░░░░░░░░  26.28%
+YAML                 27m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.57%
+SQL                  17m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.76%
+Python               9m 15s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.57%
 
 💼 Projects:
-terra                4h 57m 12s   ████████████████████████░  94.51%
-data-warehouse       11m 49s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.76%
-dns                  3m 40s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.17%
-slack-undoc-client   1m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.50%
+terra                4h 43m 51s   ████████████████████████░  92.61%
+data-warehouse       20m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.82%
+slack-undoc-client   1m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.52%
 otter                11s          █░░░░░░░░░░░░░░░░░░░░░░░░  0.06%
 ```
 #### 💻 My coding activity
