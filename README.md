@@ -4,7 +4,7 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(6 days ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(1 week ago)**
 - [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(1 week ago)**
 - [`nephthys`](https://github.com/hackclub/nephthys) - _Support bot for the Hack Club Slack_ **(1 week ago)**
 - [`bingbong`](https://github.com/sophiayduan/bingbong) - _hack the north 2026 finalist_ **(1 week ago)**
@@ -30,16 +30,17 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript           3h 13m 54s   ███████████████░░░░░░░░░░  58.25%
-SCSS                 1h 32m 42s   ███████░░░░░░░░░░░░░░░░░░  27.85%
-YAML                 28m 9s       ███░░░░░░░░░░░░░░░░░░░░░░  8.46%
-SQL                  6m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.83%
-JSON                 6m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.80%
+TypeScript           3h 28m 16s   ███████████████░░░░░░░░░░  56.45%
+SCSS                 1h 34m 42s   ███████░░░░░░░░░░░░░░░░░░  25.67%
+YAML                 35m 56s      ███░░░░░░░░░░░░░░░░░░░░░░  9.74%
+SQL                  15m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.11%
+JSON                 6m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.63%
 
 💼 Projects:
-terra                4h 42m 45s   █████████████████████████  98.11%
-dns                  3m 40s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.27%
-slack-undoc-client   1m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.55%
+terra                4h 57m 12s   ████████████████████████░  94.51%
+data-warehouse       11m 49s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.76%
+dns                  3m 40s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.17%
+slack-undoc-client   1m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.50%
 otter                11s          █░░░░░░░░░░░░░░░░░░░░░░░░  0.06%
 ```
 #### 💻 My coding activity
