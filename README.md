@@ -7,7 +7,7 @@ A student who likes coding and gaming!
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(1 week ago)**
 - [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(1 week ago)**
 - [`nephthys`](https://github.com/hackclub/nephthys) - _Support bot for the Hack Club Slack_ **(1 week ago)**
-- [`bingbong`](https://github.com/sophiayduan/bingbong) - _hack the north 2026 finalist_ **(1 week ago)**
+- [`bingbong`](https://github.com/sophiayduan/bingbong) - _hack the north 2026 finalist_ **(2 weeks ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 month ago)**
 - [`scrape`](https://github.com/ImShyMike/scrape) - _make a web scraper, get a spider plushy_ **(1 month ago)**
 - [`hcb-api`](https://github.com/skyfallwastaken/hcb-api) - _Use the HCB API even without being part of Hack Club HQ_ **(1 month ago)**
@@ -23,21 +23,21 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Add Terra to DAU**](https://github.com/hackclub/data-warehouse/pull/94) on [`data-warehouse`](https://github.com/hackclub/data-warehouse) **(today)**
+- [**Add Terra to DAU**](https://github.com/hackclub/data-warehouse/pull/94) on [`data-warehouse`](https://github.com/hackclub/data-warehouse) **(1 day ago)**
 - [**Add terra api + terra game server**](https://github.com/hackclub/dns/pull/3704) on [`dns`](https://github.com/hackclub/dns) **(1 week ago)**
 - [**Don't crash + don't leak memory**](https://github.com/hackclub/nephthys/pull/265) on [`nephthys`](https://github.com/hackclub/nephthys) **(1 week ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript           3h 26m 21s   ██████████████░░░░░░░░░░░  55.93%
-SCSS                 1h 34m 42s   ███████░░░░░░░░░░░░░░░░░░  25.67%
-YAML                 29m 26s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.98%
-SQL                  17m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.65%
-Python               9m 15s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.51%
+TypeScript           3h 22m 19s   ██████████████░░░░░░░░░░░  55.08%
+SCSS                 1h 36m 42s   ███████░░░░░░░░░░░░░░░░░░  26.32%
+YAML                 31m 52s      ███░░░░░░░░░░░░░░░░░░░░░░  8.68%
+SQL                  17m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.67%
+Python               9m 15s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.52%
 
 💼 Projects:
-terra                4h 52m 21s   ████████████████████████░  92.80%
+terra                4h 52m 35s   ████████████████████████░  92.81%
 data-warehouse       20m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.63%
 slack-undoc-client   1m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.50%
 otter                11s          █░░░░░░░░░░░░░░░░░░░░░░░░  0.06%
