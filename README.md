@@ -30,16 +30,16 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript           3h 24m 23s   ██████████████░░░░░░░░░░░  55.33%
-SCSS                 1h 36m 42s   ███████░░░░░░░░░░░░░░░░░░  26.18%
-YAML                 31m 52s      ███░░░░░░░░░░░░░░░░░░░░░░  8.63%
-SQL                  17m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.64%
-Python               9m 15s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.50%
+TypeScript           3h 33m 33s   ███████████████░░░░░░░░░░  56.41%
+SCSS                 1h 36m 42s   ███████░░░░░░░░░░░░░░░░░░  25.54%
+YAML                 31m 52s      ███░░░░░░░░░░░░░░░░░░░░░░  8.42%
+SQL                  17m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.53%
+Python               9m 15s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.44%
 
 💼 Projects:
-terra                4h 54m 39s   ████████████████████████░  92.86%
-data-warehouse       20m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.59%
-slack-undoc-client   1m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.50%
+terra                5h 3m 49s    ████████████████████████░  93.06%
+data-warehouse       20m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.40%
+slack-undoc-client   1m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.48%
 otter                11s          █░░░░░░░░░░░░░░░░░░░░░░░░  0.06%
 ```
 #### 💻 My coding activity
