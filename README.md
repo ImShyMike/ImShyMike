@@ -23,23 +23,23 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Add Terra to DAU**](https://github.com/hackclub/data-warehouse/pull/94) on [`data-warehouse`](https://github.com/hackclub/data-warehouse) **(2 days ago)**
+- [**Add Terra to DAU**](https://github.com/hackclub/data-warehouse/pull/94) on [`data-warehouse`](https://github.com/hackclub/data-warehouse) **(3 days ago)**
 - [**Add terra api + terra game server**](https://github.com/hackclub/dns/pull/3704) on [`dns`](https://github.com/hackclub/dns) **(1 week ago)**
 - [**Don't crash + don't leak memory**](https://github.com/hackclub/nephthys/pull/265) on [`nephthys`](https://github.com/hackclub/nephthys) **(1 week ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript           3h 33m 33s   ███████████████░░░░░░░░░░  56.41%
-SCSS                 1h 36m 42s   ███████░░░░░░░░░░░░░░░░░░  25.54%
-YAML                 31m 52s      ███░░░░░░░░░░░░░░░░░░░░░░  8.42%
-SQL                  17m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.53%
-Python               9m 15s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.44%
+TypeScript           3h 6m 39s    ██████████████░░░░░░░░░░░  55.46%
+SCSS                 1h 31m 42s   ███████░░░░░░░░░░░░░░░░░░  27.25%
+YAML                 31m 52s      ███░░░░░░░░░░░░░░░░░░░░░░  9.47%
+SQL                  13m 4s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.88%
+Python               9m 15s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.75%
 
 💼 Projects:
-terra                5h 3m 49s    ████████████████████████░  93.06%
-data-warehouse       20m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.40%
-slack-undoc-client   1m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.48%
+terra                4h 30m 11s   ████████████████████████░  92.26%
+data-warehouse       20m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.14%
+slack-undoc-client   1m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.54%
 otter                11s          █░░░░░░░░░░░░░░░░░░░░░░░░  0.06%
 ```
 #### 💻 My coding activity
