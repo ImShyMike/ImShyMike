@@ -23,7 +23,7 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Add Terra to DAU**](https://github.com/hackclub/data-warehouse/pull/94) on [`data-warehouse`](https://github.com/hackclub/data-warehouse) **(3 days ago)**
+- [**Add Terra to DAU**](https://github.com/hackclub/data-warehouse/pull/94) on [`data-warehouse`](https://github.com/hackclub/data-warehouse) **(4 days ago)**
 - [**Add terra api + terra game server**](https://github.com/hackclub/dns/pull/3704) on [`dns`](https://github.com/hackclub/dns) **(1 week ago)**
 - [**Don't crash + don't leak memory**](https://github.com/hackclub/nephthys/pull/265) on [`nephthys`](https://github.com/hackclub/nephthys) **(1 week ago)**
 
