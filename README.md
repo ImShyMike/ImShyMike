@@ -4,11 +4,11 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`data-warehouse`](https://github.com/hackclub/data-warehouse) - _Dagster data scripts for Hack Club. Owned by @24c02. Please talk to it before editing._ **(2 days ago)**
+- [`data-warehouse`](https://github.com/hackclub/data-warehouse) - _Dagster data scripts for Hack Club. Owned by @24c02. Please talk to it before editing._ **(3 days ago)**
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(2 weeks ago)**
 - [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(2 weeks ago)**
 - [`nephthys`](https://github.com/hackclub/nephthys) - _Support bot for the Hack Club Slack_ **(2 weeks ago)**
-- [`bingbong`](https://github.com/sophiayduan/bingbong) - _hack the north 2026 finalist_ **(2 weeks ago)**
+- [`bingbong`](https://github.com/sophiayduan/bingbong) - _hack the north 2026 finalist_ **(3 weeks ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 month ago)**
 - [`scrape`](https://github.com/ImShyMike/scrape) - _make a web scraper, get a spider plushy_ **(1 month ago)**
 - [`hcb-api`](https://github.com/skyfallwastaken/hcb-api) - _Use the HCB API even without being part of Hack Club HQ_ **(1 month ago)**
@@ -30,16 +30,16 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript           1h 51m 49s   ████████████████████░░░░░  79.58%
-Dotenv               8m 0s        ██░░░░░░░░░░░░░░░░░░░░░░░  5.69%
-Shell                6m 46s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.82%
-SCSS                 5m 19s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.78%
-YAML                 4m 36s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.27%
+TypeScript           1h 45m 28s   █████████████████████░░░░  81.41%
+Dotenv               8m 0s        ██░░░░░░░░░░░░░░░░░░░░░░░  6.18%
+Shell                6m 46s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.22%
+SCSS                 5m 19s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.10%
+Python               2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.54%
 
 💼 Projects:
-terra                1h 7m 20s    █████████████░░░░░░░░░░░░  50.50%
-slack-undoc-client   1h 4m 0s     ████████████░░░░░░░░░░░░░  48.00%
-nephthys             2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.50%
+slack-undoc-client   1h 4m 0s     ██████████████░░░░░░░░░░░  52.29%
+terra                56m 23s      ████████████░░░░░░░░░░░░░  46.07%
+nephthys             2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.63%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
