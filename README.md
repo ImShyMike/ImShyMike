@@ -4,7 +4,7 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`data-warehouse`](https://github.com/hackclub/data-warehouse) - _Dagster data scripts for Hack Club. Owned by @24c02. Please talk to it before editing._ **(4 days ago)**
+- [`data-warehouse`](https://github.com/hackclub/data-warehouse) - _Dagster data scripts for Hack Club. Owned by @24c02. Please talk to it before editing._ **(5 days ago)**
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(2 weeks ago)**
 - [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(2 weeks ago)**
 - [`nephthys`](https://github.com/hackclub/nephthys) - _Support bot for the Hack Club Slack_ **(2 weeks ago)**
@@ -30,16 +30,16 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript           2h 5m 7s     ████████████████████░░░░░  78.56%
-Shell                10m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.81%
-Dotenv               8m 0s        ██░░░░░░░░░░░░░░░░░░░░░░░  5.02%
-YAML                 4m 56s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.10%
-SCSS                 3m 19s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.08%
+TypeScript           1h 51m 42s   ████████████████████░░░░░  76.59%
+Shell                10m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.44%
+Dotenv               8m 0s        ██░░░░░░░░░░░░░░░░░░░░░░░  5.49%
+YAML                 4m 56s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.38%
+SCSS                 3m 19s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.27%
 
 💼 Projects:
-slack-undoc-client   1h 23m 39s   ███████████████░░░░░░░░░░  57.05%
-terra                58m 58s      ███████████░░░░░░░░░░░░░░  40.22%
-nephthys             4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.73%
+slack-undoc-client   1h 23m 39s   ████████████████░░░░░░░░░  62.80%
+terra                45m 33s      █████████░░░░░░░░░░░░░░░░  34.20%
+nephthys             4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.00%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
