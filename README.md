@@ -4,7 +4,7 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`data-warehouse`](https://github.com/hackclub/data-warehouse) - _Dagster data scripts for Hack Club. Owned by @24c02. Please talk to it before editing._ **(5 days ago)**
+- [`data-warehouse`](https://github.com/hackclub/data-warehouse) - _Dagster data scripts for Hack Club. Owned by @24c02. Please talk to it before editing._ **(6 days ago)**
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(2 weeks ago)**
 - [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(2 weeks ago)**
 - [`nephthys-attend`](https://github.com/hackclub/nephthys-attend) - _Nephthys, from the attend-haven-transcript branch_ **(2 weeks ago)**
@@ -30,15 +30,15 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript           1h 57m 44s   ████████████████████░░░░░  76.31%
-Shell                12m 51s      ███░░░░░░░░░░░░░░░░░░░░░░  8.33%
-Dotenv               8m 0s        ██░░░░░░░░░░░░░░░░░░░░░░░  5.19%
-YAML                 4m 56s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.20%
-SCSS                 3m 19s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.15%
+TypeScript           1h 58m 8s    ████████████████████░░░░░  76.37%
+Shell                12m 51s      ███░░░░░░░░░░░░░░░░░░░░░░  8.31%
+Dotenv               8m 0s        ██░░░░░░░░░░░░░░░░░░░░░░░  5.17%
+YAML                 4m 56s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.19%
+SCSS                 3m 19s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.14%
 
 💼 Projects:
-slack-undoc-client   1h 23m 39s   ███████████████░░░░░░░░░░  59.06%
-terra                53m 59s      ██████████░░░░░░░░░░░░░░░  38.11%
+slack-undoc-client   1h 23m 39s   ███████████████░░░░░░░░░░  58.92%
+terra                54m 20s      ██████████░░░░░░░░░░░░░░░  38.27%
 nephthys             4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.82%
 ```
 #### 💻 My coding activity
