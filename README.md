@@ -30,16 +30,17 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript           1h 38m 27s   ██████████████████░░░░░░░  69.80%
-Shell                12m 51s      ███░░░░░░░░░░░░░░░░░░░░░░  9.11%
-Dotenv               8m 0s        ██░░░░░░░░░░░░░░░░░░░░░░░  5.67%
-Markdown             7m 6s        ██░░░░░░░░░░░░░░░░░░░░░░░  5.03%
-YAML                 4m 56s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.50%
+TypeScript           1h 44m 30s   ██████████████████░░░░░░░  70.82%
+Shell                12m 51s      ███░░░░░░░░░░░░░░░░░░░░░░  8.71%
+Dotenv               8m 0s        ██░░░░░░░░░░░░░░░░░░░░░░░  5.42%
+Markdown             7m 6s        ██░░░░░░░░░░░░░░░░░░░░░░░  4.81%
+YAML                 4m 56s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.34%
 
 💼 Projects:
-terra                1h 2m 26s    █████████████░░░░░░░░░░░░  49.43%
-slack-undoc-client   59m 53s      ████████████░░░░░░░░░░░░░  47.41%
-nephthys             4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.17%
+terra                1h 4m 53s    █████████████░░░░░░░░░░░░  49.10%
+slack-undoc-client   1h 1m 53s    ████████████░░░░░░░░░░░░░  46.83%
+nephthys             4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.03%
+slack-selfbot        1m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.03%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
