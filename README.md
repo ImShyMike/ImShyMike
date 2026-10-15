@@ -4,7 +4,7 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`data-warehouse`](https://github.com/hackclub/data-warehouse) - _Dagster data scripts for Hack Club. Owned by @24c02. Please talk to it before editing._ **(6 days ago)**
+- [`data-warehouse`](https://github.com/hackclub/data-warehouse) - _Dagster data scripts for Hack Club. Owned by @24c02. Please talk to it before editing._ **(1 week ago)**
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(2 weeks ago)**
 - [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(2 weeks ago)**
 - [`nephthys-attend`](https://github.com/hackclub/nephthys-attend) - _Nephthys, from the attend-haven-transcript branch_ **(2 weeks ago)**
@@ -30,17 +30,17 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript           1h 48m 30s   ██████████████████░░░░░░░  70.65%
-Shell                14m 51s      ███░░░░░░░░░░░░░░░░░░░░░░  9.67%
-Dotenv               8m 0s        ██░░░░░░░░░░░░░░░░░░░░░░░  5.21%
-Markdown             7m 6s        ██░░░░░░░░░░░░░░░░░░░░░░░  4.62%
-YAML                 4m 56s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.21%
+TypeScript           1h 50m 42s   ██████████████████░░░░░░░  71.07%
+Shell                14m 51s      ███░░░░░░░░░░░░░░░░░░░░░░  9.53%
+Dotenv               8m 0s        ██░░░░░░░░░░░░░░░░░░░░░░░  5.14%
+Markdown             7m 6s        ██░░░░░░░░░░░░░░░░░░░░░░░  4.56%
+YAML                 4m 56s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.17%
 
 💼 Projects:
-terra                1h 8m 53s    █████████████░░░░░░░░░░░░  50.60%
-slack-undoc-client   1h 1m 53s    ████████████░░░░░░░░░░░░░  45.46%
-nephthys             4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.94%
-slack-selfbot        1m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.00%
+terra                1h 11m 6s    █████████████░░░░░░░░░░░░  51.39%
+slack-undoc-client   1h 1m 53s    ████████████░░░░░░░░░░░░░  44.73%
+nephthys             4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.89%
+slack-selfbot        1m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.99%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
