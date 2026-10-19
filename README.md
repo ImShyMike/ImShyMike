@@ -19,7 +19,7 @@ A student who likes coding and gaming!
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(35⭐)**
 - [`waka-relay`](https://github.com/ImShyMike/waka-relay) - _📊 A self-hosted app that relays WakaTime heartbeats to multiple instances_ **(30⭐)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(17⭐)**
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(14⭐)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(15⭐)**
 
 #### 🔨 My recent pull requests
 
@@ -30,17 +30,17 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript           51m 25s   ██████████████████░░░░░░░  70.53%
-Markdown             10m 15s   ████░░░░░░░░░░░░░░░░░░░░░  14.06%
-Shell                8m 22s    ███░░░░░░░░░░░░░░░░░░░░░░  11.48%
-JSON                 2m 52s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.93%
+TypeScript           51m 45s    ██████████████████░░░░░░░  70.66%
+Markdown             10m 15s    ████░░░░░░░░░░░░░░░░░░░░░  14.00%
+Shell                8m 22s     ███░░░░░░░░░░░░░░░░░░░░░░  11.42%
+JSON                 2m 52s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.91%
 
 💼 Projects:
-terra                59m 43s   ██████████████████████░░░  87.65%
-huddler              4m 0s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.87%
-slack-undoc-client   2m 0s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.94%
-slack-selfbot        1m 22s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.01%
-telescreen           1m 3s     █░░░░░░░░░░░░░░░░░░░░░░░░  1.54%
+terra                1h 0m 3s   ██████████████████████░░░  87.71%
+huddler              4m 0s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.84%
+slack-undoc-client   2m 0s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.92%
+slack-selfbot        1m 22s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.00%
+telescreen           1m 3s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.53%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
