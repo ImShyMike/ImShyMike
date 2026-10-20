@@ -30,11 +30,11 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript           1h 14m 15s   ████████████████░░░░░░░░░  62.65%
-Markdown             18m 26s      ████░░░░░░░░░░░░░░░░░░░░░  15.55%
-Shell                12m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  10.43%
-JSON                 11m 23s      ███░░░░░░░░░░░░░░░░░░░░░░  9.60%
-Python               2m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.76%
+TypeScript           1h 14m 15s   ████████████████░░░░░░░░░  61.61%
+Markdown             18m 26s      ████░░░░░░░░░░░░░░░░░░░░░  15.30%
+Shell                14m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  11.92%
+JSON                 11m 23s      ███░░░░░░░░░░░░░░░░░░░░░░  9.45%
+Python               2m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.73%
 
 💼 Projects:
 terra                1h 3m 20s    ██████████████████░░░░░░░  70.27%
