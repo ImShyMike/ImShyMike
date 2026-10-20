@@ -9,7 +9,7 @@ A student who likes coding and gaming!
 - [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(3 weeks ago)**
 - [`nephthys-attend`](https://github.com/hackclub/nephthys-attend) - _Nephthys, from the attend-haven-transcript branch_ **(3 weeks ago)**
 - [`nephthys`](https://github.com/hackclub/nephthys) - _Support bot for the Hack Club Slack_ **(3 weeks ago)**
-- [`bingbong`](https://github.com/sophiayduan/bingbong) - _hack the north 2026 finalist_ **(4 weeks ago)**
+- [`bingbong`](https://github.com/sophiayduan/bingbong) - _hack the north 2026 finalist_ **(1 month ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 month ago)**
 - [`scrape`](https://github.com/ImShyMike/scrape) - _make a web scraper, get a spider plushy_ **(2 months ago)**
 
@@ -30,17 +30,17 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript           54m 57s     ██████████████████░░░░░░░  71.89%
-Markdown             10m 15s     ████░░░░░░░░░░░░░░░░░░░░░  13.41%
-Shell                8m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  10.95%
+TypeScript           55m 3s      ██████████████████░░░░░░░  71.93%
+Markdown             10m 15s     ████░░░░░░░░░░░░░░░░░░░░░  13.39%
+Shell                8m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  10.93%
 JSON                 2m 52s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.75%
 
 💼 Projects:
-terra                1h 3m 14s   ███████████████████████░░  88.25%
-huddler              4m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.58%
+terra                1h 3m 20s   ███████████████████████░░  88.27%
+huddler              4m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.57%
 slack-undoc-client   2m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.79%
-slack-selfbot        1m 22s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.91%
-telescreen           1m 3s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.47%
+slack-selfbot        1m 22s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.90%
+telescreen           1m 3s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.46%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
