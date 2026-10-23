@@ -4,7 +4,7 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`nephthys-plus`](https://github.com/hackclub/nephthys-plus) - _Nephtys built for the community at large_ **(1 week ago)**
+- [`nephthys-plus`](https://github.com/hackclub/nephthys-plus) - _Nephthys built for the community at large_ **(1 week ago)**
 - [`data-warehouse`](https://github.com/hackclub/data-warehouse) - _Dagster data scripts for Hack Club. Owned by @24c02. Please talk to it before editing._ **(2 weeks ago)**
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(3 weeks ago)**
 - [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(4 weeks ago)**
@@ -18,7 +18,7 @@ A student who likes coding and gaming!
 - [`hackatime-heatmap`](https://github.com/ImShyMike/hackatime-heatmap) - _Easy to set up Hackatime coding activity heatmap for your profile!_ **(35⭐)**
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(35⭐)**
 - [`waka-relay`](https://github.com/ImShyMike/waka-relay) - _📊 A self-hosted app that relays WakaTime heartbeats to multiple instances_ **(30⭐)**
-- [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(17⭐)**
+- [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(18⭐)**
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(15⭐)**
 
 #### 🔨 My recent pull requests
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript         1h 6m 52s   ██████████████░░░░░░░░░░░  54.44%
-Shell              24m 54s     ██████░░░░░░░░░░░░░░░░░░░  20.27%
-Markdown           14m 24s     ███░░░░░░░░░░░░░░░░░░░░░░  11.72%
-JSON               10m 31s     ███░░░░░░░░░░░░░░░░░░░░░░  8.56%
-JavaScript         4m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.26%
+TypeScript         1h 13m 39s   █████████████░░░░░░░░░░░░  51.76%
+Shell              27m 32s      █████░░░░░░░░░░░░░░░░░░░░  19.35%
+Markdown           16m 24s      ███░░░░░░░░░░░░░░░░░░░░░░  11.53%
+JSON               14m 34s      ███░░░░░░░░░░░░░░░░░░░░░░  10.24%
+JavaScript         6m 0s        ██░░░░░░░░░░░░░░░░░░░░░░░  4.22%
 
 💼 Projects:
-terra              41m 30s     ███████████░░░░░░░░░░░░░░  43.14%
-claude-hours       15m 53s     █████░░░░░░░░░░░░░░░░░░░░  16.51%
-claude-hackatime   15m 13s     ████░░░░░░░░░░░░░░░░░░░░░  15.82%
-telescreen         11m 14s     ███░░░░░░░░░░░░░░░░░░░░░░  11.68%
-dot-dot-dot        10m 22s     ███░░░░░░░░░░░░░░░░░░░░░░  10.78%
+terra              41m 30s      ██████████░░░░░░░░░░░░░░░  38.37%
+claude-hours       27m 51s      ███████░░░░░░░░░░░░░░░░░░  25.75%
+claude-hackatime   15m 13s      ████░░░░░░░░░░░░░░░░░░░░░  14.07%
+telescreen         11m 14s      ███░░░░░░░░░░░░░░░░░░░░░░  10.39%
+dot-dot-dot        10m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  9.58%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
