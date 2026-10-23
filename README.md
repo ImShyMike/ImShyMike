@@ -7,9 +7,9 @@ A student who likes coding and gaming!
 - [`nephthys-plus`](https://github.com/hackclub/nephthys-plus) - _Nephtys built for the community at large_ **(1 week ago)**
 - [`data-warehouse`](https://github.com/hackclub/data-warehouse) - _Dagster data scripts for Hack Club. Owned by @24c02. Please talk to it before editing._ **(2 weeks ago)**
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(3 weeks ago)**
-- [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(3 weeks ago)**
-- [`nephthys-attend`](https://github.com/hackclub/nephthys-attend) - _Nephthys, from the attend-haven-transcript branch_ **(3 weeks ago)**
-- [`nephthys`](https://github.com/hackclub/nephthys) - _Support bot for the Hack Club Slack_ **(3 weeks ago)**
+- [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(4 weeks ago)**
+- [`nephthys-attend`](https://github.com/hackclub/nephthys-attend) - _Nephthys, from the attend-haven-transcript branch_ **(4 weeks ago)**
+- [`nephthys`](https://github.com/hackclub/nephthys) - _Support bot for the Hack Club Slack_ **(4 weeks ago)**
 - [`bingbong`](https://github.com/sophiayduan/bingbong) - _hack the north 2026 finalist_ **(1 month ago)**
 - [`homepage-v2`](https://github.com/ImShyMike/homepage-v2) - _my personal space on the web (v2)_ **(1 month ago)**
 
@@ -24,24 +24,24 @@ A student who likes coding and gaming!
 #### 🔨 My recent pull requests
 
 - [**Add Terra to DAU**](https://github.com/hackclub/data-warehouse/pull/94) on [`data-warehouse`](https://github.com/hackclub/data-warehouse) **(2 weeks ago)**
-- [**Add terra api + terra game server**](https://github.com/hackclub/dns/pull/3704) on [`dns`](https://github.com/hackclub/dns) **(3 weeks ago)**
-- [**Don't crash + don't leak memory**](https://github.com/hackclub/nephthys/pull/265) on [`nephthys`](https://github.com/hackclub/nephthys) **(3 weeks ago)**
+- [**Add terra api + terra game server**](https://github.com/hackclub/dns/pull/3704) on [`dns`](https://github.com/hackclub/dns) **(4 weeks ago)**
+- [**Don't crash + don't leak memory**](https://github.com/hackclub/nephthys/pull/265) on [`nephthys`](https://github.com/hackclub/nephthys) **(4 weeks ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript         1h 10m 52s   ██████████████░░░░░░░░░░░  55.01%
-Shell              24m 54s      █████░░░░░░░░░░░░░░░░░░░░  19.33%
-Markdown           16m 24s      ████░░░░░░░░░░░░░░░░░░░░░  12.73%
-JSON               10m 31s      ███░░░░░░░░░░░░░░░░░░░░░░  8.16%
-JavaScript         4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.11%
+TypeScript         1h 6m 52s   ██████████████░░░░░░░░░░░  54.44%
+Shell              24m 54s     ██████░░░░░░░░░░░░░░░░░░░  20.27%
+Markdown           14m 24s     ███░░░░░░░░░░░░░░░░░░░░░░  11.72%
+JSON               10m 31s     ███░░░░░░░░░░░░░░░░░░░░░░  8.56%
+JavaScript         4m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.26%
 
 💼 Projects:
-terra              43m 30s      ███████████░░░░░░░░░░░░░░  43.41%
-claude-hours       15m 53s      ████░░░░░░░░░░░░░░░░░░░░░  15.85%
-claude-hackatime   15m 13s      ████░░░░░░░░░░░░░░░░░░░░░  15.19%
-telescreen         11m 14s      ███░░░░░░░░░░░░░░░░░░░░░░  11.21%
-dot-dot-dot        10m 22s      ███░░░░░░░░░░░░░░░░░░░░░░  10.35%
+terra              41m 30s     ███████████░░░░░░░░░░░░░░  43.14%
+claude-hours       15m 53s     █████░░░░░░░░░░░░░░░░░░░░  16.51%
+claude-hackatime   15m 13s     ████░░░░░░░░░░░░░░░░░░░░░  15.82%
+telescreen         11m 14s     ███░░░░░░░░░░░░░░░░░░░░░░  11.68%
+dot-dot-dot        10m 22s     ███░░░░░░░░░░░░░░░░░░░░░░  10.78%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
