@@ -8,9 +8,9 @@ A student who likes coding and gaming!
 - [`nephthys-plus`](https://github.com/hackclub/nephthys-plus) - _Nephthys built for the community at large_ **(2 weeks ago)**
 - [`data-warehouse`](https://github.com/hackclub/data-warehouse) - _Dagster data scripts for Hack Club. Owned by @24c02. Please talk to it before editing._ **(2 weeks ago)**
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(1 month ago)**
-- [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(1 month ago)**
 - [`nephthys-attend`](https://github.com/hackclub/nephthys-attend) - _Nephthys, from the attend-haven-transcript branch_ **(1 month ago)**
 - [`nephthys`](https://github.com/hackclub/nephthys) - _Support bot for the Hack Club Slack_ **(1 month ago)**
+- [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(1 month ago)**
 - [`bingbong`](https://github.com/sophiayduan/bingbong) - _hack the north 2026 finalist_ **(1 month ago)**
 
 #### 📦 My most popular repos
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-TypeScript         1h 14m 2s   █████████████░░░░░░░░░░░░  48.13%
-Markdown           23m 55s     ████░░░░░░░░░░░░░░░░░░░░░  15.55%
-Shell              23m 10s     ████░░░░░░░░░░░░░░░░░░░░░  15.06%
-JSON               16m 34s     ███░░░░░░░░░░░░░░░░░░░░░░  10.77%
-JavaScript         8m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.20%
+TypeScript         55m 34s   ███████████░░░░░░░░░░░░░░  41.66%
+Markdown           23m 55s   █████░░░░░░░░░░░░░░░░░░░░  17.93%
+Shell              21m 10s   ████░░░░░░░░░░░░░░░░░░░░░  15.87%
+JSON               16m 34s   ████░░░░░░░░░░░░░░░░░░░░░  12.42%
+JavaScript         8m 0s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.00%
 
 💼 Projects:
-claude-hours       51m 37s     ████████████░░░░░░░░░░░░░  44.04%
-terra              28m 46s     ███████░░░░░░░░░░░░░░░░░░  24.54%
-claude-hackatime   15m 13s     ████░░░░░░░░░░░░░░░░░░░░░  12.98%
-telescreen         11m 14s     ███░░░░░░░░░░░░░░░░░░░░░░  9.58%
-dot-dot-dot        10m 22s     ███░░░░░░░░░░░░░░░░░░░░░░  8.85%
+claude-hours       51m 37s   ██████████████░░░░░░░░░░░  54.50%
+claude-hackatime   15m 13s   █████░░░░░░░░░░░░░░░░░░░░  16.07%
+dot-dot-dot        10m 22s   ███░░░░░░░░░░░░░░░░░░░░░░  10.94%
+terra              9m 21s    ███░░░░░░░░░░░░░░░░░░░░░░  9.87%
+telescreen         8m 10s    ███░░░░░░░░░░░░░░░░░░░░░░  8.62%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
