@@ -30,17 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-JavaScript     52m 0s    ███████████░░░░░░░░░░░░░░  40.66%
-TypeScript     25m 3s    █████░░░░░░░░░░░░░░░░░░░░  19.59%
-Markdown       15m 44s   ████░░░░░░░░░░░░░░░░░░░░░  12.30%
-Shell          10m 53s   ███░░░░░░░░░░░░░░░░░░░░░░  8.51%
-JSON           10m 3s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.86%
+JavaScript     58m 0s     ███████████░░░░░░░░░░░░░░  41.27%
+TypeScript     25m 3s     █████░░░░░░░░░░░░░░░░░░░░  17.82%
+Markdown       15m 44s    ███░░░░░░░░░░░░░░░░░░░░░░  11.20%
+Shell          10m 53s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.74%
+JSON           10m 3s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.15%
 
 💼 Projects:
-dot-dot-dot    58m 0s    ██████████████░░░░░░░░░░░  52.23%
-claude-hours   47m 7s    ███████████░░░░░░░░░░░░░░  42.43%
-terra          4m 3s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.65%
-cube-nixos     1m 53s    █░░░░░░░░░░░░░░░░░░░░░░░░  1.70%
+dot-dot-dot    1h 4m 0s   ██████████████░░░░░░░░░░░  52.59%
+claude-hours   49m 44s    ███████████░░░░░░░░░░░░░░  40.87%
+terra          4m 3s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.33%
+resume         2m 2s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.67%
+cube-nixos     1m 53s     █░░░░░░░░░░░░░░░░░░░░░░░░  1.55%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
