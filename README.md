@@ -4,8 +4,8 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`claude-hours`](https://github.com/ImShyMike/claude-hours) - _agentic hour tracking™_ **(today)**
-- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(3 days ago)**
+- [`claude-hours`](https://github.com/ImShyMike/claude-hours) - _agentic hour tracking™_ **(1 day ago)**
+- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(4 days ago)**
 - [`nephthys-plus`](https://github.com/hackclub/nephthys-plus) - _Nephthys built for the community at large_ **(2 weeks ago)**
 - [`data-warehouse`](https://github.com/hackclub/data-warehouse) - _Dagster data scripts for Hack Club. Owned by @24c02. Please talk to it before editing._ **(3 weeks ago)**
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(1 month ago)**
@@ -19,28 +19,28 @@ A student who likes coding and gaming!
 - [`rustytime`](https://github.com/ImShyMike/rustytime) - _🕒 blazingly fast time tracking for developers_ **(35⭐)**
 - [`waka-relay`](https://github.com/ImShyMike/waka-relay) - _📊 A self-hosted app that relays WakaTime heartbeats to multiple instances_ **(30⭐)**
 - [`timesplit`](https://github.com/ImShyMike/timesplit) - _The easy way to use multiple WakaTime compatible instances at once!_ **(18⭐)**
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(15⭐)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(14⭐)**
 
 #### 🔨 My recent pull requests
 
-- [**Admin API improvements**](https://github.com/hackclub/hackatime/pull/1779) on [`hackatime`](https://github.com/hackclub/hackatime) **(4 days ago)**
-- [**Add Terra to DAU**](https://github.com/hackclub/data-warehouse/pull/94) on [`data-warehouse`](https://github.com/hackclub/data-warehouse) **(3 weeks ago)**
+- [**Admin API improvements**](https://github.com/hackclub/hackatime/pull/1779) on [`hackatime`](https://github.com/hackclub/hackatime) **(5 days ago)**
+- [**Add Terra to DAU**](https://github.com/hackclub/data-warehouse/pull/94) on [`data-warehouse`](https://github.com/hackclub/data-warehouse) **(4 weeks ago)**
 - [**Add terra api + terra game server**](https://github.com/hackclub/dns/pull/3704) on [`dns`](https://github.com/hackclub/dns) **(1 month ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-JavaScript     58m 0s     █████████░░░░░░░░░░░░░░░░  35.24%
-TOML           38m 11s    ██████░░░░░░░░░░░░░░░░░░░  23.20%
-Markdown       15m 44s    ███░░░░░░░░░░░░░░░░░░░░░░  9.56%
-TypeScript     14m 54s    ███░░░░░░░░░░░░░░░░░░░░░░  9.05%
-unknown        13m 40s    ███░░░░░░░░░░░░░░░░░░░░░░  8.30%
+JavaScript     58m 0s     █████████░░░░░░░░░░░░░░░░  32.03%
+TOML           52m 40s    ████████░░░░░░░░░░░░░░░░░  29.08%
+TypeScript     16m 54s    ███░░░░░░░░░░░░░░░░░░░░░░  9.33%
+Markdown       15m 44s    ███░░░░░░░░░░░░░░░░░░░░░░  8.69%
+unknown        13m 40s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.55%
 
 💼 Projects:
-dot-dot-dot    1h 4m 0s   ████████████░░░░░░░░░░░░░  44.06%
-resume         40m 46s    ████████░░░░░░░░░░░░░░░░░  28.07%
-claude-hours   38m 36s    ███████░░░░░░░░░░░░░░░░░░  26.57%
-cube-nixos     1m 53s     █░░░░░░░░░░░░░░░░░░░░░░░░  1.30%
+dot-dot-dot    1h 4m 0s   ███████████░░░░░░░░░░░░░░  40.07%
+resume         55m 15s    █████████░░░░░░░░░░░░░░░░  34.59%
+claude-hours   38m 36s    ███████░░░░░░░░░░░░░░░░░░  24.17%
+cube-nixos     1m 53s     █░░░░░░░░░░░░░░░░░░░░░░░░  1.18%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
