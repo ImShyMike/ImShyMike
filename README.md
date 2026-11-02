@@ -10,8 +10,8 @@ A student who likes coding and gaming!
 - [`data-warehouse`](https://github.com/hackclub/data-warehouse) - _Dagster data scripts for Hack Club. Owned by @24c02. Please talk to it before editing._ **(3 weeks ago)**
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(1 month ago)**
 - [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(1 month ago)**
-- [`nephthys`](https://github.com/hackclub/nephthys) - _Support bot for the Hack Club Slack_ **(1 month ago)**
 - [`nephthys-attend`](https://github.com/hackclub/nephthys-attend) - _Nephthys, from the attend-haven-transcript branch_ **(1 month ago)**
+- [`nephthys`](https://github.com/hackclub/nephthys) - _Support bot for the Hack Club Slack_ **(1 month ago)**
 
 #### 📦 My most popular repos
 
@@ -30,18 +30,18 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-JavaScript     56m 0s     ██████████░░░░░░░░░░░░░░░  38.93%
-TOML           52m 40s    ██████████░░░░░░░░░░░░░░░  36.61%
-unknown        13m 40s    ███░░░░░░░░░░░░░░░░░░░░░░  9.50%
-Shell          8m 21s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.80%
-TypeScript     6m 0s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.17%
+JavaScript     1h 0m 30s    ██████████░░░░░░░░░░░░░░░  38.09%
+TOML           52m 40s      █████████░░░░░░░░░░░░░░░░  33.15%
+unknown        13m 40s      ███░░░░░░░░░░░░░░░░░░░░░░  8.60%
+TypeScript     10m 30s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.61%
+Shell          10m 21s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.52%
 
 💼 Projects:
-dot-dot-dot    1h 6m 0s   █████████████░░░░░░░░░░░░  51.32%
-resume         55m 15s    ███████████░░░░░░░░░░░░░░  42.96%
-claude-hours   3m 17s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.55%
-terra          2m 12s     █░░░░░░░░░░░░░░░░░░░░░░░░  1.71%
-cube-nixos     1m 53s     █░░░░░░░░░░░░░░░░░░░░░░░░  1.46%
+dot-dot-dot    1h 12m 43s   █████████████░░░░░░░░░░░░  52.00%
+resume         55m 15s      ██████████░░░░░░░░░░░░░░░  39.51%
+terra          6m 43s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.80%
+claude-hours   3m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.35%
+cube-nixos     1m 53s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.35%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
