@@ -4,8 +4,8 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`claude-hours`](https://github.com/ImShyMike/claude-hours) - _agentic hour tracking™_ **(2 days ago)**
-- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(5 days ago)**
+- [`claude-hours`](https://github.com/ImShyMike/claude-hours) - _agentic hour tracking™_ **(3 days ago)**
+- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(6 days ago)**
 - [`nephthys-plus`](https://github.com/hackclub/nephthys-plus) - _Nephthys built for the community at large_ **(3 weeks ago)**
 - [`data-warehouse`](https://github.com/hackclub/data-warehouse) - _Dagster data scripts for Hack Club. Owned by @24c02. Please talk to it before editing._ **(3 weeks ago)**
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(1 month ago)**
@@ -23,25 +23,25 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Admin API improvements**](https://github.com/hackclub/hackatime/pull/1779) on [`hackatime`](https://github.com/hackclub/hackatime) **(6 days ago)**
-- [**Add Terra to DAU**](https://github.com/hackclub/data-warehouse/pull/94) on [`data-warehouse`](https://github.com/hackclub/data-warehouse) **(4 weeks ago)**
+- [**Admin API improvements**](https://github.com/hackclub/hackatime/pull/1779) on [`hackatime`](https://github.com/hackclub/hackatime) **(1 week ago)**
+- [**Add Terra to DAU**](https://github.com/hackclub/data-warehouse/pull/94) on [`data-warehouse`](https://github.com/hackclub/data-warehouse) **(1 month ago)**
 - [**Add terra api + terra game server**](https://github.com/hackclub/dns/pull/3704) on [`dns`](https://github.com/hackclub/dns) **(1 month ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-JavaScript     56m 0s     ██████████░░░░░░░░░░░░░░░  39.48%
-TOML           52m 40s    ██████████░░░░░░░░░░░░░░░  37.13%
-unknown        13m 40s    ███░░░░░░░░░░░░░░░░░░░░░░  9.63%
-Shell          8m 21s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.89%
-TypeScript     4m 0s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.82%
+JavaScript     56m 0s     ██████████░░░░░░░░░░░░░░░  38.93%
+TOML           52m 40s    ██████████░░░░░░░░░░░░░░░  36.61%
+unknown        13m 40s    ███░░░░░░░░░░░░░░░░░░░░░░  9.50%
+Shell          8m 21s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.80%
+TypeScript     6m 0s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.17%
 
 💼 Projects:
-dot-dot-dot    1h 6m 0s   ██████████████░░░░░░░░░░░  52.13%
-resume         55m 15s    ███████████░░░░░░░░░░░░░░  43.64%
-claude-hours   3m 17s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.59%
-cube-nixos     1m 53s     █░░░░░░░░░░░░░░░░░░░░░░░░  1.49%
-terra          12s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.16%
+dot-dot-dot    1h 6m 0s   █████████████░░░░░░░░░░░░  51.32%
+resume         55m 15s    ███████████░░░░░░░░░░░░░░  42.96%
+claude-hours   3m 17s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.55%
+terra          2m 12s     █░░░░░░░░░░░░░░░░░░░░░░░░  1.71%
+cube-nixos     1m 53s     █░░░░░░░░░░░░░░░░░░░░░░░░  1.46%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
