@@ -4,11 +4,11 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(1 day ago)**
-- [`claude-hours`](https://github.com/ImShyMike/claude-hours) - _agentic hour tracking™_ **(5 days ago)**
+- [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(2 days ago)**
+- [`claude-hours`](https://github.com/ImShyMike/claude-hours) - _agentic hour tracking™_ **(6 days ago)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(1 week ago)**
 - [`nephthys-plus`](https://github.com/hackclub/nephthys-plus) - _Nephthys built for the community at large_ **(3 weeks ago)**
-- [`data-warehouse`](https://github.com/hackclub/data-warehouse) - _Dagster data scripts for Hack Club. Owned by @24c02. Please talk to it before editing._ **(3 weeks ago)**
+- [`data-warehouse`](https://github.com/hackclub/data-warehouse) - _Dagster data scripts for Hack Club. Owned by @24c02. Please talk to it before editing._ **(4 weeks ago)**
 - [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(1 month ago)**
 - [`nephthys`](https://github.com/hackclub/nephthys) - _Support bot for the Hack Club Slack_ **(1 month ago)**
 - [`nephthys-attend`](https://github.com/hackclub/nephthys-attend) - _Nephthys, from the attend-haven-transcript branch_ **(1 month ago)**
@@ -23,7 +23,7 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Update record for api.terra.hackclub.com**](https://github.com/hackclub/dns/pull/3962) on [`dns`](https://github.com/hackclub/dns) **(1 day ago)**
+- [**Update record for api.terra.hackclub.com**](https://github.com/hackclub/dns/pull/3962) on [`dns`](https://github.com/hackclub/dns) **(2 days ago)**
 - [**Admin API improvements**](https://github.com/hackclub/hackatime/pull/1779) on [`hackatime`](https://github.com/hackclub/hackatime) **(1 week ago)**
 - [**Add Terra to DAU**](https://github.com/hackclub/data-warehouse/pull/94) on [`data-warehouse`](https://github.com/hackclub/data-warehouse) **(1 month ago)**
 
