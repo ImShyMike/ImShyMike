@@ -4,11 +4,11 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(today)**
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(3 days ago)**
+- [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(1 day ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(4 days ago)**
 - [`claude-hours`](https://github.com/ImShyMike/claude-hours) - _agentic hour tracking™_ **(1 week ago)**
-- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(1 week ago)**
-- [`nephthys-plus`](https://github.com/hackclub/nephthys-plus) - _Nephthys built for the community at large_ **(4 weeks ago)**
+- [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(2 weeks ago)**
+- [`nephthys-plus`](https://github.com/hackclub/nephthys-plus) - _Nephthys built for the community at large_ **(1 month ago)**
 - [`data-warehouse`](https://github.com/hackclub/data-warehouse) - _Dagster data scripts for Hack Club. Owned by @24c02. Please talk to it before editing._ **(1 month ago)**
 - [`nephthys`](https://github.com/hackclub/nephthys) - _Support bot for the Hack Club Slack_ **(1 month ago)**
 - [`nephthys-attend`](https://github.com/hackclub/nephthys-attend) - _Nephthys, from the attend-haven-transcript branch_ **(1 month ago)**
@@ -23,24 +23,24 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Revert "Update record for api.terra.hackclub.com (#3962)"**](https://github.com/hackclub/dns/pull/4000) on [`dns`](https://github.com/hackclub/dns) **(today)**
-- [**Update record for api.terra.hackclub.com**](https://github.com/hackclub/dns/pull/3962) on [`dns`](https://github.com/hackclub/dns) **(6 days ago)**
+- [**Revert "Update record for api.terra.hackclub.com (#3962)"**](https://github.com/hackclub/dns/pull/4000) on [`dns`](https://github.com/hackclub/dns) **(1 day ago)**
+- [**Update record for api.terra.hackclub.com**](https://github.com/hackclub/dns/pull/3962) on [`dns`](https://github.com/hackclub/dns) **(1 week ago)**
 - [**Admin API improvements**](https://github.com/hackclub/hackatime/pull/1779) on [`hackatime`](https://github.com/hackclub/hackatime) **(2 weeks ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-HTML             1h 50m 12s   ████████████░░░░░░░░░░░░░  46.69%
-TypeScript       54m 29s      ██████░░░░░░░░░░░░░░░░░░░  23.08%
-JSON             18m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.69%
-Shell            15m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.72%
-Markdown         12m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.08%
+HTML             1h 50m 12s   ████████████░░░░░░░░░░░░░  46.10%
+TypeScript       55m 31s      ██████░░░░░░░░░░░░░░░░░░░  23.22%
+JSON             20m 9s       ███░░░░░░░░░░░░░░░░░░░░░░  8.43%
+Shell            15m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.63%
+Markdown         12m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.02%
 
 💼 Projects:
-drydock          2h 28m 7s    ███████████████████░░░░░░  73.71%
-dot-dot-dot      22m 46s      ███░░░░░░░░░░░░░░░░░░░░░░  11.33%
-terra            15m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.62%
-the-great-list   14m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.34%
+drydock          2h 28m 7s    ███████████████████░░░░░░  73.33%
+dot-dot-dot      22m 46s      ███░░░░░░░░░░░░░░░░░░░░░░  11.27%
+terra            16m 21s      ███░░░░░░░░░░░░░░░░░░░░░░  8.09%
+the-great-list   14m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.30%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
