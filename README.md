@@ -4,8 +4,8 @@ A student who likes coding and gaming!
 
 #### 🏗️ What I've been working on
 
-- [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(1 day ago)**
-- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(4 days ago)**
+- [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(2 days ago)**
+- [`otter`](https://github.com/ImShyMike/otter) - _Search engine for all Hack Club projects!_ **(5 days ago)**
 - [`claude-hours`](https://github.com/ImShyMike/claude-hours) - _agentic hour tracking™_ **(1 week ago)**
 - [`hackatime`](https://github.com/hackclub/hackatime) - _Free, open source, WakaTime-compatible coding time tracker_ **(2 weeks ago)**
 - [`nephthys-plus`](https://github.com/hackclub/nephthys-plus) - _Nephthys built for the community at large_ **(1 month ago)**
@@ -23,23 +23,23 @@ A student who likes coding and gaming!
 
 #### 🔨 My recent pull requests
 
-- [**Revert "Update record for api.terra.hackclub.com (#3962)"**](https://github.com/hackclub/dns/pull/4000) on [`dns`](https://github.com/hackclub/dns) **(1 day ago)**
+- [**Revert "Update record for api.terra.hackclub.com (#3962)"**](https://github.com/hackclub/dns/pull/4000) on [`dns`](https://github.com/hackclub/dns) **(2 days ago)**
 - [**Update record for api.terra.hackclub.com**](https://github.com/hackclub/dns/pull/3962) on [`dns`](https://github.com/hackclub/dns) **(1 week ago)**
 - [**Admin API improvements**](https://github.com/hackclub/hackatime/pull/1779) on [`hackatime`](https://github.com/hackclub/hackatime) **(2 weeks ago)**
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-HTML             1h 50m 12s   ██████████████░░░░░░░░░░░  52.46%
-TypeScript       51m 11s      ███████░░░░░░░░░░░░░░░░░░  24.37%
-JSON             18m 9s       ███░░░░░░░░░░░░░░░░░░░░░░  8.64%
-Svelte           11m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.67%
-Markdown         8m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.81%
+HTML             1h 50m 12s   ██████████████░░░░░░░░░░░  53.66%
+TypeScript       48m 31s      ██████░░░░░░░░░░░░░░░░░░░  23.62%
+JSON             18m 9s       ███░░░░░░░░░░░░░░░░░░░░░░  8.84%
+Svelte           11m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.79%
+Markdown         6m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.92%
 
 💼 Projects:
-drydock          2h 28m 7s    ██████████████████████░░░  84.69%
-the-great-list   14m 45s      ███░░░░░░░░░░░░░░░░░░░░░░  8.43%
-terra            12m 1s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.87%
+drydock          2h 28m 7s    ██████████████████████░░░  86.01%
+the-great-list   14m 45s      ███░░░░░░░░░░░░░░░░░░░░░░  8.56%
+terra            9m 21s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.43%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
