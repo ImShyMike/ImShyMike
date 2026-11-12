@@ -30,16 +30,17 @@ A student who likes coding and gaming!
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 ```text
 💾 Languages:
-HTML             1h 50m 12s   ██████████████░░░░░░░░░░░  53.66%
-TypeScript       48m 31s      ██████░░░░░░░░░░░░░░░░░░░  23.62%
-JSON             18m 9s       ███░░░░░░░░░░░░░░░░░░░░░░  8.84%
-Svelte           11m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.79%
-Markdown         6m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.92%
+HTML             1h 50m 12s   ███████████░░░░░░░░░░░░░░  43.71%
+TypeScript       1h 6m 19s    ███████░░░░░░░░░░░░░░░░░░  26.31%
+JSON             34m 10s      ████░░░░░░░░░░░░░░░░░░░░░  13.55%
+unknown          12m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.12%
+Svelte           11m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.72%
 
 💼 Projects:
-drydock          2h 28m 7s    ██████████████████████░░░  86.01%
-the-great-list   14m 45s      ███░░░░░░░░░░░░░░░░░░░░░░  8.56%
-terra            9m 21s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.43%
+drydock          2h 28m 7s    ████████████████████░░░░░  76.18%
+poc              22m 13s      ███░░░░░░░░░░░░░░░░░░░░░░  11.43%
+the-great-list   14m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.59%
+terra            9m 21s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.81%
 ```
 #### 💻 My coding activity
 <a href="https://heatmap.shymike.dev?id=263&labels=true&standalone=true" title="Click to view detailed data for each day!">
