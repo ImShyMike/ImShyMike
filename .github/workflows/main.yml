@@ -2,20 +2,27 @@ name: Update README
 
 on:
   push:
+    branches: [main]
   schedule:
-    - cron: "0 */1 * * *"
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   markscribe:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@master
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
 
-      - uses: 'actions-go/go-install@main'
+      - uses: actions-go/go-install@main
         id: install
         with:
-          module: "github.com/taciturnaxolotl/markscribe@HEAD"
+          module: github.com/taciturnaxolotl/markscribe@HEAD
 
       - name: generate readme
         env:
@@ -24,12 +31,20 @@ jobs:
           WAKATIME_URL: ${{ secrets.WAKATIME_URL }}
         run: ${{ steps.install.outputs.install-path }} -write README.md github.tpl
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - name: commit
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          commit_message: Update generated README
-          branch: main
-          commit_user_name: readme-scribe 🤖
-          commit_user_email: actions@github.com
-          commit_author: readme-scribe 🤖 <actions@github.com>
+          BOT_NAME: github-actions[bot]
+          BOT_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+        run: |
+          git config user.name "$BOT_NAME"
+          git config user.email "$BOT_EMAIL"
+          git add README.md
+          git diff --cached --quiet && exit 0
+
+          if [ "$(git log -1 --format=%ae)" = "$BOT_EMAIL" ]; then
+            git commit --amend --no-edit --reset-author
+            git push --force-with-lease origin HEAD:main
+          else
+            git commit -m "Update generated README"
+            git push origin HEAD:main
+          fi
